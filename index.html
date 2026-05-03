@@ -1425,8 +1425,9 @@
        ═══════════════════════════════════════════════════════════ */
     @media (max-width: 768px) {
 
-      /* ── Header: stack vertically ── */
+      /* ── Header: stack vertically and unstick to save space ── */
       .header {
+        position: relative;
         flex-wrap: wrap;
         height: auto;
         padding: 0.75rem 1rem;
@@ -1457,8 +1458,9 @@
         left: 9px;
       }
 
-      /* ── Controls: horizontal scroll instead of wrapping ── */
+      /* ── Controls: horizontal scroll and stick to top ── */
       .controls {
+        top: 0;
         padding: 0.5rem 1rem;
         flex-wrap: nowrap;
         overflow-x: auto;
@@ -1518,10 +1520,8 @@
         grid-template-columns: repeat(3, 1fr);
       }
 
-      /* ── Film cards: show overlay on touch ── */
+      /* ── Film cards ── */
       .film-card__overlay {
-        opacity: 1;
-        background: linear-gradient(to top, rgba(7, 11, 25, 0.9) 0%, transparent 60%);
         padding: 0.5rem;
       }
 
@@ -1844,13 +1844,7 @@
        TOUCH DEVICE HINTS
        ═══════════════════════════════════════════════════════════ */
     @media (hover: none) and (pointer: coarse) {
-
-      /* On touch devices, always show card info overlay */
-      .film-card__overlay {
-        opacity: 1;
-        background: linear-gradient(to top, rgba(7, 11, 25, 0.85) 0%, transparent 55%);
-      }
-
+      /* On touch devices, just show the rating badge to keep posters clean */
       .film-card__badge {
         opacity: 1;
       }
