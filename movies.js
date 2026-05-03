@@ -32656,5 +32656,3344 @@ const MOVIES = [
       fullReview: "The confidence required to open a film with your con artist protagonist charming a television game show panel into believing he is an authority on three separate professions simultaneously — all within the first ten minutes — is the same confidence that sustains Catch Me If You Can for most of its two-and-a-half-hour runtime. It is a film that knows exactly what it is, commits to it entirely, and delivers it with the kind of effortless velocity that only a director working at complete ease with his own craft can manage.\n\nFrank Abagnale Jr. is nineteen years old and has already successfully impersonated a Pan Am pilot, a pediatric physician, and an attorney general — all before the FBI agent assigned to catch him has even worked out which city he fled to last. Based on the life story of the real Abagnale, Jeff Nathanson\'s screenplay traces Frank\'s increasingly elaborate escapes across the American landscape of the 1960s, pursued at every turn by the dogged, perpetually humiliated Carl Hanratty of the FBI. The film is structured as a chase, but its emotional architecture is something quieter and more specific: a portrait of a boy who learned to pretend so thoroughly that the pretending became the only honest thing about him.\n\nLeonardo DiCaprio was twenty-seven at the time and already past his period of being underestimated. What he does here is subtler than the bravura performances that bookend his career. Frank Abagnale Jr. works because DiCaprio plays him not as a natural schemer but as someone who discovered, almost by accident, that charm is a kind of armor — and found that wearing it felt better than whatever was underneath. There is a specific quality in his eyes during the film\'s early con sequences: pure, almost childish delight, the look of someone who cannot believe the world is this easy to fool. It is a performance built on lightness, which makes its occasional moments of weight land harder.\n\nTom Hanks plays Carl Hanratty as a man assembled from function: he eats badly, works compulsively, has no apparent life outside the pursuit of this particular fugitive. It is a more one-note role than DiCaprio\'s, and Hanks is occasionally too comfortable in its wooliness — a little too easy to mistake for charm when the screenplay wants us to sense something lonelier underneath. But the dynamic between the two men, which the film quietly reframes as something approaching mutual dependency, is genuine and interesting, and their late-film scenes together have a strange, unearned warmth that somehow Spielberg makes feel earned anyway.\n\nChristopher Walken, as Frank\'s father, is doing something more restrained than his reputation would suggest. The elder Abagnale is the film\'s emotional engine — a small man in love with an idea of himself that the world refused to validate — and Walken plays him with an aching specificity that makes every scene between him and DiCaprio the film\'s most emotionally honest. The two scenes they share toward the end of the film are, without exaggeration, the reason to watch this particular version of this particular story.\n\nJanusz Kamiński shoots the whole thing in the warm, slightly overexposed palette of early-sixties nostalgia — all amber airport terminals and sun-bleached motel rooms and the particular blue of a Pan Am uniform against a July sky. John Williams supplies a score that is more jazz-inflected than anything he had done at that point, all muted trumpet and walking bass, and it suits the film\'s playful self-assurance perfectly. The opening title sequence, designed by Florence Deygas and Olivier Kuntzel, is one of the better animated sequences of its era — kinetic, witty, and exactly the right temperature for what follows.\n\nThe film runs long. At one hundred and forty-one minutes, there is a mid-section where the cat-and-mouse repetition begins to feel genuinely repetitive rather than pleasurably cyclical, and the film\'s final act — which has real emotional ambitions it does not quite land — slightly deflates what came before. Amy Adams does thoughtful work in an underwritten role, and the film never quite decides whether to take her seriously or use her as set dressing for a particularly poignant con. These are real problems, but they are problems of a confident film with too much rather than too little.\n\nWhat Catch Me If You Can ultimately does, with considerable skill, is argue that the desire to become someone else is not pathology but grief — that Frank Abagnale\'s entire career as an impersonator is an extended, increasingly desperate response to one particular loss. Whether it convinces the audience of this depends partly on how much they\'re willing to extend sympathy to a man whose crimes are real even if his charm is irresistible. Spielberg bets everything on the charm, and he wins, though the bet is closer than it looks."
     }
   },
-
+  {
+    id: "the-incredibles-2004",
+    title: "The Incredibles",
+    originalTitle: null,
+    romanization: null,
+    year: 2004,
+    tagline: "Expect the incredible.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/3HPRaJU7yuBsG13wFrW3Znxo5R0.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=sZwWCrFNfzQ",
+    director: [
+      {
+        name: "Brad Bird",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z73rItPBDoRUowY5kuWDMlue3DB.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Brad Bird",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z73rItPBDoRUowY5kuWDMlue3DB.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Craig T. Nelson",
+        role: "Bob Parr / Mr. Incredible (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+      },
+      {
+        actor: "Holly Hunter",
+        role: "Helen Parr / Elastigirl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+      },
+      {
+        actor: "Sarah Vowell",
+        role: "Violet Parr (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dP1hMYTk2q4voIUxtgmvD81nMty.jpg"
+      },
+      {
+        actor: "Spencer Fox",
+        role: "Dashiell 'Dash' Parr (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vMyWK5qZWEG0GZh4FXCDXx4Jqfm.jpg"
+      },
+      {
+        actor: "Jason Lee",
+        role: "Buddy Pine / Syndrome (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/64tEXo3xR9IFXsIJKSlJ2LUrrEA.jpg"
+      },
+      {
+        actor: "Samuel L. Jackson",
+        role: "Lucius Best / Frozone (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+      },
+      {
+        actor: "Elizabeth Peña",
+        role: "Mirage (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cTt48lhoevdMtiyXn92CTDHebe2.jpg"
+      },
+      {
+        actor: "Eli Fucile",
+        role: "Jack-Jack Parr (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pcNfD0mIB9KrQMaXP0rN82VbiHY.jpg"
+      },
+      {
+        actor: "Brad Bird",
+        role: "Edna 'E' Mode (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z73rItPBDoRUowY5kuWDMlue3DB.jpg"
+      },
+      {
+        actor: "Dominique Louis",
+        role: "Bomb Voyage (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4xoJ7IZItBGtRojjK2uVqic7FE3.jpg"
+      },
+      {
+        actor: "Teddy Newton",
+        role: "Newsreel Narrator (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mUFJqwDSjafLmacLSjoTFx74XiA.jpg"
+      },
+      {
+        actor: "Jean Sincere",
+        role: "Mrs. Hogenson (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pWngIDQmgUPZQ7NxrrSssQI8dqp.jpg"
+      },
+      {
+        actor: "Wallace Shawn",
+        role: "Gilbert Huph (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+      },
+      {
+        actor: "Lou Romano",
+        role: "Bernie Kropp (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1qOuqRzlp5BghzTkYSN3MsaEXgF.jpg"
+      },
+      {
+        actor: "Michael Bird",
+        role: "Tony Rydinger (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/noR9ttzwjSIISRTjC1KIVbbzMDD.jpg"
+      },
+      {
+        actor: "Bud Luckey",
+        role: "Rick Dicker (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/csLjHwg7x1OFTiHjJAPpqNjjDiH.jpg"
+      },
+      {
+        actor: "Bret Parker",
+        role: "Kari (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gGjVAlMsdEVti2StoS4FZRaw2Xf.jpg"
+      },
+      {
+        actor: "Kimberly Adair Clark",
+        role: "Honey (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r7TCNIAjTwdCrFvPBSvYTgPOkXA.jpg"
+      },
+      {
+        actor: "John Ratzenberger",
+        role: "Underminer (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+      },
+      {
+        actor: "Mark Andrews",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1z6t4TK2ZehNZ5gwaN7893aNhJf.jpg"
+      },
+      {
+        actor: "Nicholas Bird",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3Q9j2bOlFjrRy6JEiJZS2a2kKPL.jpg"
+      },
+      {
+        actor: "Pete Docter",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vITDphkNpSn1LP5gUEheAnlclnl.jpg"
+      },
+      {
+        actor: "Louis Gonzales",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/58IsdAjs75hdOd3POOjUaJUOyvE.jpg"
+      },
+      {
+        actor: "Ollie Johnston",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7LShcoYbJg7vfXV2lSjzTlGAGb.jpg"
+      },
+      {
+        actor: "Peter Sohn",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8cQGViF2lXlcsAIvFUMWboXYXIu.jpg"
+      },
+      {
+        actor: "Bob Peterson",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg"
+      },
+      {
+        actor: "Jeff Pidgeon",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg"
+      },
+      {
+        actor: "Joe Ranft",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg"
+      },
+      {
+        actor: "Stephen Schaffer",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hdQur0AeJk8aE8wpPL7GParGe50.jpg"
+      },
+      {
+        actor: "Pamela Gaye Walker",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Td3DQkmhVaonb5ejTHJ3qOQcxQ.jpg"
+      },
+      {
+        actor: "Deirdre Warin",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ezZ8mg2J3NaAdYFeLGonFCQgXuG.jpg"
+      },
+      {
+        actor: "Andrew Stanton",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fo6ePCWEVB0L1sccrvB99Iaoqcg.jpg"
+      }
+    ],
+    languages: ["English", "French"],
+    genres: ["Action", "Animation", "Comedy", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "cartoon action violence and chase sequences",
+        "characters placed in life-threatening peril including children",
+        "implied deaths of off-screen characters",
+        "brief depiction of marital tension and emotional withdrawal",
+        "mild comic menace from antagonist"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:55" }
+    ],
+    awards: [
+      { body: "Academy Awards (77th)", category: "Best Animated Feature Film", result: "Won", year: 2005 },
+      { body: "Academy Awards (77th)", category: "Best Sound Editing", result: "Won", year: 2005 },
+      { body: "BAFTA Film Awards (58th)", category: "Best Animated Film", result: "Won", year: 2005 },
+      { body: "Annie Awards (32nd)", category: "Outstanding Achievement for an Animated Feature Production", result: "Won", year: 2005 },
+      { body: "Annie Awards (32nd)", category: "Outstanding Achievement for Music in an Animated Feature Production", result: "Won", year: 2005 },
+      { body: "Annie Awards (32nd)", category: "Outstanding Achievement for Writing in an Animated Feature Production", result: "Won", year: 2005 },
+      { body: "Saturn Awards (31st)", category: "Best Animated Film", result: "Won", year: 2005 },
+      { body: "Golden Globe Awards (62nd)", category: "Best Animated Feature Film", result: "Nominated", year: 2005 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["exceptionalism", "suppression", "conformity", "domesticity", "nostalgia", "identity", "resentment", "sacrifice"],
+      mood: ["electric", "warm", "wry"],
+      fullReview: "Bob Parr used to save the world. Now he approves insurance claims in a cubicle that barely fits his enormous frame, listening to his supervisor explain, very carefully, why the company cannot be in the business of actually helping people. The Incredibles opens in the recent past, when superheroes were vivid and their world crackled with newsreel glamour, then cuts fifteen years forward into something recognizable and quietly devastating — the slow suffocation of a life lived below one\'s capacity. When a mysterious commission pulls Bob back toward action, what follows is a superhero film that earns every bit of the genre machinery it deploys, because the people inside the costumes have been built with the patience usually reserved for drama.\n\nBrad Bird wrote and directed this film, and the screenplay is doing several things simultaneously that most animated features would not dare attempt even one of. On the surface, it\'s an adventure story with a propulsive second half that clips along with real kineticism. Underneath, it\'s a portrait of a marriage under strain — two people who fell in love during their most extraordinary years now negotiating who they are in ordinary ones. Craig T. Nelson and Holly Hunter voice Bob and Helen with a lived-in texture that goes far beyond the requirements of the genre. Their arguments feel like the continuation of arguments that started long before the film did. Hunter in particular is doing something extraordinary: Helen Parr is competent, slightly exasperated, emotionally present, and occasionally furious, and the film never asks the audience to find her weariness charming — it simply asks them to understand it.\n\nThe villain\'s core grievance — that exceptionalism is a form of cruelty to everyone who isn\'t exceptional — is presented with enough sincerity that it refuses to be dismissed. Syndrome is wrong, and his methods are monstrous, but the ideology he carries is one that the film takes seriously enough to argue against rather than simply mock. That willingness to engage with an uncomfortable idea gives the story a sharpness that most family entertainment papers over.\n\nMichael Giacchino\'s score deserves attention precisely because it refuses to sound like what it surrounds. Where the era\'s animated films often reached for sweeping orchestral warmth, Giacchino built something leaner and stranger — a brass-heavy, rhythm-driven sound rooted in 1960s spy cinema that makes the film feel uniquely itself. The score does not explain the emotions onscreen. It runs alongside them, which is a significantly more sophisticated choice.\n\nThe retro-futurist design — the mid-century suburban architecture, the Googie-inflected island fortress, the jet-age costumes that Edna Mode rants about with the authority of someone who genuinely has opinions — creates a world that feels coherent and specific. Edna Mode, voiced by Bird himself, is one of the great comic creations in modern animation: all cruelty and aesthetic conviction, delivering lines with the timing of someone who has never once been wrong about anything.\n\nThe film\'s one structural imbalance is that its final act leans heavily into spectacle at the expense of the intimacy that makes the first two-thirds so effective. Once the family is fighting together on an urban street, the emotional stakes flatten somewhat into action choreography — accomplished action choreography, but action choreography nonetheless. The film never loses itself entirely, but it becomes a slightly different film in its closing stretch, one more interested in how things look than in how they feel.\n\nWhat it does with the question of raising children who are different from their peers is treated with more honesty than is typical for the genre it nominally belongs to. Violet\'s adolescent anguish — the desire to disappear, the catastrophe of being seen — is not played for laughs. Dash\'s frustration at being prevented from excelling is not resolved with a simple lesson. The film allows that the problem of exceptional children in a world that enforces mediocrity has no clean solution, only the ongoing negotiation of who to be in which context.\n\nNearly two decades later, The Incredibles has not aged in the ways that tend to date animation. The story it tells is not contingent on contemporary reference or trend. It is, at its core, about the particular grief of living less fully than one is capable of — a feeling that belongs to no single era. That it delivers this wrapped in a genuinely exciting adventure, with performances that hold, and a score that still sounds like nothing else, makes it one of the most achieved films that Pixar has produced. Not flawless, but close enough that the flaws feel like interesting choices rather than failures."
+    }
+  },
+  {
+    id: "incredibles-2-2018",
+    title: "Incredibles 2",
+    originalTitle: null,
+    romanization: null,
+    year: 2018,
+    tagline: "It's been too long, dahlings.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/bSpfp345TH0K6Sigo7MmoeG4fi9.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=YBpdL9hSac4",
+    director: [
+      {
+        name: "Brad Bird",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z73rItPBDoRUowY5kuWDMlue3DB.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Brad Bird",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z73rItPBDoRUowY5kuWDMlue3DB.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Craig T. Nelson",
+        role: "Bob Parr / Mr. Incredible (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rMh8qdexFKmc7mq7oLzsLLvCCjs.jpg"
+      },
+      {
+        actor: "Holly Hunter",
+        role: "Helen Parr / Elastigirl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kC7KX03VAWvogOCuwKbMo4V6TuU.jpg"
+      },
+      {
+        actor: "Sarah Vowell",
+        role: "Violet Parr (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dP1hMYTk2q4voIUxtgmvD81nMty.jpg"
+      },
+      {
+        actor: "Huck Milner",
+        role: "Dashiell 'Dash' Parr (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/OnucCCKkO0tmBDfH6uDEoeThAb.jpg"
+      },
+      {
+        actor: "Catherine Keener",
+        role: "Evelyn Deavor (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+      },
+      {
+        actor: "Eli Fucile",
+        role: "Jack-Jack Parr (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pcNfD0mIB9KrQMaXP0rN82VbiHY.jpg"
+      },
+      {
+        actor: "Bob Odenkirk",
+        role: "Winston Deavor (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+      },
+      {
+        actor: "Samuel L. Jackson",
+        role: "Lucius Best / Frozone (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+      },
+      {
+        actor: "Michael Bird",
+        role: "Tony Rydinger (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/noR9ttzwjSIISRTjC1KIVbbzMDD.jpg"
+      },
+      {
+        actor: "Sophia Bush",
+        role: "Voyd (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qG326QqyYmniKnmCVCnRPKQ8eFI.jpg"
+      },
+      {
+        actor: "Brad Bird",
+        role: "Edna 'E' Mode / Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z73rItPBDoRUowY5kuWDMlue3DB.jpg"
+      },
+      {
+        actor: "Phil LaMarr",
+        role: "Krushauer / Helectrix / Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+      },
+      {
+        actor: "Isabella Rossellini",
+        role: "Ambassador (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+      },
+      {
+        actor: "Jonathan Banks",
+        role: "Rick Dicker (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+      },
+      {
+        actor: "John Ratzenberger",
+        role: "Underminer (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+      },
+      {
+        actor: "Nicholas Bird",
+        role: "Monster Jack-Jack Parr (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3Q9j2bOlFjrRy6JEiJZS2a2kKPL.jpg"
+      },
+      {
+        actor: "Paul Eiding",
+        role: "Reflux / Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+      },
+      {
+        actor: "Barry Bostwick",
+        role: "Mayor (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z2jlL5g5PMxelSHMXFF03fTSsLl.jpg"
+      },
+      {
+        actor: "Jere Burns",
+        role: "Detective (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nAWNCtD4DDOIAR63zVA4XZ4C8eg.jpg"
+      },
+      {
+        actor: "Adam Rodriguez",
+        role: "Detective (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg"
+      },
+      {
+        actor: "Kimberly Adair Clark",
+        role: "Honey (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r7TCNIAjTwdCrFvPBSvYTgPOkXA.jpg"
+      },
+      {
+        actor: "Stephen Apostolina",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lzArKp0G0PNYQ3VrTHFzEigK63e.jpg"
+      },
+      {
+        actor: "Robin Atkin Downes",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"
+      },
+      {
+        actor: "Kimberly Bailey",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6es4CpmmlA7j6VCxpVvlSTfvi76.jpg"
+      },
+      {
+        actor: "Sola Bamis",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7hr47LMyBPHSmrGF8INNJMlqeYR.jpg"
+      },
+      {
+        actor: "Steve Blum",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+      },
+      {
+        actor: "Cathy Cavadini",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
+      },
+      {
+        actor: "June Christopher",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2qKwPPLiDcpz0W3BxdCXOCZWLSi.jpg"
+      },
+      {
+        actor: "Robert Clotworthy",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k715IYJwMEW19atR3kNzUuFH1o8.jpg"
+      },
+      {
+        actor: "David Cowgill",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A3OFXT1LRCzIjvV7VXe4SDTg5U.jpg"
+      },
+      {
+        actor: "Wendy Cutler",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uUVOCFgkyJxZpQKDqrFAxJyiedc.jpg"
+      },
+      {
+        actor: "Rebecca Davis",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8RgEfoNMI4ZJJFLmMEdZTq1Tnum.jpg"
+      },
+      {
+        actor: "Debi Derryberry",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg"
+      },
+      {
+        actor: "Terri Douglas",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6yRCc5oKalchZuRvVJJbEDNmLEd.jpg"
+      },
+      {
+        actor: "Greg Dykstra",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xnGnvlzaDFHYQSGpaN93R3eCLpp.jpg"
+      },
+      {
+        actor: "Dave Fennoy",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1azEou77GcmST8hYJmV30PhAyO6.jpg"
+      },
+      {
+        actor: "Jennifer Crystal Foley",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vPG5xITV0lbeAgLIm8bJKn9ApRA.jpg"
+      },
+      {
+        actor: "Eddie Frierson",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sBU1xhSxlnStueCWFD8x8fIRnYD.jpg"
+      },
+      {
+        actor: "Jean Gilpin",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8NRvEevVGpG0y5gSb7SvBMiUfur.jpg"
+      },
+      {
+        actor: "Jackie Gonneau",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kyFKdgHfT3JizvqmC0eFksSijIG.jpg"
+      },
+      {
+        actor: "Karen Huie",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aJfKOnA80bfgLEh9oacjdGIq6Or.jpg"
+      },
+      {
+        actor: "Andrew Kishino",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dnQ6GYWWfogRnzapjzz7qgi5wPe.jpg"
+      },
+      {
+        actor: "Jeff Lapensee",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hXCk1ZUUOxVMrEdCFqQtnxYB9o4.jpg"
+      },
+      {
+        actor: "Patricia Lentz",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pmvKF32sInRUkrgLLMW7WLAg8sG.jpg"
+      },
+      {
+        actor: "Marcella Lentz-Pope",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vSzzdPYyGtZGj4RqKsDGdXZN6E0.jpg"
+      },
+      {
+        actor: "A.J. LoCascio",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pHycR75zn1mnGzDTEbxwXj1728P.jpg"
+      },
+      {
+        actor: "Yuri Lowenthal",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+      },
+      {
+        actor: "Scott Menville",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iLoApH8LbyJSKFmdgWxNR314GGa.jpg"
+      },
+      {
+        actor: "Piotr Michael",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A1ph4jVLA1sQmpYOSZ3X0DdQvQs.jpg"
+      },
+      {
+        actor: "Melanie Minichino",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/avh6oLRCYxd8tjnbdSnd7Nqfcvk.jpg"
+      },
+      {
+        actor: "Max Mittelman",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zQqiIgestpxssPrUXQXkY2Sq0y8.jpg"
+      },
+      {
+        actor: "Teddy Newton",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mUFJqwDSjafLmacLSjoTFx74XiA.jpg"
+      },
+      {
+        actor: "Jonathan Nichols-Navarro",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fbX4KkFBhKjDsvlsMUrsJO5tBka.jpg"
+      },
+      {
+        actor: "Paul Pape",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7lBHhavJ6wpLoMl9FybfLzKzVQy.jpg"
+      },
+      {
+        actor: "Jacqueline Pinol",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cqGFRdObF3UkMc3aTTA8fYSHQez.jpg"
+      },
+      {
+        actor: "Michael Ralph",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nPIUFKUHlSUvQ9NtkktRMmIdNaJ.jpg"
+      },
+      {
+        actor: "Usher",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5LGTj79RPTJdBD19E30HtItbx5y.jpg"
+      },
+      {
+        actor: "Dennis Singletary",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rlUQcql7XFfIWBNccKvIW0WnIPW.jpg"
+      },
+      {
+        actor: "Alyson Stoner",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oIjU19kaJv2laaYnAHemghHfyPh.jpg"
+      },
+      {
+        actor: "Pepper Sweeney",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q9odNfoZDoYmsya7rKZwJNlCVud.jpg"
+      },
+      {
+        actor: "Shane Sweet",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3fVAoIbfMO2XKtMsIOVpo5fkXVq.jpg"
+      },
+      {
+        actor: "Fred Tatasciore",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7pxLvE4l5mQkGzHLIEwYrc9AMFe.jpg"
+      },
+      {
+        actor: "Toya Turner",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u7TE9O2B6I2izPI8BxeWoum38Gr.jpg"
+      },
+      {
+        actor: "Diamond White",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tyuArlhNIl0WvhefEBXqM6Na7Mj.jpg"
+      },
+      {
+        actor: "Scott Whyte",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cTsWZRSgWtkitBMwpikTr11kdYC.jpg"
+      },
+      {
+        actor: "Wally Wingert",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5B9STa1OwelvyUs37SWUIFzhIhB.jpg"
+      },
+      {
+        actor: "Matthew Wood",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
+      },
+      {
+        actor: "Joe Zieja",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/htS8KWXwXaWTrpTjh8o5N8e72ZF.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Action", "Animation", "Comedy", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "cartoon action violence including high-speed chases and property destruction",
+        "extended flashing strobe light sequences posing risk to photosensitive viewers",
+        "characters placed in life-threatening peril",
+        "mild comic menace from a mind-controlling antagonist",
+        "brief depiction of parental frustration and domestic overwhelm"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:58" }
+    ],
+    awards: [
+      { body: "Annie Awards (46th)", category: "Outstanding Achievement for Animated Feature Production", result: "Won", year: 2019 },
+      { body: "Academy Awards (91st)", category: "Best Animated Feature Film", result: "Nominated", year: 2019 },
+      { body: "Golden Globe Awards (76th)", category: "Best Animated Feature Film", result: "Nominated", year: 2019 },
+      { body: "Saturn Awards (45th)", category: "Best Animated Film", result: "Nominated", year: 2019 }
+    ],
+    criticRating: "Solid",
+    review: {
+      themes: ["visibility", "domesticity", "reversal", "manipulation", "surveillance", "parenthood", "advocacy", "competence"],
+      mood: ["warm", "restless", "wry"],
+      fullReview: "Incredibles 2 picks up exactly where its predecessor left the Parr family — masks on, the Underminer mid-rampage, the city crumbling around them. There is no nostalgic prelude, no catching up. Brad Bird trusts that fourteen years of goodwill have done the work, and for the film\'s first twenty minutes, that trust feels justified. Then the plot kicks in, and it becomes clear that this is a film running on fumes that have been carefully, professionally bottled.\n\nThe central structural move is a clean inversion: Helen goes back into the field as the public face of a superhero rehabilitation campaign funded by a tech billionaire with suspiciously abundant enthusiasm, while Bob stays home with three children and discovers that modern math homework is incomprehensible and infants contain multitudes. The reversal is smart on paper, and Holly Hunter seizes it. Her Elastigirl sequences — a motorbike chase through a city, a runaway monorail — are kinetically confident and serve as the film\'s genuine highlights, showcasing what Pixar\'s animation capabilities had become in the intervening decade. Every surface has texture. Elastigirl moves through space like a body that has never once forgotten it can stretch.\n\nBut the film is far less interested in Helen than it is in Jack-Jack, the baby, who is discovering his powers in ways that are chaotic and frequently hilarious. The Jack-Jack material is the film at its most inventive and least burdened — a sequence involving a raccoon operates almost as a short film unto itself, and the chemistry between Jack-Jack and Edna Mode generates more genuine delight than anything in the main plot. Brad Bird voices Edna again with the same imperial impatience, and the character remains one of animated cinema\'s great comic creations. But when the film keeps cutting back to her and the baby while the actual story idles, it becomes clear what the actual story is worth.\n\nThe villain is the film\'s central problem. The identity is telegraphed so early and so broadly that viewers with modest genre literacy will have solved it before the first act closes, which means the second half of the film asks audiences to watch characters they like being fooled by something the audience already understands. The screenplay does not seem aware of how transparent the setup is, or does not care — either way, the dramatic tension that the original film maintained until its final sequences never materialises here. The antagonist\'s ideology, about the corrosive passivity that superheroes create in the public, is an interesting idea given perhaps two scenes before being buried under action choreography.\n\nCraig T. Nelson is doing patient, committed work as a Bob Parr who is genuinely humbled by the ordinary difficulty of childcare, and the film is at its warmest in his smaller domestic moments — the exhausted late-night conversation with a lovestruck Violet, the panicked call to Edna. These scenes suggest a more intimate film that existed in earlier drafts. What remains is pleasant enough, competently constructed, and never remotely unpleasant to watch. Michael Giacchino\'s score maintains the period-spy register of the original with the same skilled pleasure.\n\nThe honest assessment is this: Incredibles 2 is a film that does what sequels are expected to do, no more. It gives audiences the characters they missed, the visual pleasures they remember, and enough incident to fill nearly two hours without ever demanding anything of them. The original asked its audience to sit with the melancholy of diminished lives. This one asks them to enjoy the ride. Both requests are legitimate. Only one of them produces a film worth remembering."
+    }
+  },
+  {
+    id: "up-2009",
+    title: "Up",
+    originalTitle: null,
+    romanization: null,
+    year: 2009,
+    tagline: "Change is in the air.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/xi23eSwoibr5XeuZWBkTIBcA8O2.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ORFWdXl_zJ4",
+    director: [
+      {
+        name: "Pete Docter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vITDphkNpSn1LP5gUEheAnlclnl.jpg"
+      },
+      {
+        name: "Bob Peterson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Pete Docter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vITDphkNpSn1LP5gUEheAnlclnl.jpg"
+      },
+      {
+        name: "Bob Peterson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ed Asner",
+        role: "Carl Fredricksen (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i9Akq9tqNwgcAc63QaSaiTYZtUB.jpg"
+      },
+      {
+        actor: "Christopher Plummer",
+        role: "Muntz (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u0YBwss0ebEUp8sjRtQKnK2wZdR.jpg"
+      },
+      {
+        actor: "Jordan Nagai",
+        role: "Russell (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j1kVS2sI3wWIHCCzzYD1buXAP9e.jpg"
+      },
+      {
+        actor: "Bob Peterson",
+        role: "Dug / Alpha (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg"
+      },
+      {
+        actor: "Delroy Lindo",
+        role: "Beta (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+      },
+      {
+        actor: "Jerome Ranft",
+        role: "Gamma (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/76XFeM9FdbGkd0mxkEMstQu6na2.jpg"
+      },
+      {
+        actor: "John Ratzenberger",
+        role: "Construction Foreman Tom (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+      },
+      {
+        actor: "David Kaye",
+        role: "Newsreel Announcer (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+      },
+      {
+        actor: "Elie Docter",
+        role: "Young Ellie (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zTOUIqYx0ip4XaYcbTaxCxVY2Xf.jpg"
+      },
+      {
+        actor: "Jeremy Leary",
+        role: "Young Carl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yYBprLIwXLt1stCGmrPTYLaiZyW.jpg"
+      },
+      {
+        actor: "Mickie McGowan",
+        role: "Police Officer Edith (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4K1HF10EvDjdaIoDAnWqFZjnmvk.jpg"
+      },
+      {
+        actor: "Danny Mann",
+        role: "Construction Worker Steve (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/980QYqXIZCMn5Knx0vjROkw9vKo.jpg"
+      },
+      {
+        actor: "Donald Fullilove",
+        role: "Nurse George (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b1UESEs3V0ZdquOg1upLeu3R7zz.jpg"
+      },
+      {
+        actor: "Jess Harnell",
+        role: "Nurse AJ (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg"
+      },
+      {
+        actor: "Josh Cooley",
+        role: "Omega (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eGN0vaFmKtqHu1nFi3Lv4roQ6P2.jpg"
+      },
+      {
+        actor: "Pete Docter",
+        role: "Campmaster Strauch (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vITDphkNpSn1LP5gUEheAnlclnl.jpg"
+      },
+      {
+        actor: "Mark Andrews",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1z6t4TK2ZehNZ5gwaN7893aNhJf.jpg"
+      },
+      {
+        actor: "Bob Bergen",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+      },
+      {
+        actor: "Brenda Chapman",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dmtrKylL2Ix6h5lKGjwaSgEZFy9.jpg"
+      },
+      {
+        actor: "John Cygan",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg"
+      },
+      {
+        actor: "Paul Eiding",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+      },
+      {
+        actor: "Tony Fucile",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vKxLwEaL6qz7cwrT8m02Lye7wZO.jpg"
+      },
+      {
+        actor: "Teresa Ganzel",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8ZFhsWrzxBrewduX8X6rRNQWpLw.jpg"
+      },
+      {
+        actor: "Sherry Lynn",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cp7SYig9JVbBWgc2YD4wEUNQGzh.jpg"
+      },
+      {
+        actor: "Laraine Newman",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wlc9dpH0GdWiXBRDzGMuUQcoPKe.jpg"
+      },
+      {
+        actor: "Teddy Newton",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mUFJqwDSjafLmacLSjoTFx74XiA.jpg"
+      },
+      {
+        actor: "Jeff Pidgeon",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg"
+      },
+      {
+        actor: "Valerie LaPointe",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6bvaPm3vqVnMVwKaDtuK2qoAvTd.jpg"
+      },
+      {
+        actor: "Jan Rabson",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8IBFupx53arTqxOYhGkGwyVSaOn.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Animation", "Adventure", "Comedy"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "death of a spouse depicted through life montage",
+        "prolonged grief and loneliness in an elderly protagonist",
+        "characters placed in physical peril including a child",
+        "mild cartoon action violence and falls from great height",
+        "brief depiction of involuntary displacement from a family home"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:36" }
+    ],
+    awards: [
+      { body: "Academy Awards (82nd)", category: "Best Animated Feature Film", result: "Won", year: 2010 },
+      { body: "Academy Awards (82nd)", category: "Best Original Score", result: "Won", year: 2010 },
+      { body: "BAFTA Film Awards (63rd)", category: "Best Animated Film", result: "Won", year: 2010 },
+      { body: "BAFTA Film Awards (63rd)", category: "Best Original Score", result: "Won", year: 2010 },
+      { body: "Golden Globe Awards (67th)", category: "Best Animated Feature Film", result: "Won", year: 2010 },
+      { body: "Annie Awards (37th)", category: "Outstanding Achievement for Animated Feature Production", result: "Won", year: 2010 },
+      { body: "Annie Awards (37th)", category: "Outstanding Achievement for Music in an Animated Feature Production", result: "Won", year: 2010 },
+      { body: "Annie Awards (37th)", category: "Outstanding Achievement for Writing in an Animated Feature Production", result: "Won", year: 2010 },
+      { body: "Saturn Awards (36th)", category: "Best Animated Film", result: "Won", year: 2010 },
+      { body: "Academy Awards (82nd)", category: "Best Picture", result: "Nominated", year: 2010 },
+      { body: "Academy Awards (82nd)", category: "Best Original Screenplay", result: "Nominated", year: 2010 },
+      { body: "Academy Awards (82nd)", category: "Best Sound Editing", result: "Nominated", year: 2010 },
+      { body: "Golden Globe Awards (67th)", category: "Best Original Score", result: "Nominated", year: 2010 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "longing", "companionship", "legacy", "letting go", "adventure", "purpose", "friendship"],
+      mood: ["elegiac", "tender", "wondrous"],
+      fullReview: "Carl Fredricksen has spent his entire adult life in the same house, with the same woman, planning the same trip they never took. The film opens on their life together — courtship, marriage, a miscarriage conveyed without dialogue, a slow accumulation of small joys and one crushing absence, old age arrived before the journey did — and compresses it into four or five minutes that constitute some of the most economically devastating filmmaking in the history of animated cinema. What follows is almost beside the point, and also very much the point: a grumpy seventy-eight-year-old man attaches ten thousand balloons to his house and floats it to South America, with a stowaway child scout he did not invite.\n\nWhat Pete Docter and Bob Peterson understood when writing Up is that the central dramatic problem is not the adventure. The adventure is the scaffolding. The film is actually about what a person does with a life that did not unfold the way they promised someone it would. Carl carries his grief not as sadness exactly but as a kind of frozen obligation — to Ellie, to the journey she never got, to the person he was when he made her that promise. The house is not a house. It is a reliquary. The balloons are not whimsy. They are the last form his devotion can take.\n\nEd Asner voices Carl with a texture of authentic stubbornness — not the loveable-grouch variety deployed in lesser films but something more recognizable, a man who has calcified around a wound and grown to mistake the calcification for loyalty. It is patient voice work that allows the comedy and the sorrow to coexist in the same register without either undermining the other. Jordan Nagai\'s Russell is the structural opposite: all noise and presence and earnest wanting, a child whose cheerfulness is never cloying because the screenplay has quietly acknowledged that he is, in his own way, as lonely as Carl.\n\nMichael Giacchino\'s score is the film\'s second great achievement. Built around a waltz that reappears in variations across the runtime, it behaves like a piece of emotional connective tissue rather than a signaling device. When the music surfaces in the film\'s final passages in a context that was not available to it earlier, the effect is not manipulative — it is earned, because the film has actually done the work.\n\nThe middle section, in which Carl and Russell reach Paradise Falls and encounter the explorer Muntz and his army of collar-equipped dogs, is where the film becomes a more conventional adventure — and where Christopher Plummer makes Muntz genuinely threatening by playing him not as a cartoon villain but as a man destroyed by a lifetime of public humiliation, obsession curdled into something dangerous. The dog sequences, particularly Dug\'s inability to suppress his instincts mid-sentence, provide the film\'s most reliable comedy. The action climax is accomplished and exciting without being especially distinctive.\n\nNone of which diminishes what the film is when it is most fully itself: an animated film for adults wearing the costume of an animated film for children, about the specific grief of surviving someone, and the specific guilt of living a life that a beloved person only partially inhabited. The final image — a house in its original setting, balloons gone, the adventure completed on terms Ellie never got to know — is one of the quietly devastating images in Pixar\'s filmography.\n\nThe only real reservation is that the adventure plot, however well-executed, cannot quite match the emotional register of the opening. Nothing in the film can. But that opening set a bar so high that even an excellent film stumbles when measured against it. Up is Pixar working at the edge of what animation can contain — which is, it turns out, almost everything."
+    }
+  },
+  {
+    id: "shaun-of-the-dead-2004",
+    title: "Shaun of the Dead",
+    originalTitle: null,
+    romanization: null,
+    year: 2004,
+    tagline: "A romantic comedy. With zombies.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/7kIhcIq7WdkWFvTlH6o2SGzSDGY.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/9StV6Mqk26xYzww7cV9vMVtWA7U.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=cqDy3dXLBO8",
+    director: [
+      {
+        name: "Edgar Wright",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Simon Pegg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+      },
+      {
+        name: "Edgar Wright",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Simon Pegg", role: "Shaun", photoUrl: "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg" },
+      { actor: "Nick Frost", role: "Ed", photoUrl: "https://image.tmdb.org/t/p/w185/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg" },
+      { actor: "Kate Ashfield", role: "Liz", photoUrl: "https://image.tmdb.org/t/p/w185/rtuYpo9W4AsCvI1I6brIdHe7qi.jpg" },
+      { actor: "Lucy Davis", role: "Dianne", photoUrl: "https://image.tmdb.org/t/p/w185/A1ymILbxQA5w5TduCNaU0xD9C5a.jpg" },
+      { actor: "Dylan Moran", role: "David", photoUrl: "https://image.tmdb.org/t/p/w185/aDi9ctw4YD7g2szLNzBt96cJbVO.jpg" },
+      { actor: "Jessica Hynes", role: "Yvonne", photoUrl: "https://image.tmdb.org/t/p/w185/eyJ9aC1FXyPAI5xose0HqA26bnm.jpg" },
+      { actor: "Penelope Wilton", role: "Barbara", photoUrl: "https://image.tmdb.org/t/p/w185/msrGfQzw1v3WA0U7wLrCFjjmiVq.jpg" },
+      { actor: "Bill Nighy", role: "Phillip", photoUrl: "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg" },
+      { actor: "Martin Freeman", role: "Declan", photoUrl: "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg" },
+      { actor: "Matt Lucas", role: "Cousin Tom", photoUrl: "https://image.tmdb.org/t/p/w185/2OhGLJqiknaWlbTkG2KDwT935km.jpg" },
+      { actor: "Peter Serafinowicz", role: "Pete", photoUrl: "https://image.tmdb.org/t/p/w185/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg" },
+      { actor: "Rafe Spall", role: "Noel", photoUrl: "https://image.tmdb.org/t/p/w185/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg" },
+      { actor: "Reece Shearsmith", role: "Mark", photoUrl: "https://image.tmdb.org/t/p/w185/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg" },
+      { actor: "Tamsin Greig", role: "Maggie", photoUrl: "https://image.tmdb.org/t/p/w185/qU1ccKUdy9Qlc9OJ0y1spPMQWx7.jpg" },
+      { actor: "Julia Deakin", role: "Yvonne\'s Mum", photoUrl: "https://image.tmdb.org/t/p/w185/jo2uM3LS5DjwAzsIxvMbmewbZlF.jpg" },
+      { actor: "Nicola Cunningham", role: "Mary", photoUrl: "https://image.tmdb.org/t/p/w185/odmNwDqlCt7ScwF4B2lU1RKWahu.jpg" },
+      { actor: "Phyllis MacMahon", role: "Bernie", photoUrl: "https://image.tmdb.org/t/p/w185/simmfdBfVWY5dwNo8RwWzT2YL8D.jpg" },
+      { actor: "Patricia Franklin", role: "Spinster", photoUrl: "https://image.tmdb.org/t/p/w185/qMiL1oElU3HasELI7BBaTrSIHBE.jpg" },
+      { actor: "Mark Donovan", role: "Hulking Zombie", photoUrl: "https://image.tmdb.org/t/p/w185/8PUjB2Xxtp91VtpCCcwasGuWSGV.jpg" },
+      { actor: "Chris Martin", role: "Chris Martin", photoUrl: "https://image.tmdb.org/t/p/w185/sgd0m3UoA6cMoD49KKFXKqcQkyO.jpg" },
+      { actor: "Vernon Kay", role: "Vernon Kay", photoUrl: "https://image.tmdb.org/t/p/w185/7tNimdmZKRhzQCoTPuvfoehFi1f.jpg" },
+      { actor: "Trisha Goddard", role: "Trisha Goddard", photoUrl: "https://image.tmdb.org/t/p/w185/meucX0UemTDRv5HzCCXV6hdxNrt.jpg" },
+      { actor: "Jeremy Thompson", role: "Jeremy Thompson", photoUrl: "https://image.tmdb.org/t/p/w185/ok3oj9G7AxXDahMITNHDw9GaUq.jpg" },
+      { actor: "Krishnan Guru-Murthy", role: "Krishnan Guru-Murthy", photoUrl: "https://image.tmdb.org/t/p/w185/uFjU9pe7Ci1p3jqEMnMWIHG18h5.jpg" },
+      { actor: "Keir Mills", role: "Clubber 1", photoUrl: "https://image.tmdb.org/t/p/w185/d76eG48JHdJT4jFIXffgw6qW1zQ.jpg" },
+      { actor: "Tim Baggaley", role: "The Usher", photoUrl: "https://image.tmdb.org/t/p/w185/vtJFGjQrLyHQ3P5k2Mxc0zE7dvI.jpg" },
+      { actor: "Finola Geraghty", role: "Distraught Vox Pop", photoUrl: "https://image.tmdb.org/t/p/w185/6Hao2JskiKEB3YNNb54DaNLAMFi.jpg" },
+      { actor: "Nick Ewans", role: "Pyjama Zombie", photoUrl: "https://image.tmdb.org/t/p/w185/sDNGQJ30Yb2Ip9YIx3Zui8Opxo.jpg" },
+      { actor: "Keith Chegwin", role: "Keith Chegwin (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/vOCoJl0AB9blFLkf8xQqTGS4kR8.jpg" },
+      { actor: "Lucy Akhurst", role: "Zombie Shot by Soldiers (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/2Beax3aSqFQAWlrCfis4jALR6P9.jpg" },
+      { actor: "Joe Cornish", role: "Zombie Shot by Soldiers (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/u0svfsfJkMuHyXyGDK3YqB4t7q6.jpg" },
+      { actor: "Garth Jennings", role: "Fun Dead Zombie (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/zl6ZWijGySSIYJRFalleAiGkxyQ.jpg" },
+      { actor: "Paul Kaye", role: "Zombie Behind The Winchester (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/bGZxKojbRrgyI3gFtRsduJnbcrm.jpg" },
+      { actor: "Lauren Laverne", role: "Zombie Outside Flat (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/2pN60KQFcgREgW80b9RIUi0TpIR.jpg" },
+      { actor: "Michael Smiley", role: "Bicycle Courier Zombie (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/4HOhgb9W3Jsp5H5LpdMZS2nLv6z.jpg" },
+      { actor: "Paul Putner", role: "Zombie (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/721yd6BS4dup7ks7P9KMxM3nOzf.jpg" },
+      { actor: "Antonia Campbell-Hughes", role: "Zombie (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/bbX2OIYN1ZrUZKZZVnQvbIrb1zs.jpg" },
+      { actor: "Rob Brydon", role: "Football Commentator / Zombies From Hell Presenter (voice, uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/xoKLZVwzaUgTUEvPX4vymXpC1fU.jpg" },
+      { actor: "Julia Davis", role: "News Reporter (voice, uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/wsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg" },
+      { actor: "Mark Gatiss", role: "Radio Presenter / Wildlife Voiceover (voice, uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg" },
+      { actor: "Robert Popper", role: "News Reporter (voice, uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/j4yJzdhPRhXlbT5DJZGmW8knMqV.jpg" },
+      { actor: "David Walliams", role: "News Reporter (voice, uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/abdmkEncVFg0pBrt8Li3mM3L4Sh.jpg" },
+      { actor: "Peter Baynham", role: "Man in Street (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/9PPjG6v2E3fnBxHyd2stvaeDldF.jpg" },
+      { actor: "Edgar Wright", role: "Rabid Monkeys Newsreader / Prat-falling Zombie (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg" }
+    ],
+    languages: ["English"],
+    genres: ["Comedy", "Horror", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "moderate zombie gore and bloody dismemberment",
+        "sustained threat and physical peril",
+        "frequent strong language",
+        "alcohol use presented as a lifestyle default",
+        "brief non-explicit sexual reference"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:39" }
+    ],
+    awards: [
+      { body: "Saturn Awards (31st)", category: "Best Horror Film", result: "Won", year: 2005 },
+      { body: "Empire Awards (10th)", category: "Best British Film", result: "Won", year: 2005 },
+      { body: "Empire Awards (10th)", category: "Best Comedy", result: "Won", year: 2005 },
+      { body: "British Independent Film Awards (7th)", category: "Best British Independent Film", result: "Nominated", year: 2004 },
+      { body: "BAFTA Film Awards (58th)", category: "Alexander Korda Award for Outstanding British Film", result: "Nominated", year: 2005 },
+      { body: "Saturn Awards (31st)", category: "Best Performance by a Younger Actor", result: "Nominated", year: 2005 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["complacency", "adulthood", "friendship", "domesticity", "responsibility", "masculinity", "avoidance"],
+      mood: ["wry", "gleeful", "warm"],
+      fullReview: "Shaun is a thirty-something Londoner going nowhere with great consistency. He works a dead-end job at an electronics shop, has been half-committed to his girlfriend Liz for years, and treats the local pub less as a social venue than as a life philosophy. When the dead begin rising from their graves and shambling through the streets of Crouch End, Shaun barely notices. That delayed recognition is the joke, and it is also — somehow, genuinely — the point.\n\nEdgar Wright and Simon Pegg\'s screenplay is a piece of structural clockwork. Every detail seeded in the first act is accounted for before the film ends, not as a clever trick to be applauded but as proper dramatic architecture. The pleasure of a second viewing is watching how deliberately every throwaway line and background visual gag has been placed and how quietly load-bearing each one turns out to be. Few genre comedies bother with this level of rigor. Most coast on goodwill and set pieces. This one is built.\n\nWhat prevents Shaun of the Dead from being merely a very good parody — and it is emphatically more than that — is that the horror is taken seriously on its own terms. The zombies are genuinely threatening. The gore is real and occasionally shocking. When the film asks for grief, it has earned it, which means the comedy surrounding that grief hits harder than it would in a film content to keep everything at arm\'s length. Wright understands instinctively that horror and comedy do not dilute each other. Properly calibrated, they amplify.\n\nPegg carries the film with considerable warmth and specificity. Shaun is not a satirical cipher or a hapless everyman — he is a particular person with particular blind spots, and Pegg makes the slow reckoning feel earned rather than mechanical. Nick Frost\'s Ed is the film\'s wild card, a character who by all structural logic should be pure comic relief but who accumulates real emotional weight as the story progresses. The ensemble — Bill Nighy, Penelope Wilton, Dylan Moran, Kate Ashfield, Lucy Davis — is precisely deployed, each one functioning as a different kind of pressure on Shaun without tipping into caricature.\n\nWright\'s direction is the other engine. The editing grammar — crash zooms, whip pans, sequences constructed with the visual shorthand of British television sitcom pushed to cinematic extremes — gives the film a kinetic personality entirely its own. This is a director who knows exactly where the camera should be and what each cut should accomplish, and that certainty never tips over into self-congratulation. The style is always in service of the story rather than in competition with it.\n\nWhat the film is genuinely about, underneath its zombie scaffolding, is the difficulty of outgrowing a friendship that makes immaturity comfortable. Shaun and Ed\'s relationship is the film\'s actual heart — a bond forged in adolescent habits that the adult world has quietly declared overdue for revision. The undead apocalypse works as a metaphor because it literalizes what Shaun has been evading: the world is demanding he become someone, and he cannot keep shambling through it unchanged while pretending everything is fine.\n\nIf there is a weakness, it is confined to the film\'s midsection, when the group retreats to the Winchester pub and the bickering loses forward momentum. It is the one passage where Wright and Pegg seem to be buying time rather than spending it, and the film\'s otherwise taut pacing notices the gap. It is a small price.\n\nShaun of the Dead has aged into something close to a landmark — not because it launched a zombie revival or spawned imitators across a decade (it did both), but because it remains, twenty-odd years on, a film that functions as comedy, as horror, and as something that quietly bruises. That particular combination is rarer than it sounds, and most of the films that have attempted it since have proven exactly how rare."
+    }
+  },
+  {
+    id: "hot-fuzz-2007",
+    title: "Hot Fuzz",
+    originalTitle: null,
+    romanization: null,
+    year: 2007,
+    tagline: "Big cops. Small town. Moderate violence.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/m5Lxfq0buYJg53xR1neJ9yuvArF.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/5d7HDEaDTjQITzNukxD1eeqnH6x.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=L6PKkxn7pq0",
+    director: [
+      {
+        name: "Edgar Wright",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Edgar Wright",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg"
+      },
+      {
+        name: "Simon Pegg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Simon Pegg", role: "Nicholas Angel", photoUrl: "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg" },
+      { actor: "Nick Frost", role: "PC Danny Butterman", photoUrl: "https://image.tmdb.org/t/p/w185/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg" },
+      { actor: "Jim Broadbent", role: "Inspector Frank Butterman", photoUrl: "https://image.tmdb.org/t/p/w185/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg" },
+      { actor: "Paddy Considine", role: "DS Andy Wainwright", photoUrl: "https://image.tmdb.org/t/p/w185/uIKOm4w2wtUegxratSHj2KPFF7i.jpg" },
+      { actor: "Rafe Spall", role: "DC Andy Cartwright", photoUrl: "https://image.tmdb.org/t/p/w185/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg" },
+      { actor: "Kevin Eldon", role: "Sergeant Tony Fisher", photoUrl: "https://image.tmdb.org/t/p/w185/1S3ft0f71Hho9QlHUnuyJVHrfKH.jpg" },
+      { actor: "Olivia Colman", role: "PC Doris Thatcher", photoUrl: "https://image.tmdb.org/t/p/w185/4ZwZ66zXZyX26Kf2wfeMt1tQZQf.jpg" },
+      { actor: "Bill Bailey", role: "Sergeant Turner", photoUrl: "https://image.tmdb.org/t/p/w185/hA3vK90snmnt1xtuJR4Iac0YRXe.jpg" },
+      { actor: "Karl Johnson", role: "PC Bob Walker", photoUrl: "https://image.tmdb.org/t/p/w185/mXEFmNvs64YOB2AbBi7rZ57rTvW.jpg" },
+      { actor: "Timothy Dalton", role: "Simon Skinner", photoUrl: "https://image.tmdb.org/t/p/w185/rKYQd6ihqWiOaCHEDrvgV2VPtAo.jpg" },
+      { actor: "Edward Woodward", role: "Tom Weaver", photoUrl: "https://image.tmdb.org/t/p/w185/rCaRJ1iQeKlxW316Cq3u50u0njf.jpg" },
+      { actor: "Billie Whitelaw", role: "Joyce Cooper", photoUrl: "https://image.tmdb.org/t/p/w185/hTEhij0sI9eE89NMWNqpjKp7BxY.jpg" },
+      { actor: "Stuart Wilson", role: "Dr. Robin Hatcher", photoUrl: "https://image.tmdb.org/t/p/w185/ghP4hkVaNc4upspxsLQCwkOBhy6.jpg" },
+      { actor: "Paul Freeman", role: "Rev. Philip Shooter", photoUrl: "https://image.tmdb.org/t/p/w185/qrjgLfuNdXektuBwNL6onZBkbHw.jpg" },
+      { actor: "Rory McCann", role: "Michael Armstrong", photoUrl: "https://image.tmdb.org/t/p/w185/meEHyiCRXTTCiYQMzP4VEdvEuD0.jpg" },
+      { actor: "Kenneth Cranham", role: "James Reaper", photoUrl: "https://image.tmdb.org/t/p/w185/9lzTbNgaoArlxpEkYtWQfOyiYwu.jpg" },
+      { actor: "Maria Charles", role: "Mrs. Reaper", photoUrl: "https://image.tmdb.org/t/p/w185/cecGKLGvC54zSC4ctRlaIMxocWe.jpg" },
+      { actor: "Peter Wight", role: "Roy Porter", photoUrl: "https://image.tmdb.org/t/p/w185/wE77RhCuPoE45LrqEfZuAg0KIIp.jpg" },
+      { actor: "Julia Deakin", role: "Mary Porter", photoUrl: "https://image.tmdb.org/t/p/w185/jo2uM3LS5DjwAzsIxvMbmewbZlF.jpg" },
+      { actor: "Patricia Franklin", role: "Annette Roper", photoUrl: "https://image.tmdb.org/t/p/w185/qMiL1oElU3HasELI7BBaTrSIHBE.jpg" },
+      { actor: "Lorraine Hilton", role: "Amanda Paver", photoUrl: "https://image.tmdb.org/t/p/w185/oZFf5a8b6w6phOSJWRYr6GFMTis.jpg" },
+      { actor: "Tim Barlow", role: "Mr. Treacher", photoUrl: "https://image.tmdb.org/t/p/w185/geyRLYw4z1KACPSlTjmcBN8Vt4C.jpg" },
+      { actor: "Anne Reid", role: "Leslie Tiller", photoUrl: "https://image.tmdb.org/t/p/w185/d9ujsWfh1SfKNaiLs40cFue0CfE.jpg" },
+      { actor: "Adam Buxton", role: "Tim Messenger", photoUrl: "https://image.tmdb.org/t/p/w185/jD0Pl0QnNHuls1PmYtEnBNbuLKY.jpg" },
+      { actor: "David Threlfall", role: "Martin Blower", photoUrl: "https://image.tmdb.org/t/p/w185/9wPLuPJOTCtNddJYNV5GyLkcYD.jpg" },
+      { actor: "Lucy Punch", role: "Eve Draper", photoUrl: "https://image.tmdb.org/t/p/w185/aCQb4lCw4LZV9e41CZch3QeiaXO.jpg" },
+      { actor: "David Bradley", role: "Arthur Webley", photoUrl: "https://image.tmdb.org/t/p/w185/znpkwHitb3pcaJbUmgDqG0YenYp.jpg" },
+      { actor: "Ron Cook", role: "George Merchant", photoUrl: "https://image.tmdb.org/t/p/w185/gRHsTI9gwajULovSd2TVHROEEMj.jpg" },
+      { actor: "Alice Lowe", role: "Tina", photoUrl: "https://image.tmdb.org/t/p/w185/v4sRxLpRpHEd9vbk43wm9VL0v0K.jpg" },
+      { actor: "Martin Freeman", role: "Met Sergeant", photoUrl: "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg" },
+      { actor: "Bill Nighy", role: "Met Chief Inspector", photoUrl: "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg" },
+      { actor: "Stephen Merchant", role: "Peter Ian Staker", photoUrl: "https://image.tmdb.org/t/p/w185/6WM2rK6390Nwk398syJbGcPvRct.jpg" },
+      { actor: "Ben McKay", role: "Peter Cocker", photoUrl: "https://image.tmdb.org/t/p/w185/25E2FAiC2padWi358h6HsRCA91c.jpg" },
+      { actor: "Robert Popper", role: "Not Janine", photoUrl: "https://image.tmdb.org/t/p/w185/j4yJzdhPRhXlbT5DJZGmW8knMqV.jpg" },
+      { actor: "Joe Cornish", role: "Bob", photoUrl: "https://image.tmdb.org/t/p/w185/u0svfsfJkMuHyXyGDK3YqB4t7q6.jpg" },
+      { actor: "Chris Waitt", role: "Dave", photoUrl: "https://image.tmdb.org/t/p/w185/3QCkLERpzzqKs94xycTbRCdlb3.jpg" },
+      { actor: "Colin Michael Carmichael", role: "Heston Services Clerk", photoUrl: "https://image.tmdb.org/t/p/w185/3k4K1t5JcZMy8nCL0roJxVnmpDG.jpg" },
+      { actor: "Cate Blanchett", role: "Janine (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg" },
+      { actor: "Steve Coogan", role: "Metropolitan Police Inspector (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg" },
+      { actor: "Peter Jackson", role: "Thief Dressed as Father Christmas (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/bNc908d59Ba8VDNr4eCcm4G1cR.jpg" },
+      { actor: "Garth Jennings", role: "Crack Addict (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/zl6ZWijGySSIYJRFalleAiGkxyQ.jpg" },
+      { actor: "Edgar Wright", role: "Shelf Stacker / Voice of Dave (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg" }
+    ],
+    languages: ["English"],
+    genres: ["Action", "Comedy", "Mystery", "Thriller"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "frequent strong language throughout",
+        "graphic shootout violence with visible injury and blood",
+        "blunt-force trauma and deaths presented for dark comic effect",
+        "brief depictions of severed body parts",
+        "sustained threat and conspiratorial menace",
+        "moderate alcohol consumption normalised as social behaviour"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:01" }
+    ],
+    awards: [
+      { body: "Empire Awards (13th)", category: "Best British Film", result: "Won", year: 2008 },
+      { body: "Empire Awards (13th)", category: "Best Comedy", result: "Won", year: 2008 },
+      { body: "Empire Awards (13th)", category: "Best Actor", result: "Nominated", year: 2008 },
+      { body: "Saturn Awards (34th)", category: "Best Action/Adventure/Thriller Film", result: "Nominated", year: 2008 },
+      { body: "BAFTA Film Awards (61st)", category: "Outstanding British Film", result: "Nominated", year: 2008 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["conformity", "control", "performance", "obsession", "community", "surveillance", "violence", "nostalgia"],
+      mood: ["gleeful", "propulsive", "irreverent"],
+      fullReview: "Sergeant Nicholas Angel is the finest police officer in London — so good at his job, so relentlessly by-the-book, that his superiors feel inadequate by comparison and have him quietly transferred to Sandford, a small Gloucestershire village with the lowest crime rate in the country. What follows is, on the surface, a riotous send-up of American buddy-cop cinema transplanted into the manicured hedgerows of rural England. Underneath that surface, something considerably stranger and more pointed is happening.\n\nThe first act of Hot Fuzz is patient in a way that rewards attention. Edgar Wright and Simon Pegg use it to establish Sandford as a place of suffocating pleasantness — a village that has won the regional \"Village of the Year\" award so many times that civic pride has curdled into something else entirely. The comedy in this stretch is dry and observational: the cider is strong, the locals are charmingly dim, and Angel\'s hyperactive professionalism reads as a kind of social illness in this context. Then people start dying in accidents that do not quite feel accidental. Then the film shifts gears so decisively that audiences who were not paying close attention in the first hour will suddenly realise how much architecture was quietly being assembled around them.\n\nThe screenplay is a mechanical marvel. Every stray detail — a goose, a model village, a supermarket loyalty scheme — returns with purpose before the credits roll. It is the kind of plotting that is almost impossible to appreciate on a first watch because the reveals are too well-timed, and almost impossible not to appreciate on a second watch because the foreshadowing is everywhere. Wright and Pegg are doing something very specific here: they are using the grammar of action cinema — the montage, the slow-motion reload, the car-through-a-fence — to comment on how violence gets aestheticised and packaged as entertainment, while simultaneously delivering that entertainment in full. That tension is the film\'s central joke, and it is a smart one.\n\nPegg\'s Angel is a more demanding role than it initially appears. The character has no ironic distance from his own rigidity — he genuinely believes that rules exist for good reasons, that order is a form of care, and the film ultimately validates that belief even as it tests it to breaking point. Nick Frost inverts his Shaun of the Dead dynamic completely: where Ed was the slacker half of a codependent friendship, Danny Butterman is childlike and decent in a way that gradually converts Angel from a machine into a person. Their relationship is what keeps the film\'s more aggressive third act from feeling like pure mechanism.\n\nTimothy Dalton, visibly delighted to be in something so unhinged, plays his role with exactly the right register — a smile that is three degrees wider than it should be, a cheerfulness that suggests either complete innocence or complete control. Jim Broadbent does something more interesting still: his Inspector Butterman is a genuinely warm man whose warmth has been bent in a direction the film takes its time revealing. The entire ensemble is populated with character actors who understand that the comedy requires them to play it completely straight.\n\nJess Hall\'s cinematography is the unsung element. Sandford looks gorgeous in a way that is never quite trustworthy — those greens are too green, those stone walls too picturesque. The visual grammar shifts register in the third act with a crispness that would be admirable in a straight action film, which is precisely the point. David Arnold\'s score knows when to quote the films being homaged and when to play things with a straight face.\n\nAt 121 minutes, Hot Fuzz is the longest of the three Cornetto films and earns most of that runtime. The middle passage occasionally indulges its own density — the sheer volume of suspects and local colour can tip from pleasurably labyrinthine into briefly exhausting — but it never loses the thread for long. The third act payoff is generous enough to forgive a lot.\n\nWhat the film is genuinely arguing, beneath all the gunfire and garden-centre humour, is that communities built on the suppression of difference are not communities at all. Sandford\'s particular form of civic pride requires the elimination of anything that might lower the aesthetic average — and the film draws a quiet, cold line between that impulse and the kinds of violence it eventually produces. For a film that ends with an extended shootout through a model village, it has a surprisingly sharp point to make. The fact that it makes that point while being thoroughly entertaining is the trick."
+    }
+  },
+  {
+    id: "the-worlds-end-2013",
+    title: "The World's End",
+    originalTitle: null,
+    romanization: null,
+    year: 2013,
+    tagline: "Good food. Fine ales. Total annihilation.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/chGgbg1rB4Sgf9UYwomoaDQRi8p.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/bvmsip7uZsITUipBN1BJGHYQXYP.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/stAPkorBeBkvEZ6DQs30Ke4cPyr.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=YF-4c8U-mUI",
+    director: [
+      {
+        name: "Edgar Wright",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Edgar Wright",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg"
+      },
+      {
+        name: "Simon Pegg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Simon Pegg", role: "Gary King", photoUrl: "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg" },
+      { actor: "Nick Frost", role: "Andrew Knightley", photoUrl: "https://image.tmdb.org/t/p/w185/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg" },
+      { actor: "Paddy Considine", role: "Steven Prince", photoUrl: "https://image.tmdb.org/t/p/w185/uIKOm4w2wtUegxratSHj2KPFF7i.jpg" },
+      { actor: "Martin Freeman", role: "Oliver Chamberlain", photoUrl: "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg" },
+      { actor: "Eddie Marsan", role: "Peter Page", photoUrl: "https://image.tmdb.org/t/p/w185/9atfOgIxhfOKvv2be8HEp6SzOct.jpg" },
+      { actor: "Rosamund Pike", role: "Sam Chamberlain", photoUrl: "https://image.tmdb.org/t/p/w185/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg" },
+      { actor: "David Bradley", role: "Basil", photoUrl: "https://image.tmdb.org/t/p/w185/znpkwHitb3pcaJbUmgDqG0YenYp.jpg" },
+      { actor: "Pierce Brosnan", role: "Guy Shepherd", photoUrl: "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg" },
+      { actor: "Michael Smiley", role: "Reverend Green", photoUrl: "https://image.tmdb.org/t/p/w185/4HOhgb9W3Jsp5H5LpdMZS2nLv6z.jpg" },
+      { actor: "Darren Boyd", role: "Shane Hawkins", photoUrl: "https://image.tmdb.org/t/p/w185/cHDIKSsqCvu7PTBcfdxAKN99dQz.jpg" },
+      { actor: "Steve Oram", role: "Motorcycle Policeman", photoUrl: "https://image.tmdb.org/t/p/w185/lRLC2evuvWxFtq0aq7Te4I1L9MS.jpg" },
+      { actor: "Reece Shearsmith", role: "Collaborator", photoUrl: "https://image.tmdb.org/t/p/w185/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg" },
+      { actor: "Nicholas Burns", role: "Collaborator", photoUrl: "https://image.tmdb.org/t/p/w185/x8ETzUUeTrmBRuVdvPEaZ23Focf.jpg" },
+      { actor: "Bill Nighy", role: "The Network (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg" },
+      { actor: "Thomas Law", role: "Young Gary", photoUrl: "https://image.tmdb.org/t/p/w185/aUOcW65UXBLzFECw59Li17ilHw2.jpg" },
+      { actor: "James Tarpey", role: "Young Peter", photoUrl: "https://image.tmdb.org/t/p/w185/xIUiS33Z8K4P54LYAR6Dy5b0WqD.jpg" },
+      { actor: "Luke Bromley", role: "Young Oliver", photoUrl: "https://image.tmdb.org/t/p/w185/1rYI3Z59SkK8k0IEccpmUeitOTt.jpg" },
+      { actor: "Rose Reynolds", role: "Tracy Benson", photoUrl: "https://image.tmdb.org/t/p/w185/5E9aCD8YWF52bldd5jAFYVfbqXI.jpg" },
+      { actor: "Charlotte Reidie", role: "Teenage Twins", photoUrl: "https://image.tmdb.org/t/p/w185/q2Xyh6GjyzNDfEeEZQ8uBFxAev4.jpg" },
+      { actor: "Alex Austin", role: "Pale Young Man", photoUrl: "https://image.tmdb.org/t/p/w185/FbAFBl1hFH048kDByD2xuNdr3p.jpg" },
+      { actor: "Jonathan Aris", role: "Group Leader", photoUrl: "https://image.tmdb.org/t/p/w185/e3mdBI4oCXwf4locFbPKwHsAjaI.jpg" },
+      { actor: "Paul Bentall", role: "Peter\'s Dad", photoUrl: "https://image.tmdb.org/t/p/w185/A3li9Puvd7iRjs7moBSPnVu4PJs.jpg" },
+      { actor: "Richard Graham", role: "Head Builder", photoUrl: "https://image.tmdb.org/t/p/w185/ukEz43251dO4Gn9O3o0XzLmKqOf.jpg" },
+      { actor: "Alice Lowe", role: "Young Lady", photoUrl: "https://image.tmdb.org/t/p/w185/v4sRxLpRpHEd9vbk43wm9VL0v0K.jpg" },
+      { actor: "Rafe Spall", role: "Young Man", photoUrl: "https://image.tmdb.org/t/p/w185/5tGhC9MGT4FGaJHr2LGYcRV4rbJ.jpg" },
+      { actor: "Leo Thompson", role: "Felicity", photoUrl: "https://image.tmdb.org/t/p/w185/bB5qTYmAuhvTmd1Vj3JWnIjXYSw.jpg" },
+      { actor: "Julia Deakin", role: "B & B Landlady", photoUrl: "https://image.tmdb.org/t/p/w185/jo2uM3LS5DjwAzsIxvMbmewbZlF.jpg" },
+      { actor: "Luke Scott", role: "Luke", photoUrl: "https://image.tmdb.org/t/p/w185/aOuKuY9DAQnNd5sLZUQcNq9xhsz.jpg" },
+      { actor: "Samuel Mak", role: "Sam", photoUrl: "https://image.tmdb.org/t/p/w185/fWR0tnViZITlKcEdyGSYAaZwLMf.jpg" },
+      { actor: "Nick Holder", role: "Publican 3", photoUrl: "https://image.tmdb.org/t/p/w185/10QKoehs8o7LVIxCcWKrJHeJ1Xc.jpg" },
+      { actor: "Paul Kennington", role: "Publican 5", photoUrl: "https://image.tmdb.org/t/p/w185/zd73bf0gF9ws8jvgrcg1DNNBnxa.jpg" },
+      { actor: "Michael Sarne", role: "Publican 6", photoUrl: "https://image.tmdb.org/t/p/w185/bhu4Ew8XbA2gKzg05kK811vXPof.jpg" },
+      { actor: "Mark Heap", role: "Publican 7", photoUrl: "https://image.tmdb.org/t/p/w185/kHqwlCSxN0MQY3BxayIL1U55uxS.jpg" },
+      { actor: "Ken Bones", role: "Publican 13", photoUrl: "https://image.tmdb.org/t/p/w185/y95GD9NyaO5bKVlQohXaOwmbkd5.jpg" },
+      { actor: "Patricia Franklin", role: "Upstairs Beehive Lady", photoUrl: "https://image.tmdb.org/t/p/w185/qMiL1oElU3HasELI7BBaTrSIHBE.jpg" },
+      { actor: "Mark Donovan", role: "Big Ugly Bastard", photoUrl: "https://image.tmdb.org/t/p/w185/8PUjB2Xxtp91VtpCCcwasGuWSGV.jpg" },
+      { actor: "Ricky Champ", role: "Big Ugly Bastard", photoUrl: "https://image.tmdb.org/t/p/w185/rOGvymLSQsT1bypqMjDNhe6deAW.jpg" },
+      { actor: "Paul Blackwell", role: "Pub Customer", photoUrl: "https://image.tmdb.org/t/p/w185/xyP9deDatxEMpXS8uNocWuYvLrq.jpg" },
+      { actor: "Edgar Wright", role: "Construction Worker (voice, uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg" },
+      { actor: "Peter Serafinowicz", role: "Knock-a-Door Run Home Owner (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg" },
+      { actor: "Garth Jennings", role: "Blank at The Good Companions (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/zl6ZWijGySSIYJRFalleAiGkxyQ.jpg" },
+      { actor: "Nicola Cunningham", role: "Girl at Group Meeting (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/odmNwDqlCt7ScwF4B2lU1RKWahu.jpg" }
+    ],
+    languages: ["English"],
+    genres: ["Comedy", "Drama", "Action", "Sci-fi"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "frequent strong language throughout",
+        "sustained brawl violence including comedic limb detachment",
+        "alcoholism and compulsive drinking as central character trait",
+        "emotional breakdown and arrested development depicted without softening",
+        "brief reference to underage sexual activity in dialogue",
+        "themes of identity loss and psychological fragility"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:49" }
+    ],
+    awards: [
+      { body: "Empire Awards (19th)", category: "Best British Film", result: "Nominated", year: 2014 },
+      { body: "Empire Awards (19th)", category: "Best Comedy", result: "Nominated", year: 2014 },
+      { body: "Saturn Awards (40th)", category: "Best Science Fiction Film", result: "Nominated", year: 2014 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["nostalgia", "addiction", "regression", "conformity", "friendship", "alienation", "agency", "escapism"],
+      mood: ["bittersweet", "restless", "melancholic"],
+      fullReview: "Gary King has not changed since 1990, and that is both the joke and the tragedy. Twenty-three years after the greatest night of his life — a pub crawl across twelve pubs in the English market town of Newton Haven, never completed — Gary reassembles his four estranged school friends for another attempt at finishing the Golden Mile. The friends have mortgages, careers, sobriety, and varying degrees of reasons not to be there. Gary has a leather duster, a cassette tape of Sisters of Mercy, and a need so acute it borders on something clinical. When they arrive in Newton Haven, they discover that the town has changed rather more dramatically than Gary has.\n\nThe World\'s End completes Edgar Wright and Simon Pegg\'s Cornetto trilogy with the most emotionally honest film of the three, and also — by a narrow margin — the least mechanically satisfying one. That gap between emotional depth and narrative pleasure is interesting in itself, because it reflects something about what the film is attempting. Where Shaun of the Dead used the zombie apocalypse to talk about adult inertia, and Hot Fuzz used small-town horror to skewer civic conformity, The World\'s End turns its sci-fi conceit into a frame for something rawer: a portrait of a man who chose to stop growing and has been paying for it slowly ever since.\n\nPegg\'s Gary King is the performance of his career to that point, and it is a genuinely uncomfortable one. Gary is not the loveable slacker of the first film or the fish-out-of-water of the second. He is a wreck — charismatic and exhausting in equal measure, funny until he isn\'t, the kind of person whose enthusiasm reads as red flags once the full picture becomes clear. Pegg commits to the character\'s darkness without winking at the audience, and the film is careful not to let the genre mechanics completely let Gary off the hook for who he is. That restraint is unusual and admirable.\n\nNick Frost, again inverting his role from film to film, plays Andrew as the responsible one — buttoned-up, quietly furious, carrying old wounds. The reversal of their usual dynamic is the film\'s most interesting structural decision, and Frost handles the shift with a physicality that makes his third-act transformation feel genuinely earned rather than obligatory. The supporting ensemble — Freeman\'s slick Oliver, Considine\'s still-hopeful Steven, Marsan\'s perpetually damaged Peter — are drawn with efficiency. Rosamund Pike is underserved by the script, existing primarily as a catalyst for male self-realisation, which is a real limitation.\n\nBill Pope\'s cinematography gives Newton Haven a particular quality: warm and golden in the daylight, turning clinical and strange after dark in ways that feel less like horror atmosphere and more like the town revealing its true nature. Steven Price\'s score is quieter and more melancholic than David Arnold\'s work on Hot Fuzz, and the film\'s use of period-specific indie rock — the soundtrack of Gary\'s frozen adolescence — does something subtle and slightly devastating by the time the third act arrives.\n\nWhere the film stumbles is in its middle section. The fight sequences, while choreographed with Wright\'s characteristic spatial intelligence, accumulate to a point of diminishing returns. There are only so many pub brawls against blank-eyed duplicates that can serve the story before the repetition starts working against the emotional stakes Wright is building elsewhere. Hot Fuzz had the same structural challenge and navigated it more cleanly; here the balance tips slightly wrong for twenty or so minutes.\n\nThe finale is the most genuinely strange thing in the trilogy — an ending that refuses to be tidy, that gives Gary something resembling grace without letting him escape consequence, that leaves the world in a state that is neither triumphant nor catastrophic but somehow both at once. It is the kind of ending that divides audiences precisely because it refuses the comfort of resolution. Whether that reads as brave or unsatisfying probably depends on what a viewer came for.\n\nThe World\'s End is the trilogy\'s most difficult film to love and its most rewarding to think about afterward. It has the ambition to use a pub crawl and an alien invasion to say something true about the seductiveness of the past and the cost of refusing to leave it behind. That it does not always succeed on its own terms is less interesting than the fact that it was trying for something this specific in the first place."
+    }
+  },
+  {
+    id: "silver-linings-playbook-2012",
+    title: "Silver Linings Playbook",
+    originalTitle: null,
+    romanization: null,
+    year: 2012,
+    tagline: "Watch for the signs.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/d2ssp5pn8isTMlVFbgDf8dlpyT8.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/9IUQL0jr8Aqvy3ugWheHTCGonrU.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=EI_3ywJLQio",
+    director: [
+      {
+        name: "David O. Russell",
+        photoUrl: "https://image.tmdb.org/t/p/w185/59rXnJS4g5dUr1Hz8QNLo5epD2a.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "David O. Russell",
+        photoUrl: "https://image.tmdb.org/t/p/w185/59rXnJS4g5dUr1Hz8QNLo5epD2a.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Bradley Cooper", role: "Pat Solatano Jr.", photoUrl: "https://image.tmdb.org/t/p/w185/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg" },
+      { actor: "Jennifer Lawrence", role: "Tiffany Maxwell", photoUrl: "https://image.tmdb.org/t/p/w185/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg" },
+      { actor: "Robert De Niro", role: "Pat Solatano Sr.", photoUrl: "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg" },
+      { actor: "Jacki Weaver", role: "Dolores Solatano", photoUrl: "https://image.tmdb.org/t/p/w185/zalCqZnNQMKseFmwQwOlLrl3w2P.jpg" },
+      { actor: "Anupam Kher", role: "Dr. Cliff Patel", photoUrl: "https://image.tmdb.org/t/p/w185/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg" },
+      { actor: "Chris Tucker", role: "Danny McDaniels", photoUrl: "https://image.tmdb.org/t/p/w185/k0oLIL0xTgDR6Qn3yCsNuLCJhFT.jpg" },
+      { actor: "Julia Stiles", role: "Veronica", photoUrl: "https://image.tmdb.org/t/p/w185/okcblz7pqeapHorLvxtxd3iNNic.jpg" },
+      { actor: "Shea Whigham", role: "Jake Solatano", photoUrl: "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg" },
+      { actor: "John Ortiz", role: "Ronnie", photoUrl: "https://image.tmdb.org/t/p/w185/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg" },
+      { actor: "Paul Herman", role: "Randy", photoUrl: "https://image.tmdb.org/t/p/w185/xC7qCS2EFTpfd1KX0ysR6zr60NZ.jpg" },
+      { actor: "Dash Mihok", role: "Officer Keogh", photoUrl: "https://image.tmdb.org/t/p/w185/jnruNUJv57nNtO66SR3oJ5tQuM5.jpg" },
+      { actor: "Matthew Russell", role: "Ricky D\'Angelo", photoUrl: "https://image.tmdb.org/t/p/w185/vUztbrJJjGpFvbM5KSXqVTPP3hq.jpg" },
+      { actor: "Cheryl Williams", role: "Tiffany\'s Mother", photoUrl: "https://image.tmdb.org/t/p/w185/genadYn00HcAvx27L73cikxhjOf.jpg" },
+      { actor: "Patrick McDade", role: "Tiffany\'s Father", photoUrl: "https://image.tmdb.org/t/p/w185/cHziqanNmENeCwC6OASo8XlKC39.jpg" },
+      { actor: "Brea Bee", role: "Nikki", photoUrl: "https://image.tmdb.org/t/p/w185/fiKuNL7HzrLU8midblysadKBBWd.jpg" },
+      { actor: "Mary Regency Boies", role: "Regina", photoUrl: "https://image.tmdb.org/t/p/w185/qdzeRzldVyPB8D3HVcFoOwCYqv0.jpg" },
+      { actor: "Phillip Chorba", role: "Jordie", photoUrl: "https://image.tmdb.org/t/p/w185/nacKYzHQ6flkR9ykFLHo187tcg8.jpg" },
+      { actor: "Anthony Lawton", role: "Dr. Timbers", photoUrl: "https://image.tmdb.org/t/p/w185/cQOOTshQHpyRnoAVALAACMgDt2z.jpg" },
+      { actor: "Patsy Meck", role: "Nancy (High School Principal)", photoUrl: "https://image.tmdb.org/t/p/w185/j4zCgQcqEpSr3ZNgSMhmgJgDr5e.jpg" },
+      { actor: "Jeff Reim", role: "Jeffrey", photoUrl: "https://image.tmdb.org/t/p/w185/vAakUmKCSJYNkwoZ5qxrfZr2kyc.jpg" },
+      { actor: "Rick Foster", role: "Dance Competition Announcer", photoUrl: "https://image.tmdb.org/t/p/w185/4av9b4mtqea1vvSVKKDjUwapl9a.jpg" },
+      { actor: "Bonnie Aarons", role: "Ricky D\'Angelo\'s Mother", photoUrl: "https://image.tmdb.org/t/p/w185/iEtWuoXKx4ZKbIWwJp1V76Heavy.jpg" },
+      { actor: "Pete Postiglione", role: "Lawyer at Bar", photoUrl: "https://image.tmdb.org/t/p/w185/xtesoCt9YrOR8CoX1AgnpkonpvN.jpg" },
+      { actor: "Dicky Eklund Jr.", role: "Fighting Eagle Fan", photoUrl: "https://image.tmdb.org/t/p/w185/vBlxMLd1qHjOZG6qm6gmFT7dTKA.jpg" },
+      { actor: "Madhu Narula", role: "Dr. Patel\'s Wife", photoUrl: "https://image.tmdb.org/t/p/w185/yBk6r4e1ZzkHR4KzS01C7YJr6Uw.jpg" },
+      { actor: "Samantha Gelnaw", role: "Jake\'s Fiancée", photoUrl: "https://image.tmdb.org/t/p/w185/rKMvnfnwpREuLlZ6Ow4NkIggDXC.jpg" },
+      { actor: "Lana Rossi", role: "Dancer Tretiak", photoUrl: "https://image.tmdb.org/t/p/w185/q5hOdSKubPpX8xjjlI5vWNtc6Cv.jpg" },
+      { actor: "Todd Anthony", role: "Dinner Guest (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/bCu1F3ve83QCcXw0XhQmtA1qdxP.jpg" },
+      { actor: "Carol Anne Mueller", role: "Dance Competition Spectator (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/iHUqBFOQGcJJLWzza4a6cy0f7Hk.jpg" },
+      { actor: "Robert Bizik", role: "Neighbor (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/5bETkCuBKjKGjwHWTgLyU8aXeAV.jpg" },
+      { actor: "Jeffrey Mowery", role: "Neighbor (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/lqfEEftlrRRph23X78qy3CKkgBa.jpg" },
+      { actor: "Matthew James Gulbranson", role: "Father (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/mhjsM7uqY21jpp9CjlAbfYs5Jtj.jpg" },
+      { actor: "Raymond Mamrak", role: "Tailgate Fan (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/w7TvI089WKAEsFXpIM1Lu3xCrku.jpg" },
+      { actor: "Montana Marks", role: "Bikini Tailgater (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/sYeHRTQaRNAhA2HSuoHFJSDgsu3.jpg" },
+      { actor: "Jeni Miller", role: "Sexy Girl at Halloween Party (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/fJGKI0HW0PvuGQsxVO82hYkRYaI.jpg" },
+      { actor: "Charles Pendelton", role: "Recital Guest (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/eRZWDZYqkqtHRIARvCnGotkCn3h.jpg" },
+      { actor: "Vincent Riviezzo", role: "Giants Fan (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/aA7PNUNH75cCqQdYJuuIxkNbDW3.jpg" },
+      { actor: "Brian Anthony Wilson", role: "Orderly (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/hclegxaGvuBIT3N6q6OrFFter6p.jpg" },
+      { actor: "Marty Krzywonos", role: "Tailgater (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/2dQZfztTRtTz1QwP4dHaGRPmZXQ.jpg" }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Romance", "Comedy"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "frequent strong language throughout",
+        "a violent episode depicted with sudden physical intensity",
+        "frank and explicit discussion of sexual history",
+        "bipolar disorder and obsessive ideation portrayed without clinical softening",
+        "moderate alcohol consumption at social gatherings",
+        "scenes of psychological crisis and emotional volatility"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:02" }
+    ],
+    awards: [
+      { body: "Academy Awards (85th)", category: "Best Actress - Jennifer Lawrence", result: "Won", year: 2013 },
+      { body: "Golden Globe Awards (70th)", category: "Best Motion Picture - Musical or Comedy", result: "Won", year: 2013 },
+      { body: "Golden Globe Awards (70th)", category: "Best Actress in a Musical or Comedy - Jennifer Lawrence", result: "Won", year: 2013 },
+      { body: "BAFTA Film Awards (66th)", category: "Best Adapted Screenplay", result: "Won", year: 2013 },
+      { body: "Screen Actors Guild Awards (19th)", category: "Outstanding Performance by a Female Actor in a Leading Role - Jennifer Lawrence", result: "Won", year: 2013 },
+      { body: "Critics Choice Awards (18th)", category: "Best Actress - Jennifer Lawrence", result: "Won", year: 2013 },
+      { body: "Academy Awards (85th)", category: "Best Picture", result: "Nominated", year: 2013 },
+      { body: "Academy Awards (85th)", category: "Best Director - David O. Russell", result: "Nominated", year: 2013 },
+      { body: "Academy Awards (85th)", category: "Best Actor - Bradley Cooper", result: "Nominated", year: 2013 },
+      { body: "Academy Awards (85th)", category: "Best Supporting Actor - Robert De Niro", result: "Nominated", year: 2013 },
+      { body: "Academy Awards (85th)", category: "Best Supporting Actress - Jacki Weaver", result: "Nominated", year: 2013 },
+      { body: "Academy Awards (85th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2013 },
+      { body: "BAFTA Film Awards (66th)", category: "Best Film", result: "Nominated", year: 2013 },
+      { body: "BAFTA Film Awards (66th)", category: "Best Actor - Bradley Cooper", result: "Nominated", year: 2013 },
+      { body: "BAFTA Film Awards (66th)", category: "Best Actress - Jennifer Lawrence", result: "Nominated", year: 2013 },
+      { body: "BAFTA Film Awards (66th)", category: "Best Supporting Actor - Robert De Niro", result: "Nominated", year: 2013 },
+      { body: "Golden Globe Awards (70th)", category: "Best Actor in a Musical or Comedy - Bradley Cooper", result: "Nominated", year: 2013 },
+      { body: "Golden Globe Awards (70th)", category: "Best Supporting Actor - Robert De Niro", result: "Nominated", year: 2013 },
+      { body: "Screen Actors Guild Awards (19th)", category: "Outstanding Performance by a Cast in a Motion Picture", result: "Nominated", year: 2013 },
+      { body: "Screen Actors Guild Awards (19th)", category: "Outstanding Performance by a Male Actor in a Leading Role - Bradley Cooper", result: "Nominated", year: 2013 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["recovery", "obsession", "belonging", "grief", "reinvention", "acceptance", "inheritance"],
+      mood: ["warm", "frantic", "tender"],
+      fullReview: "Pat Solatano has just been released from a psychiatric facility in Baltimore after eight months, having discovered his wife in the shower with a colleague and responding in a way that resulted in a restraining order. He moves back into his childhood bedroom in a Philadelphia suburb, convinced that if he reads enough of his estranged wife\'s syllabus, loses enough weight, and projects enough relentless positivity, the universe will eventually correct itself in his favor. His father bets on Eagles games with a seriousness that borders on spiritual devotion. His mother covers everything in a soft, faintly desperate layer of kindness. Then Pat meets Tiffany, a young widow with her own unresolved catastrophe, and what follows is a love story that earns the label more than most.\n\nDavid O. Russell adapted Matthew Quick\'s novel with a script that understands the central tension immediately: both Pat and Tiffany are people whose interior lives operate at a volume others find uncomfortable, and the film is most alive in the moments when that discomfort becomes connection rather than collision. Russell keeps the camera close, the editing restless, the household noise constant. The Solatano house feels genuinely inhabited — cluttered with Eagles paraphernalia, old resentments, and the particular exhaustion of people who love each other without knowing how to say so. Masanobu Takayanagi\'s cinematography is deliberately unglamorous, favoring handheld intimacy over pictorial distance, which suits a film that has no interest in making mental illness look cinematic.\n\nBradley Cooper\'s Pat is the kind of role that reveals an actor. Everything the audience might have expected from him — the easy charm, the physical confidence — is present but torqued sideways, deployed by a man who cannot read the room and knows it. The performance is most effective in its smaller moments: a beat of sudden stillness when a song triggers the wrong memory, a flash of something genuinely frightening before the face reassembles. Cooper does not ask for sympathy in the way the script might have permitted. He asks the audience to stay present, which is harder.\n\nJennifer Lawrence won the Academy Award for her work here, and the recognition was not wrong, though the performance is perhaps slightly overpraised in retrospect due to the novelty of its directness. What Lawrence does with Tiffany is refuse every opportunity the role offers to make the character sympathetic in a conventional way. Tiffany is blunt, sexually candid, occasionally cruel, and dealing with grief in ways that have cost her professionally and socially. Lawrence plays all of this without apology and without the subtle distancing that would let viewers feel safe about the character. The result is someone genuinely difficult to read, which is the point.\n\nRobert De Niro, as Pat\'s father — a man whose own compulsions and rituals have never been formally diagnosed but clearly run in the family — does the finest work he had done in years at the time of this film\'s release. There is a scene at a kitchen table late in the film where the older man says several things he means while pretending he is saying something else entirely, and De Niro plays it with a precision that the film does not quite deserve but is grateful to receive. Jacki Weaver\'s Dolores is less written but no less present — a woman who has absorbed decades of her household\'s volatility and still gets up to make an offering of food.\n\nWhere the film pulls its punches is in the third act, which surrenders to a plot mechanism — the competitive dance stakes intertwined with a wager — that feels imported from a tidier kind of film. The screenplay\'s insistence on a clean resolution in a story about people for whom clean resolutions are specifically not on offer is a real creative choice, and not necessarily a dishonest one. Russell is making a film about the desire for normalcy, and giving his characters a moment of grace is arguably the point. But the mechanism through which that grace arrives is almost comically arbitrary, and the final stretch of the film coasts on goodwill that the first two-thirds spent carefully building.\n\nWhat stays is the warmth of the ensemble, the crack and frequency of the dialogue, and two central performances that understand each other without needing to explain themselves. For a film about people who cannot quite fit into their own lives, it fits together rather well."
+    }
+  },
+  {
+    id: "inception-2010",
+    title: "Inception",
+    originalTitle: null,
+    romanization: null,
+    year: 2010,
+    tagline: "Your mind is the scene of the crime.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/iXYh7y0vI1DZR0taTuvrr8PSnOd.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Jvurpf91omw",
+    director: [
+      {
+        name: "Christopher Nolan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Christopher Nolan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Leonardo DiCaprio", role: "Dom Cobb", photoUrl: "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg" },
+      { actor: "Joseph Gordon-Levitt", role: "Arthur", photoUrl: "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg" },
+      { actor: "Ken Watanabe", role: "Saito", photoUrl: "https://image.tmdb.org/t/p/w185/psAXOYp9SBOXvg6AXzARDedNQ9P.jpg" },
+      { actor: "Tom Hardy", role: "Eames", photoUrl: "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg" },
+      { actor: "Elliot Page", role: "Ariadne", photoUrl: "https://image.tmdb.org/t/p/w185/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg" },
+      { actor: "Dileep Rao", role: "Yusuf", photoUrl: "https://image.tmdb.org/t/p/w185/jRNn8SZqFXuI5wOOlHwYsWh0hXs.jpg" },
+      { actor: "Cillian Murphy", role: "Robert Fischer Jr.", photoUrl: "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg" },
+      { actor: "Tom Berenger", role: "Peter Browning", photoUrl: "https://image.tmdb.org/t/p/w185/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg" },
+      { actor: "Marion Cotillard", role: "Mal Cobb", photoUrl: "https://image.tmdb.org/t/p/w185/biitzOF0GffIqFYLyOPkoiaOngQ.jpg" },
+      { actor: "Pete Postlethwaite", role: "Maurice Fischer", photoUrl: "https://image.tmdb.org/t/p/w185/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg" },
+      { actor: "Michael Caine", role: "Stephen Miles", photoUrl: "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg" },
+      { actor: "Lukas Haas", role: "Nash", photoUrl: "https://image.tmdb.org/t/p/w185/6LNGu3o2aBiYNTDkbXMDIGyQtBh.jpg" },
+      { actor: "Talulah Riley", role: "Blonde", photoUrl: "https://image.tmdb.org/t/p/w185/fyfrZQOHNiOcPs2SZTajfXpX17A.jpg" },
+      { actor: "Tohoru Masamune", role: "Japanese Security Guard", photoUrl: "https://image.tmdb.org/t/p/w185/7rNjiFzY8KAf4kiZBJK1nBWOz8G.jpg" },
+      { actor: "Taylor Geare", role: "Phillipa (5 years)", photoUrl: "https://image.tmdb.org/t/p/w185/av6jHo6Sn9H0Bklb4oiJHO3OUy4.jpg" },
+      { actor: "Claire Geare", role: "Phillipa (3 years)", photoUrl: "https://image.tmdb.org/t/p/w185/5vlQTxzcDOlfwDB2I9zlfswfofJ.jpg" },
+      { actor: "Yuji Okumoto", role: "Saito Attendant", photoUrl: "https://image.tmdb.org/t/p/w185/eACYrrdj8kZnYMCpUTghbpJ9nVk.jpg" },
+      { actor: "Earl Cameron", role: "Elderly Bald Man", photoUrl: "https://image.tmdb.org/t/p/w185/y7ZZ7dfUozDzIMjMkmw6BD7lkSJ.jpg" },
+      { actor: "Ryan Hayward", role: "Lawyer", photoUrl: "https://image.tmdb.org/t/p/w185/b3zGgBljHB7MuXwDRAUJr4HRBzl.jpg" },
+      { actor: "Miranda Nolan", role: "Flight Attendant", photoUrl: "https://image.tmdb.org/t/p/w185/xzQJpQicKgeFtCqZ1xwr0Rhdf5t.jpg" },
+      { actor: "Russ Fega", role: "Cab Driver", photoUrl: "https://image.tmdb.org/t/p/w185/d0W7kq97Ul8Iz5LZIVNDKxSly8M.jpg" },
+      { actor: "Tim Kelleher", role: "Thin Man", photoUrl: "https://image.tmdb.org/t/p/w185/8W3KgoIPUMNjqb3CxC9B8QjBsjM.jpg" },
+      { actor: "Coralie Dedykere", role: "Bridge Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/2UgRqOOdn1wFEZWbnS7JY83bJnh.jpg" },
+      { actor: "Silvie Laguna", role: "Bridge Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/qDRqkAVWYhUN6P3flH5VuKKVcM8.jpg" },
+      { actor: "Virgile Bramly", role: "Bridge Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/1bbSzSPfT61YV2SI7cgTkbVPMeK.jpg" },
+      { actor: "Marc Raducci", role: "Lobby Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/twPlvPjynzWLnDgczD8tOAHdF6C.jpg" },
+      { actor: "Tai-Li Lee", role: "Tadashi", photoUrl: "https://image.tmdb.org/t/p/w185/lS8ksFaUsdTdbjTzLgHN5N4zeCl.jpg" },
+      { actor: "Mark Fleischmann", role: "Penrose Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/4Xki6fvgwjRXVmV9pEinAhqK6XJ.jpg" },
+      { actor: "Adam Cole", role: "Bar Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/6stnyhAOiA0JuOJ1tTVQKnVvVWj.jpg" },
+      { actor: "Jack Murray", role: "Bar Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/kwSd0y9yBTLlHfvmDf5SKh6SX1k.jpg" },
+      { actor: "Natasha Beaumont", role: "Bar Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/svKLagcLLHidlpGpjEnSaYOZxeP.jpg" },
+      { actor: "Jill Maddrell", role: "Lobby Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/wIab80Zd2v740NjGWxaph9tNflO.jpg" },
+      { actor: "Alex Lombard", role: "Lobby Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/7rRd2byURAqE2QObL3wJyHYQbpL.jpg" },
+      { actor: "Nicole Pulliam", role: "Lobby Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/XcJAw0P7bPE9ET52P4fZ2hdokk.jpg" },
+      { actor: "Peter Basham", role: "Fischer Jet Captain", photoUrl: "https://image.tmdb.org/t/p/w185/4AtYLZu7jX5ROgB9rCzYhicbLqk.jpg" },
+      { actor: "Michael Gaston", role: "Immigration Officer", photoUrl: "https://image.tmdb.org/t/p/w185/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg" },
+      { actor: "Felix Scott", role: "Businessman", photoUrl: "https://image.tmdb.org/t/p/w185/sRlcbtzrmVMEVdJAH6xocbYdfhr.jpg" },
+      { actor: "Andrew Pleavin", role: "Businessman", photoUrl: "https://image.tmdb.org/t/p/w185/hp20HveWeBveVYtE87DPwmXEpD2.jpg" },
+      { actor: "Lisa Reynolds", role: "Private Nurse", photoUrl: "https://image.tmdb.org/t/p/w185/kBFTzvYveef33Ci4PlKuDe7wGuD.jpg" },
+      { actor: "Daniel Girondeaud", role: "Bridge Sub Con", photoUrl: "https://image.tmdb.org/t/p/w185/oTLqQ4Cj5LhAbopXAq71hodKSdB.jpg" }
+    ],
+    languages: ["English", "Japanese", "French"],
+    genres: ["Thriller", "Sci-fi", "Action"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: ["sustained action violence without blood or gore", "brief implied suicide", "moderate psychological tension throughout", "mild language"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:28" }
+    ],
+    awards: [
+      { body: "Academy Awards (83rd)", category: "Best Cinematography", result: "Won", year: 2011 },
+      { body: "Academy Awards (83rd)", category: "Best Sound Editing", result: "Won", year: 2011 },
+      { body: "Academy Awards (83rd)", category: "Best Sound Mixing", result: "Won", year: 2011 },
+      { body: "Academy Awards (83rd)", category: "Best Visual Effects", result: "Won", year: 2011 },
+      { body: "BAFTA Film Awards (64th)", category: "Best Production Design", result: "Won", year: 2011 },
+      { body: "BAFTA Film Awards (64th)", category: "Best Special Visual Effects", result: "Won", year: 2011 },
+      { body: "Academy Awards (83rd)", category: "Best Picture", result: "Nominated", year: 2011 },
+      { body: "Academy Awards (83rd)", category: "Best Original Screenplay", result: "Nominated", year: 2011 },
+      { body: "Academy Awards (83rd)", category: "Best Original Score", result: "Nominated", year: 2011 },
+      { body: "Academy Awards (83rd)", category: "Best Art Direction", result: "Nominated", year: 2011 },
+      { body: "Academy Awards (83rd)", category: "Best Film Editing", result: "Nominated", year: 2011 },
+      { body: "BAFTA Film Awards (64th)", category: "Best Film", result: "Nominated", year: 2011 },
+      { body: "BAFTA Film Awards (64th)", category: "Best Direction", result: "Nominated", year: 2011 },
+      { body: "BAFTA Film Awards (64th)", category: "Best Original Screenplay", result: "Nominated", year: 2011 },
+      { body: "BAFTA Film Awards (64th)", category: "Best Editing", result: "Nominated", year: 2011 },
+      { body: "BAFTA Film Awards (64th)", category: "Best Sound", result: "Nominated", year: 2011 },
+      { body: "BAFTA Film Awards (64th)", category: "Best Cinematography", result: "Nominated", year: 2011 },
+      { body: "Golden Globe Awards (68th)", category: "Best Motion Picture - Drama", result: "Nominated", year: 2011 },
+      { body: "Golden Globe Awards (68th)", category: "Best Director", result: "Nominated", year: 2011 },
+      { body: "Golden Globe Awards (68th)", category: "Best Original Score", result: "Nominated", year: 2011 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["guilt", "grief", "subconscious", "deception", "obsession", "reality", "legacy"],
+      mood: ["hypnotic", "tense", "vertiginous"],
+      fullReview: "Dom Cobb steals secrets for a living — not from safes or servers, but from the human subconscious, navigating shared dreamscapes with the precision of a surgeon and the accumulated guilt of a man who has lost everything that mattered to him. When a powerful industrialist offers Cobb a chance at redemption in exchange for one last job, the mission is not extraction but inception: planting an idea so deep in a target\'s mind that the target will believe it was always his own. To accomplish this, Cobb assembles a specialist team and descends through layers of constructed reality, each dream nested inside the last like a Russian doll built from someone else\'s psychology.\n\nWhat Christopher Nolan understood — and what makes Inception more than an elaborate puzzle box — is that the rules of dreaming are not really about dreaming at all. They are about grief. The film\'s actual engine is guilt, and the labyrinthine dream architecture is a physical manifestation of what it looks like when a person refuses to let go of the past. Every visual excess, every gravity-defying corridor fight and collapsing Parisian streetscape, exists in service of this emotional premise. The technical spectacle and the psychological wound are, ultimately, the same thing.\n\nThe ensemble surrounding Leonardo DiCaprio is precisely calibrated. Joseph Gordon-Levitt brings a composed, almost bureaucratic professionalism to Arthur — the kind of operative who irons his shirt before entering a firefight — and his zero-gravity hallway sequence remains one of the most purely inventive action set pieces of its decade, constructed without digital trickery on a physically rotating set. Tom Hardy brings a silky, amused ease to Eames that provides the film\'s only real comic relief without puncturing its tone. Elliot Page\'s Ariadne functions partly as audience surrogate and partly as Cobb\'s moral compass, and the film leans on this device without fully transcending it — she is Inception\'s most mechanical element, constructed to ask questions the story needs answered rather than to exist on her own terms.\n\nMarion Cotillard does extraordinary work with a role that could have been purely symbolic. She makes Mal feel genuinely dangerous and genuinely lost, which is no small achievement when the character exists primarily as a projection rather than a person with present-tense agency. The scenes between DiCaprio and Cotillard carry the film\'s emotional weight better than the screenplay sometimes deserves.\n\nHans Zimmer\'s score is omnipresent and intentional — the now-iconic low brass drones underpin nearly every sequence and either hypnotize or exhaust depending on individual tolerance. Wally Pfister\'s cinematography won an Oscar and earned it: the visual grammar shifts register subtly between dream layers, and the images of Cobb\'s decaying subconscious architecture — liminal hotels dissolving into flooded corridors, a coastline made entirely of memory — are genuinely haunting.\n\nThe film\'s most honest flaw is its own confidence. Nolan trusts the mechanics so completely that he occasionally neglects to give the emotions room to breathe. The plotting is dense and the film works hard to ensure the audience tracks every gear, which is a form of generosity but also means that by the third act the human stakes compete with expository machinery for attention. The ending — ambiguous by precise design — is calibrated to leave viewers unsettled, and whether it lands as emotional payoff or intellectual provocation depends entirely on how much investment has been placed in Cobb as a man rather than as a narrative vehicle.\n\nWhat cannot be disputed is that Inception earns every dollar of its budget and every minute of its runtime. It takes a premise that should collapse under its own weight — a heist conducted inside a dream inside a dream inside a dream — and makes it feel logically coherent and emotionally credible for the vast majority of its two-and-a-half hours. More than fifteen years after release, it has not been truly replicated, and that says something beyond craft. It speaks to a filmmaker who, whatever limitations exist in his emotional register, is genuinely without peer at building a world that feels like it has consequence."
+    }
+  },
+  {
+    id: "la-la-land-2016",
+    title: "La La Land",
+    originalTitle: null,
+    romanization: null,
+    year: 2016,
+    tagline: "Here's to the fools who dream.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/97DYpdDmiOpfn9l9I2dGxDH01t1.svg",
+    posterUrl: "https://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=je0aAf2f8XQ",
+    director: [
+      {
+        name: "Damien Chazelle",
+        photoUrl: "https://image.tmdb.org/t/p/w185/14kRZ3XxNMyBv717YQSXr3wCucy.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Damien Chazelle",
+        photoUrl: "https://image.tmdb.org/t/p/w185/14kRZ3XxNMyBv717YQSXr3wCucy.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Ryan Gosling", role: "Sebastian", photoUrl: "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg" },
+      { actor: "Emma Stone", role: "Mia", photoUrl: "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg" },
+      { actor: "John Legend", role: "Keith", photoUrl: "https://image.tmdb.org/t/p/w185/cCv0YBy2YFFWp9h3kvNPmwWwrCD.jpg" },
+      { actor: "Rosemarie DeWitt", role: "Laura", photoUrl: "https://image.tmdb.org/t/p/w185/44sxIdGtYN24R14OmnZbCpcd8J8.jpg" },
+      { actor: "Finn Wittrock", role: "Greg", photoUrl: "https://image.tmdb.org/t/p/w185/gwGMGTmli0uBF7eAhhXePWhYNFJ.jpg" },
+      { actor: "Callie Hernandez", role: "Tracy", photoUrl: "https://image.tmdb.org/t/p/w185/doMXlhTAYCy8gH43yYA6m9ymxhd.jpg" },
+      { actor: "Sonoya Mizuno", role: "Caitlin", photoUrl: "https://image.tmdb.org/t/p/w185/scbRPaGPw3VnR6mrmZQZi6Cuj1m.jpg" },
+      { actor: "Jessica Rothe", role: "Alexis", photoUrl: "https://image.tmdb.org/t/p/w185/oItPXy56W0Y5taqIMZilRtnPDMn.jpg" },
+      { actor: "Tom Everett Scott", role: "David", photoUrl: "https://image.tmdb.org/t/p/w185/nVDihOvsSm7kmeyHLtAcEzrrSYC.jpg" },
+      { actor: "Josh Pence", role: "Josh", photoUrl: "https://image.tmdb.org/t/p/w185/tkDFl0BEVCUcwKR30ICeG3yCTbr.jpg" },
+      { actor: "J.K. Simmons", role: "Bill", photoUrl: "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg" },
+      { actor: "Amiée Conn", role: "Famous Actress", photoUrl: "https://image.tmdb.org/t/p/w185/wAcmKIkZOfuS3gKnUTUW9Epu6Yy.jpg" },
+      { actor: "Terry Walters", role: "Linda (Coffee Shop Manager)", photoUrl: "https://image.tmdb.org/t/p/w185/ixN4VkUNqy2xObaddCW68rhFbyA.jpg" },
+      { actor: "Thom Shelton", role: "Coffee Spiller", photoUrl: "https://image.tmdb.org/t/p/w185/pJy38LQINpvPvTKgQJvxOwrWDkb.jpg" },
+      { actor: "Cinda Adams", role: "Casting Director (First Audition)", photoUrl: "https://image.tmdb.org/t/p/w185/7CZXKhAEyjslPo7OH6TrYWCWEZz.jpg" },
+      { actor: "Claudine Claudio", role: "Karen (Waitress)", photoUrl: "https://image.tmdb.org/t/p/w185/17mMdoaqw8CaUsIvc0ce5w71ihS.jpg" },
+      { actor: "Jason Fuchs", role: "Carlo", photoUrl: "https://image.tmdb.org/t/p/w185/fevls3rxpa1GQx4kSPNKNjRemKW.jpg" },
+      { actor: "D.A. Wallach", role: "80s singer", photoUrl: "https://image.tmdb.org/t/p/w185/tC3Bwp7MOJsa3jcPeRW8P4H9OHj.jpg" },
+      { actor: "Trevor Lissauer", role: "Valet", photoUrl: "https://image.tmdb.org/t/p/w185/hW3GDgV3q0Swo0EHf5W3mmZetjP.jpg" },
+      { actor: "Olivia Hamilton", role: "Bree (Gluten Free Girl)", photoUrl: "https://image.tmdb.org/t/p/w185/jztRaobVg4YWiV0cIa6UbS8JymY.jpg" },
+      { actor: "Anna Chazelle", role: "Sarah (Pilot Casting Assistant)", photoUrl: "https://image.tmdb.org/t/p/w185/lSkrk8rqWUHVOZAMVGpknQP7RkU.jpg" },
+      { actor: "Marius de Vries", role: "Clyde (Pilot Director)", photoUrl: "https://image.tmdb.org/t/p/w185/xIMYzb0xd07ZVxr5vmtFwreuxm7.jpg" },
+      { actor: "Nicole Coulon", role: "Josh Fiancée", photoUrl: "https://image.tmdb.org/t/p/w185/xNRgO2iG9zziOzbgK72yLRCPIRe.jpg" },
+      { actor: "Damon Gupton", role: "Harry", photoUrl: "https://image.tmdb.org/t/p/w185/bbbJiEx01uvOCKwiEHv9OmPI4r8.jpg" },
+      { actor: "Kaveh Rastegar", role: "Tom", photoUrl: "https://image.tmdb.org/t/p/w185/kfjgDX4nl4nUIvb3uVLHSPFJCuT.jpg" },
+      { actor: "David Douglas", role: "Radio DJ", photoUrl: "https://image.tmdb.org/t/p/w185/lDdmA75f7irhs9kq0s3W3WbvL5w.jpg" },
+      { actor: "Miles Anderson", role: "Alistair (Photographer)", photoUrl: "https://image.tmdb.org/t/p/w185/i4VFdmtrRrQoagTlHHlC1klwJAE.jpg" },
+      { actor: "Bobo Chang", role: "Photographer Assistant", photoUrl: "https://image.tmdb.org/t/p/w185/ti8xeMI8FUPcaWNlDaIodp5ugKn.jpg" },
+      { actor: "Meagen Fay", role: "Mia Mom", photoUrl: "https://image.tmdb.org/t/p/w185/tWYJAKDTMweanGzpUPkZ24naByw.jpg" },
+      { actor: "Valarie Rae Miller", role: "Amy Brandt", photoUrl: "https://image.tmdb.org/t/p/w185/zVD40ujRFilHsDLkVl3vYiDfgPO.jpg" },
+      { actor: "Nicole Wolf", role: "Amy Brandt Assistant", photoUrl: "https://image.tmdb.org/t/p/w185/oppDjxZny3MwE6JLNHdtqOCCMN7.jpg" },
+      { actor: "Corrin Evans", role: "New Barista", photoUrl: "https://image.tmdb.org/t/p/w185/9YTONcDc4czoXEeFVRHSClPPCCg.jpg" },
+      { actor: "Kiff VandenHeuvel", role: "New Coffee Shop Manager", photoUrl: "https://image.tmdb.org/t/p/w185/5vf1cIWjqH3xgbHWPhyIIEKDgdN.jpg" },
+      { actor: "Zoë Hall", role: "Chelsea", photoUrl: "https://image.tmdb.org/t/p/w185/s0uH2zz3yRGDUCuBpmpQZaG3ZeL.jpg" },
+      { actor: "Dempsey Pappion", role: "Seb Jazz Club Employee", photoUrl: "https://image.tmdb.org/t/p/w185/jPqHoYUzlo5MwZbvFUKi2XqNYaN.jpg" },
+      { actor: "Clifton Eddie", role: "Seb Drummer", photoUrl: "https://image.tmdb.org/t/p/w185/jIxkjRSTGvfnr06zVRHeOk3uDsb.jpg" },
+      { actor: "Reshma Gajjar", role: "Traffic Dancer - Girl #1", photoUrl: "https://image.tmdb.org/t/p/w185/hbmthQ7qiyFPmZeTXIi4R8qZO1Q.jpg" },
+      { actor: "Damian Gomez", role: "Traffic Dancer - 2nd Man", photoUrl: "https://image.tmdb.org/t/p/w185/oIeuu8YO4lC8aAYYaZ0lqvyu7mL.jpg" },
+      { actor: "Candice Coke", role: "Traffic Dancer - Girl #2", photoUrl: "https://image.tmdb.org/t/p/w185/aAZd7xXLIoqL1NZMxh5UasjiLwt.jpg" },
+      { actor: "Amanda Balen", role: "Traffic Dancer - Conductor", photoUrl: "https://image.tmdb.org/t/p/w185/uGNGgtCdGYKpSYJhPGUlMjr7EsO.jpg" },
+      { actor: "Cindera Che", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/w6gUBgOYeAg3khxr3fizH1VV89o.jpg" },
+      { actor: "Tiffany Daniels", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/h65BnS8f2ccwk1eVTp3nXng7mOu.jpg" },
+      { actor: "Nick Drago", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/vMWL0yJFAp0oHpge6azZREJhIMo.jpg" },
+      { actor: "Marissa Labog", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/77ORtHAM23gcnBuRflh5hQKZzX3.jpg" },
+      { actor: "Stephanie Landwehr", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/lm7nMnQxSWFsEpzDbWJ5Go9NMAt.jpg" },
+      { actor: "Chris Moss", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/m95KDtXyiI3A303WVaGGY3MEzyl.jpg" },
+      { actor: "Clarice Ordaz", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/wBe87dCDzDY102yMTXLNwuiylg2.jpg" },
+      { actor: "Nathan Prevost", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/ptEmEF5uK1u40SnvrSjOCN9XWWV.jpg" },
+      { actor: "Bradley M. Rapier", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/jBzMEfykBKBFWWI61DNN0XG0IkC.jpg" },
+      { actor: "Britt Stewart", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/9JxocLOhH8wOdqaGcrRn2wYGgMi.jpg" },
+      { actor: "Melinda Sullivan", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/jVctptNI0jgoytvBkm1VoVPPRi4.jpg" },
+      { actor: "Cris Judd", role: "Traffic Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/jcTXeFk8arPo9XhxPc1MUw9F3rT.jpg" },
+      { actor: "Morgan Larson", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/2NsVx3Z8Ep0ZsLdsD5SAiBPnnrq.jpg" },
+      { actor: "KC Monnie", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/mSj3JATOM9AjHOw4VeGVrBbmk4A.jpg" },
+      { actor: "Scott Myrick", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/sORXPcKRW9W0f9TPGyCQqf6g84D.jpg" },
+      { actor: "Jeremy Hudson", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/zy2uOKzbKjv9KCncuTIJ58Ex2RX.jpg" },
+      { actor: "Krystal Ellsworth", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/htDYbWlOUNF8N70iF44IZDOfk7w.jpg" },
+      { actor: "Natalie Gilmore", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/okRYycL6ftTKheg5AvDGqum7nfS.jpg" },
+      { actor: "Shannon Holtzapffel", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/nmIRemt96xTQWr2B1Clpk8aNDkB.jpg" },
+      { actor: "Galen Hooks", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/pHCa12C16fKYhUwELLLYetivXpS.jpg" },
+      { actor: "Sarah Mitchell", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/m4Lcuxsp0FgGH8kxTMJK741TDhP.jpg" },
+      { actor: "Víctor Rojas", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/jFsVOq8GySgfC55H0SUgA0XKfGp.jpg" },
+      { actor: "Nick Baga", role: "Hollywood Party Dancer - Agent #3", photoUrl: "https://image.tmdb.org/t/p/w185/mOZBa0zodfqMqzvQ62kSOIMQUv.jpg" },
+      { actor: "Scott Hislop", role: "Hollywood Party Dancer - Creepy Guy", photoUrl: "https://image.tmdb.org/t/p/w185/xIQNYmGi3GwyAhUJGwzpz3ndWvr.jpg" },
+      { actor: "Leah Adler", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/i1egwulKbATVHTLU8rFv5Gmi6Ua.jpg" },
+      { actor: "Noel Bajandas", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/aUr9AKUuJSJnBxAQHWg2Oq90r1N.jpg" },
+      { actor: "Montana Efaw", role: "Hollywood Party Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/agCQ06geYu5KvoaGUrvngMbOJz4.jpg" },
+      { actor: "Asiel Hardison", role: "Hollywood Party Dancer - Agent #1", photoUrl: "https://image.tmdb.org/t/p/w185/eYSdGhrzRvAZd7m6Z5NpqvUGCO9.jpg" },
+      { actor: "Tracy Shibata", role: "Hollywood Party Dancer - Girl #1", photoUrl: "https://image.tmdb.org/t/p/w185/3rjYnXp8tuOqZD7LnHqhppQeuaX.jpg" },
+      { actor: "Dominique Domingo", role: "Hollywood Party Dancer - Girl #2", photoUrl: "https://image.tmdb.org/t/p/w185/fjs2Vqs7NTW5FzqEG3tjo671yxW.jpg" },
+      { actor: "Bryan Tanaka", role: "Echo Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/yQazvMlE19m6y7V3MKtK5nAolfY.jpg" },
+      { actor: "Ryan Ramirez", role: "Echo Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/5QXbJD3fMqGekN2Kr7TkiR2GprL.jpg" },
+      { actor: "Catalina Cat Rendic", role: "Echo Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/hr6scgBXGumErv2txpIuFpM2FnL.jpg" },
+      { actor: "Tony Bellissimo", role: "Echo Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/usxy97IHYywasyS9kRVK6iBPhk2.jpg" },
+      { actor: "Mario Diaz", role: "Restaurant Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/ytOusJHb2UKvICaR3gdaXLDAolJ.jpg" },
+      { actor: "Michael Stein", role: "Restaurant Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/ew6KjQhnVoYoLXztbEBLSEbzgQ.jpg" },
+      { actor: "Becca Sweitzer", role: "Restaurant Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/wW6Wtjg5OCOksrBwfGYxktY9yLc.jpg" },
+      { actor: "Sybil Azur", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/jyhPcSqQFThtnJSCeIis5aitvtq.jpg" },
+      { actor: "Demian Boergadine", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/nyfUZJi656sSeQAIid1Q0wC9H6k.jpg" },
+      { actor: "Lexie Contursi", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/gGUMFXbkkOicpueLOCVecbrxJU8.jpg" },
+      { actor: "Tara Nicole Hughes", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/rxextqelNmBO7pZumjfjv07FSiW.jpg" },
+      { actor: "Kayla Kalbfleisch", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/bGv95ZBaP3uiJOCXsG09ntUa2bv.jpg" },
+      { actor: "Anthony Marciona", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/xXENYPnh4mCMAlAJ1agh10X9os8.jpg" },
+      { actor: "Martha Nichols", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/ksqxQQ79UyobcW1ZwPXMI0ORUP6.jpg" },
+      { actor: "Robert Roldan", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/nmsMzQ6eKoqGBF6z1IsAYRte32v.jpg" },
+      { actor: "Eartha Robinson", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/uF6hUBsnX3MsZy0qXlelOkQ5R01.jpg" },
+      { actor: "Gustavo Vargas", role: "Epilogue Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/hnoyTgckJjl6bp8JPvVAIBc5fvv.jpg" },
+      { actor: "Bruce Davison", role: "Mia Father", photoUrl: "https://image.tmdb.org/t/p/w185/41JtouCUhnnBwWmdsemPydtk3FB.jpg" },
+      { actor: "Hemky Madera", role: "Jimmy", photoUrl: "https://image.tmdb.org/t/p/w185/net1kEEpSrr9QC9be6YRhLGuM0k.jpg" },
+      { actor: "Sandra Rosko", role: "Dream Audience", photoUrl: "https://image.tmdb.org/t/p/w185/rYJ185ACbXGAsGbixXRe6i7t2hX.jpg" },
+      { actor: "Tommy Cooley", role: "Kissing Couple", photoUrl: "https://image.tmdb.org/t/p/w185/fa9VC9ISiBvDtGzp1NGN4b8kex2.jpg" },
+      { actor: "Kristin Slaysman", role: "Coffee Shop Customer", photoUrl: "https://image.tmdb.org/t/p/w185/oLxqVMQnRy354oTYUodPcRUZXHa.jpg" },
+      { actor: "Ana Flavia Gavlak", role: "Young Actress", photoUrl: "https://image.tmdb.org/t/p/w185/6GuMofuPXMIkKU5VPqriK5cm08j.jpg" },
+      { actor: "Noah James", role: "Young Man", photoUrl: "https://image.tmdb.org/t/p/w185/j2s00uBQ0BOqSnIzRI4ecAthVTP.jpg" },
+      { actor: "Ottavio Taddei", role: "Swing Dancer", photoUrl: "https://image.tmdb.org/t/p/w185/x3AafffHuax8fgcjqkIw9SmKnun.jpg" },
+      { actor: "Destinee Handly", role: "Barista", photoUrl: "https://image.tmdb.org/t/p/w185/pJ5dX46jnsXX5aTabzkLcMrg9PR.jpg" },
+      { actor: "Steffen Dziczek", role: "Moviegoer", photoUrl: "https://image.tmdb.org/t/p/w185/upR3Cnuje1UM0FlcZc9QonWNUg9.jpg" },
+      { actor: "Vince Donvito", role: "Coffee Guy", photoUrl: "https://image.tmdb.org/t/p/w185/53XGihVEMGFPTjNIcxpG6elDzHt.jpg" },
+      { actor: "Crystal Nichol", role: "Audition Actress", photoUrl: "https://image.tmdb.org/t/p/w185/9gS0uwcrPKvNP4BN5xQJu1XbaLa.jpg" },
+      { actor: "Kaye L. Morris", role: "Producer Girlfriend", photoUrl: "https://image.tmdb.org/t/p/w185/sbRkCqTly8CWz6s6a2A3F9owZsn.jpg" },
+      { actor: "Trent Kerpsack", role: "Sailor", photoUrl: "https://image.tmdb.org/t/p/w185/6TSynoifkOG6TM28aklBoaQrrak.jpg" },
+      { actor: "Holly Houk", role: "Kissing Couple", photoUrl: "https://image.tmdb.org/t/p/w185/78OsXsLG5TqQ0Sms65QDP7WUJnv.jpg" },
+      { actor: "Andrea Lareo", role: "Casting Assistant", photoUrl: "https://image.tmdb.org/t/p/w185/euE6x09sNhdXmnZ0hYVCflGp6q0.jpg" },
+      { actor: "April Martucci", role: "Audition Girl", photoUrl: "https://image.tmdb.org/t/p/w185/bfRpTO7RlAgxlaYqmTJG47ACu9D.jpg" },
+      { actor: "Heather Turman", role: "Young Man Date", photoUrl: "https://image.tmdb.org/t/p/w185/bNnguOtp6aOhhZuOjTx5o3BcyfR.jpg" },
+      { actor: "Jenna Curtis", role: "Waitress", photoUrl: "https://image.tmdb.org/t/p/w185/9FRt85ykJMRHXoePJQsTMlU7W8p.jpg" },
+      { actor: "Jordan Ray Fox", role: "Nathan", photoUrl: "https://image.tmdb.org/t/p/w185/iIE6njmgNmKrhx5dy6VXfJMnVsh.jpg" },
+      { actor: "Anna Lunberry", role: "Publicist", photoUrl: "https://image.tmdb.org/t/p/w185/ffkguKJlBR7DoR5jJJ7urH2vOka.jpg" },
+      { actor: "Christopher Aber", role: "Cowboy", photoUrl: "https://image.tmdb.org/t/p/w185/sxzEasDxUuQ2Ve0gHRV9yw3b6O6.jpg" },
+      { actor: "Margaret Newborn", role: "Jazz Club Goer", photoUrl: "https://image.tmdb.org/t/p/w185/fd0EyXszte0j9TwB9oNc5EPEIZB.jpg" },
+      { actor: "C.J. Stussi", role: "Espresso Coffee Shop Customer", photoUrl: "https://image.tmdb.org/t/p/w185/w7joVm7x4xfNO8xDF6F6FuPYhoT.jpg" },
+      { actor: "Cameron Brinkman", role: "Jazz Club Patron", photoUrl: "https://image.tmdb.org/t/p/w185/6bwx3tqBX0xJmTtDWv8HER6IuNg.jpg" },
+      { actor: "Kristin Elliott", role: "Audition Actress", photoUrl: "https://image.tmdb.org/t/p/w185/lcdQKEpW4H6fBPuL46ypuglT6VY.jpg" },
+      { actor: "Nilla Elizabeth Watkins", role: "Coffee Shop Customer", photoUrl: "https://image.tmdb.org/t/p/w185/A81aveNc8riFBBa9gU6KzUTkB8b.jpg" },
+      { actor: "Andres Perez-Molina", role: "Coffee Shop Customer", photoUrl: "https://image.tmdb.org/t/p/w185/a1Txhr0iVWq1BitCy0TMqEOxdof.jpg" },
+      { actor: "Shannon Leann", role: "Hollywood Starlet", photoUrl: "https://image.tmdb.org/t/p/w185/aH8nQUKp55JSlcHuzhzX0HPxcjY.jpg" },
+      { actor: "Milica Govich", role: "Coffee Shop Customer #2", photoUrl: "https://image.tmdb.org/t/p/w185/lUXNmCmovQuJR61U0JQnbKpnXQd.jpg" },
+      { actor: "Frederick Keeve", role: "Restaurant Patron", photoUrl: "https://image.tmdb.org/t/p/w185/fOM486OOwFfBoG5ezvUbQ71MDON.jpg" },
+      { actor: "Amanda Fields", role: "Red Head Actress", photoUrl: "https://image.tmdb.org/t/p/w185/qgpbaKKmE1744cbzp6EdOqZ8ZqA.jpg" },
+      { actor: "Jessica Rotter", role: "Singer", photoUrl: "https://image.tmdb.org/t/p/w185/5DlK8QfEpCzqok5R1gHQL7KaJou.jpg" },
+      { actor: "Bunny Levine", role: "Movie Theatre Cashier", photoUrl: "https://image.tmdb.org/t/p/w185/biefLM3edLXSYssImB6BfZEmZF9.jpg" }
+    ],
+    languages: ["English"],
+    genres: ["Musical", "Romance", "Drama"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: ["mild language including a brief strong expletive", "moderate emotional intensity around romantic breakup and disappointment", "brief non-explicit intimacy", "thematic portrayal of career ambition eroding a romantic relationship"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:09" }
+    ],
+    awards: [
+      { body: "Golden Globe Awards (74th)", category: "Best Motion Picture – Musical or Comedy", result: "Won", year: 2017 },
+      { body: "Golden Globe Awards (74th)", category: "Best Director – Motion Picture", result: "Won", year: 2017 },
+      { body: "Golden Globe Awards (74th)", category: "Best Actress in a Motion Picture – Musical or Comedy", result: "Won", year: 2017 },
+      { body: "Golden Globe Awards (74th)", category: "Best Actor in a Motion Picture – Musical or Comedy", result: "Won", year: 2017 },
+      { body: "Golden Globe Awards (74th)", category: "Best Screenplay – Motion Picture", result: "Won", year: 2017 },
+      { body: "Golden Globe Awards (74th)", category: "Best Original Score – Motion Picture", result: "Won", year: 2017 },
+      { body: "Golden Globe Awards (74th)", category: "Best Original Song – Motion Picture", result: "Won", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Director", result: "Won", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Actress", result: "Won", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Cinematography", result: "Won", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Production Design", result: "Won", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Original Score", result: "Won", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Original Song", result: "Won", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Film", result: "Won", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Direction", result: "Won", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Actress in a Leading Role", result: "Won", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Original Screenplay", result: "Won", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Cinematography", result: "Won", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Original Music", result: "Won", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Production Design", result: "Won", year: 2017 },
+      { body: "Screen Actors Guild Awards (23rd)", category: "Outstanding Performance by a Female Actor in a Leading Role", result: "Won", year: 2017 },
+      { body: "Directors Guild of America Awards (69th)", category: "Outstanding Directing – Feature Film", result: "Won", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Picture", result: "Nominated", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Actor", result: "Nominated", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Original Screenplay", result: "Nominated", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Film Editing", result: "Nominated", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Costume Design", result: "Nominated", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Original Song (Audition)", result: "Nominated", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Sound Mixing", result: "Nominated", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Sound Editing", result: "Nominated", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Actor in a Leading Role", result: "Nominated", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Film Editing", result: "Nominated", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Sound", result: "Nominated", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Costume Design", result: "Nominated", year: 2017 },
+      { body: "Screen Actors Guild Awards (23rd)", category: "Outstanding Cast in a Motion Picture", result: "Nominated", year: 2017 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["ambition", "sacrifice", "nostalgia", "compromise", "idealism", "passion", "memory"],
+      mood: ["wistful", "bittersweet", "luminous"],
+      fullReview: "Mia is an aspiring actress who serves coffee to film stars between auditions that go nowhere. Sebastian is a jazz purist scraping by playing Christmas standards at a restaurant where the owner has told him, explicitly and firmly, not to play jazz. When they collide — repeatedly, irritably, then inevitably — they fall into a romance that becomes as much about what each person represents to the other as what they actually are. This is a film about dreamers in Los Angeles, but more precisely it is about the version of yourself that exists in someone else\'s belief in you, and what happens when the real world makes conflicting demands on both of you at once.\n\nDamien Chazelle made La La Land at thirty-two, and its youthfulness is both its greatest asset and its most honest limitation. The film burns brightest in its first half, when the musical sequences feel genuinely spontaneous — two people dancing on a hilltop at dusk, the city spread below them, the whole sequence shot in a single unbroken take with Linus Sandgren\'s camera finding the exact angle where the light makes ordinary Los Angeles look like a place worth dreaming about. These are not just impressive technical achievements. They are the film\'s argument, rendered in movement and color: that the gap between who people are and who they wish to be can, in certain moments, simply disappear.\n\nEmma Stone gives the best performance of her career here. Mia is not a technically demanding role on paper, but Stone finds a specific quality of vulnerability in her — the way she holds hope and embarrassment in equal measure, how easily her face betrays the precise second something stops going well. The late audition sequence, where Mia is asked to tell a story and tells the truth instead, is the emotional spine of the entire film, and Stone carries it alone without any of the visual apparatus that supports everything else. It is the moment the film stops being a musical and becomes something else entirely.\n\nRyan Gosling\'s Sebastian is somewhat cooler, more guarded — which suits a man who has turned his musical convictions into an identity. The slight insufferability of someone who is always right about something nobody asked him about is played with careful restraint, and Gosling is smart enough to let the character be wrong without signaling it too clearly. The dynamic between them is charming rather than electric, which is perhaps the film\'s one genuine structural limit: the romance that drives the plot sometimes feels thinner than the music and images that surround it.\n\nJustin Hurwitz\'s score operates at a level of emotional intelligence that most film composers do not reach. The main theme accumulates meaning through repetition — heard first as something pretty, then something tender, then something that carries the full weight of what has been given up — until its final appearance lands with the force of genuine loss. It is the score\'s doing, more than any single scene, that makes the ending feel like a gut punch rather than a footnote.\n\nThe film earns its ambitions mostly because it knows what it is doing thematically. It understands that nostalgia does not require distance — that it can be felt in the present tense, for the life being lived right now, alongside the awareness of all the paths not taken. The final sequence, wordless and devastating, makes this idea concrete in a way the screenplay never quite manages in dialogue. What stays with anyone who watches it is not a specific scene or exchange but a feeling: the particular ache of a choice that was right and wrong at the same time, and the knowledge that both things remain true forever."
+    }
+  },
+  {
+    id: "snowpiercer-2013",
+    title: "Snowpiercer",
+    originalTitle: "설국열차",
+    romanization: "Seolgukyeolcha",
+    year: 2013,
+    tagline: "Fight your way to the front.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/7mqDTbNOTMohYDXHSmOxNIvoDtt.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/hX3yYovRH6Vi4WsIPpFnP6IywCS.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/tBIRtMCELcA5PxO7z7OiuCHJdFO.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ieCQ6wePGfM",
+    director: [
+      {
+        name: "Bong Joon Ho",
+        photoUrl: "https://image.tmdb.org/t/p/w185/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Bong Joon Ho",
+        photoUrl: "https://image.tmdb.org/t/p/w185/stwnTvZAoD8gEJEDHpDQyLCyDy5.jpg"
+      },
+      {
+        name: "Kelly Masterson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pPhIBJbqga5TFpXUCktGFM0mGok.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Chris Evans",
+        role: "Curtis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+      },
+      {
+        actor: "Song Kang-ho",
+        role: "Namgoong Minsu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
+      },
+      {
+        actor: "Ed Harris",
+        role: "Wilford",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+      },
+      {
+        actor: "John Hurt",
+        role: "Gilliam",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+      },
+      {
+        actor: "Tilda Swinton",
+        role: "Mason",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+      },
+      {
+        actor: "Jamie Bell",
+        role: "Edgar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+      },
+      {
+        actor: "Octavia Spencer",
+        role: "Tanya",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+      },
+      {
+        actor: "Ewen Bremner",
+        role: "Andrew",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+      },
+      {
+        actor: "Ko A-sung",
+        role: "Yona",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hzGxaqQ2LsBObBSijV9SYCEyhFv.jpg"
+      },
+      {
+        actor: "Alison Pill",
+        role: "Teacher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ebcCkhqFtHvHx5dkBfVmlAknDxC.jpg"
+      },
+      {
+        actor: "Luke Pasqualino",
+        role: "Grey",
+        photoUrl: "https://image.tmdb.org/t/p/w185/egwyqohJ3KLag4GUyTzXGngwTc1.jpg"
+      },
+      {
+        actor: "Vlad Ivanov",
+        role: "Franco The Elder",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mWEMgTQieGgvSzjtjx6UOm444hN.jpg"
+      },
+      {
+        actor: "Adnan Hasković",
+        role: "Franco The Younger",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q7Bv9cJYQlggPH7bi9piwHuLs3V.jpg"
+      },
+      {
+        actor: "Emma Levie",
+        role: "Claude",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lbeJfLQKVDWI9Lfm7IlpbJtCOph.jpg"
+      },
+      {
+        actor: "Steve Park",
+        role: "Fuyu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wDa3CYi7GPUcFBoi7Fg0fcCCXDc.jpg"
+      },
+      {
+        actor: "Clark Middleton",
+        role: "Painter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pZM07erVJsj1xtE7S1MkxvlHPhA.jpg"
+      },
+      {
+        actor: "Marcanthonee Reis",
+        role: "Tim",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8VLsr75HGBi2TMLzv9dtqLN3XN9.jpg"
+      },
+      {
+        actor: "Paul Lazar",
+        role: "Paul",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oJVjkbm3e3EfyZpHwjLdmLd50Ec.jpg"
+      },
+      {
+        actor: "Tómas Lemarquis",
+        role: "Egg-Head",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1R9CGk1kSePpzfRjdJjGfK1Pz5x.jpg"
+      },
+      {
+        actor: "Kenny Doughty",
+        role: "News Reporter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lLsbZLO0JQPIiaRZTcVYbVxfv4m.jpg"
+      },
+      {
+        actor: "Jim High",
+        role: "Soldier 1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lGOBQHhRQcqsaLHtl5I1cOqaYy7.jpg"
+      },
+      {
+        actor: "Peter Hallin",
+        role: "Soldier 2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kphDpwwanluZ3ZZoipnNnkyU8CV.jpg"
+      },
+      {
+        actor: "Haruna Honcoop",
+        role: "Female Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/md5c1gjkYMnGaZkWvgfWmcMKyFd.jpg"
+      },
+      {
+        actor: "Sean Connor Renwick",
+        role: "Sergio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lFYBykI0cgnl91D7vaCf4I0MjNZ.jpg"
+      },
+      {
+        actor: "Tomáš Dianiška",
+        role: "Dark Voice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kMiElvi0fB26cTnPaABLOd2UT2f.jpg"
+      },
+      {
+        actor: "Miroslav Navrátil",
+        role: "Giant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2TqyZd0S8eo2O6VxaI83XRuo9XI.jpg"
+      },
+      {
+        actor: "Dana Green",
+        role: "Voice Actor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2FBynUGjrjhsgJVewvbCVmKlZt9.jpg"
+      },
+      {
+        actor: "Jonny Loquasto",
+        role: "Voice Actor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wzrCeXQtwBPkKTW8eR4gvdY8MrV.jpg"
+      },
+      {
+        actor: "Parry Shen",
+        role: "Voice Actor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eDqUAJDawdSnC3jSmT6LNYmReqi.jpg"
+      },
+      {
+        actor: "Joseph Bertót",
+        role: "Voice Actor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/249RDdpYBmLaIbJ7xMFZvBu0xLH.jpg"
+      },
+      {
+        actor: "Kendrick Roger Ong",
+        role: "Soldier B",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dnyvn0Up5PhHSbEmd5cE47cWIOq.jpg"
+      }
+    ],
+    languages: ["English", "Korean", "Japanese", "French"],
+    genres: ["Sci-fi", "Action", "Drama", "Political"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "intense close-quarters combat violence with weapon injury detail",
+        "scenes of prolonged class brutality and physical degradation",
+        "depictions of child conscription and indoctrination",
+        "drug use and needle-based substance dependency",
+        "disturbing imagery of human suffering and starvation"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:07" }
+    ],
+    awards: [
+      { body: "Grand Bell Awards (34th)", category: "Best Film", result: "Won", year: 2014 },
+      { body: "Grand Bell Awards (34th)", category: "Best Director", result: "Won", year: 2014 },
+      { body: "Grand Bell Awards (34th)", category: "Best Actor", result: "Won", year: 2014 },
+      { body: "Grand Bell Awards (34th)", category: "Best Cinematography", result: "Won", year: 2014 },
+      { body: "Grand Bell Awards (34th)", category: "Best Lighting", result: "Won", year: 2014 },
+      { body: "Grand Bell Awards (34th)", category: "Best Art Direction", result: "Won", year: 2014 },
+      { body: "Baeksang Arts Awards (50th)", category: "Best Film", result: "Nominated", year: 2014 },
+      { body: "Baeksang Arts Awards (50th)", category: "Best Director", result: "Nominated", year: 2014 },
+      { body: "Saturn Awards (41st)", category: "Best Science Fiction Film", result: "Nominated", year: 2015 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["revolution", "hierarchy", "complicity", "survival", "sacrifice", "propaganda", "confinement"],
+      mood: ["suffocating", "relentless", "bleak"],
+      fullReview: "In a near future where a failed atmospheric engineering experiment has entombed the Earth in permanent ice, the last survivors of humanity circle the globe aboard the Snowpiercer — a train perpetually in motion, powered by a sacred engine, its population divided with ruthless precision between those who feast in the front cars and those who rot in the tail. Curtis, a man who has spent seventeen years in the rear section, leads an uprising car by car toward the locomotive\'s front. What he expects to find there and what he actually finds are two very different things. Bong Joon Ho\'s English-language debut, adapted from a French graphic novel, is one of the rare genre films that knows exactly what it is doing and does it without apology. The train is not a metaphor that requires decoding — it is a diagram of power drawn in steel and bone, and Bong renders each car the revolution passes through as a distinct chamber in the architecture of class. A brightly lit classroom where children sing hymns to the engine and its sacred properties. A nightclub where the privileged dance in deliberate ignorance. An aquarium. A sushi bar. Each space the uprising claims exposes another layer of what the system requires from those at the bottom in order to sustain the pleasures at the top. The allegory is blunt. It is meant to be. Subtlety would be a form of dishonesty here. The film\'s most sustained set piece — a pitched battle fought in near-total darkness through a car packed with armed soldiers — generates the kind of tension that builds in the chest rather than on the surface. But what distinguishes Bong from directors who would cut away to the next act is his insistence on holding still afterward. The cost of what just happened is made visible in faces, in bodies, in the silence that follows. This is a film that takes revolution seriously enough to refuse it any glamour. Tilda Swinton\'s Mason is the film\'s most flamboyant creation, a bureaucratic grotesque who speaks in the cadences of a middle-management zealot and whose theatrical villainy is immediately recognizable as something far more specific and more chilling: a person who believes in the system not despite its cruelty but because of it. The performance is deliberately maximalist, and it works because the film never asks the audience to mistake the mask for the face beneath it. Chris Evans does his most quietly interesting work here. Curtis is exhausted, morally burdened, carrying a specific history that the screenplay withholds until it can do the most damage with it. Evans underplays consistently, which is the correct instinct, and the moments when something cracks behind the eyes land with weight because nothing before them has been wasted. Song Kang-ho, playing a character who communicates through a narrative language barrier, delivers what may be the film\'s most precise piece of acting. His Namgoong is watchful, oblique, and finally the person who sees what the film has been building toward with more clarity than anyone else on screen. The screenplay, credited to Bong and Kelly Masterson, is more schematic than Bong\'s Korean work. Several characters function as plot mechanisms rather than people, and a mid-film expository stretch slows the momentum in a way the picture never fully recovers. The film is considerably more interesting in its final forty minutes than its first forty, which is an unusual structural problem for a thriller — it inverts the natural pull of the genre. Marco Beltrami\'s score is workmanlike where it should be unsettling; it fills the sound design without adding to it. Hong Kyung-pyo\'s cinematography, however, earns close attention. Shooting inside the claustrophobic confines of train sets, he finds compositions that convey both the relentlessness of the journey and the suffocating narrowness of the world — the sense that for these people, the only possible direction is forward, and forward is the direction of everything that has been done to them. What the film ultimately refuses is catharsis. Revolution in Snowpiercer is not triumphant. It is contaminated at the source, and the questions it raises about what power requires of those who pursue it are not resolved cleanly. The ending, which arrives in a burst of cold white light, is one of the more honest conclusions in recent genre cinema. It does not offer relief. It offers something rarer in commercial filmmaking: the sensation of having watched a story that meant what it was saying. Snowpiercer is for audiences willing to let action cinema carry genuine weight. It is imperfect, occasionally schematic, and — in its best moments — essential."
+    }
+  },
+  {
+    id: "birdman-2014",
+    title: "Birdman or (The Unexpected Virtue of Ignorance)",
+    originalTitle: null,
+    romanization: null,
+    year: 2014,
+    tagline: "How did we end up here?",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/xLW1O39A9mc2mnxcwiNu2lWkjJ9.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/6M3tIQDOE2yGHgD6RKSIIaOIVNb.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=xIxMMv_LD5Q",
+    director: [
+      {
+        name: "Alejandro G. Iñárritu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5Mx0RilUcVjXzmeKYAZJJ0WXZMQ.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Alejandro G. Iñárritu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5Mx0RilUcVjXzmeKYAZJJ0WXZMQ.jpg"
+      },
+      {
+        name: "Nicolás Giacobone",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r01Ru9fozSpsbgqriPSGHZYgf8n.jpg"
+      },
+      {
+        name: "Alexander Dinelaris",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xHg7y0WiyOmuMv3WwoNN4GTJdmM.jpg"
+      },
+      {
+        name: "Armando Bo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tZN02RnMwmQ5Cz6AX9OxVgkT56H.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Michael Keaton",
+        role: "Riggan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+      },
+      {
+        actor: "Emma Stone",
+        role: "Sam",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+      },
+      {
+        actor: "Zach Galifianakis",
+        role: "Jake",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c2RKFiezoJfVlgWebO6mdU8fLbM.jpg"
+      },
+      {
+        actor: "Edward Norton",
+        role: "Mike",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+      },
+      {
+        actor: "Andrea Riseborough",
+        role: "Laura",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dQzAXj6R8cTRqTwGzxUgegXbV13.jpg"
+      },
+      {
+        actor: "Naomi Watts",
+        role: "Lesley",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mwel3q2EK4VZEZYur65kEYnzqsH.jpg"
+      },
+      {
+        actor: "Amy Ryan",
+        role: "Sylvia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bItqd1QUNpdegjBXNaVuFFPEZU4.jpg"
+      },
+      {
+        actor: "Lindsay Duncan",
+        role: "Tabitha",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sgyf4vOUs5KlRmp4Uuw7UXKjU2b.jpg"
+      },
+      {
+        actor: "Merritt Wever",
+        role: "Annie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+      },
+      {
+        actor: "Jeremy Shamos",
+        role: "Ralph",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4nEMfWgNBdBhzdzNGCOHyW941EC.jpg"
+      },
+      {
+        actor: "Damian Young",
+        role: "Gabriel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bvUhCL4CGNw0StkG8XaU07VueH5.jpg"
+      },
+      {
+        actor: "Kenny Chin",
+        role: "Korean Grocer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i2Msjdl4nkZ6GGBagHg3opxb33f.jpg"
+      },
+      {
+        actor: "Jamahl Garrison-Lowe",
+        role: "Daniel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iXGOZvgPxr6FXnKZgwD2ZehGKLR.jpg"
+      },
+      {
+        actor: "Katherine O\'Sullivan",
+        role: "Costume Assistant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xb31cT1R15UVgbZTYJwsepqKNG6.jpg"
+      },
+      {
+        actor: "Natalie Gold",
+        role: "Clara",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x6x5kpWUUJ15In9SHeWeNRcYy3y.jpg"
+      },
+      {
+        actor: "Michael Siberry",
+        role: "Larry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2ZS6V1fNO8Pt208XlNBUynkhebp.jpg"
+      },
+      {
+        actor: "Clark Middleton",
+        role: "Sydney",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pZM07erVJsj1xtE7S1MkxvlHPhA.jpg"
+      },
+      {
+        actor: "William Youmans",
+        role: "Tommy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8CAJRfqtkVP4YabwtTlhzVJ3Qis.jpg"
+      },
+      {
+        actor: "Paula Pell",
+        role: "Lady in Bar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aQZsAcaac2zzLBMhb15O2mrSrpx.jpg"
+      },
+      {
+        actor: "David Fierro",
+        role: "Man in Bar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uufzkf1yuFWdmKvCCzPQYvmOYE6.jpg"
+      },
+      {
+        actor: "Warren Kelley",
+        role: "Dresser",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qwRzb8HudDlvCGVBlFx2JQdDnfq.jpg"
+      },
+      {
+        actor: "Joel Marsh Garland",
+        role: "Stagehand",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p7t1IZ8YDHxRjC2SdYmX9ccl2y1.jpg"
+      },
+      {
+        actor: "Brent Bateman",
+        role: "Broadway Tourist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lev4sIDFi7pxztNp8A0ROYAV32f.jpg"
+      },
+      {
+        actor: "Donna Lynne Champlin",
+        role: "Broadway Lady",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xG86ngnKR10rjTsoVBJ6QRlGMKJ.jpg"
+      },
+      {
+        actor: "Valentino Musumeci",
+        role: "Broadway Kid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ivzd3h5Euw5cGRpC9dPTxlT4vm6.jpg"
+      },
+      {
+        actor: "Taylor Schwencke",
+        role: "Broadway Kid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ucZbWi4ckzjJXtobxDsClBHceYu.jpg"
+      },
+      {
+        actor: "Craig muMs Grant",
+        role: "Broadway Man on Street",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6bzAww7GzUFa4nrO2yThTaevEph.jpg"
+      },
+      {
+        actor: "Kyle Knauf",
+        role: "Annoying Times Square Guy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m7e3AT3GoBimPY1h2uNe5Et4FDJ.jpg"
+      },
+      {
+        actor: "Dave Neal",
+        role: "Annoying Times Square Guy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cHMrJQzytt901pIAeGA6O9XQAXu.jpg"
+      },
+      {
+        actor: "Kelly Southerland",
+        role: "Annoying Times Square Guy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rJKzF2aWW10BRepyYEXniWvGf77.jpg"
+      },
+      {
+        actor: "Roberta Colindrez",
+        role: "Broadway Woman on Street",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kDvrnApQrT73AzVaLDDOhCB0a0p.jpg"
+      },
+      {
+        actor: "Frank Ridley",
+        role: "Mr. Roth",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b5bc1q1CfxBWAXrhdufuud4Kr3d.jpg"
+      },
+      {
+        actor: "Janis Corsair",
+        role: "Female Usher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x8Nrfzy62JOhYTsiqywas0A869q.jpg"
+      },
+      {
+        actor: "Rakesh G. Shah",
+        role: "Liquor Store Owner",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gi4c0SfjoUchMLNJ7vOxTQlZcZK.jpg"
+      },
+      {
+        actor: "Bill Camp",
+        role: "Crazy Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+      },
+      {
+        actor: "Malachi Weir",
+        role: "Guy in Window",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bqQiK5TSHAqrIbQ5fREqd0l0aRf.jpg"
+      },
+      {
+        actor: "Jackie Hoffman",
+        role: "Mary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jtvytvZxpRwGlJQxVMkvYRLjGWo.jpg"
+      },
+      {
+        actor: "Stephen Adly Guirgis",
+        role: "Good Neighbor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dS7BkMwLecWfCFzRgNcesujLuXS.jpg"
+      },
+      {
+        actor: "Glenn Wein",
+        role: "Young Male Usher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fWE2BszylZKIdAlYonwPg9sTjAS.jpg"
+      },
+      {
+        actor: "Ebrahim Jaffer",
+        role: "Cab Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jJmZD2PyRtSfNfY00oZewls33Vx.jpg"
+      },
+      {
+        actor: "Susan Blackwell",
+        role: "Intermission Woman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/151Krgu5kOlUMRNCWQOs2am8XOo.jpg"
+      },
+      {
+        actor: "Anna Hardwick",
+        role: "Blonde Reporter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1lhRf1OBnZpdqnhpOEpvYiMCxeR.jpg"
+      },
+      {
+        actor: "Dusan Dukic",
+        role: "Newscaster",
+        photoUrl: "https://image.tmdb.org/t/p/w185/we7xOgH5shk0AgukAwMHdKzEm4o.jpg"
+      },
+      {
+        actor: "Helena-Alexis Seymour",
+        role: "Newscaster",
+        photoUrl: "https://image.tmdb.org/t/p/w185/agTiP5pWbfOjMcwh2x5AlVYoccj.jpg"
+      },
+      {
+        actor: "Ian Finlay",
+        role: "Newscaster",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zkl8QDxRbkkw33dfrvyMs9olVKM.jpg"
+      },
+      {
+        actor: "Paugh Shadow",
+        role: "Theater Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r0XL59W2uJOEaiB9o33FdWGn1kn.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Comedy", "Psychological", "Satire"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "strong language throughout",
+        "depiction of narcissistic breakdown and ego dissolution",
+        "a character discharging a firearm at close range on stage",
+        "marijuana use in a professional setting",
+        "brief non-explicit sexual encounter",
+        "alcoholism and verbal self-destruction",
+        "a character\'s repeated expressions of suicidal ideation"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:00" }
+    ],
+    awards: [
+      { body: "Academy Awards (87th)", category: "Best Picture", result: "Won", year: 2015 },
+      { body: "Academy Awards (87th)", category: "Best Director", result: "Won", year: 2015 },
+      { body: "Academy Awards (87th)", category: "Best Original Screenplay", result: "Won", year: 2015 },
+      { body: "Academy Awards (87th)", category: "Best Cinematography", result: "Won", year: 2015 },
+      { body: "Golden Globe Awards (72nd)", category: "Best Motion Picture - Musical or Comedy", result: "Won", year: 2015 },
+      { body: "Golden Globe Awards (72nd)", category: "Best Actor in a Motion Picture - Comedy or Musical", result: "Won", year: 2015 },
+      { body: "Golden Globe Awards (72nd)", category: "Best Screenplay - Motion Picture", result: "Won", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Direction", result: "Won", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Original Screenplay", result: "Won", year: 2015 },
+      { body: "Directors Guild of America Awards (67th)", category: "Outstanding Directing - Feature Film", result: "Won", year: 2015 },
+      { body: "Writers Guild of America Awards (67th)", category: "Best Original Screenplay", result: "Won", year: 2015 },
+      { body: "Critics Choice Movie Awards (20th)", category: "Best Picture", result: "Won", year: 2015 },
+      { body: "Critics Choice Movie Awards (20th)", category: "Best Director", result: "Won", year: 2015 },
+      { body: "Academy Awards (87th)", category: "Best Actor", result: "Nominated", year: 2015 },
+      { body: "Academy Awards (87th)", category: "Best Supporting Actor", result: "Nominated", year: 2015 },
+      { body: "Academy Awards (87th)", category: "Best Supporting Actress", result: "Nominated", year: 2015 },
+      { body: "Academy Awards (87th)", category: "Best Film Editing", result: "Nominated", year: 2015 },
+      { body: "Golden Globe Awards (72nd)", category: "Best Director - Motion Picture", result: "Nominated", year: 2015 },
+      { body: "Golden Globe Awards (72nd)", category: "Best Supporting Actor - Motion Picture", result: "Nominated", year: 2015 },
+      { body: "Golden Globe Awards (72nd)", category: "Best Supporting Actress - Motion Picture", result: "Nominated", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Film", result: "Nominated", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Actor", result: "Nominated", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Supporting Actor", result: "Nominated", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Supporting Actress", result: "Nominated", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Cinematography", result: "Nominated", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Editing", result: "Nominated", year: 2015 },
+      { body: "Screen Actors Guild Awards (21st)", category: "Outstanding Performance by a Cast in a Motion Picture", result: "Nominated", year: 2015 },
+      { body: "Screen Actors Guild Awards (21st)", category: "Outstanding Performance by a Male Actor in a Leading Role", result: "Nominated", year: 2015 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["narcissism", "relevance", "legacy", "performance", "vanity", "self-destruction", "reinvention"],
+      mood: ["vertiginous", "feverish", "wry"],
+      fullReview: "Riggan Thomson was Birdman. Three sequels worth of Birdman, to be exact — a superhero franchise that made him a household name and left him stranded in the cultural wreckage of his own celebrity when he walked away from a fourth. Now, somewhere in his fifties and increasingly desperate, he is mounting a Raymond Carver adaptation on Broadway. He has written it, directed it, and cast himself in the lead role, staking everything he has left — money, relationships, credibility — on the possibility that one serious piece of theater might retroactively justify a career spent in rubber wings. The film follows the four days before opening night. What happens in those four days is controlled chaos of a very specific kind. Alejandro G. Iñárritu shoots the entire picture as though it were a single unbroken take — or rather, creates that illusion so persuasively through the editing of Douglas Crise and Stephen Mirrione and Emmanuel Lubezki\'s liquid, relentless camera that the seams simply cease to matter. The effect is not a gimmick. It is the film\'s entire argument made visible: there is no cut, no breath, no moment where the pressure lets up, because that is precisely what it feels like to be Riggan Thomson in those final days before an audience either validates or destroys him. Lubezki moves through the cramped backstage corridors of the St. James Theatre like something alive, and what he finds there is a whole ecosystem of bruised professional pride, creative terror, and the specific lunacy of people who have chosen a life in the theater. Michael Keaton carries this on his back, and it is not a light load. The role asks him to be simultaneously ridiculous and genuinely moving — a man who hears the voice of a fictional superhero in his head, who may or may not be capable of levitating, who walks through Times Square in his underpants because he got locked out of the theater. It sounds like farce, and sometimes it is. But Keaton keeps finding the real thing underneath it: the specific humiliation of a man who suspects, correctly, that the world has not merely forgotten him but has decided he never mattered. His scenes with Emma Stone, playing his daughter Sam — recently out of rehab, now working as his assistant under conditions of mutual incomprehension — carry an emotional weight the film earns slowly and pays off quietly. Stone does something technically precise here: she plays a young woman who is openly contemptuous of her father\'s vanity while being, privately, terrified of her own irrelevance. The dynamic between them is one of the sharpest pieces of writing in the script. Edward Norton arrives as Mike Shiner, a celebrated theater actor brought in as a last-minute replacement, and proceeds to consume every scene he enters. The character is a walking, breathing, maximally infuriating performance of artistic integrity — a man who insists on being drunk during a drinking scene, who nearly sexually assaults a co-star because he got too present in the moment, who is monstrous and somehow also the only person on screen who is genuinely, unambiguously good at his job. Norton plays him with an enjoyment that borders on glee, and the film is smart enough to never fully condemn him or redeem him. The score — almost entirely live drumming by Antonio Sánchez, recorded on acoustic kit — does something remarkable. It refuses to provide emotional cues. It simply drives, relentlessly, like a nervous system running too hot, and the film\'s pace locks to it in a way that feels organic rather than designed. The combination of Lubezki\'s roving camera and Sánchez\'s percussion creates a physical sensation of being dragged forward without quite knowing where the edge is. Lindsay Duncan appears briefly as a theater critic who has already decided what she thinks of Riggan before she has seen a single preview, and the scene she shares with Keaton — in a bar, over drinks, the two of them performing civility while she tells him she intends to destroy his show — is the film\'s most formally devastating sequence. The dialogue lands like a series of very clean punches. Where Birdman is occasionally less sure of itself is in its engagement with the digital-versus-analog debate it raises through the Twitter subplot, and in some of its magical realist passages, which occasionally feel more illustrative than necessary. The film is making a coherent argument about the difference between fame and meaning, between recognition and legacy, but it sometimes reaches for the obvious statement when the obvious statement has already been made better by what the actors are doing. These are minor grievances in a film that is otherwise operating at a level of sustained technical and emotional ambition that very few pictures manage. The ending will divide people, as it should — it is not designed to comfort, and anyone hoping for tidy resolution will find instead something more honest and more unresolved. Birdman is, above all, a film about the cost of needing to be seen. Not loved, not understood — seen. Riggan Thomson would burn everything down for an audience of one thousand strangers to witness the burning, and the film understands that impulse well enough to neither celebrate nor condemn it. It simply watches, and the watching is extraordinary."
+    }
+  },
+  {
+    id: "ex-machina-2014",
+    title: "Ex Machina",
+    originalTitle: null,
+    romanization: null,
+    year: 2014,
+    tagline: "There is nothing more human than the will to survive.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/yqsWGuoqhSgLywml6j497fBORYl.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/iJAe7tHMlqtiCBcz048yqvXGeM5.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=s-HiQ9K2uf4",
+    director: [
+      {
+        name: "Alex Garland",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qSWzYnDw68xm4i5xprH9BwQ6q25.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Alex Garland",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qSWzYnDw68xm4i5xprH9BwQ6q25.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Domhnall Gleeson",
+        role: "Caleb",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a63BgOBKzJ9XPaLFyu7u5Ge3REG.jpg"
+      },
+      {
+        actor: "Alicia Vikander",
+        role: "Ava",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9pmHTbXeRxUF51jJKthmHI49u9z.jpg"
+      },
+      {
+        actor: "Oscar Isaac",
+        role: "Nathan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+      },
+      {
+        actor: "Sonoya Mizuno",
+        role: "Kyoko",
+        photoUrl: "https://image.tmdb.org/t/p/w185/scbRPaGPw3VnR6mrmZQZi6Cuj1m.jpg"
+      },
+      {
+        actor: "Corey Johnson",
+        role: "Jay",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+      },
+      {
+        actor: "Claire Selby",
+        role: "Lily",
+        photoUrl: "https://image.tmdb.org/t/p/w185/h7E3yLCtZatP0G0Sd8dMFqQwQ2x.jpg"
+      },
+      {
+        actor: "Symara A. Templeman",
+        role: "Jasmine",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bfj03PTq1C4OTdOQ7C8V8zWK9HB.jpg"
+      },
+      {
+        actor: "Gana Bayarsaikhan",
+        role: "Jade",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sYUEOvA9jVVwHcnytD5O6w49va4.jpg"
+      },
+      {
+        actor: "Tiffany Pisani",
+        role: "Katya",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lJcYoix9VRN5FIvCwrmw0ifqU6T.jpg"
+      },
+      {
+        actor: "Elina Alminas",
+        role: "Amber",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gblJEM8QEESmsHJ20m3UcFAWi6m.jpg"
+      },
+      {
+        actor: "Chelsea Li",
+        role: "Office Girl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rPSwiXORMUfvac3KXWWHG7R3LC2.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Sci-fi", "Thriller", "Drama", "Psychological"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "full nudity of a humanoid figure in a clinical context",
+        "psychological manipulation and deliberate emotional deception",
+        "scenes of confinement and coercive power imbalance",
+        "sudden graphic violence with blood",
+        "disturbing depiction of objectification and bodily autonomy"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:48" }
+    ],
+    awards: [
+      { body: "Academy Awards (88th)", category: "Best Visual Effects", result: "Won", year: 2016 },
+      { body: "BAFTA Film Awards (69th)", category: "Best British Film", result: "Nominated", year: 2016 },
+      { body: "BAFTA Film Awards (69th)", category: "Best Special Visual Effects", result: "Nominated", year: 2016 },
+      { body: "Academy Awards (88th)", category: "Best Original Screenplay", result: "Nominated", year: 2016 },
+      { body: "Saturn Awards (42nd)", category: "Best Science Fiction Film", result: "Nominated", year: 2016 },
+      { body: "Saturn Awards (42nd)", category: "Best Actress", result: "Nominated", year: 2016 },
+      { body: "Saturn Awards (42nd)", category: "Best Director", result: "Nominated", year: 2016 },
+      { body: "BAFTA Film Awards (69th)", category: "Outstanding British Film", result: "Nominated", year: 2016 },
+      { body: "Critics Choice Movie Awards (21st)", category: "Best Sci-Fi or Horror Movie", result: "Nominated", year: 2016 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["consciousness", "manipulation", "autonomy", "captivity", "creation", "deception", "objectification"],
+      mood: ["unsettling", "hypnotic", "claustrophobic"],
+      fullReview: "Caleb works as a programmer at the world\'s largest search engine company, and he has just won a competition — a week at the private mountain estate of Nathan, the reclusive genius who built the company from nothing. The estate turns out to be a research compound buried in Norwegian wilderness, and Nathan turns out to be a man whose social manner hovers somewhere between intimidating and actively hostile. The competition, it emerges, was never really a competition. Caleb was selected, and the task that awaits him is to administer a Turing test to Ava — a humanoid robot who may be the first machine to have achieved genuine consciousness, and who speaks to Caleb through a glass wall with a directness that is immediately, unervingly impossible to categorize. Alex Garland\'s debut as a director is one of the most controlled films made in its decade — controlled not in the sense of cold or airless, but in the sense that every element has been thought through to a degree that most science fiction only gestures at. The script understands that the most interesting questions about artificial intelligence are not technological but philosophical and ethical: what constitutes consciousness, who decides, and what are the obligations of those who create thinking beings toward the things they have made? These are not the sort of questions that lend themselves to action sequences, and Garland has the discipline to refuse them. The film is almost entirely dialogue — three people in a glass-and-concrete house talking, watching, testing each other — and it generates more tension from conversation than most thrillers manage from car chases. Alicia Vikander\'s performance as Ava is the reason the film works as well as it does. She has to be simultaneously legible and opaque, sympathetic and unknowable, and she manages all of it through means that are difficult to identify precisely — a quality of attention, a phrasing of the head, a smile that arrives at the wrong moment. The visual effects team has rendered her body — translucent below the throat, a visible armature of lights and mechanics — with such care that the technical achievement becomes invisible within the first scene and stops mattering. What matters is the person inside the transparent frame, and Vikander makes that person feel entirely real. Oscar Isaac plays Nathan as a man whose brilliance and his brutality have become indistinguishable, each fueling the other. He drinks heavily, he is casually controlling, he keeps moving the terms of the experiment without explanation. Isaac is physically present in a way that fills the frame — he has the quality of someone who has never doubted that the room belongs to him — and the character\'s menace is more interesting than a conventional villain\'s because it is entangled with a genuine, if malformed, curiosity about what he has created. Domhnall Gleeson, as Caleb, carries the audience\'s point of view. He is smart enough to know something is wrong before he can name it, and sincere enough to let that dissonance read on his face without cashing it in for easy sympathy. The dynamic between the three of them — the programmer, the creator, and the created — shifts constantly, and Garland is careful never to let a single configuration settle into comfort. Rob Hardy\'s cinematography uses the architecture of the location — a facility designed to look habitable but function like a prison — as a visual argument. The glass walls that create transparency also create surveillance; the natural light pouring through floor-to-ceiling windows illuminates rather than warms. Ben Salisbury and Geoff Barrow\'s score is electronic and physical at once, more felt than heard, and it locates the film\'s unease in the body before the mind has caught up. The dance sequence near the midpoint — abrupt, genuinely strange, and formally unlike anything else in the picture — lands like a fault line running through the earth beneath the whole enterprise. Whether it is funny or frightening is a question the film declines to answer. Where Ex Machina earns the most respect is in its refusal to offer resolution that lets any of its participants off the hook. The central question — whether Ava is conscious — is never definitively answered, because Garland understands that the question itself is the wrong place to stand. The real questions are about power, and what beings with power do when they become aware of it. The film ends exactly where it should, without comfort and without sentimentality, on a note that will stay with anyone who was actually paying attention. It is the work of a filmmaker who had something precise to say and found the exact form to say it in."
+    }
+  },
+  {
+    id: "the-witch-2015",
+    title: "The Witch",
+    originalTitle: null,
+    romanization: null,
+    year: 2015,
+    tagline: "Evil takes many forms.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/fZaMSa3L82AiPHHhO11Sv6tgi4y.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=iQXmlf3Sefg",
+    director: [
+      {
+        name: "Robert Eggers",
+        photoUrl: "https://image.tmdb.org/t/p/w185/v9ukVIUGT1vQ3KuPVLSua7FfS9s.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Robert Eggers",
+        photoUrl: "https://image.tmdb.org/t/p/w185/v9ukVIUGT1vQ3KuPVLSua7FfS9s.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Anya Taylor-Joy",
+        role: "Thomasin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+      },
+      {
+        actor: "Ralph Ineson",
+        role: "William",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+      },
+      {
+        actor: "Kate Dickie",
+        role: "Katherine",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mlFYUmZycpRa7TGgDTfP0xanE1Q.jpg"
+      },
+      {
+        actor: "Harvey Scrimshaw",
+        role: "Caleb",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yXUUNfiPo6O9QnEP3J0ynfxLSO1.jpg"
+      },
+      {
+        actor: "Julian Richings",
+        role: "Governor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6aXnbVDNlYXKFOUK7CZ2lboAlxE.jpg"
+      },
+      {
+        actor: "Sarah Stephens",
+        role: "The Witch, Young",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ri3ca01MPFQmGsxt85qoE2MBL2z.jpg"
+      },
+      {
+        actor: "Daniel Malik",
+        role: "Black Phillip (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wcZ8ubxahGsTHtT6EfxWqkAEPD5.jpg"
+      },
+      {
+        actor: "Vivien Moore",
+        role: "Lead Coven Witch",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mti5TtiwN6Pj0cylOVWY3XErd7J.jpg"
+      },
+      {
+        actor: "Carrie Eklund",
+        role: "Coven Witch",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sc54UZjQ63vAfYXD5pyzzSs2OF5.jpg"
+      },
+      {
+        actor: "Madlen Sopadzhiyan",
+        role: "Coven Witch",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4hbUYfND4YsqDo4RKs1lI0BVa0l.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Horror", "Drama", "Period", "Psychological"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "infant death and occult ritualistic violence",
+        "a prolonged scene of adolescent demonic possession with physical convulsions",
+        "nudity in a context of supernatural menace",
+        "disturbing imagery of a newborn used in a ritual",
+        "parental violence toward a child under diabolical influence",
+        "sustained psychological terror and paranoia within a family unit"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:32" }
+    ],
+    awards: [
+      { body: "Sundance Film Festival (2015)", category: "Directing Award - World Cinema Dramatic", result: "Won", year: 2015 },
+      { body: "Independent Spirit Awards (31st)", category: "Best First Feature", result: "Won", year: 2016 },
+      { body: "Independent Spirit Awards (31st)", category: "Best First Screenplay", result: "Nominated", year: 2016 },
+      { body: "Independent Spirit Awards (31st)", category: "Best Female Lead", result: "Nominated", year: 2016 },
+      { body: "Independent Spirit Awards (31st)", category: "Best Cinematography", result: "Nominated", year: 2016 },
+      { body: "Saturn Awards (42nd)", category: "Best Horror Film", result: "Nominated", year: 2016 },
+      { body: "Saturn Awards (42nd)", category: "Best Performance by a Younger Actor", result: "Nominated", year: 2016 },
+      { body: "Critics Choice Movie Awards (21st)", category: "Best Sci-Fi or Horror Movie", result: "Nominated", year: 2016 },
+      { body: "Gotham Awards (25th)", category: "Best Film", result: "Nominated", year: 2015 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["faith", "isolation", "guilt", "patriarchy", "hysteria", "transgression", "wilderness"],
+      mood: ["mournful", "dread", "sparse"],
+      fullReview: "New England, 1630. A Puritan family is banished from their colonial plantation — for reasons the film keeps deliberately vague, a point of doctrine too rigid for the community to bear — and relocates to a remote farmstead at the edge of a vast, lightless wood. There is a father, William, whose pride outran his judgment. There is a mother, Katherine, whose grief is absolute and whose faith is turning to ash. There are five children, including Thomasin, the eldest daughter, who is old enough to understand that something is wrong and young enough to be blamed for it. Then the youngest child vanishes. Robert Eggers wrote and directed this film over several years, sourcing much of his dialogue directly from 17th-century court documents, diaries, and accounts of witchcraft trials. The result is a picture that sounds like no other horror film — the cadences of the speech are genuinely of another time, and the effect is not distancing but unsettling in a way that is difficult to locate. The family speaks the way people speak when they genuinely believe God is watching every word, and the film takes that belief seriously rather than condescending to it. This is not a movie about superstition. It is a movie about what happens when a family\'s faith — the single structure holding their world in place — begins to crack under the pressure of grief, guilt, and a landscape that offers no comfort. Whether the horror is real or internal is a question the film refuses to settle definitively. But Eggers shoots the forest as though it is genuinely alive, and Mark Korven\'s score — strings tuned to intervals that sit just wrong, voices that emerge and dissolve before they can be named — ensures that the ambiguity lands in the body rather than the intellect. Jarin Blaschke\'s cinematography works almost entirely in natural light, which in 1630 New England means candles and firelight and the flat grey of overcast days. The result is images that feel less composed than discovered, as though the camera happened upon these people in the middle of their lives. Certain shots carry a visual weight that is hard to explain — a goat standing in rain, a figure in the dark at the edge of the trees — that operates outside of language entirely. Anya Taylor-Joy plays Thomasin, and this is where the film locates its emotional core. Thomasin is in the impossible position of every eldest daughter in a family under pressure: expected to absorb responsibility for things she did not cause, unable to defend herself against accusations she cannot disprove, old enough to be suspect but not old enough to have any authority. Taylor-Joy plays her with a specificity that goes beyond technique — there is something happening in those early scenes between Thomasin and her infant brother, a tenderness and a loneliness both, that makes what follows genuinely devastating. Ralph Ineson\'s William is not a monster. He is a man whose certainty has collapsed, and Ineson plays him as someone who knows he has failed his family but cannot locate the mechanism by which he might repair it. The scenes between father and daughter carry a specific weight: a love that cannot express itself within the forms available to them, in a world where every interaction is mediated by doctrine and gender and the suspicion that one of them might be damned. The film is not for audiences who require a consistent rhythm of scares or an explanation at the end. It is patient in a way that can feel punishing — there are stretches where the horror is entirely atmospheric, entirely a matter of accumulation — and it demands the kind of attention that allows dread to build from silence. But for the right viewer, it delivers something that genre cinema rarely attempts: an encounter with darkness that feels genuinely theological rather than merely decorative. The ending, which arrives with the force of an inevitability that has been gathering since the first frame, is one of the most formally precise and emotionally complex final sequences in recent horror. It does not explain itself. It does not need to. What Robert Eggers has made here is a film about the cost of belief — in God, in family, in the stories a community tells to keep the wilderness at bay — and what fills the space when those beliefs fail. It is harrowing and it is cold and it is, in its strange and particular way, a kind of masterwork."
+    }
+  },
+  {
+    id: "call-me-by-your-name-2017",
+    title: "Call Me by Your Name",
+    originalTitle: null,
+    romanization: null,
+    year: 2017,
+    tagline: "Is it better to speak or die?",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/7trVPcYwQU63pctlSPqR7amlcs0.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/fwf4L3r2ZU9ptOB9nOo5nuVLo1i.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Z9AYPxH5NTM",
+    director: [
+      {
+        name: "Luca Guadagnino",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lO2GD4s6fRloZLEhsZgBlhJQasE.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "James Ivory",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k8rLCfPmRXT77nXQcYssrX5Dn0s.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Armie Hammer",
+        role: "Oliver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+      },
+      {
+        actor: "Timothée Chalamet",
+        role: "Elio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+      },
+      {
+        actor: "Michael Stuhlbarg",
+        role: "Mr. Perlman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+      },
+      {
+        actor: "Amira Casar",
+        role: "Annella",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lTvuFkDI67DA68mLEjF8Tvrza6E.jpg"
+      },
+      {
+        actor: "Esther Garrel",
+        role: "Marzia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5fAsph0ZqTDDO8R1wVN5eijH6DP.jpg"
+      },
+      {
+        actor: "Victoire du Bois",
+        role: "Chiara",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eQm8pA8ahuPZysSsqxd9oqmEBUy.jpg"
+      },
+      {
+        actor: "Vanda Capriolo",
+        role: "Mafalda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fg1XHgXBKnvtLzYu4V6zo49MtzU.jpg"
+      },
+      {
+        actor: "Marco Sgrosso",
+        role: "Nico",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u9rVsh6hpHABwlIsCcsDE2U1nbZ.jpg"
+      },
+      {
+        actor: "André Aciman",
+        role: "Mounir",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dFV4EMrNfKdshNhrmkWOgl108Zj.jpg"
+      },
+      {
+        actor: "Peter Spears",
+        role: "Isaac",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6aCVFt5PyIz3MGqwy9jawm6FZS1.jpg"
+      }
+    ],
+    languages: ["English", "Italian", "French"],
+    genres: ["Drama", "Romance", "Period"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "non-explicit sexual content between an adult and a minor",
+        "brief partial nudity",
+        "age-gap relationship involving a seventeen-year-old",
+        "prolonged emotional distress and grief over first love",
+        "mild language"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:12" }
+    ],
+    awards: [
+      { body: "Academy Awards (90th)", category: "Best Adapted Screenplay", result: "Won", year: 2018 },
+      { body: "Film Independent Spirit Awards (33rd)", category: "Best Male Lead", result: "Won", year: 2018 },
+      { body: "Academy Awards (90th)", category: "Best Picture", result: "Nominated", year: 2018 },
+      { body: "Academy Awards (90th)", category: "Best Actor", result: "Nominated", year: 2018 },
+      { body: "Academy Awards (90th)", category: "Best Original Song", result: "Nominated", year: 2018 },
+      { body: "BAFTA Film Awards (71st)", category: "Best Adapted Screenplay", result: "Nominated", year: 2018 },
+      { body: "BAFTA Film Awards (71st)", category: "Best Actor in a Leading Role", result: "Nominated", year: 2018 },
+      { body: "Golden Globe Awards (75th)", category: "Best Motion Picture — Drama", result: "Nominated", year: 2018 },
+      { body: "Golden Globe Awards (75th)", category: "Best Actor in a Motion Picture — Drama", result: "Nominated", year: 2018 },
+      { body: "Golden Globe Awards (75th)", category: "Best Screenplay — Motion Picture", result: "Nominated", year: 2018 },
+      { body: "Screen Actors Guild Awards (24th)", category: "Outstanding Performance by a Cast in a Motion Picture", result: "Nominated", year: 2018 },
+      { body: "Screen Actors Guild Awards (24th)", category: "Outstanding Performance by a Male Actor in a Leading Role", result: "Nominated", year: 2018 },
+      { body: "Directors Guild of America Awards (70th)", category: "Outstanding Directing — Feature Film", result: "Nominated", year: 2018 },
+      { body: "Critics Choice Awards (23rd)", category: "Best Adapted Screenplay", result: "Nominated", year: 2018 },
+      { body: "Film Independent Spirit Awards (33rd)", category: "Best Feature", result: "Nominated", year: 2018 },
+      { body: "Film Independent Spirit Awards (33rd)", category: "Best Director", result: "Nominated", year: 2018 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["desire", "awakening", "transience", "longing", "mentorship", "memory", "inheritance"],
+      mood: ["elegiac", "languorous", "tender"],
+      fullReview: "In the summer of 1983, seventeen-year-old Elio Perlman inhabits his family\'s sun-drenched villa in the Lombardy region of northern Italy — reading, transcribing music, cycling through orchards, existing in the particular suspension of an adolescent who is restless without knowing why. When Oliver arrives, a confident American graduate student retained to assist Elio\'s father, the household absorbs him easily. What follows across six weeks is a gravitational pull between the two young men that neither fully understands until it has already remade them.\n\nLuca Guadagnino builds summer as a sensory argument. The peaches, the river, the afternoon light on stone walls, the particular texture of boredom and heat — these are not window dressing. They are the film\'s actual subject, because desire in this telling is first an atmospheric condition and only later a dramatic one. The camera lingers on objects and landscapes with the same attention it gives to faces, and this equivalence is deliberate: the environment is saturated with wanting, and eventually the wanting has nowhere left to go.\n\nTimothée Chalamet\'s performance as Elio is the reason the film has stayed. He was nineteen during filming and brings to the role something that cannot be coached: genuine interiority made visible. The camera watches him during moments where nothing is said — at a dinner table, across a courtyard, through a window — and what registers is precise enough to feel like trespass. Envy, hunger, self-consciousness, devastation, all cycling through in the span of a held gaze. The performance never announces itself. It simply accumulates, and by the time the film reaches its final act, the audience has been so thoroughly inside this young man\'s experience that what happens to him lands with physical weight.\n\nArmie Hammer as Oliver is a harder case. He is calibrated to the role physically — all American ease and unconsidered grace — but the character carries less psychological density than Elio, and Hammer does not quite fill the gaps. Oliver remains opaque in ways the screenplay may intend yet the performance amplifies. The film is told entirely from inside Elio\'s experience of Oliver, which means Oliver is always partly a projection, a surface onto which longing is cast. Whether that makes Hammer\'s blankness appropriate or merely convenient is a tension the film never resolves, though it is worth noting the imbalance does not sink the picture — it does, however, give it a slight structural lean.\n\nJames Ivory\'s adapted screenplay — drawn from André Aciman\'s novel — is a masterwork of selection. It understands compression and extension, knowing which sequences to hold and which to release. The film\'s most emotionally devastating passage is entirely verbal: a conversation between Elio and his father that has, rightfully, entered the canon of great scenes. Michael Stuhlbarg delivers it with the particular quietness that comes only from total command of material. It is a speech about feeling, about the cost of suppression, about what it means to have been young and not wasted it — and it lands like something that was always true and had simply never been said aloud. The scene alone justifies the film\'s existence.\n\nSufjan Stevens\'s musical contributions — particularly the songs threaded through the film\'s later sections — are essential rather than ornamental. Stevens understands the film\'s register: not grandeur, but ache; not orchestral sweep, but a few notes returning with accumulated weight. The final scene, held on Chalamet\'s face for what feels like an entire season while the camera refuses to look away, works in large part because of what the music does and then stops doing.\n\nThe film is not without softnesses. Guadagnino renders the Perlman household — cosmopolitan, multilingual, philosophically generous — with an idealization that occasionally cushions what Elio navigates. Real adolescent desire, especially desire that cannot be spoken, tends to exist in less enlightened environments. The villa is so beautiful and the family so open that some of the stakes are quietly reduced. This is not fatal, but it is noticeable.\n\nWhat endures is the film\'s commitment to a particular emotional truth: that some experiences do not conclude, they simply become part of the person who survived them, carried forward into everything that follows. Guadagnino trusts his audience to sit with that — with grief that has no resolution and no moral, only the raw fact of having felt something at full intensity and then had it taken away. For viewers who have ever been that young and that undone, the film will do something to them they did not entirely anticipate. For viewers who have not, it may simply be a very beautiful movie about two people in Italy. Both responses are honest."
+    }
+  },
+  {
+    id: "paddington-2014",
+    title: "Paddington",
+    originalTitle: null,
+    romanization: null,
+    year: 2014,
+    tagline: "Please look after this bear. Thank you.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/rhRTDph8of16bdmoPtY9K40wXdn.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/kfofK4GzJsJZhCShqZY438c8Y4Y.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=7bZFr2IA0Bo",
+    director: [
+      {
+        name: "Paul King",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vteMQaGDpNHkKcuwT8yVQNeAohV.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Paul King",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vteMQaGDpNHkKcuwT8yVQNeAohV.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ben Whishaw",
+        role: "Paddington (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg"
+      },
+      {
+        actor: "Hugh Bonneville",
+        role: "Henry Brown",
+        photoUrl: "https://image.tmdb.org/t/p/w185/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+      },
+      {
+        actor: "Sally Hawkins",
+        role: "Mary Brown",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+      },
+      {
+        actor: "Madeleine Harris",
+        role: "Judy Brown",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tvwnWhlM2M8RTOnnHc2wU7aE3yw.jpg"
+      },
+      {
+        actor: "Samuel Joslin",
+        role: "Jonathan Brown",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gXthNRK0BN9IqXnhKIc4glxOB7P.jpg"
+      },
+      {
+        actor: "Julie Walters",
+        role: "Mrs. Bird",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        actor: "Nicole Kidman",
+        role: "Millicent",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+      },
+      {
+        actor: "Imelda Staunton",
+        role: "Aunt Lucy (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+      },
+      {
+        actor: "Peter Capaldi",
+        role: "Reginald Curry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r5bEXZBOSA89SZvv4jjqa4iSgst.jpg"
+      },
+      {
+        actor: "Michael Gambon",
+        role: "Uncle Pastuzo (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+      },
+      {
+        actor: "Jim Broadbent",
+        role: "Samuel Gruber",
+        photoUrl: "https://image.tmdb.org/t/p/w185/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+      },
+      {
+        actor: "Madeleine Worrall",
+        role: "Agatha Clyde",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f8TI0MsavCBQaUo6CHqj6ETAB1q.jpg"
+      },
+      {
+        actor: "Tim Downie",
+        role: "Montgomery Clyde",
+        photoUrl: "https://image.tmdb.org/t/p/w185/reyrUHA8M5iFLY3rxRfZD9Ap98S.jpg"
+      },
+      {
+        actor: "Matt King",
+        role: "Andre the Thief",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1WGWqW8j9bCG6YwnLPF8N4CZDjY.jpg"
+      },
+      {
+        actor: "Simon Farnaby",
+        role: "Barry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xslxzBfDYYHNFnAMWyjjxFUTlEk.jpg"
+      },
+      {
+        actor: "Kayvan Novak",
+        role: "Grant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2cJuw1nGFHyJTMj8YIh91cvErSm.jpg"
+      },
+      {
+        actor: "Matt Lucas",
+        role: "Joe",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2OhGLJqiknaWlbTkG2KDwT935km.jpg"
+      },
+      {
+        actor: "Mary Roscoe",
+        role: "Master Gruber\'s Aunt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/92Ec3yY8zyDrgifreAMPXkeMHQE.jpg"
+      },
+      {
+        actor: "Alice Lowe",
+        role: "Geographers\' Guild Receptionist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/v4sRxLpRpHEd9vbk43wm9VL0v0K.jpg"
+      },
+      {
+        actor: "Catherine Shepherd",
+        role: "Geographer (Present Day)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2MY9wFTqnAPGGRn8KIFRZfN1cs0.jpg"
+      },
+      {
+        actor: "Cleo Sylvestre",
+        role: "Marjorie Clyde",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iYn0Vz1rdlUthTy35oC2JY5Pxz.jpg"
+      },
+      {
+        actor: "Geoffrey Palmer",
+        role: "Head Geographer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wfFydeTnTIdtu8oKcY7SCo7u7pg.jpg"
+      },
+      {
+        actor: "Rufus Jones",
+        role: "Third Geographer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sGgwNVXCvDOC4x9CtJqQAFida8N.jpg"
+      },
+      {
+        actor: "David McKail",
+        role: "Fifth Geographer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bbGMBQo8DGkqJkTwEC31Hj8SPuK.jpg"
+      },
+      {
+        actor: "James Bachman",
+        role: "Sixth Geographer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1Fme06hFfa3H3tTMcyGVXqYaCBL.jpg"
+      },
+      {
+        actor: "Javier Marzan",
+        role: "Buckingham Palace Sentry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3o4k7IKjPbjcJr0bzfe3Wgx0gxo.jpg"
+      },
+      {
+        actor: "Llewella Gideon",
+        role: "Class Teacher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9iQNeiu19HmT03wycJLV5v515FF.jpg"
+      },
+      {
+        actor: "Justin Edwards",
+        role: "Desk Sergeant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vhAAVpzdswyq95pmVyKv9PsQPyQ.jpg"
+      },
+      {
+        actor: "Iain Mitchell",
+        role: "Dog Owner",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hyWejQQnNfXETrSne4yp3JSjLNm.jpg"
+      },
+      {
+        actor: "Michael Bond",
+        role: "Kindly Gentleman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lfkCmiMIPYkFMhANoWjyEBhYx68.jpg"
+      },
+      {
+        actor: "Steve Edge",
+        role: "Natural History Museum Security Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hcb1Yh4s9gIXxBhLgbCpNtMnbuS.jpg"
+      },
+      {
+        actor: "Steve Oram",
+        role: "Paddington Station Security Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lRLC2evuvWxFtq0aq7Te4I1L9MS.jpg"
+      },
+      {
+        actor: "Tom Meeten",
+        role: "Paddington Station Security Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rpsCYhYvyrBLuRsE3goG2krna8R.jpg"
+      },
+      {
+        actor: "Hamish McColl",
+        role: "Petting Zoo Keeper",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lGDUTDlPNDcJeY94LpEX0FojiiS.jpg"
+      },
+      {
+        actor: "Dominic Coleman",
+        role: "Policeman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pUwQtLSoGjrXffVPrxGZCyTQ4wC.jpg"
+      },
+      {
+        actor: "Ross Boatman",
+        role: "Trader",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m9yJapJVzTFAJyksJ08CY5qQBlq.jpg"
+      },
+      {
+        actor: "Eddie Nestor",
+        role: "Underground Ticket Inspector",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o0MmDQpO2TUvODt7R0ttixpAXpI.jpg"
+      },
+      {
+        actor: "Asim Chaudhry",
+        role: "Security Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1F0DwOpxUAEpw5iovMHZ5Y1C8n6.jpg"
+      },
+      {
+        actor: "Dennis Good",
+        role: "Immigrant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/78GQ0oYRJNkJUgkvf11AdmFKNtb.jpg"
+      },
+      {
+        actor: "Ancuta Breaban",
+        role: "Commuter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sWaz2bQgOZduMCk5oUSJAlndbtt.jpg"
+      },
+      {
+        actor: "Faith Elizabeth",
+        role: "Commuter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/t4EswQ08AsLvwkpyEMse1m1GqG.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Comedy", "Adventure", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "mild slapstick and physical comedy throughout",
+        "brief scenes of peril involving a child",
+        "light taxidermy and museum imagery that may unsettle very young viewers",
+        "a villainous character with threatening intent toward an animal"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:35" }
+    ],
+    awards: [
+      { body: "BAFTA Film Awards (68th)", category: "Outstanding British Film", result: "Nominated", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2015 },
+      { body: "BAFTA Film Awards (68th)", category: "Best Special Visual Effects", result: "Nominated", year: 2015 },
+      { body: "British Independent Film Awards (17th)", category: "Best British Independent Film", result: "Nominated", year: 2014 },
+      { body: "Empire Awards (20th)", category: "Best Comedy", result: "Won", year: 2015 },
+      { body: "Empire Awards (20th)", category: "Best British Film", result: "Nominated", year: 2015 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["belonging", "displacement", "hospitality", "prejudice", "adaptation", "community"],
+      mood: ["warm", "whimsical", "buoyant"],
+      fullReview: "A young bear from the darkest of Peru arrives at Paddington Station carrying nothing but a battered hat, a jar of marmalade, and an unshakeable belief that Londoners will welcome him. Michael Bond\'s stories always carried that belief — that the world is, at its core, a decent place willing to make room for a stranger — and Paul King\'s film inherits it fully, then builds something genuinely cinematic around it.\n\nWhat King understands, and what lifts the film above the crowded field of CG-character family pictures, is that Paddington cannot work as a joke. The moment the bear becomes a punchline, or the butt of condescension, the whole enterprise collapses. So King treats him as the film\'s moral center — curious, courteous, entirely sincere — and lets the human world look ridiculous around him rather than the other way around. The comedy lands because the bear never winks at it.\n\nBen Whishaw\'s voice performance is the film\'s quiet achievement. He plays Paddington as genuinely innocent without being naive, and there is a particular warmth in the delivery that makes every small disaster the bear stumbles into feel protective rather than cruel. The character believes in people slightly more than they deserve, and Whishaw communicates that gap with extraordinary lightness. It is the kind of voice work that vanishes into the role entirely — no one walks out of Paddington discussing the voice performance, because the voice and the character have become the same thing.\n\nHugh Bonneville earns his keep as Henry Brown, the skeptical father whose bureaucratic risk-aversion is the film\'s comic engine. His transformation is visible and earned, never rushed. Sally Hawkins brings easy warmth to the mother role without sacrificing any of the character\'s intelligence. Nicole Kidman, playing the villain with an arch quality that suits the film\'s heightened register, commits fully to a character that could easily tip into pantomime — she keeps just enough menace in the performance to make the threat feel real to younger viewers without terrorizing them.\n\nKing and cinematographer Erik Wilson shoot London as a place of genuine texture and surprise — markets, tube stations, rooftops, a slightly unreal version of the city that is still recognizably itself. The production design throughout is meticulous in the way that children notice even when they cannot name it: the Brown household has real geometry to it, real lived-in clutter, and the film\'s recurring visual jokes about the house\'s layout are structured and paid off with the care of physical comedy rather than the sloppiness of most family films that rely on chaos as a substitute for timing.\n\nThere is also a thread running through the film that the marketing does not emphasize but which gives it real ballast. Paddington is, essentially, a refugee story. He arrives from a land disrupted by outsiders, carries a letter of introduction he hopes will be honored, and finds a city that treats his presence as either a problem to be managed or a threat to be eliminated. The film does not bludgeon this reading, but it does not hide from it either. When characters in the film are hostile to the bear, their hostility has a specific shape — the language of border control, of categorization, of not-quite-trusting what has come from elsewhere. That King threads this through a film aimed at children, without making it didactic or grim, is a real piece of craft.\n\nThe film is not without its soft spots. The villain\'s motivation is thin, and some of the set-piece comedy in the film\'s middle section runs slightly long without quite justifying the extra beats. Nick Urata\'s score occasionally overexplains what the images are doing well enough on their own. But these are minor complaints against a film that consistently does something rarer and harder than it appears: it is funny for children without being condescending, warm without being saccharine, and thoughtful without lecturing.\n\nFor families with young children, this is essential. For adults without them, it is the kind of film that can still catch a person off guard — a story that believes, with full sincerity, that decency is something people can choose, and that strangers who arrive politely and love marmalade are worth making room for."
+    }
+  },
+  {
+    id: "paddington-2-2017",
+    title: "Paddington 2",
+    originalTitle: null,
+    romanization: null,
+    year: 2017,
+    tagline: "Magic. Mystery. Marmalade.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/zH0U0qCB8fOq3UEvbOJKgI3sFGK.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/nV3AWmx8GrC6japchB2fxifWMA5.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=52x5HJ9H8DM",
+    director: [
+      {
+        name: "Paul King",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vteMQaGDpNHkKcuwT8yVQNeAohV.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Paul King",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vteMQaGDpNHkKcuwT8yVQNeAohV.jpg"
+      },
+      {
+        name: "Simon Farnaby",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xslxzBfDYYHNFnAMWyjjxFUTlEk.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ben Whishaw",
+        role: "Paddington (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e74Cz65ifeNb9zHfUTvF5rTix0d.jpg"
+      },
+      {
+        actor: "Sally Hawkins",
+        role: "Mary Brown",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+      },
+      {
+        actor: "Hugh Bonneville",
+        role: "Henry Brown",
+        photoUrl: "https://image.tmdb.org/t/p/w185/skbxj8MUuNiI39ZkP38uEirU0bC.jpg"
+      },
+      {
+        actor: "Madeleine Harris",
+        role: "Judy Brown",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tvwnWhlM2M8RTOnnHc2wU7aE3yw.jpg"
+      },
+      {
+        actor: "Samuel Joslin",
+        role: "Jonathan Brown",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gXthNRK0BN9IqXnhKIc4glxOB7P.jpg"
+      },
+      {
+        actor: "Julie Walters",
+        role: "Mrs. Bird",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+      },
+      {
+        actor: "Hugh Grant",
+        role: "Phoenix Buchanan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+      },
+      {
+        actor: "Imelda Staunton",
+        role: "Aunt Lucy (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg"
+      },
+      {
+        actor: "Brendan Gleeson",
+        role: "Knuckles McGinty",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+      },
+      {
+        actor: "Jim Broadbent",
+        role: "Samuel Gruber",
+        photoUrl: "https://image.tmdb.org/t/p/w185/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+      },
+      {
+        actor: "Peter Capaldi",
+        role: "Reginald Curry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r5bEXZBOSA89SZvv4jjqa4iSgst.jpg"
+      },
+      {
+        actor: "Ben Miller",
+        role: "Colonel Lancaster",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ij5nhtBWhCaOl4IEn8XhOYAGqB1.jpg"
+      },
+      {
+        actor: "Jessica Hynes",
+        role: "Miss Kitts",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eyJ9aC1FXyPAI5xose0HqA26bnm.jpg"
+      },
+      {
+        actor: "Michael Gambon",
+        role: "Uncle Pastuzo (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+      },
+      {
+        actor: "Noah Taylor",
+        role: "Phibs",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a9VuohmpqbvcYflOpi0F3ck8L2j.jpg"
+      },
+      {
+        actor: "Tom Davis",
+        role: "T-Bone",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n7JqvXrpPsbpfeelPpZ5R8HTWMG.jpg"
+      },
+      {
+        actor: "Aaron Neil",
+        role: "Spoon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k1fgcLv6ZPvAGWcxZgEQY5GTnFq.jpg"
+      },
+      {
+        actor: "Tom Conti",
+        role: "Judge Gerald Biggleswade",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2OqrVBoTYX5oeU1Qt8tfq3i9JUQ.jpg"
+      },
+      {
+        actor: "Sanjeev Bhaskar",
+        role: "Dr. Jafri",
+        photoUrl: "https://image.tmdb.org/t/p/w185/btLwcbv6d7A2AWe1FYBoRoZXMep.jpg"
+      },
+      {
+        actor: "Joanna Lumley",
+        role: "Felicity Fanshaw",
+        photoUrl: "https://image.tmdb.org/t/p/w185/omQvLqkQf9yemMroaj6MJbf37sf.jpg"
+      },
+      {
+        actor: "Kobna Holdbrook-Smith",
+        role: "Warden Walker",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6KNQjNWVdosnKAehV7FHpxQV2dD.jpg"
+      },
+      {
+        actor: "Simon Farnaby",
+        role: "Barry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xslxzBfDYYHNFnAMWyjjxFUTlEk.jpg"
+      },
+      {
+        actor: "Richard Ayoade",
+        role: "Forensic Investigator",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qHKoy9kP4bsv4G9EkvU4FMUmYkS.jpg"
+      },
+      {
+        actor: "Eileen Atkins",
+        role: "Madame Kozlova",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8gac03PfTFz2vByZi1aun0NiTqM.jpg"
+      },
+      {
+        actor: "Marie-France Alvarez",
+        role: "Mademoiselle Dubois",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ySFOp78xQ0cuvFjGJdVA4sK1Vus.jpg"
+      },
+      {
+        actor: "Shola Adewusi",
+        role: "First Ms. Peters",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ax7DudH8MgTHrVwLOEkwrechRH3.jpg"
+      },
+      {
+        actor: "Nadine Marshall",
+        role: "Second Ms. Peters",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nOifOrI2qX582PS1VCssbNW6Uzx.jpg"
+      },
+      {
+        actor: "Michael Mears",
+        role: "Clerk of Court",
+        photoUrl: "https://image.tmdb.org/t/p/w185/h2g6GLAIqZBXltY0ze6nF3xX9HW.jpg"
+      },
+      {
+        actor: "Louis Partridge",
+        role: "G-Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/s6AW7VreXxAjhaHgjg9HV3tRM2T.jpg"
+      },
+      {
+        actor: "Robbie Gee",
+        role: "Mr. Barnes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mzzfbA0e4DWgxvIYjaryMolkiqm.jpg"
+      },
+      {
+        actor: "Enzo Squillino Jr.",
+        role: "Mr. Giuseppe",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pXr0Vg3wrhyl32rFjCtYBojD2np.jpg"
+      },
+      {
+        actor: "Catherine Shepherd",
+        role: "Nelson\'s Mother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2MY9wFTqnAPGGRn8KIFRZfN1cs0.jpg"
+      },
+      {
+        actor: "Claire Keelan",
+        role: "Police Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aKNSxAV4vqXi8tg28vrKjsyKACE.jpg"
+      },
+      {
+        actor: "Meera Syal",
+        role: "Prosecutor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oymXzUh9tuPXsNKuPIFIrsL2MU6.jpg"
+      },
+      {
+        actor: "Geoffrey Lumb",
+        role: "Second Police Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c2xgAokzGEVtDMzSy9Y4eusw2x0.jpg"
+      },
+      {
+        actor: "Alex Jordan",
+        role: "Steve Visby",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6gbX9o8BvLP0BsHEk3HiBwSI3pJ.jpg"
+      },
+      {
+        actor: "Emeson Nwolie",
+        role: "Double Bass Bob",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qnAjpaQQevcmCRpnNHqwSD05SOn.jpg"
+      },
+      {
+        actor: "Nicholas Lumley",
+        role: "Farmer Jack",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cjUUXMeYoOlWhhv8R0DVVTsXgLM.jpg"
+      },
+      {
+        actor: "Stephen McDade",
+        role: "Johnny Cashpoint",
+        photoUrl: "https://image.tmdb.org/t/p/w185/10DV3Pa0kzurwVEdsHIlDt9EayM.jpg"
+      },
+      {
+        actor: "Deepak Anand",
+        role: "Mad Dog",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f6u0FjH44YEE9CeoDJvnQBMPuZn.jpg"
+      },
+      {
+        actor: "Cal McCrystal",
+        role: "Sir Geoffrey Wilcott",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ktWVmdgAI1C1phtngcqsx2IFFhN.jpg"
+      },
+      {
+        actor: "Jamie Demetriou",
+        role: "The Professor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nRhjzDgxQ8PzdUX1MTGhSmWwm8D.jpg"
+      },
+      {
+        actor: "Justin Edwards",
+        role: "Dozy Policeman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vhAAVpzdswyq95pmVyKv9PsQPyQ.jpg"
+      },
+      {
+        actor: "Kya Garwood",
+        role: "Felicity Fanshawe\'s Assistant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/386H09whUSfo01p6WaXl9u5qSuz.jpg"
+      },
+      {
+        actor: "Maggie Steed",
+        role: "Gertrude Biggleswade",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ft6dc8RJ8PtgrhYB7WYWCq84L8q.jpg"
+      },
+      {
+        actor: "Tim FitzHigham",
+        role: "Magician",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1VRdVUN3wySxf0JhX4IPYBm9WnA.jpg"
+      },
+      {
+        actor: "Joel Fry",
+        role: "Postman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4nEKEWJpaTHncCTv6zeP98V0qGI.jpg"
+      },
+      {
+        actor: "Gus Brown",
+        role: "St. Paul\'s Tour Guide",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yBAHXQEVn4RwBV2Lo3RjiKPA4fd.jpg"
+      },
+      {
+        actor: "Hiten Patel",
+        role: "Office Executive",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6Izl7RXweJAcjIU6KoGI60JERKE.jpg"
+      },
+      {
+        actor: "Jag Patel",
+        role: "Prisoner",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uChgXgHBAFBsy3a9NrCiL0klPMS.jpg"
+      },
+      {
+        actor: "Tom Knight",
+        role: "Hair Dye Guy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/plzJmmxvO2Bu6FiQPUgNTCItSEd.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Comedy", "Adventure", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "mild slapstick and physical comedy throughout",
+        "brief scenes of wrongful imprisonment involving a sympathetic character",
+        "light action sequences with no injury detail",
+        "comedic villainy without genuine menace"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:44" }
+    ],
+    awards: [
+      { body: "London Film Critics Circle (38th)", category: "British/Irish Film of the Year", result: "Won", year: 2018 },
+      { body: "BAFTA Film Awards (71st)", category: "Outstanding British Film", result: "Nominated", year: 2018 },
+      { body: "BAFTA Film Awards (71st)", category: "Best Adapted Screenplay", result: "Nominated", year: 2018 },
+      { body: "BAFTA Film Awards (71st)", category: "Best Supporting Actor", result: "Nominated", year: 2018 },
+      { body: "BAFTA Film Awards (71st)", category: "Best Special Visual Effects", result: "Nominated", year: 2018 },
+      { body: "Empire Awards (23rd)", category: "Best Comedy", result: "Won", year: 2018 },
+      { body: "Empire Awards (23rd)", category: "Best British Film", result: "Nominated", year: 2018 },
+      { body: "Critics Choice Awards (23rd)", category: "Best Family Film", result: "Nominated", year: 2018 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["generosity", "community", "reputation", "innocence", "solidarity", "transformation"],
+      mood: ["joyful", "warm", "inventive"],
+      fullReview: "Sequels to beloved family films tend to follow one of two paths: they either reheat the original\'s formula with diminishing returns, or they overcorrect into self-aware excess. Paddington 2 refuses both. Paul King returned to the character with more money, more confidence, and — crucially — a clearer sense of what the bear actually stands for, and the result is one of those rare second films that does not merely match its predecessor but quietly surpasses it.\n\nPaddington, settled contentedly in Windsor Gardens, has saved up enough to nearly afford an antique pop-up book he wants to send to his Aunt Lucy in Peru for her hundredth birthday. When the book is stolen, and the bear is wrongly convicted and imprisoned for the theft, the Brown family must locate the real culprit — a vain, faded stage actor named Phoenix Buchanan — while Paddington navigates life inside Portobello Prison with characteristic decency and extraordinary marmalade sandwiches.\n\nThe film\'s structural decision to separate Paddington from the Browns for much of its runtime is riskier than it sounds. The first film derived much of its warmth from the friction between the bear and a household still learning to accept him. Here, that acceptance is complete — so King inverts the dynamic. It is now the prison itself that must be won over, and watching Paddington transform a grim institution, one inmate at a time, is the film\'s great sustained pleasure. The prison sequences are genuinely funny, their physical comedy timed with the precision of a much older tradition, and Brendan Gleeson as the ferocious chef Knuckles McGinty earns a full character arc in what amounts to supporting screen time. That the film manages this without breaking its own gentle logic is no small feat.\n\nHugh Grant as Phoenix Buchanan is the other engine driving the picture. What Grant understood about the role — and what the screenplay hands him beautifully — is that Phoenix must be ridiculous without being harmless. He commits to the character\'s vanity with a physicality that suggests he has been waiting his entire career for permission to be this silly. Every disguise Phoenix adopts is a small comedy of its own, and Grant moves through them with obvious delight. It is a performance that could only work in a film that has already established its moral grammar: viewers laugh at Phoenix because they already understand exactly what Paddington is, and the contrast between the bear\'s sincerity and the actor\'s self-absorption is where the humor lives.\n\nErik Wilson\'s cinematography takes more visible risks than in the first film — the pop-up book sequences that bookend the story are rendered in a flat, illustrated style that holds the screen with complete confidence, and the London that contains the story is slightly more heightened, slightly more saturated, than the already-stylized city of the original. The visual imagination on display throughout is generous in a way that trusts children to absorb and enjoy complexity rather than simply tracking movement.\n\nDario Marianelli\'s score moves between orchestral warmth and comic punctuation with ease, and the production design — particularly the prison, reimagined from grey institution into a riot of color as the film progresses — is one of the best pieces of visual storytelling in any family film of the decade.\n\nWhat sits underneath all of this, and what makes the film stubbornly affecting even for viewers who arrived intending only to be cheerfully entertained, is its genuine argument about character. Paddington does not transform the prison through luck or magic or plot convenience. He does it by being consistently kind, consistently interested in other people, consistently unwilling to reduce anyone to their worst moment. The film believes — and manages to make audiences believe, at least for one hundred and four minutes — that this is sufficient. That goodness, practiced with enough patience, can alter the temperature of a room, or a cellblock, or an entire neighborhood.\n\nThat is not a sophisticated philosophical position. But it is a sincere one, and sincerity in cinema, delivered with this much craft, is rarer than most people admit."
+    }
+  },
+  {
+    id: "the-father-2020",
+    title: "The Father",
+    originalTitle: null,
+    romanization: null,
+    year: 2020,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/lRY3gQaZOS4I5Tps685OJ6cyix2.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=4TZb7YfK-JI",
+    director: [
+      {
+        name: "Florian Zeller",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e2koSVDhNPlENZ7zRZq2eyC3A7y.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Florian Zeller",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e2koSVDhNPlENZ7zRZq2eyC3A7y.jpg"
+      },
+      {
+        name: "Christopher Hampton",
+        photoUrl: "https://image.tmdb.org/t/p/w185/utg2E5j1D4xt5vgoUnrc4WEh7fE.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Anthony Hopkins",
+        role: "Anthony",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dYVQTK1dPrQl1mugeLEWSSmA6Im.jpg"
+      },
+      {
+        actor: "Olivia Colman",
+        role: "Anne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4ZwZ66zXZyX26Kf2wfeMt1tQZQf.jpg"
+      },
+      {
+        actor: "Mark Gatiss",
+        role: "The Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
+      },
+      {
+        actor: "Olivia Williams",
+        role: "The Woman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/94bnuQXo3LoxNvcFXeAoVvIIm3N.jpg"
+      },
+      {
+        actor: "Imogen Poots",
+        role: "Laura",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
+      },
+      {
+        actor: "Rufus Sewell",
+        role: "Paul",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
+      },
+      {
+        actor: "Ayesha Dharker",
+        role: "Dr. Sarai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6LNt1MmG22qPQxQgRVmoOPfQofQ.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Psychological"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "clinical depictions of dementia and progressive cognitive deterioration",
+        "subjective psychological disorientation sustained throughout the film",
+        "scenes of verbal outbursts and emotional volatility in an elderly character",
+        "portrayal of caregiver exhaustion and family guilt",
+        "brief non-graphic moment of physical aggression",
+        "existential anguish and fear of abandonment"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:37" }
+    ],
+    awards: [
+      { body: "Academy Awards (93rd)", category: "Best Actor", result: "Won", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Adapted Screenplay", result: "Won", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Actor in a Leading Role", result: "Won", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Adapted Screenplay", result: "Won", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Picture", result: "Nominated", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Director", result: "Nominated", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Supporting Actress", result: "Nominated", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Film Editing", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Film", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Outstanding British Film", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Director", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Supporting Actress", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Film Editing", result: "Nominated", year: 2021 },
+      { body: "Golden Globe Awards (78th)", category: "Best Actor in a Motion Picture — Drama", result: "Nominated", year: 2021 },
+      { body: "Golden Globe Awards (78th)", category: "Best Screenplay — Motion Picture", result: "Nominated", year: 2021 },
+      { body: "Screen Actors Guild Awards (27th)", category: "Outstanding Performance by a Male Actor in a Leading Role", result: "Nominated", year: 2021 },
+      { body: "Critics Choice Awards (26th)", category: "Best Actor", result: "Nominated", year: 2021 },
+      { body: "Critics Choice Awards (26th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["dissolution", "perception", "dependency", "guilt", "mortality", "estrangement", "dignity"],
+      mood: ["disorienting", "harrowing", "intimate"],
+      fullReview: "Anthony, an eighty-year-old man living in his London flat, is certain about three things: he has never had any trouble with his memory, he does not need any help, and this is his apartment. The film that surrounds him makes a sustained project of dismantling each certainty — not through explanation or dramatic revelation, but through the steady, methodical erosion of the ground beneath the audience\'s feet. By the time the film reaches its final twenty minutes, the question of where Anthony is, and who the people around him actually are, has become genuinely unanswerable in the moment of watching. That is exactly the point, and it is brilliantly achieved.\n\nFlorian Zeller adapts his own stage play — with Christopher Hampton assisting on the screenplay — and makes a decision that sounds simple but changes everything: the film will not observe Anthony\'s dementia from the outside. It will inhabit it. The apartment shifts. Characters who seemed fixed swap faces without warning. Conversations loop and contradict. Rooms rearrange themselves between cuts. Zeller and editor Yorgos Lamprinos construct the film as a labyrinth with movable walls, and the effect is not disorienting in a playful, puzzle-box way — it is distressing in the specific way that disorientation is distressing when something is genuinely wrong and cannot be explained away.\n\nAnthony Hopkins has given great performances throughout a long career, but this one is categorically different from most of them. He plays the role without vanity and without the consolation of dignity — Anthony is not a wise elder or a tragic figure watching himself decline from a comfortable aesthetic distance. He is frightened, cunning, occasionally cruel, intermittently lucid, and sometimes completely lost in a way that makes the watching of it feel intrusive. There is a scene late in the film in which Anthony, reduced to something smaller and rawer than anything seen before, weeps and asks for his mother. Hopkins plays it without theatrics and without self-protection, and it lands with a weight that does not feel like cinema at all. Several minutes after that scene ends, viewers will still be sitting with it.\n\nOlivia Colman as Anne, his daughter, has the harder role in one sense: she must communicate an entire history of exhaustion, guilt, and suffocating love while the film repeatedly strips away the certainty of who she even is in relation to her father. The screenplay gives her a scene in which Anne describes, quietly and without sentimentality, what it has cost her to be his daughter, and Colman finds something specific and undramatic in the moment that is more devastating than any louder version of the scene would have been.\n\nThe film\'s theatrical origins occasionally show in ways that limit it. The visual language, while purposeful, is largely confined to the apartment — and while Peter Francis\'s production design makes the space feel genuinely unstable, there are moments where the formal strategy feels constrained by its stage-derived logic rather than expanded by cinema\'s possibilities. The supporting cast, particularly Rufus Sewell and Olivia Williams in roles whose exact nature remains deliberately ambiguous, do precise and committed work inside what are essentially supporting functions within a two-person drama.\n\nLudovico Einaudi\'s score is used sparingly and well — piano fragments that arrive and retreat, suggesting the associative way memory moves rather than scoring the film\'s emotions directly.\n\nWhat the film finally argues is something few films about aging are honest enough to say plainly: that the loss of self is not peaceful or poetic, that it is terrifying for the person living it, and that the most faithful act of cinema might be to put an audience inside that terror rather than at a respectful remove from it. Whether anyone would choose to subject themselves to that experience twice is a separate question from whether the film succeeds at what it attempts. It does, completely."
+    }
+  },
+  {
+    id: "knives-out-2019",
+    title: "Knives Out",
+    originalTitle: null,
+    romanization: null,
+    year: 2019,
+    tagline: "Hell, any of them could have done it.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/7oCGn4lB3eWiUhts1C04c5yZd2J.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
+    director: [
+      {
+        name: "Rian Johnson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Rian Johnson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Daniel Craig", role: "Benoit Blanc", photoUrl: "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg" },
+      { actor: "Chris Evans", role: "Ransom Drysdale", photoUrl: "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg" },
+      { actor: "Ana de Armas", role: "Marta Cabrera", photoUrl: "https://image.tmdb.org/t/p/w185/3vxvsmYLTf4jnr163SUlBIw51ee.jpg" },
+      { actor: "Jamie Lee Curtis", role: "Linda Drysdale", photoUrl: "https://image.tmdb.org/t/p/w185/eb0lIt32WwrjtCULe5z6l9eBf06.jpg" },
+      { actor: "Michael Shannon", role: "Walt Thrombey", photoUrl: "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg" },
+      { actor: "Don Johnson", role: "Richard Drysdale", photoUrl: "https://image.tmdb.org/t/p/w185/6s6oav541p7xspCG6PvXut7knkP.jpg" },
+      { actor: "Toni Collette", role: "Joni Thrombey", photoUrl: "https://image.tmdb.org/t/p/w185/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg" },
+      { actor: "LaKeith Stanfield", role: "Lieutenant Elliott", photoUrl: "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg" },
+      { actor: "Christopher Plummer", role: "Harlan Thrombey", photoUrl: "https://image.tmdb.org/t/p/w185/u0YBwss0ebEUp8sjRtQKnK2wZdR.jpg" },
+      { actor: "Katherine Langford", role: "Meg Thrombey", photoUrl: "https://image.tmdb.org/t/p/w185/fuF3tveGFXfuGUmFiC8v9r7I2jd.jpg" },
+      { actor: "Jaeden Martell", role: "Jacob Thrombey", photoUrl: "https://image.tmdb.org/t/p/w185/oR7ZJsOHMNFzM1HeugV4a4qCMSF.jpg" },
+      { actor: "Riki Lindhome", role: "Donna Thrombrey", photoUrl: "https://image.tmdb.org/t/p/w185/kJAGFp0ZW5sY0NoysFZcfSRykZa.jpg" },
+      { actor: "Edi Patterson", role: "Fran", photoUrl: "https://image.tmdb.org/t/p/w185/ecVF2n0OrZcbDlPEkNnrAUyWQuH.jpg" },
+      { actor: "Frank Oz", role: "Alan Stevens", photoUrl: "https://image.tmdb.org/t/p/w185/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg" },
+      { actor: "Noah Segan", role: "Trooper Wagner", photoUrl: "https://image.tmdb.org/t/p/w185/j1mjH6uOZlKaiQ18U4SaTnmnjMl.jpg" },
+      { actor: "M. Emmet Walsh", role: "Mr. Proofroc", photoUrl: "https://image.tmdb.org/t/p/w185/fVWvBxvwyk4aTA9vKZOV9qHRNNk.jpg" },
+      { actor: "Marlene Forte", role: "Marta\'s Mom", photoUrl: "https://image.tmdb.org/t/p/w185/qBhO3tT3VzF1bxUhw3ylmQsfTwP.jpg" },
+      { actor: "Raúl Castillo", role: "Cop", photoUrl: "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg" },
+      { actor: "Shyrley Rodriguez", role: "Alicia", photoUrl: "https://image.tmdb.org/t/p/w185/jhu847FfnXsgWx740LEyE53gZZg.jpg" },
+      { actor: "Kerry Frances", role: "Sally", photoUrl: "https://image.tmdb.org/t/p/w185/hCIroy96msUpkzUCWyBP6lJBNV5.jpg" },
+      { actor: "Gary Tanguay", role: "Local News Anchor", photoUrl: "https://image.tmdb.org/t/p/w185/5WnJ7WUceuarkEjZHoDPZsQA3Jy.jpg" },
+      { actor: "Octavia Chavez-Richmond", role: "Other Woman", photoUrl: "https://image.tmdb.org/t/p/w185/oiKt1aISbLfjGW6C9OZEVvHS08D.jpg" },
+      { actor: "Joseph Gordon-Levitt", role: "Detective Hardrock (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg" },
+      { actor: "Paul Bellefeuille", role: "Friend of Harlan Thrombey (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/lhZHAO1FkAyLsXRequ4jQIthojJ.jpg" },
+      { actor: "Ben Bunnag", role: "Worker (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/cCh8q2g71zA6Uknd4mJvesALMrG.jpg" },
+      { actor: "Frankie Francois", role: "Officer Perry (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/ui9JaZW4ZK71ufr7VjrgiGDvKj.jpg" },
+      { actor: "Marcela Jaramillo", role: "Pedestrian (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/zf8L6VnRGtUMk4JmSS8Qn1nonMF.jpg" },
+      { actor: "Gabrielle Lorthe", role: "Waitress (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/lig0iu7pEunSzMTUnlPUQvIi1Pe.jpg" },
+      { actor: "Rob Lévesque", role: "Morgue Fire Spectator (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/jedOhOS3KknCvf0OPyEvZ0uYmv2.jpg" },
+      { actor: "Paul Tawczynski", role: "Officer Taillie (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/3psMdZZdp35qARIFDwTpiVwJDtC.jpg" }
+    ],
+    languages: ["English", "Spanish"],
+    genres: ["Mystery", "Comedy", "Crime"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "a death depicted on-screen without graphic violence",
+        "brief involuntary vomiting as a recurring story mechanic",
+        "prescription drug misuse as a central plot element",
+        "immigration status weaponized as a threat",
+        "moderate profanity throughout"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:11" }
+    ],
+    awards: [
+      { body: "Academy Awards (92nd)", category: "Best Original Screenplay", result: "Nominated", year: 2020 },
+      { body: "BAFTA Film Awards (73rd)", category: "Best Original Screenplay", result: "Nominated", year: 2020 },
+      { body: "Golden Globe Awards (77th)", category: "Best Motion Picture – Musical or Comedy", result: "Nominated", year: 2020 },
+      { body: "Screen Actors Guild Awards (26th)", category: "Outstanding Performance by a Cast in a Motion Picture", result: "Nominated", year: 2020 },
+      { body: "Writers Guild of America Awards (72nd)", category: "Best Original Screenplay", result: "Nominated", year: 2020 },
+      { body: "Critics Choice Awards (25th)", category: "Best Comedy Movie", result: "Nominated", year: 2020 },
+      { body: "Saturn Awards (46th)", category: "Best Thriller Film", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["entitlement", "complicity", "inheritance", "deception", "guilt", "morality", "immigration"],
+      mood: ["wry", "electric", "playful"],
+      fullReview: "Harlan Thrombey is eighty-five years old, fabulously wealthy, and dead by morning. The crime novelist patriarch of a sprawling, spectacularly dysfunctional family is found in his study after his own birthday party, and the extended Thrombey clan — lawyers, lifestyle gurus, publishing heirs, and assorted hangers-on — descends into barely concealed panic. Into this mess steps Benoit Blanc, a Southern detective of considerable reputation and even more considerable theatrical self-regard, hired by an anonymous party to poke at whatever the local police have already decided to leave alone.\n\nRian Johnson does something audacious early in Knives Out: he reveals significant information about what actually happened that night well before the film reaches its midpoint. This is not carelessness. It is a structural decision that reframes the mystery entirely, pivoting the audience from asking who did it to asking whether justice — formal or otherwise — is even possible in a world this thoroughly upholstered in privilege. The moral weight lands not on Blanc but on Marta Cabrera, played by Ana de Armas with a precision that the film could not survive without. Marta is the Thrombeys\' nurse, an immigrant whose residency status makes her permanently vulnerable, and she is constitutionally incapable of lying without immediately vomiting. It is an absurdist detail that de Armas plays with complete sincerity, making it feel both funny and genuinely tense whenever the stakes require her to navigate a room full of people asking questions.\n\nDaniel Craig, liberated from the Bond franchise\' requirement that he look perpetually windswept and suffering, delivers a performance of pure, gleeful commitment. His Blanc is a man who approaches a mystery the way a musician approaches a beloved piece: not to get through it, but to inhabit it fully. The accent has been debated, but it serves the character — a person whose theatricality is itself a kind of investigative tool, disarming suspects by keeping them focused on the performance rather than the questions underneath it.\n\nChris Evans arrives to peel back the accumulated goodwill of the Marvel years and plays Ransom Drysdale with a kind of casual, confident menace that the film needs to function. His is not a subtle performance, but subtlety is not what the role requires. The rest of the ensemble — Jamie Lee Curtis, Michael Shannon, Toni Collette, Don Johnson — operate closer to archetype than character. Each Thrombey has constructed an elaborate personal mythology explaining why they are the self-made one, the deserving one, the family member who least depends on old money, and Johnson is interested in this collective self-deception as a social phenomenon rather than an individual pathology. The satire is not especially sharp-edged, but it is well-aimed.\n\nNathan Johnson\\'s score — all harpsichord and baroque flourish — walks the line between homage and pastiche without tumbling into either, and Steve Yedlin\\'s cinematography gives the Thrombey estate a rich, amber-soaked quality that makes the house feel genuinely complicit in whatever happened there.\n\nThe screenplay is the film\\'s real achievement. Johnson constructs the plot with clockmaker precision, placing every early scene so that it pays off later without ever feeling planted, trusting the audience to track complexity without signposting it condescendingly. The structural risk taken at the midpoint requires confidence in the audience that most studio releases simply refuse to extend.\n\nWhere the film loses some ground is in its final act, where the engine that had been running so cleanly begins to coast slightly as the film settles its ledger. The satirical ambition also stops just short of anything genuinely destabilizing — the targets are comfortably obvious, and the resolution tilts toward a satisfaction that feels earned but not complicated. Knives Out arrives at a kind of righteous conclusion that viewers will leave feeling good about, which is exactly what it intends and also, faintly, a ceiling on how much the film finally demands of the people watching it.\n\nNone of that diminishes what is here: a witty, structurally inventive, beautifully performed piece of popular cinema that treats genre as a language rather than a formula. Anyone who has written off the studio whodunit as a dead form will find this a productive argument against that position."
+    }
+  },
+  {
+    id: "glass-onion-2022",
+    title: "Glass Onion: A Knives Out Mystery",
+    originalTitle: null,
+    romanization: null,
+    year: 2022,
+    tagline: "When the game ends, the mystery begins.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/8sAA3GbGFQqaJYyOCiJD9n0fVDI.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=-xR_lBtEvSc",
+    director: [
+      {
+        name: "Rian Johnson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Rian Johnson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Daniel Craig", role: "Benoit Blanc", photoUrl: "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg" },
+      { actor: "Edward Norton", role: "Miles Bron", photoUrl: "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg" },
+      { actor: "Janelle Monáe", role: "Andi Brand", photoUrl: "https://image.tmdb.org/t/p/w185/axTIbPz6ZbqlcCwkNBgD59gY3lx.jpg" },
+      { actor: "Kathryn Hahn", role: "Claire Debella", photoUrl: "https://image.tmdb.org/t/p/w185/dh6MQiVHCnH3YS12ZjcI75FDFJK.jpg" },
+      { actor: "Leslie Odom Jr.", role: "Lionel Toussaint", photoUrl: "https://image.tmdb.org/t/p/w185/pDA11JMNAGQGJo7nRpZHp7pdp9N.jpg" },
+      { actor: "Kate Hudson", role: "Birdie Jay", photoUrl: "https://image.tmdb.org/t/p/w185/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg" },
+      { actor: "Dave Bautista", role: "Duke Cody", photoUrl: "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg" },
+      { actor: "Jessica Henwick", role: "Peg", photoUrl: "https://image.tmdb.org/t/p/w185/rfUrgDyHWHlrfvdxiVg8Vooudnd.jpg" },
+      { actor: "Madelyn Cline", role: "Whiskey", photoUrl: "https://image.tmdb.org/t/p/w185/6bFItWARGJFRrkhBaZtvLJf6VRQ.jpg" },
+      { actor: "Noah Segan", role: "Derol", photoUrl: "https://image.tmdb.org/t/p/w185/j1mjH6uOZlKaiQ18U4SaTnmnjMl.jpg" },
+      { actor: "Jackie Hoffman", role: "Ma", photoUrl: "https://image.tmdb.org/t/p/w185/jtvytvZxpRwGlJQxVMkvYRLjGWo.jpg" },
+      { actor: "Dallas Roberts", role: "Devon Debella", photoUrl: "https://image.tmdb.org/t/p/w185/b7jMTaNJ9aBTXXy7gdwqn9jb6EF.jpg" },
+      { actor: "Ethan Hawke", role: "Efficient Man", photoUrl: "https://image.tmdb.org/t/p/w185/oojD9jSshvUT4t6AUySsBxoekHk.jpg" },
+      { actor: "Hugh Grant", role: "Phillip", photoUrl: "https://image.tmdb.org/t/p/w185/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg" },
+      { actor: "Stephen Sondheim", role: "Stephen Sondheim", photoUrl: "https://image.tmdb.org/t/p/w185/1yNdo1oMP3w9DieH5vOd4FxTURg.jpg" },
+      { actor: "Natasha Lyonne", role: "Natasha Lyonne", photoUrl: "https://image.tmdb.org/t/p/w185/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg" },
+      { actor: "Kareem Abdul-Jabbar", role: "Kareem Abdul-Jabbar", photoUrl: "https://image.tmdb.org/t/p/w185/aMbhI6nWjU3MkUhw9IIKnJz7UiX.jpg" },
+      { actor: "Serena Williams", role: "Serena Williams", photoUrl: "https://image.tmdb.org/t/p/w185/qMoRnzYuUkqb8VZjbX4XWZeQZzY.jpg" },
+      { actor: "Yo-Yo Ma", role: "Yo-Yo Ma", photoUrl: "https://image.tmdb.org/t/p/w185/4cFMSniCsO8uVXx4LVcpcbYTjlE.jpg" },
+      { actor: "Joseph Gordon-Levitt", role: "Hourly Dong (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg" },
+      { actor: "Dan Chariton", role: "Dr. Pierre Bonassus", photoUrl: "https://image.tmdb.org/t/p/w185/2RcCt0N9Hc9XqAu4cUjFL430Xk8.jpg" },
+      { actor: "Eddie Gorodetsky", role: "Dr. Peter Clayton", photoUrl: "https://image.tmdb.org/t/p/w185/gW9psAi1rIciNz9qUmSzxNWhXn9.jpg" },
+      { actor: "Momo Pićurić", role: "Vampire in Tuxedo", photoUrl: "https://image.tmdb.org/t/p/w185/eWMp1x8XOkVlRfbASx2LY9q1VDE.jpg" },
+      { actor: "James Payton", role: "Lawyer", photoUrl: "https://image.tmdb.org/t/p/w185/gkTGb4V3NNn18t9BCsaZRjteK4A.jpg" },
+      { actor: "Angela Lansbury", role: "Angela Lansbury", photoUrl: "https://image.tmdb.org/t/p/w185/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg" },
+      { actor: "Jake Tapper", role: "Jake Tapper (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/oUmhEkHiDe1k1bbyD0kPdXISeZk.jpg" },
+      { actor: "Panagiotis Margetis", role: "Hotel Server (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/d8AQxPGIo07Lg7neSgsH5ydJqEP.jpg" }
+    ],
+    languages: ["English"],
+    genres: ["Mystery", "Comedy", "Satire"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "a murder depicted without graphic gore",
+        "alcohol consumption throughout",
+        "a dangerous explosive incident with non-graphic consequences",
+        "suggestive humor and mild sexual references",
+        "moderate profanity"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:20" }
+    ],
+    awards: [
+      { body: "BAFTA Film Awards (76th)", category: "Best Original Screenplay", result: "Nominated", year: 2023 },
+      { body: "Golden Globe Awards (80th)", category: "Best Motion Picture – Musical or Comedy", result: "Nominated", year: 2023 },
+      { body: "Screen Actors Guild Awards (29th)", category: "Outstanding Performance by a Cast in a Motion Picture", result: "Nominated", year: 2023 },
+      { body: "Writers Guild of America Awards (75th)", category: "Best Original Screenplay", result: "Nominated", year: 2023 },
+      { body: "Critics Choice Awards (28th)", category: "Best Comedy Movie", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["hubris", "impunity", "genius", "complicity", "disruption", "loyalty", "accountability"],
+      mood: ["playful", "buoyant", "wry"],
+      fullReview: "Miles Bron is a tech billionaire who has made his fortune selling the world on the idea that he sees what others cannot. Every year he gathers his inner circle — a dissolving cluster of politicians, influencers, scientists, and hangers-on who each owe him something — on his private Greek island for an elaborate murder mystery game. The year Benoit Blanc shows up uninvited, the mystery stops being a game.\n\nRian Johnson made a calculated choice with Glass Onion: go bigger, go brighter, go louder. Where the first Blanc film nested its moral weight inside a genuinely unpredictable structure, this one announces its satirical target early and hits it repeatedly, with the confident energy of someone who knows exactly how much the audience will enjoy watching a specific kind of man be taken apart. Miles Bron is not an enigma. He is a composite portrait drawn from the most public faces of billionaire tech culture, and Edward Norton plays him with a disarming warmth that makes the character both funnier and more interesting than a simple villain would be. Norton understands that the truly dangerous version of this archetype is not the cold schemer but the enthusiast — the man who genuinely believes the mythology others have built around him.\n\nJanelle Monáe carries the film\\'s emotional core with a dual performance that requires careful calibration and gets it. There are two distinct registers she needs to inhabit across the runtime, and she handles the transition between them with far more grace than the screenplay technically earns. Her work is the reason the film\\'s final act carries any weight at all, because Johnson\\'s script, for all its pleasures, builds toward a conclusion that prioritizes spectacle over consequence. What happens at the end is enormously satisfying in the moment and faintly hollow in reflection.\n\nThe ensemble functions more as a gallery of archetypes than as individuals. Kate Hudson attacks Birdie Jay — a fashion influencer whose brain-to-mouth delay is essentially non-existent — with obvious physical delight, landing the role\\'s comedy cleanly. Dave Bautista finds real menace underneath Duke Cody\\'s performative bravado. Kathryn Hahn brings a useful ambiguity to Claire Debella, a politician who has learned to wear her moral compromises as good sense. Leslie Odom Jr., in the most genuinely complex supporting role, navigates the film\\'s thorniest question — what does it mean to enable someone you know is wrong — without ever quite getting the screenplay space that question deserves.\n\nDaniel Craig, given considerably more to do here than in Knives Out, remains a pleasure. Blanc has been allowed to develop a private life in the gap between films, and Craig plays him with a looseness that suits the sunnier material. The character\\'s eccentricities feel inhabited rather than performed.\n\nSteve Yedlin\\'s cinematography bathes the island in the kind of Mediterranean light that makes everything feel slightly unreal, which works perfectly for a film about people who have constructed elaborate fictions around themselves. Rick Heinrichs\\'s production design is meticulous in its excess — the glass mansion at the center of the story is an architectural argument that Johnson is making just as deliberately as any line of dialogue.\n\nWhere the film gives up ground is in its structural ambition. The pivot Johnson executes at roughly the midpoint is less surprising than the equivalent move in the first film, partly because the audience is now primed to expect it, and partly because Glass Onion telegraphs its hand more than it perhaps realizes. The satire, too, operates at a register that is comfortable rather than cutting — Miles Bron is easy to mock because he is drawn to be, and the film never quite asks what it means that people like him exist and thrive even after being exposed. The ending opts for catharsis over complication, which is a legitimate artistic choice, but a somewhat bolder film might have sat longer with the discomfort of what came before it.\n\nNone of that diminishes the pleasure of what is here. Glass Onion is confident, funny, and frequently delightful, a summer film that happens to have something on its mind. It does not ask as much of the audience as its predecessor did, but what it offers in return is a different and entirely valid kind of good time."
+    }
+  },
+  {
+    id: "wake-up-dead-man-2025",
+    title: "Wake Up Dead Man: A Knives Out Mystery",
+    originalTitle: null,
+    romanization: null,
+    year: 2025,
+    tagline: "He works in mysterious ways.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/cT7ZcQDZqY0gGRLfevRXR5baEha.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=0hc8yz5-d5Y",
+    director: [
+      {
+        name: "Rian Johnson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Rian Johnson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Daniel Craig", role: "Benoit Blanc", photoUrl: "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg" },
+      { actor: "Josh O\'Connor", role: "Fr. Jud Duplenticy", photoUrl: "https://image.tmdb.org/t/p/w185/iFGxCv7wMaComYR40Mt7fwbfY1k.jpg" },
+      { actor: "Glenn Close", role: "Martha Delacroix", photoUrl: "https://image.tmdb.org/t/p/w185/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg" },
+      { actor: "Josh Brolin", role: "Mons. Jefferson Wicks", photoUrl: "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg" },
+      { actor: "Mila Kunis", role: "Chief Geraldine Scott", photoUrl: "https://image.tmdb.org/t/p/w185/6Lp9qPkMO740Hcp8NBYZZLWWvJF.jpg" },
+      { actor: "Jeremy Renner", role: "Dr. Nat Sharp", photoUrl: "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg" },
+      { actor: "Kerry Washington", role: "Vera Draven, Esq.", photoUrl: "https://image.tmdb.org/t/p/w185/h50ibjjpR9lF566PHoV7u7CuWGY.jpg" },
+      { actor: "Andrew Scott", role: "Lee Ross", photoUrl: "https://image.tmdb.org/t/p/w185/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg" },
+      { actor: "Cailee Spaeny", role: "Simone Vivane", photoUrl: "https://image.tmdb.org/t/p/w185/lAhpFajAciCOvq8cgOViOKysnlT.jpg" },
+      { actor: "Daryl McCormack", role: "Cy Draven", photoUrl: "https://image.tmdb.org/t/p/w185/uxBEREn7HCDzhSNJaFw8MPdvXxo.jpg" },
+      { actor: "Thomas Haden Church", role: "Samson Holt", photoUrl: "https://image.tmdb.org/t/p/w185/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg" },
+      { actor: "Jeffrey Wright", role: "Bp. Langstrom", photoUrl: "https://image.tmdb.org/t/p/w185/yGcuHGW4glqRpOPxgiCvjcren7F.jpg" },
+      { actor: "Annie Hamilton", role: "Grace Wicks", photoUrl: "https://image.tmdb.org/t/p/w185/8Sn1IGVkL22pFiGcKF0bsbb0CH2.jpg" },
+      { actor: "James Faulkner", role: "Rev. Prentice Wicks", photoUrl: "https://image.tmdb.org/t/p/w185/969qmhcUDkb0Ms8sduDXIymsqRe.jpg" },
+      { actor: "Bridget Everett", role: "Louise", photoUrl: "https://image.tmdb.org/t/p/w185/2wXPFTxyf2vVwqHMvjiSLfQ727n.jpg" },
+      { actor: "Noah Segan", role: "Nikolai", photoUrl: "https://image.tmdb.org/t/p/w185/j1mjH6uOZlKaiQ18U4SaTnmnjMl.jpg" },
+      { actor: "Kit Burden", role: "Dcn. Clark", photoUrl: "https://image.tmdb.org/t/p/w185/fVMVROEoJGzU92exscYT3GZjHc.jpg" },
+      { actor: "Gavin Spokes", role: "Rev. Frank", photoUrl: "https://image.tmdb.org/t/p/w185/ghzBWbusVNHllI8L87Qw0VB7at.jpg" },
+      { actor: "Paul Hilton", role: "Rev. Delancy", photoUrl: "https://image.tmdb.org/t/p/w185/qbvVlXTwvtEiHJB9C6CagBdMiWt.jpg" },
+      { actor: "Joseph Gordon-Levitt", role: "Baseball Announcer (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg" },
+      { actor: "Cecilia Blair", role: "Young Martha", photoUrl: "https://image.tmdb.org/t/p/w185/dcMtz3mS3iJQCcOjU8GGvKHE79W.jpg" },
+      { actor: "Leo Abelo Perry", role: "Young Cy", photoUrl: "https://image.tmdb.org/t/p/w185/22yhaD35P2AzJ8nA7EMbuIyyHEw.jpg" },
+      { actor: "Nicola Hughes", role: "Darla", photoUrl: "https://image.tmdb.org/t/p/w185/1U9QjsFAQ1SooUFok2gJmMONwDX.jpg" },
+      { actor: "Laura Elsworthy", role: "Single Mother", photoUrl: "https://image.tmdb.org/t/p/w185/b7mAudgQRuHX2vzKreMWXTR07O9.jpg" },
+      { actor: "Daphne Cheung", role: "Masked Woman", photoUrl: "https://image.tmdb.org/t/p/w185/vsXomv8E7Erhw3UUQeObbJXcTqO.jpg" },
+      { actor: "Matthew Jacobs Morgan", role: "Upset Couple #2", photoUrl: "https://image.tmdb.org/t/p/w185/o2JniMkRQvJNsfRGpGlomoQhAGE.jpg" },
+      { actor: "Kerry Frances", role: "Tammy", photoUrl: "https://image.tmdb.org/t/p/w185/hCIroy96msUpkzUCWyBP6lJBNV5.jpg" },
+      { actor: "Ian Porter", role: "Eddie", photoUrl: "https://image.tmdb.org/t/p/w185/qmTTaWGp5OO5rTFey9EFfo0dH5n.jpg" },
+      { actor: "Dan Chariton", role: "Deputy Roscoe Pascoe", photoUrl: "https://image.tmdb.org/t/p/w185/2RcCt0N9Hc9XqAu4cUjFL430Xk8.jpg" },
+      { actor: "Eddie Gorodetsky", role: "James", photoUrl: "https://image.tmdb.org/t/p/w185/gW9psAi1rIciNz9qUmSzxNWhXn9.jpg" }
+    ],
+    languages: ["English"],
+    genres: ["Mystery", "Thriller", "Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "a murder depicted within a religious institution",
+        "moderate violence and injury detail",
+        "depictions of institutional cover-up and abuse of spiritual authority",
+        "brief scenes of physical self-harm",
+        "strong language in isolated instances"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:25" }
+    ],
+    awards: [],
+    criticRating: "Great",
+    review: {
+      themes: ["faith", "corruption", "obedience", "doubt", "power", "silence", "redemption"],
+      mood: ["disquieting", "brooding", "tense"],
+      fullReview: "A young priest named Jud Duplenticy is sent to assist Monsignor Jefferson Wicks, a commanding figure whose parish commands fierce devotion and darker undercurrents in equal measure. When a murder occurs under circumstances that appear to defy ordinary explanation, the local police chief joins forces with Benoit Blanc to untangle a case in which every witness carries a collar and every suspect has God as their alibi.\n\nWake Up Dead Man announces its tonal intentions immediately. This is not the autumnal drawing-room warmth of Knives Out, nor the sun-bleached satire of Glass Onion. Rian Johnson has moved his detective into a different register entirely — darker, more oppressive, the comedy quieter and the stakes more genuinely unsettling. Setting a Blanc mystery inside a Catholic institution is not a gimmick. It is a structural choice that reframes everything the series has previously done with wealth and entitlement. The Church provides a different species of closed world: hierarchical, oath-bound, profoundly invested in maintaining the surface of sanctity regardless of what rots beneath it. As a setting for a murder mystery, the pews are an ideal trap.\n\nJosh O\'Connor carries the film\'s emotional weight as the young priest caught between loyalty to an institution and the obligation of honesty. It is a quieter performance than the material might tempt a lesser actor to deliver — uncertain, interiorly conflicted, convincingly devout in ways that make his growing disillusionment register as genuine loss rather than dramatic convenience. The role asks him to be a moral center for the film without ever being allowed to simply act like one, and he manages it with the kind of specificity that serious screen acting requires.\n\nJosh Brolin\'s Monsignor Wicks is the film\'s most carefully constructed figure. Brolin plays him as genuinely magnetic rather than simply menacing — a man whose charisma is not performance but belief, which makes him considerably more dangerous. The screenplay is smart enough to resist simplifying him into villainy, and Brolin honors that restraint. His scenes with O\'Connor have an undertow of paternal authority curdled into something more complicated that neither actor overplays.\n\nThe supporting roster is formidably stacked. Mila Kunis brings an appealing directness to Chief Scott, a character who could easily have been a procedural placeholder but who develops a genuine dynamic with Blanc over the course of the investigation. Kerry Washington is given less to do than her billing suggests, though what she brings to Vera Draven\'s guarded composure earns every moment. Glenn Close, in a role the film wisely does not explain too quickly, operates at a register that commands attention without demanding it.\n\nDaniel Craig\'s Blanc has darkened with the material. There is more stillness in this iteration, less theatrical deployment of his Southern affectations as a disarming weapon. The setting seems to have gotten to him, or Johnson has decided that a mystery this morally heavy earns a detective who feels its weight. The result is the most interior version of the character yet, which some audience members will find underwhelming and others will find the most interesting thing the trilogy has done with him.\n\nSteve Yedlin\'s cinematography is doing significant work. The palette has shifted away from warmth entirely — stone walls, grey light, the geometric severity of ecclesiastical architecture framing characters who cannot escape its geometry. Nathan Johnson\'s score pushes into genuinely unsettling territory, more dissonant and less playful than his previous entries in the series.\n\nThe screenplay\'s central gamble is asking audiences to sit inside a world where the comedy of manners has been replaced by the comedy of conscience — where the funny thing is not how obviously people lie but how earnestly they believe they are telling the truth. This is harder to sustain across a 145-minute runtime, and the film does lose some momentum in its second act as it works through the mechanics of revelation. The structural playfulness that has characterized the series remains present but feels more carefully rationed.\n\nWhat stays with viewers is the particular discomfort of watching institutions designed to comfort people become instruments of harm — not through mustache-twirling villainy but through the quieter machinery of hierarchy, obedience, and the protection of reputation. Johnson has made the darkest entry in a franchise that was never as light as it appeared, and the ambition of that choice deserves credit even where the execution does not quite match it."
+    }
+  },
 ]; // ← paste movie objects here, one by one

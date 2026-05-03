@@ -405,6 +405,9 @@
     }
 
     .tag-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 20px;
@@ -427,6 +430,97 @@
       color: #070B19;
       font-weight: 500;
       box-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+    }
+
+    .count-bubble {
+      position: absolute;
+      top: -6px;
+      right: -6px;
+      background: rgba(17, 26, 48, 0.85);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      color: var(--text-secondary);
+      font-family: var(--font-sans);
+      font-size: 0.55rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      padding: 3px 6px;
+      border-radius: 12px;
+      line-height: 1;
+      min-width: 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      pointer-events: none;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.05);
+      transition: var(--transition);
+      z-index: 2;
+    }
+
+    .count-bubble--inline {
+      position: static;
+      margin-left: auto;
+      transform: none !important;
+      box-shadow: none;
+      background: rgba(255, 255, 255, 0.05);
+      border-color: transparent;
+    }
+
+    [data-theme="light"] .count-bubble {
+      background: rgba(255, 255, 255, 0.85);
+      border-color: rgba(0, 0, 0, 0.06);
+      color: var(--text-secondary);
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+    }
+
+    .tag-pill, .filter-check, .filter-badge-toggle, .filter-row-toggle, .toggle-switch-wrap {
+      position: relative; /* Anchor for count bubble */
+    }
+
+    /* Hover effects for bubbles */
+    .tag-pill:hover .count-bubble,
+    .filter-check:hover .count-bubble,
+    .filter-badge-toggle:hover .count-bubble,
+    .filter-row-toggle:hover .count-bubble,
+    .toggle-switch-wrap:hover .count-bubble {
+      border-color: rgba(255, 255, 255, 0.15);
+      color: var(--text-primary);
+      transform: translateY(-1px);
+    }
+
+    [data-theme="light"] .tag-pill:hover .count-bubble,
+    [data-theme="light"] .filter-check:hover .count-bubble,
+    [data-theme="light"] .filter-badge-toggle:hover .count-bubble,
+    [data-theme="light"] .filter-row-toggle:hover .count-bubble,
+    [data-theme="light"] .toggle-switch-wrap:hover .count-bubble {
+      border-color: rgba(0, 0, 0, 0.15);
+      color: var(--text-primary);
+    }
+
+    /* Active state for Tag Pills */
+    .tag-pill.is-active .count-bubble {
+      background: #070B19; /* High contrast against the gold pill */
+      border: 1px solid rgba(212, 175, 55, 0.6);
+      color: var(--accent);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3), inset 0 0 8px rgba(212, 175, 55, 0.15);
+    }
+
+    [data-theme="light"] .tag-pill.is-active .count-bubble {
+      background: #ffffff;
+      border-color: var(--accent-dim);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1), inset 0 0 8px rgba(212, 175, 55, 0.15);
+    }
+
+    /* Active state for inputs (checkboxes, radios) */
+    .filter-check input:checked ~ .count-bubble,
+    .filter-badge-toggle input:checked ~ .count-bubble,
+    .filter-row-toggle input:checked + .filter-row-ui .count-bubble,
+    .toggle-switch-wrap input:checked ~ .count-bubble {
+      background: rgba(212, 175, 55, 0.15);
+      border-color: rgba(212, 175, 55, 0.4);
+      color: var(--accent);
+      box-shadow: 0 0 12px rgba(212, 175, 55, 0.2);
     }
 
     /* ─── Custom Filter UI ──────────────────────────────────── */
@@ -534,6 +628,7 @@
       background: rgba(255, 255, 255, 0.1);
       color: var(--text-primary);
       opacity: 0.5;
+      white-space: nowrap;
     }
 
     .filter-row-toggle input:checked+.filter-row-ui .critic-score-badge {
@@ -1948,6 +2043,7 @@
         decades: new Set(),
         yearMin: null,
         yearMax: null,
+        singleYear: null,
         genres: new Set(),
         viewerRatings: new Set(),
         criticRatings: new Set(),
@@ -1997,17 +2093,18 @@
        ═══════════════════════════════════════════════════════════ */
     function getCollectionMeta() {
       if (MOVIES.length === 0) {
-        return { decades: [], yearMin: 1900, yearMax: new Date().getFullYear(), genres: [], themes: [], moods: [], languages: [] };
+        return { decades: [], allYears: [], yearMin: 1900, yearMax: new Date().getFullYear(), genres: [], themes: [], moods: [], languages: [] };
       }
       const years = MOVIES.map(m => m.year).filter(Boolean);
       const yearMin = Math.min(...years);
       const yearMax = Math.max(...years);
+      const allYears = [...new Set(years)].sort((a, b) => b - a);
       const decades = [...new Set(years.map(y => Math.floor(y / 10) * 10))].sort((a, b) => a - b);
       const genres = [...new Set(MOVIES.flatMap(m => m.genres || []))].sort();
       const themes = [...new Set(MOVIES.flatMap(m => m.review?.themes || []))].sort();
       const moods = [...new Set(MOVIES.flatMap(m => m.review?.mood || []))].sort();
       const languages = [...new Set(MOVIES.flatMap(m => m.languages || []))].sort();
-      return { decades, yearMin, yearMax, genres, themes, moods, languages };
+      return { decades, allYears, yearMin, yearMax, genres, themes, moods, languages };
     }
 
     /* ═══════════════════════════════════════════════════════════
@@ -2043,9 +2140,13 @@
         films = films.filter(m => f.decades.has(Math.floor(m.year / 10) * 10));
       }
 
-      // ── Year range ──
-      if (f.yearMin !== null) films = films.filter(m => m.year >= f.yearMin);
-      if (f.yearMax !== null) films = films.filter(m => m.year <= f.yearMax);
+      // ── Year ──
+      if (f.singleYear !== null) {
+        films = films.filter(m => m.year === f.singleYear);
+      } else {
+        if (f.yearMin !== null) films = films.filter(m => m.year >= f.yearMin);
+        if (f.yearMax !== null) films = films.filter(m => m.year <= f.yearMax);
+      }
 
       // ── Genre ──
       if (f.genres.size > 0) {
@@ -2114,7 +2215,7 @@
       const f = state.filters;
       let n = 0;
       if (f.decades.size > 0) n++;
-      if (f.yearMin !== null || f.yearMax !== null) n++;
+      if (f.singleYear !== null || f.yearMin !== null || f.yearMax !== null) n++;
       if (f.genres.size > 0) n++;
       if (f.viewerRatings.size > 0) n++;
       if (f.criticRatings.size > 0) n++;
@@ -2241,6 +2342,25 @@
       const controls = document.getElementById('filter-controls');
       const f = state.filters;
 
+      // Calculate counts for each filter option
+      const counts = { decades: {}, genres: {}, viewerRatings: {}, criticRatings: {}, themes: {}, moods: {}, languages: {} };
+      MOVIES.forEach(m => {
+        if (m.year) {
+          const d = Math.floor(m.year / 10) * 10;
+          counts.decades[d] = (counts.decades[d] || 0) + 1;
+        }
+        (m.genres || []).forEach(g => counts.genres[g] = (counts.genres[g] || 0) + 1);
+        if (m.viewerRating?.rating) {
+          counts.viewerRatings[m.viewerRating.rating] = (counts.viewerRatings[m.viewerRating.rating] || 0) + 1;
+        }
+        if (m.criticRating) {
+          counts.criticRatings[m.criticRating] = (counts.criticRatings[m.criticRating] || 0) + 1;
+        }
+        (m.review?.themes || []).forEach(t => counts.themes[t] = (counts.themes[t] || 0) + 1);
+        [].concat(m.review?.mood || []).forEach(md => counts.moods[md] = (counts.moods[md] || 0) + 1);
+        (m.languages || []).forEach(l => counts.languages[l] = (counts.languages[l] || 0) + 1);
+      });
+
       const curMin = f.yearMin !== null ? f.yearMin : meta.yearMin;
       const curMax = f.yearMax !== null ? f.yearMax : meta.yearMax;
 
@@ -2284,29 +2404,43 @@
         const decHtml = `
           <div class="filter-checks">
             ${meta.decades.map(d => `
-              <label class="filter-check">
+              <label class="filter-check" style="width: 100%;">
                 <input type="checkbox" value="${d}" ${f.decades.has(d) ? 'checked' : ''} data-filter="decade">
-                <span>${d}s</span>
+                <span style="display:inline-flex; align-items:center; gap:6px;">
+                  ${d}s
+                  ${counts.decades[d] ? `<span class="count-bubble count-bubble--inline">${counts.decades[d]}</span>` : ''}
+                </span>
               </label>`).join('')}
           </div>`;
         html += buildDropdown('decade', 'Decade', decHtml);
       }
 
-      // Year Range
+      // Year Filters
       if (MOVIES.length > 1) {
         const yrHtml = `
-          <div class="year-range">
-            <div class="year-range__labels">
-              <input type="number" id="yr-min-in" class="year-range__input" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMin}" aria-label="Minimum Year">
-              <span style="display:flex; align-items:center; color:var(--text-secondary); font-size:0.75rem;">to</span>
-              <input type="number" id="yr-max-in" class="year-range__input" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMax}" aria-label="Maximum Year">
+          <div class="year-range" style="display:flex; flex-direction:column; gap:1rem;">
+            <div>
+              <label style="font-size:0.75rem; color:var(--text-secondary); display:block; margin-bottom:0.5rem;">Specific Year</label>
+              <select id="yr-single-sel" class="year-range__input" style="width:100%; padding: 4px; background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 4px; color: var(--text-main);">
+                <option value="">Any</option>
+                ${meta.allYears.map(y => `<option value="${y}" ${f.singleYear === y ? 'selected' : ''}>${y}</option>`).join('')}
+              </select>
             </div>
-            <div class="range-wrap">
-              <input type="range" class="range-slider" id="yr-min-sl" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMin}">
-              <input type="range" class="range-slider" id="yr-max-sl" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMax}">
+            <div style="border-top: 1px solid var(--border); margin: 0 -0.75rem;"></div>
+            <div ${f.singleYear !== null ? 'style="opacity:0.5; pointer-events:none;"' : ''}>
+              <label style="font-size:0.75rem; color:var(--text-secondary); display:block; margin-bottom:0.5rem;">Year Range</label>
+              <div class="year-range__labels">
+                <input type="number" id="yr-min-in" class="year-range__input" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMin}" aria-label="Minimum Year" ${f.singleYear !== null ? 'disabled' : ''}>
+                <span style="display:flex; align-items:center; color:var(--text-secondary); font-size:0.75rem;">to</span>
+                <input type="number" id="yr-max-in" class="year-range__input" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMax}" aria-label="Maximum Year" ${f.singleYear !== null ? 'disabled' : ''}>
+              </div>
+              <div class="range-wrap">
+                <input type="range" class="range-slider" id="yr-min-sl" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMin}" ${f.singleYear !== null ? 'disabled' : ''}>
+                <input type="range" class="range-slider" id="yr-max-sl" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMax}" ${f.singleYear !== null ? 'disabled' : ''}>
+              </div>
             </div>
           </div>`;
-        html += buildDropdown('year', 'Year Range', yrHtml);
+        html += buildDropdown('year', 'Year', yrHtml);
       }
 
       // Viewer Rating
@@ -2316,24 +2450,30 @@
           ${VIEWER_RATINGS.map(r => `
             <label class="filter-badge-toggle">
               <input type="checkbox" value="${r}" ${f.viewerRatings.has(r) ? 'checked' : ''} data-filter="viewerRating" class="sr-only">
-              <span class="viewer-badge-ui" style="border-color:${escHtml(VIEWER_COLORS[r] || 'transparent')}; color:${escHtml(VIEWER_COLORS[r] || 'inherit')}">${r}</span>
+              <span class="viewer-badge-ui" style="border-color:${escHtml(VIEWER_COLORS[r] || 'transparent')}; color:${escHtml(VIEWER_COLORS[r] || 'inherit')}">
+                ${r}
+              </span>
+              ${counts.viewerRatings[r] ? `<span class="count-bubble">${counts.viewerRatings[r]}</span>` : ''}
             </label>`).join('')}
         </div>`;
       html += buildDropdown('viewer', 'Viewer Rating', vrHtml);
 
       // Critic Rating
       const crHtml = `
-        <div class="filter-checks filter-checks--2col">
+        <div class="filter-checks">
           ${CRITIC_RATINGS.map(r => {
         const w = RATING_WEIGHTS[r];
         const dispRating = w ? `<span class="critic-score-badge">✦ ${w}/10</span>` : '';
         const color = (RATING_COLORS[r] || {}).text || 'inherit';
         return `
-              <label class="filter-row-toggle">
+              <label class="filter-row-toggle" style="width: 100%;">
                 <input type="checkbox" value="${r}" ${f.criticRatings.has(r) ? 'checked' : ''} data-filter="criticRating" class="sr-only">
-                <div class="filter-row-ui">
+                <div class="filter-row-ui" style="width: 100%;">
                   <div class="filter-row-indicator" style="background:${escHtml(color)}"></div>
-                  <span class="filter-row-label" style="color:${escHtml(color)}">${r}</span>
+                  <span class="filter-row-label" style="display:inline-flex; align-items:center; gap:6px; color:${escHtml(color)}">
+                    ${r}
+                    ${counts.criticRatings[r] ? `<span class="count-bubble count-bubble--inline" style="margin-left:0;">${counts.criticRatings[r]}</span>` : ''}
+                  </span>
                   ${dispRating}
                 </div>
               </label>`;
@@ -2342,11 +2482,15 @@
       html += buildDropdown('critic', 'Critic Rating', crHtml);
 
       // Awards
+      const awardCount = MOVIES.filter(m => (m.awards || []).some(a => a.result === 'Won')).length;
       const awHtml = `
-        <label class="toggle-switch-wrap">
+        <label class="toggle-switch-wrap" style="width: 100%;">
           <input type="checkbox" id="award-check" ${f.awardWinning ? 'checked' : ''} data-filter="awardWinning" class="sr-only">
           <div class="toggle-switch-track"></div>
-          <span>Award-winning only</span>
+          <span style="display:inline-flex; align-items:center; gap:6px;">
+            Award-winning only
+            ${awardCount ? `<span class="count-bubble count-bubble--inline">${awardCount}</span>` : ''}
+          </span>
         </label>`;
       html += buildDropdown('awards', 'Awards', awHtml);
 
@@ -2355,7 +2499,10 @@
         const gnHtml = `
           <div class="tag-cloud">
             ${meta.genres.map(g => `
-              <button class="tag-pill ${f.genres.has(g) ? 'is-active' : ''}" data-filter="genre" data-value="${escHtml(g)}">${escHtml(g)}</button>
+              <button class="tag-pill ${f.genres.has(g) ? 'is-active' : ''}" data-filter="genre" data-value="${escHtml(g)}">
+                ${escHtml(g)}
+                ${counts.genres[g] ? `<span class="count-bubble count-bubble--inline" style="margin-left:0;">${counts.genres[g]}</span>` : ''}
+              </button>
             `).join('')}
           </div>`;
         html += buildDropdown('genre', 'Genre', gnHtml);
@@ -2366,7 +2513,10 @@
         const thHtml = `
           <div class="tag-cloud">
             ${meta.themes.map(t => `
-              <button class="tag-pill ${f.themes.has(t) ? 'is-active' : ''}" data-filter="theme" data-value="${escHtml(t)}">${escHtml(t)}</button>
+              <button class="tag-pill ${f.themes.has(t) ? 'is-active' : ''}" data-filter="theme" data-value="${escHtml(t)}">
+                ${escHtml(t)}
+                ${counts.themes[t] ? `<span class="count-bubble count-bubble--inline" style="margin-left:0;">${counts.themes[t]}</span>` : ''}
+              </button>
             `).join('')}
           </div>`;
         html += buildDropdown('theme', 'Theme', thHtml, true);
@@ -2377,7 +2527,10 @@
         const mdHtml = `
           <div class="tag-cloud">
             ${meta.moods.map(m => `
-              <button class="tag-pill ${f.moods.has(m) ? 'is-active' : ''}" data-filter="mood" data-value="${escHtml(m)}">${escHtml(m)}</button>
+              <button class="tag-pill ${f.moods.has(m) ? 'is-active' : ''}" data-filter="mood" data-value="${escHtml(m)}">
+                ${escHtml(m)}
+                ${counts.moods[m] ? `<span class="count-bubble count-bubble--inline" style="margin-left:0;">${counts.moods[m]}</span>` : ''}
+              </button>
             `).join('')}
           </div>`;
         html += buildDropdown('mood', 'Mood', mdHtml, true);
@@ -2388,7 +2541,10 @@
         const lgHtml = `
           <div class="tag-cloud">
             ${meta.languages.map(l => `
-              <button class="tag-pill ${f.languages.has(l) ? 'is-active' : ''}" data-filter="language" data-value="${escHtml(l)}">${escHtml(l)}</button>
+              <button class="tag-pill ${f.languages.has(l) ? 'is-active' : ''}" data-filter="language" data-value="${escHtml(l)}">
+                ${escHtml(l)}
+                ${counts.languages[l] ? `<span class="count-bubble count-bubble--inline" style="margin-left:0;">${counts.languages[l]}</span>` : ''}
+              </button>
             `).join('')}
           </div>`;
         html += buildDropdown('language', 'Language', lgHtml, true);
@@ -2468,7 +2624,7 @@
       clearBtn.style.display = activeCount > 0 ? 'inline-flex' : 'none';
       clearBtn.addEventListener('click', () => {
         state.filters = {
-          decades: new Set(), yearMin: null, yearMax: null,
+          decades: new Set(), yearMin: null, yearMax: null, singleYear: null,
           genres: new Set(), viewerRatings: new Set(), criticRatings: new Set(),
           awardWinning: false, themes: new Set(), moods: new Set(), languages: new Set()
         };
@@ -2518,6 +2674,15 @@
           updateAndSave();
         });
       });
+
+      // Year Filters
+      const singleSel = controls.querySelector('#yr-single-sel');
+      if (singleSel) {
+        singleSel.addEventListener('change', () => {
+          f.singleYear = singleSel.value ? parseInt(singleSel.value, 10) : null;
+          updateAndSave();
+        });
+      }
 
       // Year Range Sliders
       const minSl = controls.querySelector('#yr-min-sl');
@@ -2595,7 +2760,7 @@
       updateBadge('mood', f.moods.size);
       updateBadge('awards', f.awardWinning ? 1 : 0);
 
-      const yearCount = (f.yearMin !== null || f.yearMax !== null) ? 1 : 0;
+      const yearCount = (f.singleYear !== null || f.yearMin !== null || f.yearMax !== null) ? 1 : 0;
       updateBadge('year', yearCount);
 
       const activeCount = getActiveFilterCount();
@@ -2850,6 +3015,7 @@
             decades: [...f.decades],
             yearMin: f.yearMin,
             yearMax: f.yearMax,
+            singleYear: f.singleYear,
             genres: [...f.genres],
             viewerRatings: [...f.viewerRatings],
             criticRatings: [...f.criticRatings],
@@ -2874,6 +3040,7 @@
         state.filters.decades = new Set((sf.decades || []).map(Number));
         state.filters.yearMin = sf.yearMin ?? null;
         state.filters.yearMax = sf.yearMax ?? null;
+        state.filters.singleYear = sf.singleYear ?? null;
         state.filters.genres = new Set(sf.genres || []);
         state.filters.viewerRatings = new Set(sf.viewerRatings || []);
         state.filters.criticRatings = new Set(sf.criticRatings || []);
