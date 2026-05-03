@@ -1510,6 +1510,24 @@
         box-shadow: 0 -8px 40px rgba(0, 0, 0, 0.6);
       }
 
+      /* ── Mobile Filter Group ── */
+      .mobile-filter-group {
+        margin-bottom: 1.5rem;
+      }
+      .mobile-filter-group:last-child {
+        margin-bottom: 0;
+      }
+      .mobile-filter-group-title {
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--text-tertiary);
+        margin-bottom: 0.75rem;
+        padding-bottom: 0.4rem;
+        border-bottom: 1px solid var(--border);
+      }
+
       /* ── Main content ── */
       .main {
         padding: 0.75rem;
@@ -2256,6 +2274,8 @@
         { id: 'rating-desc', label: 'Rating ↓' }
       ];
 
+      const isMobile = window.innerWidth <= 768;
+
       const buildDropdown = (id, label, contentHtml, rightAlign = false) => `
         <div class="dropdown ${rightAlign ? 'dropdown--right' : ''}" id="dd-${id}">
           <button class="dropdown-btn" aria-haspopup="true" aria-expanded="false">
@@ -2267,6 +2287,24 @@
         </div>
       `;
 
+      const buildFilterGroup = (title, contentHtml) => `
+        <div class="mobile-filter-group">
+          <h4 class="mobile-filter-group-title">${title}</h4>
+          ${contentHtml}
+        </div>
+      `;
+
+      let desktopHtml = '';
+      let mobileFiltersHtml = '';
+
+      const appendFilter = (id, label, contentHtml, rightAlign = false) => {
+        if (isMobile) {
+          mobileFiltersHtml += buildFilterGroup(label, contentHtml);
+        } else {
+          desktopHtml += buildDropdown(id, label, contentHtml, rightAlign);
+        }
+      };
+
       // Sort
       const sortHtml = `
         <div class="filter-checks">
@@ -2277,7 +2315,7 @@
             </label>
           `).join('')}
         </div>`;
-      let html = buildDropdown('sort', 'Sort By', sortHtml);
+      appendFilter('sort', 'Sort By', sortHtml);
 
       // Decades
       if (meta.decades.length > 0) {
@@ -2289,7 +2327,7 @@
                 <span>${d}s</span>
               </label>`).join('')}
           </div>`;
-        html += buildDropdown('decade', 'Decade', decHtml);
+        appendFilter('decade', 'Decade', decHtml);
       }
 
       // Year Range
@@ -2306,7 +2344,7 @@
               <input type="range" class="range-slider" id="yr-max-sl" min="${meta.yearMin}" max="${meta.yearMax}" value="${curMax}">
             </div>
           </div>`;
-        html += buildDropdown('year', 'Year Range', yrHtml);
+        appendFilter('year', 'Year Range', yrHtml);
       }
 
       // Viewer Rating
@@ -2319,7 +2357,7 @@
               <span class="viewer-badge-ui" style="border-color:${escHtml(VIEWER_COLORS[r] || 'transparent')}; color:${escHtml(VIEWER_COLORS[r] || 'inherit')}">${r}</span>
             </label>`).join('')}
         </div>`;
-      html += buildDropdown('viewer', 'Viewer Rating', vrHtml);
+      appendFilter('viewer', 'Viewer Rating', vrHtml);
 
       // Critic Rating
       const crHtml = `
@@ -2339,7 +2377,7 @@
               </label>`;
       }).join('')}
         </div>`;
-      html += buildDropdown('critic', 'Critic Rating', crHtml);
+      appendFilter('critic', 'Critic Rating', crHtml);
 
       // Awards
       const awHtml = `
@@ -2348,7 +2386,7 @@
           <div class="toggle-switch-track"></div>
           <span>Award-winning only</span>
         </label>`;
-      html += buildDropdown('awards', 'Awards', awHtml);
+      appendFilter('awards', 'Awards', awHtml);
 
       // Genre
       if (meta.genres.length > 0) {
@@ -2358,7 +2396,7 @@
               <button class="tag-pill ${f.genres.has(g) ? 'is-active' : ''}" data-filter="genre" data-value="${escHtml(g)}">${escHtml(g)}</button>
             `).join('')}
           </div>`;
-        html += buildDropdown('genre', 'Genre', gnHtml);
+        appendFilter('genre', 'Genre', gnHtml);
       }
 
       // Theme
@@ -2369,7 +2407,7 @@
               <button class="tag-pill ${f.themes.has(t) ? 'is-active' : ''}" data-filter="theme" data-value="${escHtml(t)}">${escHtml(t)}</button>
             `).join('')}
           </div>`;
-        html += buildDropdown('theme', 'Theme', thHtml, true);
+        appendFilter('theme', 'Theme', thHtml, true);
       }
 
       // Mood
@@ -2380,7 +2418,7 @@
               <button class="tag-pill ${f.moods.has(m) ? 'is-active' : ''}" data-filter="mood" data-value="${escHtml(m)}">${escHtml(m)}</button>
             `).join('')}
           </div>`;
-        html += buildDropdown('mood', 'Mood', mdHtml, true);
+        appendFilter('mood', 'Mood', mdHtml, true);
       }
 
       // Language
@@ -2391,18 +2429,24 @@
               <button class="tag-pill ${f.languages.has(l) ? 'is-active' : ''}" data-filter="language" data-value="${escHtml(l)}">${escHtml(l)}</button>
             `).join('')}
           </div>`;
-        html += buildDropdown('language', 'Language', lgHtml, true);
+        appendFilter('language', 'Language', lgHtml, true);
+      }
+
+      let html = '';
+      if (isMobile) {
+        html = buildDropdown('filters', 'Filters', mobileFiltersHtml);
+      } else {
+        html = desktopHtml;
       }
 
       // Clear button
       html += `<button class="clear-btn" id="clear-filters-btn" aria-label="Clear all filters">✕ Clear</button>`;
 
       controls.innerHTML = html;
-
       // --- Attach Events ---
 
       // Dropdown Toggles
-      const isMobile = () => window.innerWidth <= 768;
+      const checkIsMobile = () => window.innerWidth <= 768;
 
       function closeMobileSheet() {
         const backdrop = document.querySelector('.mobile-dropdown-backdrop');
@@ -2437,7 +2481,7 @@
           closeAllDropdowns();
 
           if (!isOpen) {
-            if (isMobile()) {
+            if (checkIsMobile()) {
               // Move menu to body as a bottom sheet
               menu._origParent = menu.parentElement;
               const backdrop = document.createElement('div');
@@ -2599,6 +2643,8 @@
       updateBadge('year', yearCount);
 
       const activeCount = getActiveFilterCount();
+      updateBadge('filters', activeCount);
+
       const clearBtn = controls.querySelector('#clear-filters-btn');
       if (clearBtn) {
         clearBtn.style.display = activeCount > 0 ? 'inline-flex' : 'none';
@@ -2920,6 +2966,15 @@
 
       // Render controls (which handles sort, filters, etc)
       renderControls();
+
+      let lastIsMobile = window.innerWidth <= 768;
+      window.addEventListener('resize', () => {
+        const currentIsMobile = window.innerWidth <= 768;
+        if (currentIsMobile !== lastIsMobile) {
+          lastIsMobile = currentIsMobile;
+          renderControls();
+        }
+      });
 
       // Modal backdrop click
       document.getElementById('modal-overlay').addEventListener('click', e => {
