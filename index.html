@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en" data-theme="dark">
 
 <head>
@@ -693,12 +693,6 @@
     @media (max-width: 599px) {
       .film-grid {
         grid-template-columns: repeat(2, 1fr);
-      }
-    }
-
-    @media (max-width: 399px) {
-      .film-grid {
-        grid-template-columns: 1fr;
       }
     }
 
@@ -1482,28 +1476,36 @@
         padding: 5px 10px;
       }
 
-      /* ── Dropdowns: constrain to viewport ── */
-      .dropdown-menu {
+      /* ── Mobile dropdown bottom-sheet (moved to body by JS) ── */
+      .mobile-dropdown-backdrop {
         position: fixed;
-        top: auto;
-        bottom: 0;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 9998;
+        opacity: 0;
+        transition: opacity 0.2s ease;
+      }
+
+      .mobile-dropdown-backdrop.is-visible {
+        opacity: 1;
+      }
+
+      .dropdown-menu.mobile-sheet {
+        position: fixed !important;
+        top: auto !important;
+        bottom: 0 !important;
         left: 0 !important;
         right: 0 !important;
-        width: 100%;
-        max-width: 100%;
-        border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+        width: 100% !important;
+        max-width: 100% !important;
+        border-radius: 16px 16px 0 0;
         max-height: 70vh;
-        transform: translateY(10px);
-        z-index: 200;
-      }
-
-      .dropdown-menu.is-open {
+        z-index: 9999;
+        opacity: 1;
+        visibility: visible;
         transform: translateY(0);
-      }
-
-      .dropdown--right .dropdown-menu {
-        left: 0 !important;
-        right: 0 !important;
+        padding: 1.25rem;
+        box-shadow: 0 -8px 40px rgba(0, 0, 0, 0.6);
       }
 
       /* ── Main content ── */
@@ -1513,6 +1515,7 @@
 
       .film-grid {
         gap: 0.5rem;
+        grid-template-columns: repeat(3, 1fr);
       }
 
       /* ── Film cards: show overlay on touch ── */
@@ -2405,32 +2408,64 @@
       // --- Attach Events ---
 
       // Dropdown Toggles
+      const isMobile = () => window.innerWidth <= 768;
+
+      function closeMobileSheet() {
+        const backdrop = document.querySelector('.mobile-dropdown-backdrop');
+        const sheet = document.querySelector('.dropdown-menu.mobile-sheet');
+        if (backdrop) {
+          backdrop.classList.remove('is-visible');
+          setTimeout(() => backdrop.remove(), 200);
+        }
+        if (sheet) {
+          const origParent = sheet._origParent;
+          sheet.classList.remove('mobile-sheet', 'is-open');
+          if (origParent) origParent.appendChild(sheet);
+          sheet._origParent = null;
+        }
+        document.querySelectorAll('.dropdown-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+      }
+
+      function closeAllDropdowns() {
+        closeMobileSheet();
+        document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.remove('is-open'));
+        document.querySelectorAll('.dropdown-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+      }
+
       document.querySelectorAll('.dropdown').forEach(dropdown => {
         const btn = dropdown.querySelector('.dropdown-btn');
         const menu = dropdown.querySelector('.dropdown-menu');
 
         btn.addEventListener('click', (e) => {
           e.stopPropagation();
-          const isOpen = menu.classList.contains('is-open');
+          const isOpen = menu.classList.contains('is-open') || menu.classList.contains('mobile-sheet');
 
-          // Close all others
-          document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.remove('is-open'));
-          document.querySelectorAll('.dropdown-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+          closeAllDropdowns();
 
           if (!isOpen) {
-            menu.classList.add('is-open');
+            if (isMobile()) {
+              // Move menu to body as a bottom sheet
+              menu._origParent = menu.parentElement;
+              const backdrop = document.createElement('div');
+              backdrop.className = 'mobile-dropdown-backdrop';
+              backdrop.addEventListener('click', closeAllDropdowns);
+              document.body.appendChild(backdrop);
+              document.body.appendChild(menu);
+              menu.classList.add('mobile-sheet', 'is-open');
+              requestAnimationFrame(() => backdrop.classList.add('is-visible'));
+            } else {
+              menu.classList.add('is-open');
+            }
             btn.setAttribute('aria-expanded', 'true');
           }
         });
 
-        // Prevent closing when clicking inside the menu
         menu.addEventListener('click', e => e.stopPropagation());
       });
 
       // Close dropdowns on outside click
       document.addEventListener('click', () => {
-        document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.remove('is-open'));
-        document.querySelectorAll('.dropdown-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+        closeAllDropdowns();
       });
 
       // Clear Filters
