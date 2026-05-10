@@ -770,45 +770,80 @@
     }
 
     /* ── Accordion Filters ── */
+    /* ── Accordion Filters ── */
     .filter-accordion {
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 0.5rem;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.04);
+      border-radius: 12px;
+      margin-bottom: 0.75rem;
+      transition: all 0.3s ease;
+      overflow: hidden;
+    }
+    .filter-accordion:hover {
+      background: rgba(255, 255, 255, 0.04);
+      border-color: rgba(212, 175, 55, 0.15);
     }
     .filter-accordion[open] {
+      background: rgba(212, 175, 55, 0.03);
+      border-color: rgba(212, 175, 55, 0.25);
       padding-bottom: 1rem;
     }
     .filter-accordion__summary {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 1rem 0;
+      padding: 1.25rem;
       cursor: pointer;
       list-style: none; /* Hide default arrow */
+      position: relative;
+    }
+    .filter-accordion__summary::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%) scaleY(0);
+      width: 3px;
+      height: 20px;
+      background: var(--accent);
+      border-radius: 0 4px 4px 0;
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .filter-accordion[open] .filter-accordion__summary::before {
+      transform: translateY(-50%) scaleY(1);
     }
     .filter-accordion__summary::-webkit-details-marker {
       display: none; /* Hide in WebKit */
     }
     .filter-accordion__title {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
       font-size: 0.85rem;
       font-weight: 600;
       color: var(--text-primary);
-      letter-spacing: 0.05em;
+      letter-spacing: 0.1em;
       text-transform: uppercase;
+      transition: color 0.3s ease;
+    }
+    .filter-accordion[open] .filter-accordion__title {
+      color: var(--accent);
     }
     .filter-accordion__icon {
       font-size: 0.7rem;
       color: var(--text-secondary);
-      transition: transform 0.3s ease;
+      transition: transform 0.3s ease, color 0.3s ease;
     }
     .filter-accordion[open] .filter-accordion__icon {
       transform: rotate(180deg);
+      color: var(--accent);
     }
     .filter-accordion__content {
-      padding-top: 0.5rem;
-      animation: accordionFade 0.3s ease;
+      padding: 0.5rem 1.25rem 0;
+      animation: accordionFade 0.35s cubic-bezier(0.4, 0, 0.2, 1);
     }
     @keyframes accordionFade {
-      from { opacity: 0; transform: translateY(-4px); }
+      from { opacity: 0; transform: translateY(-8px); }
       to { opacity: 1; transform: translateY(0); }
     }
 
@@ -875,19 +910,20 @@
       display: inline-flex;
       align-items: center;
       gap: 6px;
-      background: var(--surface);
-      border: 1px solid var(--border);
+      background: rgba(212, 175, 55, 0.05);
+      border: 1px solid rgba(212, 175, 55, 0.15);
       border-radius: 20px;
-      color: var(--text-secondary);
+      color: var(--text-primary);
       font-size: 0.75rem;
-      font-weight: 400;
-      padding: 4px 10px;
-      transition: var(--transition);
+      font-weight: 500;
+      padding: 6px 12px;
+      transition: all 0.2s ease;
       cursor: pointer;
     }
 
     .tag-pill:hover {
-      border-color: var(--accent);
+      border-color: rgba(212, 175, 55, 0.4);
+      background: rgba(212, 175, 55, 0.1);
       color: var(--accent);
     }
 
@@ -895,8 +931,8 @@
       background: var(--accent);
       border-color: var(--accent);
       color: #070B19;
-      font-weight: 500;
-      box-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+      font-weight: 600;
+      box-shadow: 0 0 16px rgba(212, 175, 55, 0.4);
     }
 
     /* Year pill grid scrollbar */
@@ -2251,12 +2287,12 @@
         width: 100% !important;
         max-width: 100% !important;
         border-radius: 16px 16px 0 0;
-        max-height: 70vh;
+        max-height: 85vh; /* Increased from 70vh for more breathing room */
         z-index: 9999;
         opacity: 1;
         visibility: visible;
         transform: translateY(0);
-        padding: 1.25rem;
+        padding: 1.5rem 1.5rem max(3.5rem, env(safe-area-inset-bottom) + 2rem); /* Added bottom padding to fix cut-off content */
         box-shadow: 0 -8px 40px rgba(0, 0, 0, 0.6);
       }
 
