@@ -4,13 +4,15 @@
    external resources (TMDB images, Google Fonts).
    ═══════════════════════════════════════════════════════════ */
 
-const CACHE_NAME = 'cinevault-v1';
+const CACHE_NAME = 'cinevault-v2';
 const STATIC_ASSETS = [
   './',
   './index.html',
   './movies.js',
   './manifest.json',
-  './icon-512.png'
+  './icon-192.png',
+  './icon-512.png',
+  './favicon.png'
 ];
 
 // ─── Install: Pre-cache core shell ─────────────────────────

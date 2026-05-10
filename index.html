@@ -2474,6 +2474,378 @@
         transform: none;
       }
     }
+
+    /* ═══════════════════════════════════════════════════════════
+       PWA — STANDALONE MODE & SAFE AREAS
+       ═══════════════════════════════════════════════════════════ */
+    @media (display-mode: standalone) {
+      body { padding-top: env(safe-area-inset-top); }
+      .header {
+        padding-left: max(1.5rem, env(safe-area-inset-left));
+        padding-right: max(1.5rem, env(safe-area-inset-right));
+      }
+      .controls {
+        padding-left: max(1.5rem, env(safe-area-inset-left));
+        padding-right: max(1.5rem, env(safe-area-inset-right));
+      }
+      .main {
+        padding-left: max(1rem, env(safe-area-inset-left));
+        padding-right: max(1rem, env(safe-area-inset-right));
+      }
+      .footer {
+        padding-bottom: max(3rem, calc(env(safe-area-inset-bottom) + 1rem));
+      }
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       PWA — INSTALL BANNER
+       ═══════════════════════════════════════════════════════════ */
+    .pwa-install-banner {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 2000;
+      background: linear-gradient(135deg, rgba(13, 22, 40, 0.97) 0%, rgba(4, 8, 15, 0.99) 100%);
+      backdrop-filter: blur(24px) saturate(180%);
+      -webkit-backdrop-filter: blur(24px) saturate(180%);
+      border-top: 1px solid rgba(212, 175, 55, 0.25);
+      padding: 1rem 1.5rem;
+      padding-bottom: max(1rem, env(safe-area-inset-bottom));
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      transform: translateY(100%);
+      transition: transform 0.4s cubic-bezier(0.34, 1.2, 0.64, 1);
+      box-shadow: 0 -8px 40px rgba(0, 0, 0, 0.6);
+    }
+    .pwa-install-banner.is-visible { transform: translateY(0); }
+    .pwa-install-banner__icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      flex-shrink: 0;
+      box-shadow: 0 4px 16px rgba(212, 175, 55, 0.2);
+    }
+    .pwa-install-banner__text {
+      flex: 1;
+      min-width: 0;
+    }
+    .pwa-install-banner__title {
+      font-family: var(--font-serif);
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 2px;
+    }
+    .pwa-install-banner__sub {
+      font-size: 0.72rem;
+      color: var(--text-secondary);
+    }
+    .pwa-install-banner__btn {
+      flex-shrink: 0;
+      background: var(--accent);
+      color: #04080F;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 10px 20px;
+      border-radius: 24px;
+      border: none;
+      cursor: pointer;
+      transition: var(--transition);
+      box-shadow: 0 4px 16px rgba(212, 175, 55, 0.3);
+    }
+    .pwa-install-banner__btn:hover {
+      background: #e8c84a;
+      box-shadow: 0 6px 24px rgba(212, 175, 55, 0.5);
+      transform: translateY(-1px);
+    }
+    .pwa-install-banner__close {
+      flex-shrink: 0;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      border: 1px solid rgba(255,255,255,0.1);
+      background: rgba(255,255,255,0.05);
+      color: var(--text-tertiary);
+      font-size: 0.85rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    .pwa-install-banner__close:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    [data-theme="light"] .pwa-install-banner {
+      background: linear-gradient(135deg, rgba(250, 247, 242, 0.97) 0%, rgba(243, 239, 232, 0.99) 100%);
+      border-top-color: rgba(168, 134, 42, 0.3);
+      box-shadow: 0 -8px 40px rgba(100, 70, 20, 0.15);
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       PWA — OFFLINE INDICATOR
+       ═══════════════════════════════════════════════════════════ */
+    .pwa-offline-toast {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 3000;
+      background: linear-gradient(135deg, #1a1208 0%, #0d0a04 100%);
+      border-bottom: 2px solid var(--accent);
+      padding: 10px 1.5rem;
+      padding-top: max(10px, env(safe-area-inset-top));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.6rem;
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--accent);
+      transform: translateY(-100%);
+      transition: transform 0.35s cubic-bezier(0.34, 1.2, 0.64, 1);
+    }
+    .pwa-offline-toast.is-visible { transform: translateY(0); }
+    .pwa-offline-toast__dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      animation: offlinePulse 2s ease-in-out infinite;
+    }
+    @keyframes offlinePulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    [data-theme="light"] .pwa-offline-toast {
+      background: linear-gradient(135deg, #FAF7F2 0%, #F3EFE8 100%);
+      border-bottom-color: var(--accent-dim);
+      color: #8B6914;
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       PWA — SCROLL TO TOP FAB
+       ═══════════════════════════════════════════════════════════ */
+    .pwa-scroll-top {
+      position: fixed;
+      bottom: 2rem;
+      right: 1.5rem;
+      z-index: 500;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: #04080F;
+      border: none;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 6px 24px rgba(212, 175, 55, 0.4), 0 0 0 1px rgba(212, 175, 55, 0.2);
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(16px) scale(0.8);
+      transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease, background 0.2s ease;
+    }
+    .pwa-scroll-top.is-visible {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0) scale(1);
+    }
+    .pwa-scroll-top:hover {
+      background: #e8c84a;
+      box-shadow: 0 8px 32px rgba(212, 175, 55, 0.55);
+      transform: translateY(-2px) scale(1.05);
+    }
+    .pwa-scroll-top:active {
+      transform: scale(0.95);
+    }
+    @media (display-mode: standalone) {
+      .pwa-scroll-top {
+        bottom: max(2rem, calc(env(safe-area-inset-bottom) + 1rem));
+      }
+    }
+    @media (max-width: 768px) {
+      .pwa-scroll-top {
+        width: 44px;
+        height: 44px;
+        bottom: 1.25rem;
+        right: 1rem;
+        font-size: 1.1rem;
+      }
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       PWA — LOADING SKELETON
+       ═══════════════════════════════════════════════════════════ */
+    .pwa-loading {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      background: var(--bg);
+      display: flex;
+      flex-direction: column;
+      transition: opacity 0.5s ease;
+    }
+    .pwa-loading.is-hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .pwa-loading__header {
+      height: 68px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      padding: 0 2.5rem;
+      gap: 1rem;
+    }
+    .pwa-loading__brand {
+      width: 180px;
+      height: 24px;
+      background: var(--surface);
+      border-radius: 6px;
+    }
+    .pwa-loading__search {
+      margin-left: auto;
+      width: 200px;
+      height: 36px;
+      background: var(--surface);
+      border-radius: 24px;
+    }
+    .pwa-loading__controls {
+      height: 44px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      padding: 0 2.5rem;
+      gap: 0.5rem;
+    }
+    .pwa-loading__pill {
+      width: 80px;
+      height: 28px;
+      background: var(--surface);
+      border-radius: 20px;
+    }
+    .pwa-loading__grid {
+      flex: 1;
+      padding: 2rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 1rem;
+    }
+    .pwa-loading__card {
+      aspect-ratio: 2/3;
+      background: var(--surface);
+      border-radius: var(--radius);
+      position: relative;
+      overflow: hidden;
+    }
+    .pwa-loading__card::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.04) 50%, transparent 100%);
+      animation: shimmer 1.8s ease-in-out infinite;
+    }
+    @keyframes shimmer {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(100%); }
+    }
+    [data-theme="light"] .pwa-loading__card::after {
+      background: linear-gradient(90deg, transparent 0%, rgba(0,0,0,0.04) 50%, transparent 100%);
+    }
+    @media (max-width: 768px) {
+      .pwa-loading__header { padding: 0 1rem; }
+      .pwa-loading__controls { padding: 0 1rem; }
+      .pwa-loading__grid {
+        padding: 0.75rem;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 0.5rem;
+      }
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       PWA — UPDATE NOTIFICATION
+       ═══════════════════════════════════════════════════════════ */
+    .pwa-update-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 2500;
+      background: linear-gradient(135deg, rgba(13, 22, 40, 0.98) 0%, rgba(4, 8, 15, 0.99) 100%);
+      backdrop-filter: blur(16px);
+      border-top: 1px solid rgba(74, 222, 128, 0.3);
+      padding: 12px 1.5rem;
+      padding-bottom: max(12px, env(safe-area-inset-bottom));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      font-size: 0.82rem;
+      color: #4ADE80;
+      transform: translateY(100%);
+      transition: transform 0.4s cubic-bezier(0.34, 1.2, 0.64, 1);
+    }
+    .pwa-update-bar.is-visible { transform: translateY(0); }
+    .pwa-update-bar__btn {
+      background: #4ADE80;
+      color: #04080F;
+      border: none;
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: var(--transition);
+    }
+    .pwa-update-bar__btn:hover { background: #6EE7A0; }
+    [data-theme="light"] .pwa-update-bar {
+      background: linear-gradient(135deg, rgba(250, 247, 242, 0.98) 0%, rgba(243, 239, 232, 0.99) 100%);
+      border-top-color: rgba(5, 150, 105, 0.3);
+      color: #047857;
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       PWA — MOBILE TOUCH TARGET IMPROVEMENTS
+       ═══════════════════════════════════════════════════════════ */
+    @media (hover: none) and (pointer: coarse) {
+      .dropdown-btn {
+        min-height: 40px;
+        padding: 8px 14px;
+      }
+      .tag-pill {
+        min-height: 36px;
+        padding: 6px 12px;
+      }
+      .btn-icon {
+        width: 42px;
+        height: 42px;
+      }
+      .filter-check {
+        min-height: 40px;
+        padding: 4px 0;
+      }
+      .clear-btn {
+        min-height: 40px;
+        padding: 8px 12px;
+      }
+      .film-card {
+        border-radius: 10px;
+      }
+      .modal__close {
+        width: 42px;
+        height: 42px;
+      }
+    }
   </style>
 </head>
 
@@ -2516,6 +2888,61 @@
   <!-- ─── Modal ────────────────────────────── -->
   <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-label="Film details">
     <div class="modal-content" id="modal-content"></div>
+  </div>
+
+  <!-- ─── PWA: Loading Skeleton ──────────── -->
+  <div class="pwa-loading" id="pwa-loading">
+    <div class="pwa-loading__header">
+      <div class="pwa-loading__brand"></div>
+      <div class="pwa-loading__search"></div>
+    </div>
+    <div class="pwa-loading__controls">
+      <div class="pwa-loading__pill"></div>
+      <div class="pwa-loading__pill"></div>
+      <div class="pwa-loading__pill"></div>
+      <div class="pwa-loading__pill"></div>
+      <div class="pwa-loading__pill"></div>
+    </div>
+    <div class="pwa-loading__grid">
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+      <div class="pwa-loading__card"></div>
+    </div>
+  </div>
+
+  <!-- ─── PWA: Install Banner ───────────── -->
+  <div class="pwa-install-banner" id="pwa-install-banner">
+    <img class="pwa-install-banner__icon" src="icon-192.png" alt="CineVault">
+    <div class="pwa-install-banner__text">
+      <div class="pwa-install-banner__title">Install CineVault</div>
+      <div class="pwa-install-banner__sub">Add to your home screen for offline access</div>
+    </div>
+    <button class="pwa-install-banner__btn" id="pwa-install-btn">Install</button>
+    <button class="pwa-install-banner__close" id="pwa-install-close" aria-label="Dismiss">✕</button>
+  </div>
+
+  <!-- ─── PWA: Offline Toast ────────────── -->
+  <div class="pwa-offline-toast" id="pwa-offline-toast">
+    <span class="pwa-offline-toast__dot"></span>
+    You're offline — showing cached content
+  </div>
+
+  <!-- ─── PWA: Scroll to Top ────────────── -->
+  <button class="pwa-scroll-top" id="pwa-scroll-top" aria-label="Scroll to top">↑</button>
+
+  <!-- ─── PWA: Update Bar ───────────────── -->
+  <div class="pwa-update-bar" id="pwa-update-bar">
+    New version available
+    <button class="pwa-update-bar__btn" id="pwa-update-btn">Refresh</button>
   </div>
 
   <!-- ─── Collection Data (external) ────── -->
@@ -3679,17 +4106,108 @@
       });
 
       renderGrid();
+
+      // ─── PWA: Dismiss loading skeleton ───
+      const loadingEl = document.getElementById('pwa-loading');
+      if (loadingEl) {
+        loadingEl.classList.add('is-hidden');
+        setTimeout(() => loadingEl.remove(), 600);
+      }
+
+      // ─── PWA: Scroll-to-top button ───
+      const scrollBtn = document.getElementById('pwa-scroll-top');
+      if (scrollBtn) {
+        let scrollTick = false;
+        window.addEventListener('scroll', () => {
+          if (!scrollTick) {
+            requestAnimationFrame(() => {
+              scrollBtn.classList.toggle('is-visible', window.scrollY > 400);
+              scrollTick = false;
+            });
+            scrollTick = true;
+          }
+        }, { passive: true });
+        scrollBtn.addEventListener('click', () => {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      }
+
+      // ─── PWA: Offline indicator ───
+      const offlineToast = document.getElementById('pwa-offline-toast');
+      if (offlineToast) {
+        const updateOnline = () => offlineToast.classList.toggle('is-visible', !navigator.onLine);
+        window.addEventListener('online', updateOnline);
+        window.addEventListener('offline', updateOnline);
+        updateOnline();
+      }
     }
     document.addEventListener('DOMContentLoaded', init);
 
     /* ═══════════════════════════════════════════════════════════
-       SERVICE WORKER REGISTRATION
+       PWA — INSTALL PROMPT
+       ═══════════════════════════════════════════════════════════ */
+    let deferredInstallPrompt = null;
+    window.addEventListener('beforeinstallprompt', e => {
+      e.preventDefault();
+      deferredInstallPrompt = e;
+      // Show install banner if not previously dismissed
+      if (!localStorage.getItem('pwa-install-dismissed')) {
+        setTimeout(() => {
+          const banner = document.getElementById('pwa-install-banner');
+          if (banner) banner.classList.add('is-visible');
+        }, 3000);
+      }
+    });
+
+    // Install button click
+    document.addEventListener('click', e => {
+      if (e.target.id === 'pwa-install-btn' && deferredInstallPrompt) {
+        deferredInstallPrompt.prompt();
+        deferredInstallPrompt.userChoice.then(result => {
+          const banner = document.getElementById('pwa-install-banner');
+          if (banner) banner.classList.remove('is-visible');
+          deferredInstallPrompt = null;
+        });
+      }
+      if (e.target.id === 'pwa-install-close') {
+        const banner = document.getElementById('pwa-install-banner');
+        if (banner) banner.classList.remove('is-visible');
+        localStorage.setItem('pwa-install-dismissed', '1');
+      }
+    });
+
+    // Hide banner if already installed
+    window.addEventListener('appinstalled', () => {
+      const banner = document.getElementById('pwa-install-banner');
+      if (banner) banner.classList.remove('is-visible');
+      deferredInstallPrompt = null;
+    });
+
+    /* ═══════════════════════════════════════════════════════════
+       SERVICE WORKER REGISTRATION + UPDATE NOTIFICATION
        ═══════════════════════════════════════════════════════════ */
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js')
-          .then(reg => console.log('[PWA] Service worker registered, scope:', reg.scope))
-          .catch(err => console.warn('[PWA] Service worker registration failed:', err));
+        navigator.serviceWorker.register('./sw.js').then(reg => {
+          console.log('[PWA] Service worker registered, scope:', reg.scope);
+
+          // Check for SW updates
+          reg.addEventListener('updatefound', () => {
+            const newWorker = reg.installing;
+            if (!newWorker) return;
+            newWorker.addEventListener('statechange', () => {
+              if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                // New version available
+                const updateBar = document.getElementById('pwa-update-bar');
+                if (updateBar) updateBar.classList.add('is-visible');
+                const updateBtn = document.getElementById('pwa-update-btn');
+                if (updateBtn) {
+                  updateBtn.addEventListener('click', () => window.location.reload());
+                }
+              }
+            });
+          });
+        }).catch(err => console.warn('[PWA] SW registration failed:', err));
       });
     }
   </script>
