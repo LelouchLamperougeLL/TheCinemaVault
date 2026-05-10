@@ -769,6 +769,49 @@
       margin-bottom: 0.6rem;
     }
 
+    /* ── Accordion Filters ── */
+    .filter-accordion {
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0.5rem;
+    }
+    .filter-accordion[open] {
+      padding-bottom: 1rem;
+    }
+    .filter-accordion__summary {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 0;
+      cursor: pointer;
+      list-style: none; /* Hide default arrow */
+    }
+    .filter-accordion__summary::-webkit-details-marker {
+      display: none; /* Hide in WebKit */
+    }
+    .filter-accordion__title {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-primary);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+    .filter-accordion__icon {
+      font-size: 0.7rem;
+      color: var(--text-secondary);
+      transition: transform 0.3s ease;
+    }
+    .filter-accordion[open] .filter-accordion__icon {
+      transform: rotate(180deg);
+    }
+    .filter-accordion__content {
+      padding-top: 0.5rem;
+      animation: accordionFade 0.3s ease;
+    }
+    @keyframes accordionFade {
+      from { opacity: 0; transform: translateY(-4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
     .filter-checks {
       display: flex;
       flex-direction: column;
@@ -3600,15 +3643,26 @@
       const isMobileView = window.innerWidth <= 768;
 
       if (isMobileView) {
+        const buildAccordion = (title, inner) => `
+          <details class="filter-accordion">
+            <summary class="filter-accordion__summary">
+              <span class="filter-accordion__title">${title}</span>
+              <span class="filter-accordion__icon">▼</span>
+            </summary>
+            <div class="filter-accordion__content">
+              ${inner}
+            </div>
+          </details>
+        `;
         let mobileFiltersHtml = '';
-        if (meta.decades.length > 0) mobileFiltersHtml += `<div style="margin-bottom:1.5rem;"><div class="filter-group__title">Decade</div>${decHtml}</div>`;
-        if (MOVIES.length > 1) mobileFiltersHtml += `<div style="margin-bottom:1.5rem;"><div class="filter-group__title">Year</div>${yrHtml}</div>`;
-        mobileFiltersHtml += `<div style="margin-bottom:1.5rem;"><div class="filter-group__title">Viewer Rating</div>${vrHtml}</div>`;
-        mobileFiltersHtml += `<div style="margin-bottom:1.5rem;"><div class="filter-group__title">Critic Rating</div>${crHtml}</div>`;
-        if (visibleGenres.length > 0) mobileFiltersHtml += `<div style="margin-bottom:1.5rem;"><div class="filter-group__title">Genre</div>${gnHtml}</div>`;
-        if (visibleThemes.length > 0) mobileFiltersHtml += `<div style="margin-bottom:1.5rem;"><div class="filter-group__title">Theme</div>${thHtml}</div>`;
-        if (visibleMoods.length > 0) mobileFiltersHtml += `<div style="margin-bottom:1.5rem;"><div class="filter-group__title">Mood</div>${mdHtml}</div>`;
-        if (visibleLanguages.length > 0) mobileFiltersHtml += `<div style="margin-bottom:1.5rem;"><div class="filter-group__title">Language</div>${lgHtml}</div>`;
+        if (meta.decades.length > 0) mobileFiltersHtml += buildAccordion('Decade', decHtml);
+        if (MOVIES.length > 1) mobileFiltersHtml += buildAccordion('Year', yrHtml);
+        mobileFiltersHtml += buildAccordion('Viewer Rating', vrHtml);
+        mobileFiltersHtml += buildAccordion('Critic Rating', crHtml);
+        if (visibleGenres.length > 0) mobileFiltersHtml += buildAccordion('Genre', gnHtml);
+        if (visibleThemes.length > 0) mobileFiltersHtml += buildAccordion('Theme', thHtml);
+        if (visibleMoods.length > 0) mobileFiltersHtml += buildAccordion('Mood', mdHtml);
+        if (visibleLanguages.length > 0) mobileFiltersHtml += buildAccordion('Language', lgHtml);
         
         html += buildDropdown('all-filters', 'Filters', mobileFiltersHtml);
       } else {
