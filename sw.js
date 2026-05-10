@@ -4,7 +4,7 @@
    external resources (TMDB images, Google Fonts).
    ═══════════════════════════════════════════════════════════ */
 
-const CACHE_NAME = 'cinevault-v6';
+const CACHE_NAME = 'cinevault-v7';
 const STATIC_ASSETS = [
   './',
   './index.html',
