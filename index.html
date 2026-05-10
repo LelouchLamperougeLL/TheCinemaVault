@@ -2141,8 +2141,9 @@
       }
 
       .header__brand {
-        flex: 1 1 auto;
+        flex: 1 1 100%;
         min-width: 0;
+        justify-content: center;
       }
 
       .header__actions {
@@ -2164,14 +2165,12 @@
         left: 9px;
       }
 
-      /* ── Controls: horizontal scroll and stick to top ── */
+      /* ── Controls: wrap to multiple lines ── */
       .controls {
         top: 0;
         padding: 0.5rem 1rem;
-        flex-wrap: nowrap;
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none;
+        flex-wrap: wrap;
+        overflow-x: visible;
         gap: 0.5rem;
       }
 
