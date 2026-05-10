@@ -1,0 +1,22 @@
+{
+  "name": "The Cinephile's Vault",
+  "short_name": "CineVault",
+  "description": "A premium cinephile's film collection — curated reviews, detailed cast & crew, and awards tracking for serious film lovers.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#04080F",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "lifestyle"],
+  "lang": "en",
+  "dir": "ltr"
+}
