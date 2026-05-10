@@ -48464,31 +48464,422 @@ const MOVIES = [
         photoUrl: "https://image.tmdb.org/t/p/w185/reEkbvLlNknpCo2I37Vim6XpqGu.jpg"
       }
     ],
-    languages: ["English"],
-    genres: ["Drama", "Sci-fi", "Action"],
-    viewerRating: {
-      rating: "M-16",
-      descriptors: [
-        "prolonged warfare between apes and humans with significant casualties",
-        "gunshot wounds and moderate blood and injury detail",
-        "psychological manipulation and deliberate political incitement to war",
-        "scenes of characters in direct mortal peril including children",
-        "post-apocalyptic depictions of societal collapse and mass death"
-      ]
-    },
-    runtime: [
-      { version: "Theatrical Cut", duration: "2:10" }
-    ],
-    awards: [
+  languages: ["English"],
+  genres: ["Action", "Drama", "Sci-fi"],
+  viewerRating: {
+    rating: "M-16",
+    descriptors: [
+      "sustained combat violence between armed humans and apes",
+      "gunfire, explosions, and military weaponry throughout",
+      "brief depictions of execution-style killing",
+      "non-graphic injury and death",
+      "psychological manipulation and betrayal of trust",
+      "post-apocalyptic depictions of societal collapse"
+    ]
+  },
+  runtime: [
+    { version: "Theatrical Cut", duration: "2:10" }
+  ],
+  awards: [
       { body: "Saturn Awards (41st)", category: "Best Science Fiction Film", result: "Nominated", year: 2015 },
       { body: "Saturn Awards (41st)", category: "Best Special Effects", result: "Nominated", year: 2015 },
       { body: "Saturn Awards (41st)", category: "Best Director", result: "Nominated", year: 2015 }
     ],
-    criticRating: "Exceptional",
-    review: {
-      themes: ["betrayal", "distrust", "extremism", "coexistence", "duality", "survival", "leadership", "xenophobia"],
-      mood: ["ominous", "tragic", "propulsive"],
-      fullReview: "Dawn of the Planet of the Apes opens in silence and loss. A wordless montage recaps the decade between films — a virus spreading across a world map, cities going dark, the slow arithmetic of extinction — and then settles into a rainforest where apes move together on horseback through the fog. Ten years after the events of Rise, Caesar and his community have built something genuinely remarkable from scratch in the Marin hills: language, law, family, history. Then the humans arrive, and the film begins in earnest.\n\nWhat follows is a story about how completely peace can be undone by the people with the most reason to protect it. Malcolm, a quiet survivor played with careful, interior authority by Jason Clarke, understands what war will cost. He wants access to a dam the apes control, and he knows that wanting it through violence would destroy everything. Caesar — Andy Serkis again, this time the full weight of a decade behind those eyes — also wants peace. He has a newborn son, a civilization to protect, and an intimate understanding of human nature that makes the current arrangement feel fragile to him in ways it does not to his own lieutenants.\n\nMatt Reeves, stepping in for Rupert Wyatt, makes a choice that defines the film: both sides have a Koba. The scarred chimpanzee who returns from the margins of Rise is the film\'s most compelling creation — a being whose history of suffering is real, whose hatred is earned, and whose methods are catastrophic. Toby Kebbell, working entirely through motion capture, does not play Koba as a monster that needs to be defeated. He plays him as a wound that learned how to move. On the human side, Gary Oldman\'s Dreyfus is not a warmonger by nature — he is a man terrified of watching the last of his species disappear, and that terror makes him useful to those who would exploit it. The film understands that the most dangerous ideology is not hatred but the weaponization of legitimate grievance, and it never forgets this understanding, even during its most action-oriented passages.\n\nThe ape sequences are where the film truly lives. Caesar\'s relationship with his son Blue Eyes, his quiet grief over what Koba represents, his friendship with the philosophically gentle Maurice (Karin Konoval, remarkable under layers of prosthetic work) — these are not interludes between human drama. They are the drama. The screenplay by Mark Bomback, Jaffa, and Silver gives the ape community the full weight of a functioning civilization with internal tensions, generational conflict, and competing visions of what survival should look like.\n\nMichael Giacchino\'s score is worth a specific note because it refuses to announce itself. It operates as atmospheric pressure rather than emotional instruction — a low, persistent drone that tightens incrementally as the truce erodes, building without the audience quite noticing until the release arrives and the grief lands harder than expected. Michael Seresin\'s cinematography is frequently stunning: rain-soaked ruins, fog-layered forests, apes silhouetted against fire in compositions that carry genuine visual power without straining for it.\n\nThe human characters, by comparison, are the film\'s softest point. Keri Russell is underused, her role more structural than human. Kodi Smit-McPhee has one meaningful scene and is otherwise a presence more than a person. This is not fatal, but it is honest: the film is clearly more interested in its apes, and that instinct is both its greatest strength and the source of its single meaningful imbalance. When the third act arrives and the human side must carry some of the narrative weight, the screenplay\'s investment shows.\n\nNone of that meaningfully diminishes what Dawn achieves. It ends not with a winner but with inevitability — both species backed into positions that neither chose and neither can now escape. That is an unusually honest ending for a film of this scale, and it works because everything that preceded it was built with genuine care. The rare sequel that expands rather than repeats. The rare blockbuster that earns its darkness."
+  criticRating: "Great",
+  review: {
+    themes: ["tribalism", "betrayal", "coexistence", "leadership", "mistrust", "survival", "complicity", "war"],
+    mood: ["somber", "tense", "propulsive"],
+    fullReview: "Ten years after the ALZ-113 virus has decimated human civilization, a fragile peace holds between Caesar\'s thriving colony of intelligent apes and a small enclave of immune survivors sheltering in the ruins of San Francisco. When a group of humans needs access to a dam deep within ape territory to restore power to their failing colony, the encounter sets in motion a chain of events that neither side has the strength — or the control — to stop. Both communities want survival. Both carry within them the seeds of their own undoing.\n\nWhat Matt Reeves understood, and what elevates this sequel well above the standard blockbuster, is that the most devastating conflicts are not between good and evil but between two groups that are each partly right. Caesar (Andy Serkis, performing at a level the motion capture medium has still not received adequate critical recognition for) wants coexistence. Malcolm (Jason Clarke), his human counterpart, wants the same. The film\'s tragic architecture is built entirely on the fact that their shared goodwill cannot prevent what is coming, because neither man controls his own side.\n\nThe screenplay by Mark Bomback, Rick Jaffa, and Amanda Silver draws its power from symmetry. Every virtue Caesar possesses has its mirror flaw in Koba (Toby Kebbell), the scarred ape who carries the memory of human cruelty as a wound that has never been permitted to close. Koba is not a cartoon antagonist — he is the consequence of atrocity, a creature whose hatred was manufactured by human hands and whose actions follow their own terrible logic. Kebbell, working entirely through performance capture, delivers one of the film\'s most quietly unsettling turns: there is something profoundly recognizable in Koba\'s grievance, which makes him far more troubling than a character who simply wants destruction for its own sake. The parallel between Caesar and Dreyfus (Gary Oldman) on the human side is structurally sound but less fully realized — Oldman is given too little material to work with, and the character remains more symbol than person.\n\nReeves directs with a patience that major studio productions rarely allow themselves. The first act takes considerable time establishing the ape colony as a functioning society — one with ritual, family structure, internal politics, and moral debate. Michael Seresin\'s cinematography leans into forest shadow, mist, and firelight, lending the film a quality that feels almost elegiac before the violence has properly begun. Michael Giacchino\'s score reinforces this: mournful, percussive, heavy with foreboding rather than excitement, which is precisely the right choice for a film that knows where it is headed.\n\nThe action sequences, when they arrive, are executed with genuine craft. A centerpiece involving a tank, a bridge, and an ape mounted on horseback firing automatic weapons should by rights be absurd spectacle. It is not. Reeves earns that image through everything that precedes it — the moment lands with the weight of inevitability rather than the hollow charge of pure sensation. That is a meaningful achievement in a genre that often confuses the two.\n\nWhere the film stumbles is in its human characters, who never quite achieve the richness of their ape counterparts. Jason Clarke is capable and grounded throughout, but Malcolm is defined almost entirely by his function in the plot. Keri Russell as Ellie and Kodi Smit-McPhee as Alexander are similarly thin — present, credible, and ultimately forgettable. The film is so heavily invested in the apes, which is the correct creative decision, but the consequence is that the human stakes feel somewhat abstract. Audiences are asked to care about the survival of humanity as a concept more than as a collection of specific, irreplaceable people.\n\nThe thematic ambition, though, is genuine and earns respect. The film is, among other things, an inquiry into how trauma calcifies into ideology — how violence done to a community can produce in its survivors a worldview that makes further violence structurally inevitable. It is also a film about leadership: about how the figure at the center of a community is both essential to its survival and fundamentally at the mercy of forces larger than their intentions. Caesar understands this by the end. So does anyone paying attention.\n\nThe tragedy does not feel manufactured; it feels systemic. Two reasonable protagonists, operating in good faith, cannot prevent an outcome that the irrational elements on both sides have been quietly engineering from the beginning. There is something genuinely sorrowful in that — the sense that the window for something better was real, briefly open, and closed anyway. Dawn of the Planet of the Apes is the rare summer film that earns its spectacle through dramatic foundation, treats its audience as adults, and leaves something worth thinking about in its wake. A few thin human characters and an underwritten subplot or two are the price of admission, and it is a price worth paying."
+  }
+},
+{
+  id: "war-for-the-planet-of-the-apes-2017",
+  title: "War for the Planet of the Apes",
+  originalTitle: null,
+  romanization: null,
+  year: 2017,
+  tagline: "For freedom. For family. For the planet.",
+  titleLogoUrl: "https://image.tmdb.org/t/p/original/xgLWDAx4iZPoyhUYrFQyxxbNHTP.png",
+  posterUrl: "https://image.tmdb.org/t/p/original/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+  backdropUrl: "https://image.tmdb.org/t/p/original/w22CTHxmdAsUrXRbCQt4gOSOD6E.jpg",
+  trailerUrl: "https://www.youtube.com/watch?v=hHUBpMznFJI",
+  director: [
+    {
+      name: "Matt Reeves",
+      photoUrl: "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
     }
+  ],
+  screenplay: [
+    {
+      name: "Mark Bomback",
+      photoUrl: "https://image.tmdb.org/t/p/w185/sasLL2smKWuZUjYq7d9O2QQrN0G.jpg"
+    },
+    {
+      name: "Matt Reeves",
+      photoUrl: "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+    }
+  ],
+  cast: [
+    {
+      actor: "Andy Serkis",
+      role: "Caesar",
+      photoUrl: "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      actor: "Woody Harrelson",
+      role: "The Colonel",
+      photoUrl: "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      actor: "Karin Konoval",
+      role: "Maurice",
+      photoUrl: "https://image.tmdb.org/t/p/w185/5e8YyNQjWre2UbExYBlJ7zva934.jpg"
+    },
+    {
+      actor: "Terry Notary",
+      role: "Rocket",
+      photoUrl: "https://image.tmdb.org/t/p/w185/gcn5cL4TGmtiYcjFCl29GsclDVl.jpg"
+    },
+    {
+      actor: "Steve Zahn",
+      role: "Bad Ape",
+      photoUrl: "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+      actor: "Amiah Miller",
+      role: "Nova",
+      photoUrl: "https://image.tmdb.org/t/p/w185/mW10rLTAmuPD5TncX8KkRzsbvXU.jpg"
+    },
+    {
+      actor: "Ty Olsson",
+      role: "Red Donkey",
+      photoUrl: "https://image.tmdb.org/t/p/w185/7vxoASi2aZZzw6c4guFSaPdE45y.jpg"
+    },
+    {
+      actor: "Michael Adamthwaite",
+      role: "Luca",
+      photoUrl: "https://image.tmdb.org/t/p/w185/J9R1DkSkmGDioXJmHIMg5Vt8pb.jpg"
+    },
+    {
+      actor: "Toby Kebbell",
+      role: "Koba",
+      photoUrl: "https://image.tmdb.org/t/p/w185/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+    },
+    {
+      actor: "Gabriel Chavarria",
+      role: "Preacher",
+      photoUrl: "https://image.tmdb.org/t/p/w185/aLvEXygc9wN4DqTNNY1h69gaEdS.jpg"
+    },
+    {
+      actor: "Sara Canning",
+      role: "Lake",
+      photoUrl: "https://image.tmdb.org/t/p/w185/55AL7y8ybTE7uvpQALughR7bkkB.jpg"
+    },
+    {
+      actor: "Judy Greer",
+      role: "Cornelia",
+      photoUrl: "https://image.tmdb.org/t/p/w185/pTLjIjh83R424RGxIfq4U0yx947.jpg"
+    },
+    {
+      actor: "Devyn Dalton",
+      role: "Cornelius",
+      photoUrl: "https://image.tmdb.org/t/p/w185/rYkYdtv2grwzDX4RFCIK3zzP4gD.jpg"
+    },
+    {
+      actor: "Aleks Paunovic",
+      role: "Winter",
+      photoUrl: "https://image.tmdb.org/t/p/w185/k8j9Nr0xS2vEUMV8Wl0y5cC2NeB.jpg"
+    },
+    {
+      actor: "Alessandro Juliani",
+      role: "Spear",
+      photoUrl: "https://image.tmdb.org/t/p/w185/f8pVEpYsRU30EsMoWcBsTkUN9e0.jpg"
+    },
+    {
+      actor: "Max Lloyd-Jones",
+      role: "Blue Eyes",
+      photoUrl: "https://image.tmdb.org/t/p/w185/4ZXdk1YXG3xYonid1DPDOVKsNPE.jpg"
+    },
+    {
+      actor: "Timothy Webber",
+      role: "Ape Elder",
+      photoUrl: "https://image.tmdb.org/t/p/w185/Av0mtgZ9DeopXP9NQjzd8q9ZPd6.jpg"
+    },
+    {
+      actor: "Lauro David Chartrand-DelValle",
+      role: "Look Out Ape",
+      photoUrl: "https://image.tmdb.org/t/p/w185/4XqwVZCR6t7H0aB8zVT0i9gfehg.jpg"
+    },
+    {
+      actor: "Shaun Omaid",
+      role: "Soldier Who Sees Ape",
+      photoUrl: "https://image.tmdb.org/t/p/w185/qttbi8RNm4wCNyymG7HcDmLRyVx.jpg"
+    },
+    {
+      actor: "Roger Cross",
+      role: "Captain",
+      photoUrl: "https://image.tmdb.org/t/p/w185/gLbHM7JH2nWCeEzSjzAYBUOSkT8.jpg"
+    },
+    {
+      actor: "Mercedes de la Zerda",
+      role: "Lang",
+      photoUrl: "https://image.tmdb.org/t/p/w185/Au3oFUvhdbktvDP76MbPwhSsIa1.jpg"
+    },
+    {
+      actor: "Doug Chapman",
+      role: "AΩ Deserter",
+      photoUrl: "https://image.tmdb.org/t/p/w185/woJlBx2I4Hv1nKkC8f1G5cXqvXu.jpg"
+    },
+    {
+      actor: "James Pizzinato",
+      role: "Captured Soldier",
+      photoUrl: "https://image.tmdb.org/t/p/w185/kE9S1uDnAQPkLuDGcAAogD1IJHd.jpg"
+    },
+    {
+      actor: "Chad Rook",
+      role: "Boyle",
+      photoUrl: "https://image.tmdb.org/t/p/w185/ingigcFjpB56O4WpOMADH1pwk8k.jpg"
+    },
+    {
+      actor: "Dean Redman",
+      role: "Commanding Officer",
+      photoUrl: "https://image.tmdb.org/t/p/w185/7mzn5HzN2tnYypbYGZvgbybb1aE.jpg"
+    },
+    {
+      actor: "Steve Baran",
+      role: "Tanker Guard",
+      photoUrl: "https://image.tmdb.org/t/p/w185/mG7DDdwZYFcuaZiteedn7rVuNlw.jpg"
+    },
+    {
+      actor: "Sandy Robson",
+      role: "Gunner",
+      photoUrl: "https://image.tmdb.org/t/p/w185/9EztCZQ4nZmBxCAKvdgYjTCVyF1.jpg"
+    },
+    {
+      actor: "Levi Meaden",
+      role: "Soldier",
+      photoUrl: "https://image.tmdb.org/t/p/w185/1KKydGsyXna3XUWPQDfxNuD71mU.jpg"
+    },
+    {
+      actor: "Billy Wickman",
+      role: "Gasping Soldier",
+      photoUrl: "https://image.tmdb.org/t/p/w185/4RvjA115oHfgI3fuhBZKoTCR4Xd.jpg"
+    },
+    {
+      actor: "Albert Nicholas",
+      role: "Tower Guard #1",
+      photoUrl: "https://image.tmdb.org/t/p/w185/9azNURWdyhimWhCoc7UzprmyELZ.jpg"
+    },
+    {
+      actor: "Thomas Potter",
+      role: "Platoon Leader",
+      photoUrl: "https://image.tmdb.org/t/p/w185/qDFfDRcU1b1BtWobt20aa28jje3.jpg"
+    },
+    {
+      actor: "Mathew Yanagiya",
+      role: "Executive Officer\'s Man",
+      photoUrl: "https://image.tmdb.org/t/p/w185/6H4F45LckXI9pzcBpZXSXQYjVBM.jpg"
+    }
+  ],
+  languages: ["English"],
+  genres: ["Drama", "War", "Sci-fi"],
+  viewerRating: {
+    rating: "M-16",
+    descriptors: [
+      "mass execution of apes depicted on screen",
+      "prolonged depiction of forced labor and imprisonment",
+      "children witness parental death",
+      "non-graphic but sustained war violence and military brutality",
+      "flogging and physical abuse of captives",
+      "depictions of genocide and ethnic extermination as policy",
+      "psychological suffering and despair throughout"
+    ]
   },
+  runtime: [
+    { version: "Theatrical Cut", duration: "2:20" }
+  ],
+  awards: [
+    { body: "Academy Awards (90th)", category: "Best Visual Effects", result: "Nominated", year: 2018 },
+    { body: "BAFTA Film Awards (71st)", category: "Best Special Visual Effects", result: "Nominated", year: 2018 },
+    { body: "Saturn Awards (44th)", category: "Best Science Fiction Film", result: "Won", year: 2018 },
+    { body: "Saturn Awards (44th)", category: "Best Actor", result: "Nominated", year: 2018 },
+    { body: "Critics Choice Movie Awards (23rd)", category: "Best Visual Effects", result: "Nominated", year: 2018 }
+  ],
+  criticRating: "Great",
+  review: {
+    themes: ["vengeance", "sacrifice", "fanaticism", "captivity", "exodus", "mortality", "legacy", "redemption"],
+    mood: ["mournful", "harrowing", "elemental"],
+    fullReview: "Caesar has led his kind through plague and war, through the collapse of human civilization and the first terrible eruptions of conflict between species. Now, in the third chapter of Matt Reeves\' reboot trilogy, he faces something the previous films only gestured toward: the weight of his own darkness. When a ruthless military colonel strikes at the heart of the ape colony, Caesar sends his people east toward safety while he rides alone toward something that looks, from the outside, very much like revenge. The film that follows is less a blockbuster than a sustained act of mourning.\n\nReeves made a deliberate and somewhat audacious choice in treating this material as a fusion of the prison film and the mythological western. The visual grammar owes debts to Leone and Lean — long silences, vast snowscapes, figures dwarfed by their circumstances. Michael Seresin\'s cinematography is among the most striking in the franchise, finding a cold grey palette that feels like grief made visible. Michael Giacchino\'s score reaches its most elegiac register here: less propulsive than its predecessors, more concerned with the sound of things ending.\n\nAndy Serkis gives the finest performance of his career in motion capture, and it is time that observation was made with full seriousness. What he does with Caesar in this film — the exhaustion behind the eyes, the moment that pride cracks into sorrow, the specific weight with which this creature carries the knowledge of what he is becoming — is not approximated through technology. It is genuine acting, and the medium simply records it differently. That Caesar\'s final scene lands with the force it does is a testament to the care Serkis has taken over three films to build something irreplaceable.\n\nWoody Harrelson\' Colonel is, frankly, the film\'s least successful element. The character is clearly conceived in the shadow of Apocalypse Now\'s Kurtz — there are direct visual quotations that feel less like homage and more like a warning label — and while Harrelson commits fully, the screenplay gives him a motivation that is simultaneously too rational to be terrifying and too grandiose to feel grounded. He works better as a symbolic antagonist, a personification of human fear calcified into cruelty, than he does as a person. The film knows this too; the most telling exchange between him and Caesar is also the briefest.\n\nSteve Zahn\'s Bad Ape deserves a word, because the character is either the film\'s wisest decision or its most self-indulgent, depending on the viewer. Functioning as comic relief in a film drenched in suffering, Bad Ape is genuinely funny in isolation, but the tonal whiplash his scenes create is real. Placed immediately after sequences of genuine devastation, his nervous energy can feel like the film blinking away from something it has worked hard to earn. That said, there is something quietly devastating about a creature who survived human captivity by learning to be invisible, and the screenplay earns that eventually.\n\nThe prison sequence at the film\'s center — extended, deliberately paced, shot with the grimness of a historical document — is the film at its most committed and most uncompromising. What happens to the apes there is rendered without sentimentality, and the film\'s refusal to turn away from it gives the eventual resolution a weight that the franchise has been building toward across three films. When release comes, it feels genuinely earned — and then Reeves makes a choice about how Caesar\'s story ends that is, by any measure, the right one. The final image is quiet, unhurried, and devastating.\n\nThe film is not quite as tightly constructed as Dawn. The first act sets its pieces slowly, there are structural choices that betray their schematic origins, and the climax, when it finally arrives, is resolved partly through an event that feels more convenient than inevitable. But these are the flaws of a film reaching for something significant, not the flaws of a film that has stopped caring. War for the Planet of the Apes closes a trilogy that, taken together, constitutes one of the more serious bodies of work in contemporary science fiction blockbuster cinema — one that consistently treats its central character as a tragic figure worthy of genuine investment, and delivers on that investment more often than not."
+  }
+},
+{
+  id: "i-want-to-eat-your-pancreas-2018",
+  title: "I Want to Eat Your Pancreas",
+  originalTitle: "君の膵臓をたべたい",
+  romanization: "Kimi no Suizou wo Tabetai",
+  year: 2018,
+  tagline: "This is a story about an unforgettable spring...",
+  titleLogoUrl: "https://image.tmdb.org/t/p/original/iOGhQzUidBzOj6pxKp7pBZkw2ta.png",
+  posterUrl: "https://image.tmdb.org/t/p/original/5fimN5Zreuq96Y49eupbfOuGQWT.jpg",
+  backdropUrl: "https://image.tmdb.org/t/p/original/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
+  trailerUrl: "https://www.youtube.com/watch?v=MmoBvmJA9XI",
+  director: [
+    {
+      name: "Shinichiro Ushijima",
+      photoUrl: "https://image.tmdb.org/t/p/w185/vNrNNafv5hM1EW3CMqY32F1peV6.jpg"
+    }
+  ],
+  screenplay: [
+    {
+      name: "Shinichiro Ushijima",
+      photoUrl: "https://image.tmdb.org/t/p/w185/vNrNNafv5hM1EW3CMqY32F1peV6.jpg"
+    }
+  ],
+  cast: [
+    {
+      actor: "Mahiro Takasugi",
+      role: "Haruki Shiga (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/gP5lShrAl4ovliqAqJQTgrTeEwz.jpg"
+    },
+    {
+      actor: "Lynn",
+      role: "Sakura Yamauchi (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg"
+    },
+    {
+      actor: "Yukiyo Fujii",
+      role: "Kyoko Takimoto (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/tLG4K1iix3QNHFexf98mrZ25jT6.jpg"
+    },
+    {
+      actor: "Yuma Uchida",
+      role: "Takahiro (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
+    },
+    {
+      actor: "Jun Fukushima",
+      role: "Issei Miyata (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/xo2A4cr8TnhC9rLFxSQvhwCbIOw.jpg"
+    },
+    {
+      actor: "Atsuko Tanaka",
+      role: "Haruki's Mother (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg"
+    },
+    {
+      actor: "Shin-ichiro Miki",
+      role: "Haruki's Father (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
+    },
+    {
+      actor: "Emi Wakui",
+      role: "Sakura's Mother (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/p6yRJ4ZgdEjA0rvVsk1uvzae36E.jpg"
+    },
+    {
+      actor: "Nanami Atsugi",
+      role: "Hospital Announcement (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/xueVOu33hWyl3BWZOLYEHinCuHd.jpg"
+    },
+    {
+      actor: "Kazuya Saji",
+      role: "Father of the Boy and Girl (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/8etIlbu9mBZPyYsUX7zKMRy1eBC.jpg"
+    },
+    {
+      actor: "Narumi Kaho",
+      role: "Boy (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/9QKQnv8C9usNDeg3z1B9j7qwJxX.jpg"
+    },
+    {
+      actor: "Nene Hieda",
+      role: "Girl (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/kg2cNTQ83bDadVBPJSrY2quRQpT.jpg"
+    },
+    {
+      actor: "Reiou Tsuchida",
+      role: "Delinquent 1 (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/9GZBqBZp8s1Ini3UadvI2z5anqE.jpg"
+    },
+    {
+      actor: "Hayato Kimura",
+      role: "Delinquent 2 (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/zUsWnIq72NBk71XZCvU5NtZwKlQ.jpg"
+    },
+    {
+      actor: "Anju Nitta",
+      role: "Man from the Dried Food Store (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/yA1GvKCLE9w1CxojcfHgeMtmhbN.jpg"
+    },
+    {
+      actor: "Emiko Takeuchi",
+      role: "Old Lady (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/gZAtnuuHvQOltimOP3jPo5PKjb1.jpg"
+    },
+    {
+      actor: "Takaaki Uchino",
+      role: "Shopkeeper (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/2ll2XvDfM3NbiBQaF9Uh4SVAq9j.jpg"
+    },
+    {
+      actor: "Kenta Kataoka",
+      role: "Police Officer 1 (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/qNbD0EAEChmmyHYaHrlShTx3ZSq.jpg"
+    },
+    {
+      actor: "Tomoyuki Arai",
+      role: "Police Officer 2 (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/91HUd7ydCTYXtxYyPHLKbQoDM29.jpg"
+    },
+    {
+      actor: "Takayuki Ogawa",
+      role: "Office Worker (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/gEUiaygEO4T4LRnu51UHO1Ir4ln.jpg"
+    },
+    {
+      actor: "Junnosuke Kuroda",
+      role: "Old Man from the Fish Shop (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/kgZRsfXOKT4OZi1nKOWxvSQlkNi.jpg"
+    },
+    {
+      actor: "Yurina Amami",
+      role: "TV Anchor (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/peSPIgRkaiowkDTNfw7GpbW2J5Z.jpg"
+    },
+    {
+      actor: "Momoko Notomi",
+      role: "Female Student (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/hziyIhBcLKqTI2MTg0SlUxLVg9e.jpg"
+    },
+    {
+      actor: "Kotaro Ishikawa",
+      role: "News Presenter (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/t8AWYr50WcDP7EXsIdt7u74i3RX.jpg"
+    }
+  ],
+  languages: ["Japanese"],
+  genres: ["Animation", "Romance", "Drama"],
+  viewerRating: {
+    rating: "PG",
+    descriptors: [
+      "terminal illness and its emotional impact on a teenager",
+      "off-screen death of a young person",
+      "prolonged depictions of anticipatory grief",
+      "mild physical altercation between students"
+    ]
+  },
+  runtime: [
+    { version: "Theatrical Cut", duration: "1:48" }
+  ],
+  awards: [
+    { body: "Japan Academy Film Prize (52nd)", category: "Animation of the Year", result: "Won", year: 2019 },
+    { body: "Anime of the Year (Crunchyroll Anime Awards)", category: "Best Film", result: "Nominated", year: 2019 }
+  ],
+  criticRating: "Great",
+  review: {
+    themes: ["mortality", "solitude", "vulnerability", "connection", "grief", "acceptance", "youth"],
+    mood: ["tender", "bittersweet", "mournful"],
+    fullReview: "The title stops people cold, and that is entirely intentional. Drawn from an old folk belief that consuming a sick organ helps heal it, the phrase that names this film is a confession — a strange, oblique declaration of closeness between two people who have agreed to spend what little time remains together before one of them disappears. The film opens with a young man, now an adult, learning that a former classmate has died. What follows is a memory: a high school year in which he, a self-sufficient loner who has never needed anyone, became the only person in the world who knew that the brightest girl in his class was dying of pancreatic disease.\n\nYoru Sumino\'s source novel was a publishing phenomenon in Japan, and it is easy to understand why. The central dynamic between Haruki — closed-off, fond of books precisely because they ask nothing of him — and Sakura — vivid, curious, apparently fearless about her own ending — is the kind of pairing that romantic fiction has always known how to exploit. What lifts this above formula is that the film takes both characters seriously as people rather than as archetypes. Sakura\'s brightness is not naive. She knows what she is doing when she drags this quiet, resistant boy into her final chapter. She chose him specifically because he would not treat her as a dying girl. He would treat her as a person — and in doing so, he would have to become one too.\n\nShinichiro Ushijima\'s direction is unhurried, attentive to the texture of ordinary days. The animation, warm and luminous throughout, renders the world of sunlit school corridors and early spring cherry blossoms with the quality of something remembered from a great distance — slightly brightened by nostalgia, slightly aching for the same reason. Hiroko Sebu\'s score works in the same register: gentle, spare, never working too hard to manufacture feeling because the situation generates it naturally.\n\nLynn\'s voice performance as Sakura is the film\'s most essential contribution. She threads the needle between a character who performs effortless joy and a character who is, underneath it, genuinely joyful — someone who has made a deliberate choice to live rather than simply wait. The few moments where that performance slips to reveal something more frightened beneath are handled with restraint, which is the right call. The film trusts its audience to understand what is not being said.\n\nThe framing device — adult Haruki in the present tense, revisiting his hometown — is the film\'s primary structural weakness. It front-loads knowledge of the outcome in a way that occasionally dilutes the tension that the central memory generates on its own terms. The film knows this too: the present-day scenes are comparatively thin, and the weight of the final act rests almost entirely on the past. A secondary emotional revelation near the end, involving a character left behind, is handled deftly but arrives slightly too late to fully integrate with what has come before, giving the film\'s conclusion the feeling of stacked catharsis rather than a single, clean release.\n\nNone of this undoes what the film achieves in its middle sections, where two young people sit in hospital cafeterias and travel together and lie badly to each other about how this is going to end. There is a particular sequence — the two of them stuck in a hotel room during a rainstorm, with nothing to do but talk — that captures the specific quality of a friendship that happens too fast because it has to, where the accelerated intimacy of shared mortality produces something that slower connections might never reach.\n\nThe film is not for everyone. Its emotional pitch is high, its sentiment unguarded. Anyone allergic to the more earnest conventions of Japanese young-adult fiction will find the whole enterprise too willing to reach for tears. But for those who can meet it where it lives, it offers something genuine: a reminder that the people who teach us how to be present are rarely the ones who have the most time."
+  }
+},
 ]; // ← paste movie objects here, one by one
