@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Cinephile's Vault</title>
+  <title>CineVault</title>
 
   <!-- ═══ PWA Manifest & Meta ═══ -->
   <link rel="manifest" href="manifest.json">
@@ -459,6 +459,32 @@
       display: flex;
       align-items: center;
       gap: 1rem;
+    }
+
+    .cinevault-logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      object-fit: contain;
+      filter: drop-shadow(0 0 8px rgba(212, 175, 55, 0.4));
+      transition: var(--transition);
+    }
+    
+    .cinevault-logo:hover {
+      filter: drop-shadow(0 0 12px rgba(212, 175, 55, 0.7));
+      transform: scale(1.05);
+    }
+
+    [data-theme="light"] .cinevault-logo {
+      filter: drop-shadow(0 0 6px rgba(180, 140, 60, 0.2));
+    }
+
+    [data-theme="light"] .cinevault-logo:hover {
+      filter: drop-shadow(0 0 10px rgba(180, 140, 60, 0.4));
     }
 
     .header__title {
@@ -2854,7 +2880,8 @@
   <!-- ─── Header ────────────────────────────── -->
   <header class="header">
     <div class="header__brand">
-      <h1 class="header__title" id="collection-title">The Cinephile's Vault</h1>
+      <img src="site_logo.png" alt="CineVault Logo" class="cinevault-logo" aria-hidden="true">
+      <h1 class="header__title" id="collection-title">CineVault</h1>
       <div class="header__divider" aria-hidden="true"></div>
       <span class="header__count"><span id="film-count">0</span> film<span id="film-count-plural">s</span></span>
     </div>
@@ -2880,9 +2907,9 @@
 
   <!-- ─── Footer ───────────────────────────── -->
   <footer class="footer">
-    <div class="footer__title" id="footer-title">The Cinephile's Vault</div>
+    <div class="footer__title" id="footer-title">CineVault</div>
     <p class="footer__count" id="footer-count">Showing 0 of 0 films</p>
-    <p class="footer__tag">The Cinephile's Vault — a permanent record of serious watching</p>
+    <p class="footer__tag">CineVault — a permanent record of serious watching</p>
   </footer>
 
   <!-- ─── Modal ────────────────────────────── -->
@@ -2949,7 +2976,7 @@
   <script src="movies.js"></script>
 
   <script>
-    const COLLECTION_TITLE = "The Cinephile's Vault";
+    const COLLECTION_TITLE = "CineVault";
 
     /* ═══════════════════════════════════════════════════════════
        CONSTANTS

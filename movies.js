@@ -47883,4 +47883,612 @@ const MOVIES = [
       fullReview: "Nine-year-old Ren runs away into the backstreets of Shibuya after his mother dies and his estranged father proves unreachable. He stumbles into Jutengai, an alternate world populated entirely by anthropomorphic beasts, and ends up reluctant apprentice to Kumatetsu — a bearlike warrior of immense power and negligible social skills who wants a student mostly because having one might make him look more impressive to those who already find him insufferable. The two are catastrophically mismatched and immediately, obviously, necessary to each other. What follows is, at its core, a story about what passes between men and boys who don\'t know how to say what they need from each other — and Mamoru Hosoda tells it with the propulsive confidence of someone who has located the emotional territory they were born to map.\n\nThe first hour of The Boy and the Beast is Hosoda operating close to his best. The training sequences between Kumatetsu and the boy, who renames himself Kyuta, are vivid and funny and unexpectedly moving: Kumatetsu cannot teach because he has never understood what he does, only that he does it, which means Kyuta has to learn by pure observation. The film makes this dynamic legible without explaining it, trusting the animation to convey the gradual unconscious transfer of something that cannot be named. Koji Yakusho\'s voice performance as Kumatetsu earns the whole enterprise — he is gruff, petty, occasionally ridiculous, and entirely sincere, and the film allows him to be all of these things simultaneously without resolution.\n\nThe beast world itself is one of the more inventive spaces in recent Japanese animation. Jutengai is dense and anarchic, a kind of feudal marketplace operating on rules that are never fully explained and don\'t need to be — it has the quality of a place that existed before the film noticed it. Hosoda and his background team at Studio Chizu give it a physical specificity that rewards attention: cobblestones worn down by clawed feet, architecture scaled for bodies of wildly different sizes, the particular chaos of a society organised around hierarchy but populated by creatures who struggle with dignity. Masakatsu Takagi\'s score suits the world well — percussive and melodically spare, with a warmth that surfaces in quieter scenes and pulls back for fights.\n\nWhere the film loses its footing is in the second half, when a teenage Kyuta re-enters the human world and encounters both his biological father and a girl named Kaede who introduces him to literature and learning. These sequences are not bad — Hosoda handles Kyuta\'s confusion about which world he belongs to with genuine sensitivity — but they operate at a noticeably different temperature than the beast-world material, and the film\'s pacing suffers when it shuttles between them. Kaede in particular feels underwritten, more a function in Kyuta\'s development than a presence in her own right. The romantic thread never earns the weight the film occasionally seems to want to give it.\n\nThe climax is spectacular by any reasonable standard of animated action — a confrontation that escalates from the physical to the metaphysical with confident visual invention. But it also asks the audience to invest in a villain whose transformation from sympathetic figure to genuine threat happens too quickly in screen time to carry the full tragic force Hosoda is clearly aiming for. The emotional logic is sound; the dramatic scaffolding beneath it is slightly underbuilt.\n\nNone of this meaningfully diminishes the film\'s considerable achievement. Hosoda has been circling questions about family — specifically about the families we construct from necessity and love rather than biology — across his entire career, and The Boy and the Beast is his most direct engagement with that material. The specific charge of the Kumatetsu-Kyuta relationship, its combination of irritation and devotion and the slow mutual transformation of two people who are, by every conventional measure, wrong for each other, is something the film renders with a clarity that lingers. There is a sequence late in the film, brief and quiet, in which the full cost and meaning of what these two have built together becomes suddenly visible — and in that moment the film earns everything it has been working toward.\n\nFor anyone who has ever had a teacher who could not explain what they were teaching, or who has loved someone whose love came through sideways and unannounced, this is a film that sees something real."
     }
   },
+  {
+    id: "rise-of-the-planet-of-the-apes-2011",
+    title: "Rise of the Planet of the Apes",
+    originalTitle: null,
+    romanization: null,
+    year: 2011,
+    tagline: "Evolution Becomes Revolution.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/1SqeMqYkxWudb3obeysTpbxoI9d.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/kUjtgY4DD7YK3zNsxaM3I9f079c.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/6cCF0KMUO2QmrVsQFujkQduREXX.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=VZ_LE_6ylKc",
+    director: [
+      {
+        name: "Rupert Wyatt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m3KzS9wnfgAWD0ppIKQEQcTtM1S.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Rick Jaffa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hjxAQXUppDd2StwzJ4ACYGrP5Vg.jpg"
+      },
+      {
+        name: "Amanda Silver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j26E4ifZClUceVocOmDG9sWm7uP.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Andy Serkis",
+        role: "Caesar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+      },
+      {
+        actor: "James Franco",
+        role: "Will Rodman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+      },
+      {
+        actor: "Freida Pinto",
+        role: "Caroline Aranha",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
+      },
+      {
+        actor: "John Lithgow",
+        role: "Charles Rodman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+      },
+      {
+        actor: "Brian Cox",
+        role: "John Landon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+      },
+      {
+        actor: "Tom Felton",
+        role: "Dodge Landon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+      },
+      {
+        actor: "Tyler Labine",
+        role: "Robert Franklin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uTg5k0mflhBju9Q1tOYmYDzdBu6.jpg"
+      },
+      {
+        actor: "Karin Konoval",
+        role: "Maurice / Court Clerk",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5e8YyNQjWre2UbExYBlJ7zva934.jpg"
+      },
+      {
+        actor: "Terry Notary",
+        role: "Rocket / Bright Eyes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gcn5cL4TGmtiYcjFCl29GsclDVl.jpg"
+      },
+      {
+        actor: "Christopher Gordon",
+        role: "Koba",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x3yZlw5ZqSCT4RWNdt7VxVmJgMh.jpg"
+      },
+      {
+        actor: "Richard Ridings",
+        role: "Buck",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eH3QE45JSgJtw0j14PLcGmEaVOG.jpg"
+      },
+      {
+        actor: "Devyn Dalton",
+        role: "Cornelia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rYkYdtv2grwzDX4RFCIK3zzP4gD.jpg"
+      },
+      {
+        actor: "Jay Caputo",
+        role: "Alpha",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n2naFzleYqAO9sHI03H2muTk35H.jpg"
+      },
+      {
+        actor: "David Hewlett",
+        role: "Douglas Hunsiker",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xXBUwcV9raoAuwbAOxJ0Jv7iE6M.jpg"
+      },
+      {
+        actor: "David Oyelowo",
+        role: "Steven Jacobs",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7UZHRwOKe2cYxj8SeNUklyPYkns.jpg"
+      },
+      {
+        actor: "Jamie Harris",
+        role: "Rodney",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iqc9RropHWLe2wLCgUHtZZDJ7w.jpg"
+      },
+      {
+        actor: "Ty Olsson",
+        role: "Chief John Hamil",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7vxoASi2aZZzw6c4guFSaPdE45y.jpg"
+      },
+      {
+        actor: "Makena Joy",
+        role: "Alice Hunsiker (Teen)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3RJE69ZA7xv79xO0WGruvQTIfSd.jpg"
+      },
+      {
+        actor: "Kevin O\'Grady",
+        role: "Animal Control Officer #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yTH5u9Sdh06i9BE8W4zU54DQqwU.jpg"
+      },
+      {
+        actor: "Sean Tyson",
+        role: "Animal Control Officer #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8W8RAuPhywkh1eglkOqwUDVzH47.jpg"
+      },
+      {
+        actor: "Kyle Riefsnyder",
+        role: "CHP #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yK9RMabVgDEklCuD6r5zBrrt9KI.jpg"
+      },
+      {
+        actor: "Jesse Reid",
+        role: "Donnie Thompson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ksGY0uTfVnwpj3cldn5mOtR0uTr.jpg"
+      },
+      {
+        actor: "BJ Harrison",
+        role: "Dottie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wKQzk78i0nCdSASDFwma0z1tZsv.jpg"
+      },
+      {
+        actor: "Leah Gibson",
+        role: "Party Girl #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pOZ3ILnzADt7KX3xowz4KWIbloK.jpg"
+      },
+      {
+        actor: "Tracy Spiridakos",
+        role: "Party Girl #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2OOEob2qdh8Mhvt5vV1RdLyZD4L.jpg"
+      },
+      {
+        actor: "Ivan Wanis-Ruiz",
+        role: "Handler @ Lab #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zeOLU4SSJZYuiM7UvSGariAbZHr.jpg"
+      },
+      {
+        actor: "Trevor Carroll",
+        role: "Handler @ Lab #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pnnApOIQbj2cnnpT4yqKfDqtANR.jpg"
+      },
+      {
+        actor: "Chelah Horsdal",
+        role: "Irena - Charles\' Nurse",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gnylfySYJwlfAhm3QIdQ2Ua4zGd.jpg"
+      },
+      {
+        actor: "Mattie Hawkinson",
+        role: "Linda - Lab Tech",
+        photoUrl: "https://image.tmdb.org/t/p/w185/36A9f7kZ7CSJmiPsRxd7dwgKo8y.jpg"
+      },
+      {
+        actor: "James Pizzinato",
+        role: "Lab Tech",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kE9S1uDnAQPkLuDGcAAogD1IJHd.jpg"
+      },
+      {
+        actor: "Ryan Jefferson Booth",
+        role: "South Side Commander",
+        photoUrl: "https://image.tmdb.org/t/p/w185/h4JgRHkHvugPGWQ8AWGLoEHsphg.jpg"
+      },
+      {
+        actor: "Elizabeth Weinstein",
+        role: "Mom in Muir Woods",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dgp9msxJfd5RiLjzaPpOrqKxE4P.jpg"
+      },
+      {
+        actor: "Jeb Beach",
+        role: "Dad in Muir Woods",
+        photoUrl: "https://image.tmdb.org/t/p/w185/apd8TuZoQW5mLEsqqOGXXqCrz9A.jpg"
+      },
+      {
+        actor: "Dean Redman",
+        role: "Security Guard #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7mzn5HzN2tnYypbYGZvgbybb1aE.jpg"
+      },
+      {
+        actor: "Hector Johnson",
+        role: "Security Guard #3",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gcbt6jTK8WFw8QDe6JxWVYtvrd4.jpg"
+      },
+      {
+        actor: "David Richmond-Peck",
+        role: "Board Member #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3qPzkWzWdTbNh8fsAVqlQ7VAoJb.jpg"
+      },
+      {
+        actor: "Adrian Hough",
+        role: "Board Member #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/58REQAaSAbiAnCptqrhx6bDhTQc.jpg"
+      },
+      {
+        actor: "Evans Johnson",
+        role: "Board Member #3",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1igVN3aV1kFghsP1J8ho3I257Un.jpg"
+      },
+      {
+        actor: "Qayam Devji",
+        role: "Todd\'s Buddy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/arrHuLjuUqkG3rE5zb0ugdzr79e.jpg"
+      },
+      {
+        actor: "Michael Kopsa",
+        role: "Jerk Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eGoaXyQMd9mfAkhc6PqMhFxef5m.jpg"
+      },
+      {
+        actor: "Chris Shields",
+        role: "SFPD #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wMi2k3l9lyuJJchQLh87RAUiVWl.jpg"
+      },
+      {
+        actor: "Sandy Robson",
+        role: "SFPD #3",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9EztCZQ4nZmBxCAKvdgYjTCVyF1.jpg"
+      },
+      {
+        actor: "Mike Dopud",
+        role: "Northside Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yOYOX3TnIaBrLdkAMznSK6SLY38.jpg"
+      },
+      {
+        actor: "Adrian Hein",
+        role: "Sharp Shooter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6obnWAObhruKNQoIx8jiEXxE7t2.jpg"
+      },
+      {
+        actor: "Camille Atebe",
+        role: "Playground Mom (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7dxPFG9T31rOUOkKN5bBVdLvLiE.jpg"
+      },
+      {
+        actor: "Sonja Bennett",
+        role: "Mother on Sidewalk (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iiMEEWt10g9w9pWOEFG8M0GxDSn.jpg"
+      },
+      {
+        actor: "Tom Franco",
+        role: "Mounted Officer (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xLNF1KrRaPRWu9P2W1p7SGwNqyY.jpg"
+      },
+      {
+        actor: "Scott Lang",
+        role: "Ape (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bVX4jUx56JuqJ5ty60ysbKRSvS8.jpg"
+      },
+      {
+        actor: "Kis Yurij",
+        role: "Worker (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sYzIkFxoWW0walcqk7urZILq05M.jpg"
+      },
+      {
+        actor: "Luc Roderique",
+        role: "SWAT (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jeAxcgvhKGTsiGyNnNTfG2qpK1S.jpg"
+      },
+      {
+        actor: "Lauren Watson",
+        role: "Scared Girl in Stairway (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9bp1guoiIoPxbGXFrGffJyWhrqo.jpg"
+      },
+      {
+        actor: "Timothy Webber",
+        role: "Janitor / Stan Timko (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/Av0mtgZ9DeopXP9NQjzd8q9ZPd6.jpg"
+      },
+      {
+        actor: "Peter Bundic",
+        role: "Newspaper Boy #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nrRLLKcqsOi2BGGJREwPIODYm8M.jpg"
+      },
+      {
+        actor: "Rufus Dorsey",
+        role: "CHP #3 (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z9a51XU1uMVnAxa9bxQvnS0rP7B.jpg"
+      },
+      {
+        actor: "Loyd Bateman",
+        role: "Ape (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qmklimAcbzdcVEHV45w3zxcXhjH.jpg"
+      },
+      {
+        actor: "Frédéric North",
+        role: "Camera Ship Pilot (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6Y9Us44RyRwFi2wqEqYckX6VBjz.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Sci-fi", "Action"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "animal experimentation depicted in laboratory settings",
+        "escalating action violence between apes and humans",
+        "Alzheimer\'s disease portrayed through progressive cognitive decline",
+        "non-graphic injuries and moderate blood during action sequences",
+        "scenes of captivity and institutional abuse of animals"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:45" }
+    ],
+    awards: [
+      { body: "Saturn Awards (38th)", category: "Best Science Fiction Film", result: "Won", year: 2012 },
+      { body: "Saturn Awards (38th)", category: "Best Special Effects", result: "Won", year: 2012 },
+      { body: "Academy Awards (84th)", category: "Best Visual Effects", result: "Nominated", year: 2012 },
+      { body: "Saturn Awards (38th)", category: "Best Director", result: "Nominated", year: 2012 },
+      { body: "Saturn Awards (38th)", category: "Best Writing", result: "Nominated", year: 2012 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["liberation", "captivity", "complicity", "paternity", "experimentation", "autonomy", "evolution"],
+      mood: ["elegiac", "compassionate", "tense"],
+      fullReview: "Rise of the Planet of the Apes opens as a quietly devastating domestic drama wearing science fiction as a disguise, and it is far better for that choice. Will Rodman is a pharmaceutical researcher whose professional ambition and filial devotion have become so thoroughly fused that he cannot clearly see where one ends and the other begins. His father Charles is being consumed by Alzheimer\'s disease, and the experimental drug Will has developed — engineered to regenerate neural pathways — is simultaneously a career-defining project and an act of desperate love. When a lab chimpanzee who has received the drug gives birth to an infant with inherited cognitive enhancement, Will smuggles the baby home rather than allow it to be destroyed. He names the chimp Caesar. For a while, they are something very close to a family.\n\nThis first act is where the film earns everything that follows. Director Rupert Wyatt, working from a genuinely well-structured screenplay by Rick Jaffa and Amanda Silver, understands that the audience will only invest in the eventual spectacle if they first invest in the creature at its center. The domestic scenes — Caesar learning, growing, exploring the boundaries of the world he has been placed in — are given room to breathe. John Lithgow\'s portrayal of Charles Rodman is the kind of supporting performance that quietly holds an entire film upright. His scenes with Caesar, wordless and tender, communicate something about what it means to recognize another conscious being that no amount of plot mechanics could manufacture.\n\nAndy Serkis delivers what is, in practical terms, a complete lead performance rendered through motion capture, and it earns every bit of attention it received. Caesar\'s emotional arc — from luminous infant curiosity through adolescent pride and finally into something harder and more sovereign — is calibrated with a precision that never tips into sentimentality. Serkis and the team at Weta Digital build a face capable of genuine interiority, and the film is wise enough to let the camera simply stay on it. When Caesar finally speaks, the moment lands because the silence before it was so perfectly inhabited.\n\nThe screenplay\'s most persistent weakness sits on the human side of the equation. James Franco, a naturally diffuse presence on screen, never fully locates who Will Rodman is beneath the plot functions he must perform. The character makes consequential decisions — ethically compromised ones, at that — but the film does not press hard enough on his complicity in what unfolds. Will is sympathetic primarily by proximity: he stands next to the most interesting character in the film, and the light is not on him. Freida Pinto, cast as his love interest, is given even less material — a role so underwritten that it barely registers as a character at all.\n\nTom Felton plays a primate facility guard whose casual sadism is so confidently rendered it verges on archetype, and Brian Cox as the facility\'s owner brings something more unsettling — the bureaucratic indifference of a man who has reclassified cruelty as operational procedure. Neither is a nuanced villain, but the film does not particularly need nuance from them. What they represent is clear enough, and what Caesar does in response to what they represent carries more weight than any amount of moral complexity on their part would.\n\nThe final act is crowd-pleasing in ways that are simultaneously the film\'s great strength and its most visible seam. The Golden Gate Bridge sequence is kinetic, well-staged, and emotionally coherent — it pays off stakes that were genuinely established rather than simply asserted. It is also the point at which the film becomes a different kind of movie: louder, more propulsive, more interested in impact than implication. The moral questions that gave the earlier sections their texture do not disappear exactly, but they are subordinated to momentum. A film that began with quiet, uncomfortable questions about what humans owe other conscious beings ends closer to a liberation action sequence than a reckoning.\n\nNone of that constitutes a fatal flaw. As blockbuster origin stories go, Rise of the Planet of the Apes is unusually honest about its own emotional logic. Caesar\'s transformation from beloved companion to revolutionary figure follows a path that feels earned rather than convenient. The film respects its audience enough to let grief precede spectacle, and that sequence makes all the difference. Anyone expecting a thoughtless franchise-launcher will be surprised. Anyone hoping the film will fully commit to its thorniest ideas rather than simply gesturing at them will find a handful of reservations waiting. Both groups of viewers will find something worth sitting through."
+    }
+  },
+  {
+    id: "dawn-of-the-planet-of-the-apes-2014",
+    title: "Dawn of the Planet of the Apes",
+    originalTitle: null,
+    romanization: null,
+    year: 2014,
+    tagline: "The future is worth fighting for.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/rE0f4rYCkAOEjzfUvAgqtd2sE88.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/3SozaNPOYUadcmTPgndDibMyDNC.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=3sHMCRaS3ao",
+    director: [
+      {
+        name: "Matt Reeves",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Mark Bomback",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sasLL2smKWuZUjYq7d9O2QQrN0G.jpg"
+      },
+      {
+        name: "Rick Jaffa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hjxAQXUppDd2StwzJ4ACYGrP5Vg.jpg"
+      },
+      {
+        name: "Amanda Silver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j26E4ifZClUceVocOmDG9sWm7uP.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Andy Serkis",
+        role: "Caesar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+      },
+      {
+        actor: "Jason Clarke",
+        role: "Malcolm",
+        photoUrl: "https://image.tmdb.org/t/p/w185/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
+      },
+      {
+        actor: "Toby Kebbell",
+        role: "Koba",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+      },
+      {
+        actor: "Gary Oldman",
+        role: "Dreyfus",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+      },
+      {
+        actor: "Keri Russell",
+        role: "Ellie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ykURfUHObA2wnLCtD4jrdMvFPkA.jpg"
+      },
+      {
+        actor: "Kodi Smit-McPhee",
+        role: "Alexander",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sesCWba9NwPDYDZzbVLs7OgLOti.jpg"
+      },
+      {
+        actor: "Nick Thurston",
+        role: "Blue Eyes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x79TukKjK5z9QRqcMTitFdrCtNO.jpg"
+      },
+      {
+        actor: "Karin Konoval",
+        role: "Maurice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5e8YyNQjWre2UbExYBlJ7zva934.jpg"
+      },
+      {
+        actor: "Terry Notary",
+        role: "Rocket",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gcn5cL4TGmtiYcjFCl29GsclDVl.jpg"
+      },
+      {
+        actor: "Doc Shaw",
+        role: "Ash",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4zuVZb579ohklKYMNupUYwAExpG.jpg"
+      },
+      {
+        actor: "Judy Greer",
+        role: "Cornelia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pTLjIjh83R424RGxIfq4U0yx947.jpg"
+      },
+      {
+        actor: "Lee Ross",
+        role: "Grey",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sQNOXntZ677YC9686kUl1NWGP18.jpg"
+      },
+      {
+        actor: "Richard King",
+        role: "Stone",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hmeMOHouOWJQWXz85Jau6GetDiC.jpg"
+      },
+      {
+        actor: "Scott Lang",
+        role: "Luca",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bVX4jUx56JuqJ5ty60ysbKRSvS8.jpg"
+      },
+      {
+        actor: "Kirk Acevedo",
+        role: "Carver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jFUHECwo7L3KOZ0HxCQytl90qed.jpg"
+      },
+      {
+        actor: "Jon Eyez",
+        role: "Foster",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7leDymYmNbojybUZWFBhB6Y8zJF.jpg"
+      },
+      {
+        actor: "Enrique Murciano",
+        role: "Kemp",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r1KGKFRzPyAGqqPI8adzlZfNO20.jpg"
+      },
+      {
+        actor: "Keir O\'Donnell",
+        role: "Finney",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1GYWx3q4QNXIIBdwirZPiSHFFfJ.jpg"
+      },
+      {
+        actor: "Kevin Rankin",
+        role: "McVeigh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fOW5R6BSgRvMrt2R7KAxSk7L4H2.jpg"
+      },
+      {
+        actor: "Jocko Sims",
+        role: "Werner",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qcJASKAB9jt2s7seb3AwFP7DbeX.jpg"
+      },
+      {
+        actor: "Al Vicente",
+        role: "Man 1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xRD09IlpCMyPWX3vij303rZTQE9.jpg"
+      },
+      {
+        actor: "Matthew James",
+        role: "Man 2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6hfZGFpFokc2jh0VLg93iyiKfxo.jpg"
+      },
+      {
+        actor: "Deneen Tyler",
+        role: "Woman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bNe71eFG8nfyH4ip1tvHd3cd5L3.jpg"
+      },
+      {
+        actor: "Mustafa Harris",
+        role: "Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b19SS3DV5OvulZzCKnkEezo0WSp.jpg"
+      },
+      {
+        actor: "Lombardo Boyar",
+        role: "Terry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wwWs0u2QDz1XOakR05C0BYJCfM1.jpg"
+      },
+      {
+        actor: "Mike Seal",
+        role: "Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qUja8e2k4XMWWV3k4ocMCZb4HBl.jpg"
+      },
+      {
+        actor: "J.D. Evermore",
+        role: "Sniper",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bTLrDTIj9DNnYP8afZXPTo31CJA.jpg"
+      },
+      {
+        actor: "Michael Papajohn",
+        role: "Cannon-Gunner",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hdTJBfIXfvRdlD1p8y6rra207UP.jpg"
+      },
+      {
+        actor: "Thomas Rosales Jr.",
+        role: "Old Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tlJzLctGc6UmB7JQrkFcdMEuRx3.jpg"
+      },
+      {
+        actor: "Carol Sutton",
+        role: "Old Woman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5kQkv64ubSeFbs2i831mvnh3o2Q.jpg"
+      },
+      {
+        actor: "Christopher Berry",
+        role: "Gun-Clinching Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8y2HybPVLxUabwnMPjdBREbitKZ.jpg"
+      },
+      {
+        actor: "Michael Bloomberg",
+        role: "Self (archival footage)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uJq3orJqLcZvxT0mjWAPSm2v9Ne.jpg"
+      },
+      {
+        actor: "John L. Armijo",
+        role: "Dreyfus\' Officer (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rvqTRaW2SjCECZ0FNfJnSDEOiL8.jpg"
+      },
+      {
+        actor: "Steve D\'Assis",
+        role: "Survivor (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5X5H4pMYuwCEnY1zcm5xITXou5b.jpg"
+      },
+      {
+        actor: "Lucky Johnson",
+        role: "Rationer (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bGrvIMpWYJCqRckHyNPLeTO9ymf.jpg"
+      },
+      {
+        actor: "Allyson Leigh Jordan",
+        role: "Human Colonist (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nAxwSlUfsXPdc0kUAmtqKBjWMGQ.jpg"
+      },
+      {
+        actor: "Angela Kerecz",
+        role: "Captured Human (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9LSuUt7EePTEHlUD3VwERFEQkY2.jpg"
+      },
+      {
+        actor: "Anthony A. Kung",
+        role: "Colony Member (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ga7vsg5KrLxPUS8ALZcX9eP5p7d.jpg"
+      },
+      {
+        actor: "Mel Powell",
+        role: "Driver (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qu7T2uxliIK6TbCp1JAVY5rWPLl.jpg"
+      },
+      {
+        actor: "Carl Joseph Schreiber",
+        role: "Human Colonist (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vP7Do3bBgAZpnV5tJQkG0wwCCCM.jpg"
+      },
+      {
+        actor: "Lynnanne Zager",
+        role: "Newscaster (voice, uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gLQFDGo0l4d84BA5gdLWA13WD7k.jpg"
+      },
+      {
+        actor: "Barack Obama",
+        role: "Self (archive footage, uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/reEkbvLlNknpCo2I37Vim6XpqGu.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Sci-fi", "Action"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "prolonged warfare between apes and humans with significant casualties",
+        "gunshot wounds and moderate blood and injury detail",
+        "psychological manipulation and deliberate political incitement to war",
+        "scenes of characters in direct mortal peril including children",
+        "post-apocalyptic depictions of societal collapse and mass death"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:10" }
+    ],
+    awards: [
+      { body: "Saturn Awards (41st)", category: "Best Science Fiction Film", result: "Nominated", year: 2015 },
+      { body: "Saturn Awards (41st)", category: "Best Special Effects", result: "Nominated", year: 2015 },
+      { body: "Saturn Awards (41st)", category: "Best Director", result: "Nominated", year: 2015 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["betrayal", "distrust", "extremism", "coexistence", "duality", "survival", "leadership", "xenophobia"],
+      mood: ["ominous", "tragic", "propulsive"],
+      fullReview: "Dawn of the Planet of the Apes opens in silence and loss. A wordless montage recaps the decade between films — a virus spreading across a world map, cities going dark, the slow arithmetic of extinction — and then settles into a rainforest where apes move together on horseback through the fog. Ten years after the events of Rise, Caesar and his community have built something genuinely remarkable from scratch in the Marin hills: language, law, family, history. Then the humans arrive, and the film begins in earnest.\n\nWhat follows is a story about how completely peace can be undone by the people with the most reason to protect it. Malcolm, a quiet survivor played with careful, interior authority by Jason Clarke, understands what war will cost. He wants access to a dam the apes control, and he knows that wanting it through violence would destroy everything. Caesar — Andy Serkis again, this time the full weight of a decade behind those eyes — also wants peace. He has a newborn son, a civilization to protect, and an intimate understanding of human nature that makes the current arrangement feel fragile to him in ways it does not to his own lieutenants.\n\nMatt Reeves, stepping in for Rupert Wyatt, makes a choice that defines the film: both sides have a Koba. The scarred chimpanzee who returns from the margins of Rise is the film\'s most compelling creation — a being whose history of suffering is real, whose hatred is earned, and whose methods are catastrophic. Toby Kebbell, working entirely through motion capture, does not play Koba as a monster that needs to be defeated. He plays him as a wound that learned how to move. On the human side, Gary Oldman\'s Dreyfus is not a warmonger by nature — he is a man terrified of watching the last of his species disappear, and that terror makes him useful to those who would exploit it. The film understands that the most dangerous ideology is not hatred but the weaponization of legitimate grievance, and it never forgets this understanding, even during its most action-oriented passages.\n\nThe ape sequences are where the film truly lives. Caesar\'s relationship with his son Blue Eyes, his quiet grief over what Koba represents, his friendship with the philosophically gentle Maurice (Karin Konoval, remarkable under layers of prosthetic work) — these are not interludes between human drama. They are the drama. The screenplay by Mark Bomback, Jaffa, and Silver gives the ape community the full weight of a functioning civilization with internal tensions, generational conflict, and competing visions of what survival should look like.\n\nMichael Giacchino\'s score is worth a specific note because it refuses to announce itself. It operates as atmospheric pressure rather than emotional instruction — a low, persistent drone that tightens incrementally as the truce erodes, building without the audience quite noticing until the release arrives and the grief lands harder than expected. Michael Seresin\'s cinematography is frequently stunning: rain-soaked ruins, fog-layered forests, apes silhouetted against fire in compositions that carry genuine visual power without straining for it.\n\nThe human characters, by comparison, are the film\'s softest point. Keri Russell is underused, her role more structural than human. Kodi Smit-McPhee has one meaningful scene and is otherwise a presence more than a person. This is not fatal, but it is honest: the film is clearly more interested in its apes, and that instinct is both its greatest strength and the source of its single meaningful imbalance. When the third act arrives and the human side must carry some of the narrative weight, the screenplay\'s investment shows.\n\nNone of that meaningfully diminishes what Dawn achieves. It ends not with a winner but with inevitability — both species backed into positions that neither chose and neither can now escape. That is an unusually honest ending for a film of this scale, and it works because everything that preceded it was built with genuine care. The rare sequel that expands rather than repeats. The rare blockbuster that earns its darkness."
+    }
+  },
 ]; // ← paste movie objects here, one by one
