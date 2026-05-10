@@ -703,6 +703,59 @@
       color: var(--text-secondary);
     }
 
+    /* ─── Random Pick Button ─────────────────────────────────── */
+    .random-pick-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: rgba(212, 175, 55, 0.08);
+      border: 1px solid rgba(212, 175, 55, 0.25);
+      border-radius: 20px;
+      color: var(--accent);
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 6px 14px;
+      cursor: pointer;
+      transition: var(--transition);
+      white-space: nowrap;
+      user-select: none;
+      margin-left: auto;
+    }
+
+    .random-pick-btn:hover {
+      background: rgba(212, 175, 55, 0.15);
+      border-color: var(--accent);
+      box-shadow: 0 0 16px rgba(212, 175, 55, 0.25);
+      transform: translateY(-1px);
+    }
+
+    .random-pick-btn:active {
+      transform: scale(0.96);
+    }
+
+    .random-pick-btn__icon {
+      display: inline-block;
+      font-size: 1rem;
+      line-height: 1;
+      transition: transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+
+    .random-pick-btn.is-spinning .random-pick-btn__icon {
+      transform: rotate(720deg);
+    }
+
+    [data-theme="light"] .random-pick-btn {
+      background: rgba(168, 134, 42, 0.08);
+      border-color: rgba(168, 134, 42, 0.3);
+      color: var(--accent-dim);
+    }
+
+    [data-theme="light"] .random-pick-btn:hover {
+      background: rgba(168, 134, 42, 0.15);
+      border-color: var(--accent-dim);
+      box-shadow: 0 0 16px rgba(168, 134, 42, 0.2);
+    }
+
     .filter-group--full {
       grid-column: 1 / -1;
     }
@@ -1799,16 +1852,13 @@
     }
 
     .person-search-prompt {
-      position: absolute;
-      bottom: calc(100% + 10px);
-      left: 50%;
-      transform: translateX(-50%);
+      position: fixed;
+      z-index: 10000;
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 8px;
       padding: 0.8rem;
       box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8);
-      z-index: 100;
       width: max-content;
       min-width: 160px;
       text-align: center;
@@ -1820,11 +1870,17 @@
       content: '';
       position: absolute;
       top: 100%;
-      left: 50%;
+      left: var(--arrow-left, 50%);
       margin-left: -6px;
       border-width: 6px;
       border-style: solid;
       border-color: var(--border) transparent transparent transparent;
+    }
+
+    .person-search-prompt.is-below::after {
+      top: auto;
+      bottom: 100%;
+      border-color: transparent transparent var(--border) transparent;
     }
 
     [data-theme="light"] .person-search-prompt {
@@ -1840,12 +1896,12 @@
     @keyframes promptFade {
       from {
         opacity: 0;
-        transform: translate(-50%, 10px);
+        transform: translateY(6px);
       }
 
       to {
         opacity: 1;
-        transform: translate(-50%, 0);
+        transform: translateY(0);
       }
     }
 
@@ -3173,12 +3229,22 @@
       // ── Sort ──
       films.sort((a, b) => {
         switch (state.sort) {
+          case 'added-asc': return MOVIES.indexOf(a) - MOVIES.indexOf(b);
+          case 'added-desc': return MOVIES.indexOf(b) - MOVIES.indexOf(a);
           case 'alpha-asc': return stripArticle(a.title).localeCompare(stripArticle(b.title));
           case 'alpha-desc': return stripArticle(b.title).localeCompare(stripArticle(a.title));
-          case 'year-asc': return (a.year || 0) - (b.year || 0);
-          case 'year-desc': return (b.year || 0) - (a.year || 0);
-          case 'rating-asc': return (RATING_WEIGHTS[a.criticRating] || 0) - (RATING_WEIGHTS[b.criticRating] || 0);
-          case 'rating-desc': return (RATING_WEIGHTS[b.criticRating] || 0) - (RATING_WEIGHTS[a.criticRating] || 0);
+          case 'year-asc': 
+            return ((a.year || 0) - (b.year || 0)) || stripArticle(a.title).localeCompare(stripArticle(b.title));
+          case 'year-desc': 
+            return ((b.year || 0) - (a.year || 0)) || stripArticle(a.title).localeCompare(stripArticle(b.title));
+          case 'rating-asc': 
+            return ((RATING_WEIGHTS[a.criticRating] || 0) - (RATING_WEIGHTS[b.criticRating] || 0))
+                || ((a.year || 0) - (b.year || 0))
+                || stripArticle(a.title).localeCompare(stripArticle(b.title));
+          case 'rating-desc': 
+            return ((RATING_WEIGHTS[b.criticRating] || 0) - (RATING_WEIGHTS[a.criticRating] || 0))
+                || ((a.year || 0) - (b.year || 0))
+                || stripArticle(a.title).localeCompare(stripArticle(b.title));
           default: return 0;
         }
       });
@@ -3343,6 +3409,8 @@
       const CRITIC_RATINGS = ['Masterpiece', 'Exceptional', 'Great', 'Solid', 'Decent', 'Mediocre', 'Flawed', 'Poor', 'Awful', 'Abysmal'];
 
       const sortOptions = [
+        { id: 'added-desc', label: 'Added ↓' },
+        { id: 'added-asc', label: 'Added ↑' },
         { id: 'alpha-asc', label: 'A–Z' },
         { id: 'alpha-desc', label: 'Z–A' },
         { id: 'year-asc', label: 'Year ↑' },
@@ -3524,6 +3592,11 @@
         html += buildDropdown('language', 'Language', lgHtml, true);
       }
 
+      // Random pick button
+      html += `<button class="random-pick-btn" id="random-pick-btn" aria-label="Pick a random film" title="Pick a random film">
+        <span class="random-pick-btn__icon">🎲</span> Surprise Me
+      </button>`;
+
       // Clear button
       html += `<button class="clear-btn" id="clear-filters-btn" aria-label="Clear all filters">✕ Clear</button>`;
 
@@ -3591,6 +3664,19 @@
       document.addEventListener('click', () => {
         closeAllDropdowns();
       });
+
+      // Random Pick
+      const randomBtn = controls.querySelector('#random-pick-btn');
+      if (randomBtn) {
+        randomBtn.addEventListener('click', () => {
+          const pool = getFilteredMovies();
+          if (pool.length === 0) return;
+          randomBtn.classList.add('is-spinning');
+          setTimeout(() => randomBtn.classList.remove('is-spinning'), 600);
+          const pick = pool[Math.floor(Math.random() * pool.length)];
+          openModal(pick.id);
+        });
+      }
 
       // Clear Filters
       const clearBtn = controls.querySelector('#clear-filters-btn');
@@ -3731,6 +3817,7 @@
       updateBadge('genre', f.genres.size);
       updateBadge('theme', f.themes.size);
       updateBadge('mood', f.moods.size);
+      updateBadge('language', f.languages.size);
 
       const yearCount = (f.singleYear !== null || f.yearMin !== null || f.yearMax !== null) ? 1 : 0;
       updateBadge('year', yearCount);
@@ -3958,7 +4045,38 @@
         <button class="person-search-prompt__btn" onclick="executePersonSearch(event, '${escHtml(name.replace(/'/g, "\\'"))}')">Search</button>
       `;
 
-      el.appendChild(prompt);
+      // Append to body so it's never clipped by overflow containers
+      document.body.appendChild(prompt);
+
+      // Use rAF so the browser has laid out the prompt before we measure it
+      requestAnimationFrame(() => {
+        const rect = el.getBoundingClientRect();
+        const cardCenterX = rect.left + rect.width / 2;
+        const promptW = prompt.offsetWidth;
+        const promptH = prompt.offsetHeight;
+        const gap = 10;
+        const pad = 8;
+
+        // Horizontal: center on card, clamp to viewport
+        let left = cardCenterX - promptW / 2;
+        if (left < pad) left = pad;
+        if (left + promptW > window.innerWidth - pad) left = window.innerWidth - pad - promptW;
+
+        // Arrow tracks card center relative to prompt left edge
+        const arrowLeft = Math.max(12, Math.min(cardCenterX - left, promptW - 12));
+        prompt.style.setProperty('--arrow-left', arrowLeft + 'px');
+
+        // Vertical: prefer above, fall back below if no room
+        let top = rect.top - promptH - gap;
+        if (top < pad) {
+          // Show below the card instead
+          top = rect.bottom + gap;
+          prompt.classList.add('is-below');
+        }
+
+        prompt.style.left = left + 'px';
+        prompt.style.top = top + 'px';
+      });
 
       setTimeout(() => {
         window.addEventListener('click', function closePrompt(evt) {
