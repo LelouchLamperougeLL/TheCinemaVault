@@ -48985,4 +48985,373 @@ const MOVIES = [
     fullReview: "Four-year-old Kun has been the uncontested center of his family\'s universe for his entire short life — and then Mirai arrives. The baby sister is squalling, helpless, and immediately redistributes every scrap of parental attention in the household. The family home, a marvel of interlocking terraces and split-level architecture nestled in a quiet Japanese neighborhood, becomes something stranger when Kun retreats to its small garden: a threshold between the present and the rest of his family\'s history, through which he encounters ancestors, a future version of his sibling, and people he loves at ages he has never known them.\n\nMamoru Hosoda made this film during the years he was becoming a father, and that autobiographical weight is everywhere. Mirai is a film about learning to share, about the bewildering shock of no longer being singular, about how families are chains of ordinary people who had to untangle the same knots as everyone before them. There is real tenderness in that idea. The house itself — rendered with a specificity of texture and light that Studio Chizu has quietly made its signature — grounds what could have been a shapeless magical-realist exercise in something that feels genuinely inhabited.\n\nAnd yet the film\'s central problem is built into its own premise. Kun is, by functional necessity, a tantrum machine — a four-year-old who screams, throws things, sulks, and refuses comfort in exactly the way four-year-olds actually do. Hosoda commits fully to this authenticity, and in principle that commitment is admirable. In practice, spending ninety-eight minutes inside the psyche of a character who cannot yet articulate anything beyond immediate want is an endurance test that the surrounding magic does not consistently offset. Each visit through the garden portal is structurally self-contained — a vignette in which Kun learns something modest — and the cumulative effect is more episodic than developmental. The moments do not build toward each other so much as accrue alongside each other, which gives the film an unusual flatness of emotional momentum for a work so clearly invested in feeling.\n\nWhat saves those individual moments is the craft. Hosoda\'s animators handle the domestic spaces with tactile warmth: the weight of small bodies tumbling over furniture, the specific quality of late-afternoon light in a house where young children live, the way clothing moves. Masakatsu Takagi\'s score breathes around the edges of scenes rather than swelling through them, which suits the film\'s quieter registers. The sequence involving Kun\'s great-grandfather and a motorcycle — an extended, kinetic departure from the film\'s otherwise small-scale intimacy — demonstrates what Hosoda can achieve when the material allows him actual momentum, and it arrives like a gulp of fresh air.\n\nThe climax, set in an enormous abstract train station functioning as a kind of cosmic interchange for all human lives, is the film\'s most discussed sequence and also its most tonally disconnected. It is visually arresting and conceptually ambitious. Whether it lands as emotionally earned depends entirely on how much purchase a viewer has found in everything leading up to it. Those who have been at a slight remove from Kun\'s frustrations — and there will be many — may find the sequence beautiful in the way a stranger\'s home movie can be beautiful: genuinely made with love, but not quite addressed to them.\n\nWhat the film does unambiguously well is make ordinary domestic life feel weighted with time. The notion that a child\'s earliest years are not only experience but inheritance — that a family is a living relay across generations, each link having to figure things out in its own stumbling way — is handled with genuine thoughtfulness and without sentimentality. Hosoda does not glamorize parenthood or childhood. He holds both up to the light and lets them refract.\n\nThis is not Hosoda at his most architecturally confident. Wolf Children managed what Mirai attempts — deploying magical elements to anchor emotional truths about parenthood and generational identity — with considerably more structural control and cumulative force. Mirai feels like the same director operating on instinct and personal feeling rather than on construction, and the difference is audible in the film\'s uneven rhythms. It is a film of passages rather than a journey. Whether that reads as a flaw or as an honest formal choice will depend on what each viewer brings to the garden gate."
   }
 },
+{
+  id: "weathering-with-you-2019",
+  title: "Weathering with You",
+  originalTitle: "天気の子",
+  romanization: "Tenki no Ko",
+  year: 2019,
+  tagline: "A story about the secret of this world that only I and she know.",
+  titleLogoUrl: "https://image.tmdb.org/t/p/original/fefN0b0cWtyFbHNF7bsSxL9yEn9.png",
+  posterUrl: "https://image.tmdb.org/t/p/original/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+  backdropUrl: "https://image.tmdb.org/t/p/original/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
+  trailerUrl: "https://www.youtube.com/watch?v=Q6iK6DjV_iE",
+  director: [
+    {
+      name: "Makoto Shinkai",
+      photoUrl: "https://image.tmdb.org/t/p/w185/mSCk6PmAR99bCsKJYlMx94vq5qe.jpg"
+    }
+  ],
+  screenplay: [
+    {
+      name: "Makoto Shinkai",
+      photoUrl: "https://image.tmdb.org/t/p/w185/mSCk6PmAR99bCsKJYlMx94vq5qe.jpg"
+    }
+  ],
+  cast: [
+    {
+      actor: "Kotaro Daigo",
+      role: "Hodaka Morishima (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/i2pNaX2x4naW6Eyf4SGPypqh7To.jpg"
+    },
+    {
+      actor: "Nana Mori",
+      role: "Hina Amano (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/92cSvqzUVbancmqFmtfgdIVBh6s.jpg"
+    },
+    {
+      actor: "Tsubasa Honda",
+      role: "Natsumi Suga (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/1xdR7FXHc3zeRrMyy5qHlDQr9Ou.jpg"
+    },
+    {
+      actor: "Sakura Kiryu",
+      role: "Nagisa Amano (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/jS96RwYZLaPPhlvxKzJmb8ItURN.jpg"
+    },
+    {
+      actor: "Sei Hiraizumi",
+      role: "Yasui (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/4zrn7ltgOCvjyk9CWrhmsS7yrlc.jpg"
+    },
+    {
+      actor: "Chieko Baisho",
+      role: "Fumi Tachibana (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/b8ANR4WfdUZtoU4ktlnMFzbq759.jpg"
+    },
+    {
+      actor: "Shun Oguri",
+      role: "Keisuke Suga (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg"
+    },
+    {
+      actor: "Yuki Kaji",
+      role: "Takai (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+    },
+    {
+      actor: "Sumi Shimamoto",
+      role: "Mamiya (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/iKIDv2VFpAgzJ0uMQi7pzcMHB9i.jpg"
+    },
+    {
+      actor: "Moe Katsuki",
+      role: "Moka Suga (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/sKuckeQVhy3xYVnhlm3EwiVwEj6.jpg"
+    },
+    {
+      actor: "Ryohei Kimura",
+      role: "Kimura (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/m4GktFKhjrVTewsZtqTusInHZqT.jpg"
+    },
+    {
+      actor: "Kana Hanazawa",
+      role: "Kana (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+    },
+    {
+      actor: "Ayane Sakura",
+      role: "Ayane (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+    },
+    {
+      actor: "Kana Ichinose",
+      role: "Sasaki (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/hBJx5tpLA2vkXqfkPZosGjW4e8C.jpg"
+    },
+    {
+      actor: "Masako Nozawa",
+      role: "Fortuneteller (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+    },
+    {
+      actor: "Hidekatsu Shibata",
+      role: "Priest (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg"
+    },
+    {
+      actor: "Ryunosuke Kamiki",
+      role: "Taki Tachibana (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+    },
+    {
+      actor: "Mone Kamishiraishi",
+      role: "Mitsuha Miyamizu (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/cPydoy2sSqFDsbXeBPmzQGPmq0R.jpg"
+    },
+    {
+      actor: "Ryo Narita",
+      role: "Katsuhiko Teshigawara (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/f42OXn4J7cM62wtykL196YW7x85.jpg"
+    },
+    {
+      actor: "Aoi Yuuki",
+      role: "Sayaka Natori (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+    },
+    {
+      actor: "Kanon Tani",
+      role: "Yotsuha Miyamizu (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/udR4Cax2EecH3ZkATE4h6ejiGD9.jpg"
+    },
+    {
+      actor: "Hikaru Ikuta",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/6n7Cj8hI0jXRYIdU5AOTBFTAez1.jpg"
+    },
+    {
+      actor: "Shuichiro Umeda",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/dCr870q8ojD6qpD1hmS1sdvh2pe.jpg"
+    },
+    {
+      actor: "Kosuke Echigoya",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/ehEQGlr5ORQ5DPWWNvqqnMYvppZ.jpg"
+    },
+    {
+      actor: "Yuki Ominami",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/AoH08rfioWXIPcgF70Xv9uCOtB.jpg"
+    },
+    {
+      actor: "Ai Kaneta",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/sStufM2reZ84EpAysNdhLsrr6BM.jpg"
+    },
+    {
+      actor: "Noriaki Kanze",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/oMtucEisqIrqRVrhIgdMfqusKY2.jpg"
+    },
+    {
+      actor: "Yasuhiro Kikuchi",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/izNQyTUzNaKOwOOvXkBSbvZyP0O.jpg"
+    },
+    {
+      actor: "Sayaka Kitahara",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/72qZvVj7HhxeakXCN8g6xwW0Rns.jpg"
+    },
+    {
+      actor: "Shinjirou Gouda",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/nB7P927JF3Jx9o6xfsniEyKX3HH.jpg"
+    },
+    {
+      actor: "Eito Kogusuri",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/nNxM5UF4Xu8G0udW5aV1UI15FZN.jpg"
+    },
+    {
+      actor: "Iori Saeki",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/sh4p5hiUgpwOPErjtcXGlEzrHK.jpg"
+    },
+    {
+      actor: "Asumi Sakamoto",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/7nhQM4hcZqWxI6FPZfOVXcapSJR.jpg"
+    },
+    {
+      actor: "Yusuke Sasaki",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/1PTlnypdfoquT6aYz0QWbxIoWPx.jpg"
+    },
+    {
+      actor: "Yuuki Shin",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/pyOAlLSA9ZabbVy5HD8j9QuUdV8.jpg"
+    },
+    {
+      actor: "Takahiro Sumi",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/iHjM0MjIjbWOGG4YK1TqlB9H9yI.jpg"
+    },
+    {
+      actor: "Arisa Sekine",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/z8GTafCwhgx6cgjpuUWHOWXZCkg.jpg"
+    },
+    {
+      actor: "Taichi Takeda",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/nyE5uckjUe7GKxsqzaqSYCPuTSI.jpg"
+    },
+    {
+      actor: "Shinya Takahashi",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/19DN4yrD9c3E7BWthVEqvwhQNdb.jpg"
+    },
+    {
+      actor: "Akihiro Tajima",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/1z3o2q5JjQBDsRgRYCcKlCJo4tQ.jpg"
+    },
+    {
+      actor: "Miho Tabata",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/lCyRi1n5ypNIBGCwZtjLDOytTiK.jpg"
+    },
+    {
+      actor: "Takaaki Torashima",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/5aeG0SZ46XukmNJDOSTp2MfKvIc.jpg"
+    },
+    {
+      actor: "Genta Nakamura",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg"
+    },
+    {
+      actor: "Takayuki Nakatsukasa",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/u7is3U9DHZchUVrlPM2D2AEflAr.jpg"
+    },
+    {
+      actor: "Kyosuke Nitta",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/8bIo4XaGak4CtSvWiBJa0rFPnC0.jpg"
+    },
+    {
+      actor: "Masato Niwa",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/hNKDvatX9IKY5RiSYEvPd81Yn2J.jpg"
+    },
+    {
+      actor: "Nodoka Hasegawa",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/gZn9jnapSyTZwhtR29LqXrzvXR9.jpg"
+    },
+    {
+      actor: "Manami Hanawa",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/25HItfz2Bj2WKG0SyJIX3MMRZM3.jpg"
+    },
+    {
+      actor: "Taito Ban",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg"
+    },
+    {
+      actor: "Saya Hirose",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/r9C8RyqBHX4GVoSrlX8JETO64dO.jpg"
+    },
+    {
+      actor: "Katsumi Fukuhara",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/ijpwBGoo3iPmb9v1Oh4Fz9CFzOx.jpg"
+    },
+    {
+      actor: "Asuka Maesako",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/8bRQEAUviyiIx7o4VKlyF49pv9I.jpg"
+    },
+    {
+      actor: "Hiroki Matsukawa",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/5ZcmaOEaIUZm4tpOHjQcs3HtEPM.jpg"
+    },
+    {
+      actor: "Tomoya Matsubara",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/8Z8qbHNjYmWq4u0gAkYoMKwnJ8K.jpg"
+    },
+    {
+      actor: "Raika Minami",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/tZC6IdbEHr1XWzJpdoGOo6FKTDs.jpg"
+    },
+    {
+      actor: "Shinnosuke Musashi",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/jKEs3oWMAt7IHtdAYg04P9Ryqof.jpg"
+    },
+    {
+      actor: "Kaori Motoyama",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/yngmc2iUXBs4xuSw302gd2saQNl.jpg"
+    },
+    {
+      actor: "Riri Yoshikawa",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/m62yGrNTRTcpFjj3nG5r4I9yG3E.jpg"
+    },
+    {
+      actor: "Joichiro Yoshida",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/uy3bQ2FCWBeQGTgvQfCa1mHC7U0.jpg"
+    },
+    {
+      actor: "Tomoki Lavernhe",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/jgHgfx6PIydgM7Hlk2dF7NfEFTs.jpg"
+    },
+    {
+      actor: "Kentaro Araki",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/aP9l59spkhWYXJztQWGNm45dRUM.jpg"
+    },
+    {
+      actor: "Shin\'ichi Hatori",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/hU5C3QKuzZH1kTeuPCgjYds6EXk.jpg"
+    },
+    {
+      actor: "Naoko Hara",
+      role: "(voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/6OkbqMENaAc1oXctajIpJyVcRu4.jpg"
+    }
+  ],
+  languages: ["Japanese"],
+  genres: ["Animation", "Romance", "Fantasy", "Drama"],
+  viewerRating: {
+    rating: "T-13",
+    descriptors: [
+      "unsupervised teenage runaway living on Tokyo streets",
+      "brief depiction of a minor handling and discharging a firearm",
+      "mild alcohol consumption by a minor",
+      "romantic scenes between teenagers without sexual content",
+      "supernatural peril involving heights and atmospheric phenomena",
+      "brief police pursuit and detention of a minor"
+    ]
+  },
+  runtime: [
+    { version: "Theatrical Cut", duration: "1:52" }
+  ],
+  awards: [
+    { body: "Japan Academy Film Prize (43rd)", category: "Animation of the Year", result: "Won", year: 2020 },
+    { body: "Mainichi Film Awards (75th)", category: "Best Animated Film", result: "Won", year: 2020 },
+    { body: "Blue Ribbon Awards (62nd)", category: "Best Film", result: "Won", year: 2020 },
+    { body: "Annie Awards (48th)", category: "Outstanding Achievement for Animated Feature", result: "Nominated", year: 2021 }
+  ],
+  criticRating: "Solid",
+  review: {
+    themes: ["sacrifice", "consequence", "escape", "belonging", "love", "displacement", "choice"],
+    mood: ["luminous", "yearning", "bittersweet"],
+    fullReview: "Hodaka Morishima is sixteen years old, broke, and sleeping on park benches in Tokyo when he meets Hina Amano, a girl who carries something extraordinary inside her. On her clearest days, she can open the sky. The city has been submerged in relentless, climatically wrong rain for weeks, and Hina can stop it — briefly, imperfectly, at a cost she keeps to herself. The two of them, young and unsupervised and finding each other in the crush of the metropolis, build a small business around her gift. What neither can quite see yet is what that gift is made of.\n\nThe film Makoto Shinkai made in the wake of Your Name carries the same DNA — teenage romance, supernatural intervention, Tokyo rendered with photorealist devotion — but it arrives at a fundamentally different emotional destination. Where its predecessor was about searching, this one is about choosing. The distinction matters enormously, because the choice at the center of Weathering with You is genuinely uncomfortable, and whether the film earns that discomfort or merely aestheticizes it is the question worth sitting with long after the credits dissolve.\n\nWhat is beyond argument is the sheer visual ambition of what Shinkai and CoMix Wave have put on screen. The rain in this film is not background — it is a living presence, silver and relentless, coursing through Tokyo\'s drainage systems and pooling on rooftops and fracturing the neon of Shinjuku into something hallucinatory. The sunshine sequences, by contrast, arrive with the force of something long withheld. Hina parts the clouds and suddenly the city breathes. The contrast is not subtle, but it is earned through sustained craft — individual frames composed with such lavish attention to light and precipitation that the film could be paused at nearly any moment and found worth studying. It is among the most beautiful animated films of its decade, full stop.\n\nThe romance at the center unfolds with the particular sincerity that has become Shinkai\'s most reliable quality — earnest, occasionally clumsy, arriving at its emotional peaks through accumulation rather than manufactured event. The two central voice performances are warm without curdling into sweetness, and the relationship between Hodaka and Hina feels genuinely developed rather than plotted to produce a payoff. Yojiro Noda\'s score does significant emotional labor throughout — arguably more than it should, cuing responses the images might have earned on their own with greater restraint — but the integration of music and visual is handled with more discipline than in Your Name, and several sequences land with real force.\n\nWhere the film strains is in its secondary architecture. Keisuke Suga, Hodaka\'s reluctant employer and makeshift guardian, is given enough texture to suggest a fully inhabited character but not enough screen time to become one. His niece Natsumi drifts in and out of the narrative without ever fully anchoring in it. The mythology around Hina\'s ability — the cosmological stakes, the history of weather maidens — is laid in with sufficient specificity to generate genuine unease, but the worldbuilding stops short of feeling fully thought through. These are not fatal problems, but they create patches of slack in a film that, at its best, has no slack at all.\n\nThe ending is the film\'s most discussed element and its most deliberately polarizing. Shinkai makes a narrative choice that conventional disaster-movie logic would forbid, and he commits to it without apology. The emotional logic is airtight. The ethical logic is left as a void — a space where consequences should be reckoned with and are instead given over to sensation. Some viewers will experience this as genuine courage: a film that elects love over responsibility and makes that feel not just understandable but right. Others will read it as evasion dressed in beautiful clothes. Both responses are defensible, which may be the film\'s most interesting quality — it produces an unresolved feeling that resurfaces, unprompted, when the next day\'s rain arrives.\n\nThis is not Shinkai working at peak structural control. Your Name managed the mechanics of its central premise with sharper precision, and its emotional payoff felt more rigorously constructed. But Weathering with You has something its predecessor does not quite have: a willingness to be wrong about what it wants. It pursues its conclusion recklessly and does not clean up after itself. That quality — selfish, young, entirely consistent with the characters at its center — gives the film a texture that lingers past what its plot deserves.\n\nViewers who respond to Shinkai\'s particular frequency — teenage longing rendered in impossible color, a Japan that exists slightly to the left of the real one — will find this essential. Those arriving from Your Name expecting equivalent structural satisfaction may leave with something stranger: a film that traded coherence for conviction and found the trade worthwhile."
+  }
+},
 ]; // ← paste movie objects here, one by one
