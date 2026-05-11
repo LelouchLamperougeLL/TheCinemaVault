@@ -48882,4 +48882,107 @@ const MOVIES = [
     fullReview: "The title stops people cold, and that is entirely intentional. Drawn from an old folk belief that consuming a sick organ helps heal it, the phrase that names this film is a confession — a strange, oblique declaration of closeness between two people who have agreed to spend what little time remains together before one of them disappears. The film opens with a young man, now an adult, learning that a former classmate has died. What follows is a memory: a high school year in which he, a self-sufficient loner who has never needed anyone, became the only person in the world who knew that the brightest girl in his class was dying of pancreatic disease.\n\nYoru Sumino\'s source novel was a publishing phenomenon in Japan, and it is easy to understand why. The central dynamic between Haruki — closed-off, fond of books precisely because they ask nothing of him — and Sakura — vivid, curious, apparently fearless about her own ending — is the kind of pairing that romantic fiction has always known how to exploit. What lifts this above formula is that the film takes both characters seriously as people rather than as archetypes. Sakura\'s brightness is not naive. She knows what she is doing when she drags this quiet, resistant boy into her final chapter. She chose him specifically because he would not treat her as a dying girl. He would treat her as a person — and in doing so, he would have to become one too.\n\nShinichiro Ushijima\'s direction is unhurried, attentive to the texture of ordinary days. The animation, warm and luminous throughout, renders the world of sunlit school corridors and early spring cherry blossoms with the quality of something remembered from a great distance — slightly brightened by nostalgia, slightly aching for the same reason. Hiroko Sebu\'s score works in the same register: gentle, spare, never working too hard to manufacture feeling because the situation generates it naturally.\n\nLynn\'s voice performance as Sakura is the film\'s most essential contribution. She threads the needle between a character who performs effortless joy and a character who is, underneath it, genuinely joyful — someone who has made a deliberate choice to live rather than simply wait. The few moments where that performance slips to reveal something more frightened beneath are handled with restraint, which is the right call. The film trusts its audience to understand what is not being said.\n\nThe framing device — adult Haruki in the present tense, revisiting his hometown — is the film\'s primary structural weakness. It front-loads knowledge of the outcome in a way that occasionally dilutes the tension that the central memory generates on its own terms. The film knows this too: the present-day scenes are comparatively thin, and the weight of the final act rests almost entirely on the past. A secondary emotional revelation near the end, involving a character left behind, is handled deftly but arrives slightly too late to fully integrate with what has come before, giving the film\'s conclusion the feeling of stacked catharsis rather than a single, clean release.\n\nNone of this undoes what the film achieves in its middle sections, where two young people sit in hospital cafeterias and travel together and lie badly to each other about how this is going to end. There is a particular sequence — the two of them stuck in a hotel room during a rainstorm, with nothing to do but talk — that captures the specific quality of a friendship that happens too fast because it has to, where the accelerated intimacy of shared mortality produces something that slower connections might never reach.\n\nThe film is not for everyone. Its emotional pitch is high, its sentiment unguarded. Anyone allergic to the more earnest conventions of Japanese young-adult fiction will find the whole enterprise too willing to reach for tears. But for those who can meet it where it lives, it offers something genuine: a reminder that the people who teach us how to be present are rarely the ones who have the most time."
   }
 },
+{
+  id: "mirai-2018",
+  title: "Mirai",
+  originalTitle: "未来のミライ",
+  romanization: "Mirai no Mirai",
+  year: 2018,
+  tagline: "I have met the future.",
+  titleLogoUrl: "https://image.tmdb.org/t/p/original/u9ymGWdtM9t2iTE8epitrx3G1er.png",
+  posterUrl: "https://image.tmdb.org/t/p/original/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg",
+  backdropUrl: "https://image.tmdb.org/t/p/original/53H7JtbElETTstolwTnTDxcG5So.jpg",
+  trailerUrl: "https://www.youtube.com/watch?v=6d-lsJZgmJs",
+  director: [
+    {
+      name: "Mamoru Hosoda",
+      photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+    }
+  ],
+  screenplay: [
+    {
+      name: "Mamoru Hosoda",
+      photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+    }
+  ],
+  cast: [
+    {
+      actor: "Moka Kamishiraishi",
+      role: "Kun (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/aBF4RdFWZbxyYVnQslgl3F5uCzR.jpg"
+    },
+    {
+      actor: "Haru Kuroki",
+      role: "Mirai (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
+    },
+    {
+      actor: "Gen Hoshino",
+      role: "Father (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/3DBWEx7MXbtesEvBcfpzyZF42OL.jpg"
+    },
+    {
+      actor: "Kumiko Aso",
+      role: "Mother (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/pVOiHNMaIpue64dRg1GbXnSmMJK.jpg"
+    },
+    {
+      actor: "Mitsuo Yoshihara",
+      role: "Mysterious Man (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/plFu5yi71UA9HSSNRPbNVD3MTDf.jpg"
+    },
+    {
+      actor: "Yoshiko Miyazaki",
+      role: "Grandmother (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/uFdHiD3I9sKUHsfmQVGMMy6ueMm.jpg"
+    },
+    {
+      actor: "Koji Yakusho",
+      role: "Grandfather (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
+    },
+    {
+      actor: "Masaharu Fukuyama",
+      role: "Young Man (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/nQzW8rkEh9unI1BbzRpinRW2SsH.jpg"
+    },
+    {
+      actor: "Kaede Hondo",
+      role: "Baby Mirai (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg"
+    },
+    {
+      actor: "Daniel Dae Kim",
+      role: "Great-Grandfather / Young Man (voice)",
+      photoUrl: "https://image.tmdb.org/t/p/w185/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg"
+    }
+  ],
+  languages: ["Japanese"],
+  genres: ["Animation", "Fantasy", "Drama", "Family"],
+  viewerRating: {
+    rating: "PG",
+    descriptors: [
+      "repeated emotional outbursts and tantrums from a young child",
+      "mild fantasy sequences with surreal and occasionally disorienting imagery",
+      "brief depiction of wartime danger in a historical flashback",
+      "low-level household conflict and parental exhaustion"
+    ]
+  },
+  runtime: [
+    { version: "Theatrical Cut", duration: "1:38" }
+  ],
+  awards: [
+    { body: "Japan Academy Film Prize (42nd)", category: "Animation of the Year", result: "Won", year: 2019 },
+    { body: "Academy Awards (91st)", category: "Best Animated Feature Film", result: "Nominated", year: 2019 },
+    { body: "Annie Awards (47th)", category: "Outstanding Achievement for Animated Feature", result: "Nominated", year: 2019 },
+    { body: "Annie Awards (47th)", category: "Outstanding Achievement for Character Animation in an Animated Feature Production", result: "Nominated", year: 2019 },
+    { body: "Annie Awards (47th)", category: "Outstanding Achievement for Writing in an Animated Feature Production", result: "Nominated", year: 2019 }
+  ],
+  criticRating: "Decent",
+  review: {
+    themes: ["jealousy", "inheritance", "childhood", "legacy", "memory", "belonging", "growth"],
+    mood: ["tender", "dreamlike", "wistful"],
+    fullReview: "Four-year-old Kun has been the uncontested center of his family\'s universe for his entire short life — and then Mirai arrives. The baby sister is squalling, helpless, and immediately redistributes every scrap of parental attention in the household. The family home, a marvel of interlocking terraces and split-level architecture nestled in a quiet Japanese neighborhood, becomes something stranger when Kun retreats to its small garden: a threshold between the present and the rest of his family\'s history, through which he encounters ancestors, a future version of his sibling, and people he loves at ages he has never known them.\n\nMamoru Hosoda made this film during the years he was becoming a father, and that autobiographical weight is everywhere. Mirai is a film about learning to share, about the bewildering shock of no longer being singular, about how families are chains of ordinary people who had to untangle the same knots as everyone before them. There is real tenderness in that idea. The house itself — rendered with a specificity of texture and light that Studio Chizu has quietly made its signature — grounds what could have been a shapeless magical-realist exercise in something that feels genuinely inhabited.\n\nAnd yet the film\'s central problem is built into its own premise. Kun is, by functional necessity, a tantrum machine — a four-year-old who screams, throws things, sulks, and refuses comfort in exactly the way four-year-olds actually do. Hosoda commits fully to this authenticity, and in principle that commitment is admirable. In practice, spending ninety-eight minutes inside the psyche of a character who cannot yet articulate anything beyond immediate want is an endurance test that the surrounding magic does not consistently offset. Each visit through the garden portal is structurally self-contained — a vignette in which Kun learns something modest — and the cumulative effect is more episodic than developmental. The moments do not build toward each other so much as accrue alongside each other, which gives the film an unusual flatness of emotional momentum for a work so clearly invested in feeling.\n\nWhat saves those individual moments is the craft. Hosoda\'s animators handle the domestic spaces with tactile warmth: the weight of small bodies tumbling over furniture, the specific quality of late-afternoon light in a house where young children live, the way clothing moves. Masakatsu Takagi\'s score breathes around the edges of scenes rather than swelling through them, which suits the film\'s quieter registers. The sequence involving Kun\'s great-grandfather and a motorcycle — an extended, kinetic departure from the film\'s otherwise small-scale intimacy — demonstrates what Hosoda can achieve when the material allows him actual momentum, and it arrives like a gulp of fresh air.\n\nThe climax, set in an enormous abstract train station functioning as a kind of cosmic interchange for all human lives, is the film\'s most discussed sequence and also its most tonally disconnected. It is visually arresting and conceptually ambitious. Whether it lands as emotionally earned depends entirely on how much purchase a viewer has found in everything leading up to it. Those who have been at a slight remove from Kun\'s frustrations — and there will be many — may find the sequence beautiful in the way a stranger\'s home movie can be beautiful: genuinely made with love, but not quite addressed to them.\n\nWhat the film does unambiguously well is make ordinary domestic life feel weighted with time. The notion that a child\'s earliest years are not only experience but inheritance — that a family is a living relay across generations, each link having to figure things out in its own stumbling way — is handled with genuine thoughtfulness and without sentimentality. Hosoda does not glamorize parenthood or childhood. He holds both up to the light and lets them refract.\n\nThis is not Hosoda at his most architecturally confident. Wolf Children managed what Mirai attempts — deploying magical elements to anchor emotional truths about parenthood and generational identity — with considerably more structural control and cumulative force. Mirai feels like the same director operating on instinct and personal feeling rather than on construction, and the difference is audible in the film\'s uneven rhythms. It is a film of passages rather than a journey. Whether that reads as a flaw or as an honest formal choice will depend on what each viewer brings to the garden gate."
+  }
+},
 ]; // ← paste movie objects here, one by one
