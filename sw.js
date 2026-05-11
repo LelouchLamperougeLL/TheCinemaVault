@@ -4,7 +4,7 @@
    external resources (TMDB images, Google Fonts).
    ═══════════════════════════════════════════════════════════ */
 
-const CACHE_NAME = 'cinevault-v10';
+const CACHE_NAME = 'cinevault-v12';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -12,7 +12,8 @@ const STATIC_ASSETS = [
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
-  './favicon.png'
+  './favicon.png',
+  './site_logo.png'
 ];
 
 // ─── Install: Pre-cache core shell ─────────────────────────
