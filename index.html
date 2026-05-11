@@ -785,8 +785,8 @@
     .filter-accordion {
       background: rgba(255, 255, 255, 0.02);
       border: 1px solid rgba(255, 255, 255, 0.04);
-      border-radius: 12px;
-      margin-bottom: 0.75rem;
+      border-radius: 8px;
+      margin-bottom: 0.4rem;
       transition: all 0.3s ease;
       overflow: hidden;
     }
@@ -803,7 +803,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 1.25rem;
+      padding: 0.85rem 1rem;
       cursor: pointer;
       list-style: none; /* Hide default arrow */
       position: relative;
@@ -830,7 +830,7 @@
       display: flex;
       align-items: center;
       gap: 0.75rem;
-      font-size: 0.85rem;
+      font-size: 0.72rem;
       font-weight: 600;
       color: var(--text-primary);
       letter-spacing: 0.1em;
@@ -850,7 +850,7 @@
       color: var(--accent);
     }
     .filter-accordion__content {
-      padding: 0.5rem 1.25rem 0;
+      padding: 0.25rem 1rem 0;
       animation: accordionFade 0.35s cubic-bezier(0.4, 0, 0.2, 1);
     }
     @keyframes accordionFade {
@@ -3735,7 +3735,7 @@
 
       if (isMobileView) {
         const buildAccordion = (title, inner) => `
-          <details class="filter-accordion">
+          <details class="filter-accordion" name="mobile-filters">
             <summary class="filter-accordion__summary">
               <span class="filter-accordion__title">${title}</span>
               <span class="filter-accordion__icon">▼</span>
@@ -3999,6 +3999,7 @@
       updateBadge('year', yearCount);
 
       const activeCount = getActiveFilterCount();
+      updateBadge('all-filters', activeCount);
       const clearBtn = controls.querySelector('#clear-filters-btn');
       if (clearBtn) {
         clearBtn.style.display = activeCount > 0 ? 'inline-flex' : 'none';

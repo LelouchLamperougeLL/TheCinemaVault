@@ -48464,894 +48464,1240 @@ const MOVIES = [
         photoUrl: "https://image.tmdb.org/t/p/w185/reEkbvLlNknpCo2I37Vim6XpqGu.jpg"
       }
     ],
-  languages: ["English"],
-  genres: ["Action", "Drama", "Sci-fi"],
-  viewerRating: {
-    rating: "M-16",
-    descriptors: [
-      "sustained combat violence between armed humans and apes",
-      "gunfire, explosions, and military weaponry throughout",
-      "brief depictions of execution-style killing",
-      "non-graphic injury and death",
-      "psychological manipulation and betrayal of trust",
-      "post-apocalyptic depictions of societal collapse"
-    ]
-  },
-  runtime: [
-    { version: "Theatrical Cut", duration: "2:10" }
-  ],
-  awards: [
+    languages: ["English"],
+    genres: ["Action", "Drama", "Sci-fi"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "sustained combat violence between armed humans and apes",
+        "gunfire, explosions, and military weaponry throughout",
+        "brief depictions of execution-style killing",
+        "non-graphic injury and death",
+        "psychological manipulation and betrayal of trust",
+        "post-apocalyptic depictions of societal collapse"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:10" }
+    ],
+    awards: [
       { body: "Saturn Awards (41st)", category: "Best Science Fiction Film", result: "Nominated", year: 2015 },
       { body: "Saturn Awards (41st)", category: "Best Special Effects", result: "Nominated", year: 2015 },
       { body: "Saturn Awards (41st)", category: "Best Director", result: "Nominated", year: 2015 }
     ],
-  criticRating: "Great",
-  review: {
-    themes: ["tribalism", "betrayal", "coexistence", "leadership", "mistrust", "survival", "complicity", "war"],
-    mood: ["somber", "tense", "propulsive"],
-    fullReview: "Ten years after the ALZ-113 virus has decimated human civilization, a fragile peace holds between Caesar\'s thriving colony of intelligent apes and a small enclave of immune survivors sheltering in the ruins of San Francisco. When a group of humans needs access to a dam deep within ape territory to restore power to their failing colony, the encounter sets in motion a chain of events that neither side has the strength — or the control — to stop. Both communities want survival. Both carry within them the seeds of their own undoing.\n\nWhat Matt Reeves understood, and what elevates this sequel well above the standard blockbuster, is that the most devastating conflicts are not between good and evil but between two groups that are each partly right. Caesar (Andy Serkis, performing at a level the motion capture medium has still not received adequate critical recognition for) wants coexistence. Malcolm (Jason Clarke), his human counterpart, wants the same. The film\'s tragic architecture is built entirely on the fact that their shared goodwill cannot prevent what is coming, because neither man controls his own side.\n\nThe screenplay by Mark Bomback, Rick Jaffa, and Amanda Silver draws its power from symmetry. Every virtue Caesar possesses has its mirror flaw in Koba (Toby Kebbell), the scarred ape who carries the memory of human cruelty as a wound that has never been permitted to close. Koba is not a cartoon antagonist — he is the consequence of atrocity, a creature whose hatred was manufactured by human hands and whose actions follow their own terrible logic. Kebbell, working entirely through performance capture, delivers one of the film\'s most quietly unsettling turns: there is something profoundly recognizable in Koba\'s grievance, which makes him far more troubling than a character who simply wants destruction for its own sake. The parallel between Caesar and Dreyfus (Gary Oldman) on the human side is structurally sound but less fully realized — Oldman is given too little material to work with, and the character remains more symbol than person.\n\nReeves directs with a patience that major studio productions rarely allow themselves. The first act takes considerable time establishing the ape colony as a functioning society — one with ritual, family structure, internal politics, and moral debate. Michael Seresin\'s cinematography leans into forest shadow, mist, and firelight, lending the film a quality that feels almost elegiac before the violence has properly begun. Michael Giacchino\'s score reinforces this: mournful, percussive, heavy with foreboding rather than excitement, which is precisely the right choice for a film that knows where it is headed.\n\nThe action sequences, when they arrive, are executed with genuine craft. A centerpiece involving a tank, a bridge, and an ape mounted on horseback firing automatic weapons should by rights be absurd spectacle. It is not. Reeves earns that image through everything that precedes it — the moment lands with the weight of inevitability rather than the hollow charge of pure sensation. That is a meaningful achievement in a genre that often confuses the two.\n\nWhere the film stumbles is in its human characters, who never quite achieve the richness of their ape counterparts. Jason Clarke is capable and grounded throughout, but Malcolm is defined almost entirely by his function in the plot. Keri Russell as Ellie and Kodi Smit-McPhee as Alexander are similarly thin — present, credible, and ultimately forgettable. The film is so heavily invested in the apes, which is the correct creative decision, but the consequence is that the human stakes feel somewhat abstract. Audiences are asked to care about the survival of humanity as a concept more than as a collection of specific, irreplaceable people.\n\nThe thematic ambition, though, is genuine and earns respect. The film is, among other things, an inquiry into how trauma calcifies into ideology — how violence done to a community can produce in its survivors a worldview that makes further violence structurally inevitable. It is also a film about leadership: about how the figure at the center of a community is both essential to its survival and fundamentally at the mercy of forces larger than their intentions. Caesar understands this by the end. So does anyone paying attention.\n\nThe tragedy does not feel manufactured; it feels systemic. Two reasonable protagonists, operating in good faith, cannot prevent an outcome that the irrational elements on both sides have been quietly engineering from the beginning. There is something genuinely sorrowful in that — the sense that the window for something better was real, briefly open, and closed anyway. Dawn of the Planet of the Apes is the rare summer film that earns its spectacle through dramatic foundation, treats its audience as adults, and leaves something worth thinking about in its wake. A few thin human characters and an underwritten subplot or two are the price of admission, and it is a price worth paying."
-  }
-},
-{
-  id: "war-for-the-planet-of-the-apes-2017",
-  title: "War for the Planet of the Apes",
-  originalTitle: null,
-  romanization: null,
-  year: 2017,
-  tagline: "For freedom. For family. For the planet.",
-  titleLogoUrl: "https://image.tmdb.org/t/p/original/xgLWDAx4iZPoyhUYrFQyxxbNHTP.png",
-  posterUrl: "https://image.tmdb.org/t/p/original/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
-  backdropUrl: "https://image.tmdb.org/t/p/original/w22CTHxmdAsUrXRbCQt4gOSOD6E.jpg",
-  trailerUrl: "https://www.youtube.com/watch?v=hHUBpMznFJI",
-  director: [
-    {
-      name: "Matt Reeves",
-      photoUrl: "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+    criticRating: "Great",
+    review: {
+      themes: ["tribalism", "betrayal", "coexistence", "leadership", "mistrust", "survival", "complicity", "war"],
+      mood: ["somber", "tense", "propulsive"],
+      fullReview: "Ten years after the ALZ-113 virus has decimated human civilization, a fragile peace holds between Caesar\'s thriving colony of intelligent apes and a small enclave of immune survivors sheltering in the ruins of San Francisco. When a group of humans needs access to a dam deep within ape territory to restore power to their failing colony, the encounter sets in motion a chain of events that neither side has the strength — or the control — to stop. Both communities want survival. Both carry within them the seeds of their own undoing.\n\nWhat Matt Reeves understood, and what elevates this sequel well above the standard blockbuster, is that the most devastating conflicts are not between good and evil but between two groups that are each partly right. Caesar (Andy Serkis, performing at a level the motion capture medium has still not received adequate critical recognition for) wants coexistence. Malcolm (Jason Clarke), his human counterpart, wants the same. The film\'s tragic architecture is built entirely on the fact that their shared goodwill cannot prevent what is coming, because neither man controls his own side.\n\nThe screenplay by Mark Bomback, Rick Jaffa, and Amanda Silver draws its power from symmetry. Every virtue Caesar possesses has its mirror flaw in Koba (Toby Kebbell), the scarred ape who carries the memory of human cruelty as a wound that has never been permitted to close. Koba is not a cartoon antagonist — he is the consequence of atrocity, a creature whose hatred was manufactured by human hands and whose actions follow their own terrible logic. Kebbell, working entirely through performance capture, delivers one of the film\'s most quietly unsettling turns: there is something profoundly recognizable in Koba\'s grievance, which makes him far more troubling than a character who simply wants destruction for its own sake. The parallel between Caesar and Dreyfus (Gary Oldman) on the human side is structurally sound but less fully realized — Oldman is given too little material to work with, and the character remains more symbol than person.\n\nReeves directs with a patience that major studio productions rarely allow themselves. The first act takes considerable time establishing the ape colony as a functioning society — one with ritual, family structure, internal politics, and moral debate. Michael Seresin\'s cinematography leans into forest shadow, mist, and firelight, lending the film a quality that feels almost elegiac before the violence has properly begun. Michael Giacchino\'s score reinforces this: mournful, percussive, heavy with foreboding rather than excitement, which is precisely the right choice for a film that knows where it is headed.\n\nThe action sequences, when they arrive, are executed with genuine craft. A centerpiece involving a tank, a bridge, and an ape mounted on horseback firing automatic weapons should by rights be absurd spectacle. It is not. Reeves earns that image through everything that precedes it — the moment lands with the weight of inevitability rather than the hollow charge of pure sensation. That is a meaningful achievement in a genre that often confuses the two.\n\nWhere the film stumbles is in its human characters, who never quite achieve the richness of their ape counterparts. Jason Clarke is capable and grounded throughout, but Malcolm is defined almost entirely by his function in the plot. Keri Russell as Ellie and Kodi Smit-McPhee as Alexander are similarly thin — present, credible, and ultimately forgettable. The film is so heavily invested in the apes, which is the correct creative decision, but the consequence is that the human stakes feel somewhat abstract. Audiences are asked to care about the survival of humanity as a concept more than as a collection of specific, irreplaceable people.\n\nThe thematic ambition, though, is genuine and earns respect. The film is, among other things, an inquiry into how trauma calcifies into ideology — how violence done to a community can produce in its survivors a worldview that makes further violence structurally inevitable. It is also a film about leadership: about how the figure at the center of a community is both essential to its survival and fundamentally at the mercy of forces larger than their intentions. Caesar understands this by the end. So does anyone paying attention.\n\nThe tragedy does not feel manufactured; it feels systemic. Two reasonable protagonists, operating in good faith, cannot prevent an outcome that the irrational elements on both sides have been quietly engineering from the beginning. There is something genuinely sorrowful in that — the sense that the window for something better was real, briefly open, and closed anyway. Dawn of the Planet of the Apes is the rare summer film that earns its spectacle through dramatic foundation, treats its audience as adults, and leaves something worth thinking about in its wake. A few thin human characters and an underwritten subplot or two are the price of admission, and it is a price worth paying."
     }
-  ],
-  screenplay: [
-    {
-      name: "Mark Bomback",
-      photoUrl: "https://image.tmdb.org/t/p/w185/sasLL2smKWuZUjYq7d9O2QQrN0G.jpg"
-    },
-    {
-      name: "Matt Reeves",
-      photoUrl: "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
-    }
-  ],
-  cast: [
-    {
-      actor: "Andy Serkis",
-      role: "Caesar",
-      photoUrl: "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
-    },
-    {
-      actor: "Woody Harrelson",
-      role: "The Colonel",
-      photoUrl: "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
-    },
-    {
-      actor: "Karin Konoval",
-      role: "Maurice",
-      photoUrl: "https://image.tmdb.org/t/p/w185/5e8YyNQjWre2UbExYBlJ7zva934.jpg"
-    },
-    {
-      actor: "Terry Notary",
-      role: "Rocket",
-      photoUrl: "https://image.tmdb.org/t/p/w185/gcn5cL4TGmtiYcjFCl29GsclDVl.jpg"
-    },
-    {
-      actor: "Steve Zahn",
-      role: "Bad Ape",
-      photoUrl: "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
-    },
-    {
-      actor: "Amiah Miller",
-      role: "Nova",
-      photoUrl: "https://image.tmdb.org/t/p/w185/mW10rLTAmuPD5TncX8KkRzsbvXU.jpg"
-    },
-    {
-      actor: "Ty Olsson",
-      role: "Red Donkey",
-      photoUrl: "https://image.tmdb.org/t/p/w185/7vxoASi2aZZzw6c4guFSaPdE45y.jpg"
-    },
-    {
-      actor: "Michael Adamthwaite",
-      role: "Luca",
-      photoUrl: "https://image.tmdb.org/t/p/w185/J9R1DkSkmGDioXJmHIMg5Vt8pb.jpg"
-    },
-    {
-      actor: "Toby Kebbell",
-      role: "Koba",
-      photoUrl: "https://image.tmdb.org/t/p/w185/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
-    },
-    {
-      actor: "Gabriel Chavarria",
-      role: "Preacher",
-      photoUrl: "https://image.tmdb.org/t/p/w185/aLvEXygc9wN4DqTNNY1h69gaEdS.jpg"
-    },
-    {
-      actor: "Sara Canning",
-      role: "Lake",
-      photoUrl: "https://image.tmdb.org/t/p/w185/55AL7y8ybTE7uvpQALughR7bkkB.jpg"
-    },
-    {
-      actor: "Judy Greer",
-      role: "Cornelia",
-      photoUrl: "https://image.tmdb.org/t/p/w185/pTLjIjh83R424RGxIfq4U0yx947.jpg"
-    },
-    {
-      actor: "Devyn Dalton",
-      role: "Cornelius",
-      photoUrl: "https://image.tmdb.org/t/p/w185/rYkYdtv2grwzDX4RFCIK3zzP4gD.jpg"
-    },
-    {
-      actor: "Aleks Paunovic",
-      role: "Winter",
-      photoUrl: "https://image.tmdb.org/t/p/w185/k8j9Nr0xS2vEUMV8Wl0y5cC2NeB.jpg"
-    },
-    {
-      actor: "Alessandro Juliani",
-      role: "Spear",
-      photoUrl: "https://image.tmdb.org/t/p/w185/f8pVEpYsRU30EsMoWcBsTkUN9e0.jpg"
-    },
-    {
-      actor: "Max Lloyd-Jones",
-      role: "Blue Eyes",
-      photoUrl: "https://image.tmdb.org/t/p/w185/4ZXdk1YXG3xYonid1DPDOVKsNPE.jpg"
-    },
-    {
-      actor: "Timothy Webber",
-      role: "Ape Elder",
-      photoUrl: "https://image.tmdb.org/t/p/w185/Av0mtgZ9DeopXP9NQjzd8q9ZPd6.jpg"
-    },
-    {
-      actor: "Lauro David Chartrand-DelValle",
-      role: "Look Out Ape",
-      photoUrl: "https://image.tmdb.org/t/p/w185/4XqwVZCR6t7H0aB8zVT0i9gfehg.jpg"
-    },
-    {
-      actor: "Shaun Omaid",
-      role: "Soldier Who Sees Ape",
-      photoUrl: "https://image.tmdb.org/t/p/w185/qttbi8RNm4wCNyymG7HcDmLRyVx.jpg"
-    },
-    {
-      actor: "Roger Cross",
-      role: "Captain",
-      photoUrl: "https://image.tmdb.org/t/p/w185/gLbHM7JH2nWCeEzSjzAYBUOSkT8.jpg"
-    },
-    {
-      actor: "Mercedes de la Zerda",
-      role: "Lang",
-      photoUrl: "https://image.tmdb.org/t/p/w185/Au3oFUvhdbktvDP76MbPwhSsIa1.jpg"
-    },
-    {
-      actor: "Doug Chapman",
-      role: "AΩ Deserter",
-      photoUrl: "https://image.tmdb.org/t/p/w185/woJlBx2I4Hv1nKkC8f1G5cXqvXu.jpg"
-    },
-    {
-      actor: "James Pizzinato",
-      role: "Captured Soldier",
-      photoUrl: "https://image.tmdb.org/t/p/w185/kE9S1uDnAQPkLuDGcAAogD1IJHd.jpg"
-    },
-    {
-      actor: "Chad Rook",
-      role: "Boyle",
-      photoUrl: "https://image.tmdb.org/t/p/w185/ingigcFjpB56O4WpOMADH1pwk8k.jpg"
-    },
-    {
-      actor: "Dean Redman",
-      role: "Commanding Officer",
-      photoUrl: "https://image.tmdb.org/t/p/w185/7mzn5HzN2tnYypbYGZvgbybb1aE.jpg"
-    },
-    {
-      actor: "Steve Baran",
-      role: "Tanker Guard",
-      photoUrl: "https://image.tmdb.org/t/p/w185/mG7DDdwZYFcuaZiteedn7rVuNlw.jpg"
-    },
-    {
-      actor: "Sandy Robson",
-      role: "Gunner",
-      photoUrl: "https://image.tmdb.org/t/p/w185/9EztCZQ4nZmBxCAKvdgYjTCVyF1.jpg"
-    },
-    {
-      actor: "Levi Meaden",
-      role: "Soldier",
-      photoUrl: "https://image.tmdb.org/t/p/w185/1KKydGsyXna3XUWPQDfxNuD71mU.jpg"
-    },
-    {
-      actor: "Billy Wickman",
-      role: "Gasping Soldier",
-      photoUrl: "https://image.tmdb.org/t/p/w185/4RvjA115oHfgI3fuhBZKoTCR4Xd.jpg"
-    },
-    {
-      actor: "Albert Nicholas",
-      role: "Tower Guard #1",
-      photoUrl: "https://image.tmdb.org/t/p/w185/9azNURWdyhimWhCoc7UzprmyELZ.jpg"
-    },
-    {
-      actor: "Thomas Potter",
-      role: "Platoon Leader",
-      photoUrl: "https://image.tmdb.org/t/p/w185/qDFfDRcU1b1BtWobt20aa28jje3.jpg"
-    },
-    {
-      actor: "Mathew Yanagiya",
-      role: "Executive Officer\'s Man",
-      photoUrl: "https://image.tmdb.org/t/p/w185/6H4F45LckXI9pzcBpZXSXQYjVBM.jpg"
-    }
-  ],
-  languages: ["English"],
-  genres: ["Drama", "War", "Sci-fi"],
-  viewerRating: {
-    rating: "M-16",
-    descriptors: [
-      "mass execution of apes depicted on screen",
-      "prolonged depiction of forced labor and imprisonment",
-      "children witness parental death",
-      "non-graphic but sustained war violence and military brutality",
-      "flogging and physical abuse of captives",
-      "depictions of genocide and ethnic extermination as policy",
-      "psychological suffering and despair throughout"
-    ]
   },
-  runtime: [
-    { version: "Theatrical Cut", duration: "2:20" }
-  ],
-  awards: [
-    { body: "Academy Awards (90th)", category: "Best Visual Effects", result: "Nominated", year: 2018 },
-    { body: "BAFTA Film Awards (71st)", category: "Best Special Visual Effects", result: "Nominated", year: 2018 },
-    { body: "Saturn Awards (44th)", category: "Best Science Fiction Film", result: "Won", year: 2018 },
-    { body: "Saturn Awards (44th)", category: "Best Actor", result: "Nominated", year: 2018 },
-    { body: "Critics Choice Movie Awards (23rd)", category: "Best Visual Effects", result: "Nominated", year: 2018 }
-  ],
-  criticRating: "Great",
-  review: {
-    themes: ["vengeance", "sacrifice", "fanaticism", "captivity", "exodus", "mortality", "legacy", "redemption"],
-    mood: ["mournful", "harrowing", "elemental"],
-    fullReview: "Caesar has led his kind through plague and war, through the collapse of human civilization and the first terrible eruptions of conflict between species. Now, in the third chapter of Matt Reeves\' reboot trilogy, he faces something the previous films only gestured toward: the weight of his own darkness. When a ruthless military colonel strikes at the heart of the ape colony, Caesar sends his people east toward safety while he rides alone toward something that looks, from the outside, very much like revenge. The film that follows is less a blockbuster than a sustained act of mourning.\n\nReeves made a deliberate and somewhat audacious choice in treating this material as a fusion of the prison film and the mythological western. The visual grammar owes debts to Leone and Lean — long silences, vast snowscapes, figures dwarfed by their circumstances. Michael Seresin\'s cinematography is among the most striking in the franchise, finding a cold grey palette that feels like grief made visible. Michael Giacchino\'s score reaches its most elegiac register here: less propulsive than its predecessors, more concerned with the sound of things ending.\n\nAndy Serkis gives the finest performance of his career in motion capture, and it is time that observation was made with full seriousness. What he does with Caesar in this film — the exhaustion behind the eyes, the moment that pride cracks into sorrow, the specific weight with which this creature carries the knowledge of what he is becoming — is not approximated through technology. It is genuine acting, and the medium simply records it differently. That Caesar\'s final scene lands with the force it does is a testament to the care Serkis has taken over three films to build something irreplaceable.\n\nWoody Harrelson\' Colonel is, frankly, the film\'s least successful element. The character is clearly conceived in the shadow of Apocalypse Now\'s Kurtz — there are direct visual quotations that feel less like homage and more like a warning label — and while Harrelson commits fully, the screenplay gives him a motivation that is simultaneously too rational to be terrifying and too grandiose to feel grounded. He works better as a symbolic antagonist, a personification of human fear calcified into cruelty, than he does as a person. The film knows this too; the most telling exchange between him and Caesar is also the briefest.\n\nSteve Zahn\'s Bad Ape deserves a word, because the character is either the film\'s wisest decision or its most self-indulgent, depending on the viewer. Functioning as comic relief in a film drenched in suffering, Bad Ape is genuinely funny in isolation, but the tonal whiplash his scenes create is real. Placed immediately after sequences of genuine devastation, his nervous energy can feel like the film blinking away from something it has worked hard to earn. That said, there is something quietly devastating about a creature who survived human captivity by learning to be invisible, and the screenplay earns that eventually.\n\nThe prison sequence at the film\'s center — extended, deliberately paced, shot with the grimness of a historical document — is the film at its most committed and most uncompromising. What happens to the apes there is rendered without sentimentality, and the film\'s refusal to turn away from it gives the eventual resolution a weight that the franchise has been building toward across three films. When release comes, it feels genuinely earned — and then Reeves makes a choice about how Caesar\'s story ends that is, by any measure, the right one. The final image is quiet, unhurried, and devastating.\n\nThe film is not quite as tightly constructed as Dawn. The first act sets its pieces slowly, there are structural choices that betray their schematic origins, and the climax, when it finally arrives, is resolved partly through an event that feels more convenient than inevitable. But these are the flaws of a film reaching for something significant, not the flaws of a film that has stopped caring. War for the Planet of the Apes closes a trilogy that, taken together, constitutes one of the more serious bodies of work in contemporary science fiction blockbuster cinema — one that consistently treats its central character as a tragic figure worthy of genuine investment, and delivers on that investment more often than not."
-  }
-},
-{
-  id: "i-want-to-eat-your-pancreas-2018",
-  title: "I Want to Eat Your Pancreas",
-  originalTitle: "君の膵臓をたべたい",
-  romanization: "Kimi no Suizou wo Tabetai",
-  year: 2018,
-  tagline: "This is a story about an unforgettable spring...",
-  titleLogoUrl: "https://image.tmdb.org/t/p/original/iOGhQzUidBzOj6pxKp7pBZkw2ta.png",
-  posterUrl: "https://image.tmdb.org/t/p/original/5fimN5Zreuq96Y49eupbfOuGQWT.jpg",
-  backdropUrl: "https://image.tmdb.org/t/p/original/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
-  trailerUrl: "https://www.youtube.com/watch?v=MmoBvmJA9XI",
-  director: [
-    {
-      name: "Shinichiro Ushijima",
-      photoUrl: "https://image.tmdb.org/t/p/w185/vNrNNafv5hM1EW3CMqY32F1peV6.jpg"
+  {
+    id: "war-for-the-planet-of-the-apes-2017",
+    title: "War for the Planet of the Apes",
+    originalTitle: null,
+    romanization: null,
+    year: 2017,
+    tagline: "For freedom. For family. For the planet.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/xgLWDAx4iZPoyhUYrFQyxxbNHTP.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/w22CTHxmdAsUrXRbCQt4gOSOD6E.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=hHUBpMznFJI",
+    director: [
+      {
+        name: "Matt Reeves",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Mark Bomback",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sasLL2smKWuZUjYq7d9O2QQrN0G.jpg"
+      },
+      {
+        name: "Matt Reeves",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5rA459xpMt6IeJG7ZqvhLbSozEH.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Andy Serkis",
+        role: "Caesar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+      },
+      {
+        actor: "Woody Harrelson",
+        role: "The Colonel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+      },
+      {
+        actor: "Karin Konoval",
+        role: "Maurice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5e8YyNQjWre2UbExYBlJ7zva934.jpg"
+      },
+      {
+        actor: "Terry Notary",
+        role: "Rocket",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gcn5cL4TGmtiYcjFCl29GsclDVl.jpg"
+      },
+      {
+        actor: "Steve Zahn",
+        role: "Bad Ape",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+      },
+      {
+        actor: "Amiah Miller",
+        role: "Nova",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mW10rLTAmuPD5TncX8KkRzsbvXU.jpg"
+      },
+      {
+        actor: "Ty Olsson",
+        role: "Red Donkey",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7vxoASi2aZZzw6c4guFSaPdE45y.jpg"
+      },
+      {
+        actor: "Michael Adamthwaite",
+        role: "Luca",
+        photoUrl: "https://image.tmdb.org/t/p/w185/J9R1DkSkmGDioXJmHIMg5Vt8pb.jpg"
+      },
+      {
+        actor: "Toby Kebbell",
+        role: "Koba",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mlYytYJvoEHmhDH2enLtES1098Q.jpg"
+      },
+      {
+        actor: "Gabriel Chavarria",
+        role: "Preacher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aLvEXygc9wN4DqTNNY1h69gaEdS.jpg"
+      },
+      {
+        actor: "Sara Canning",
+        role: "Lake",
+        photoUrl: "https://image.tmdb.org/t/p/w185/55AL7y8ybTE7uvpQALughR7bkkB.jpg"
+      },
+      {
+        actor: "Judy Greer",
+        role: "Cornelia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pTLjIjh83R424RGxIfq4U0yx947.jpg"
+      },
+      {
+        actor: "Devyn Dalton",
+        role: "Cornelius",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rYkYdtv2grwzDX4RFCIK3zzP4gD.jpg"
+      },
+      {
+        actor: "Aleks Paunovic",
+        role: "Winter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k8j9Nr0xS2vEUMV8Wl0y5cC2NeB.jpg"
+      },
+      {
+        actor: "Alessandro Juliani",
+        role: "Spear",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f8pVEpYsRU30EsMoWcBsTkUN9e0.jpg"
+      },
+      {
+        actor: "Max Lloyd-Jones",
+        role: "Blue Eyes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4ZXdk1YXG3xYonid1DPDOVKsNPE.jpg"
+      },
+      {
+        actor: "Timothy Webber",
+        role: "Ape Elder",
+        photoUrl: "https://image.tmdb.org/t/p/w185/Av0mtgZ9DeopXP9NQjzd8q9ZPd6.jpg"
+      },
+      {
+        actor: "Lauro David Chartrand-DelValle",
+        role: "Look Out Ape",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4XqwVZCR6t7H0aB8zVT0i9gfehg.jpg"
+      },
+      {
+        actor: "Shaun Omaid",
+        role: "Soldier Who Sees Ape",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qttbi8RNm4wCNyymG7HcDmLRyVx.jpg"
+      },
+      {
+        actor: "Roger Cross",
+        role: "Captain",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gLbHM7JH2nWCeEzSjzAYBUOSkT8.jpg"
+      },
+      {
+        actor: "Mercedes de la Zerda",
+        role: "Lang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/Au3oFUvhdbktvDP76MbPwhSsIa1.jpg"
+      },
+      {
+        actor: "Doug Chapman",
+        role: "AΩ Deserter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/woJlBx2I4Hv1nKkC8f1G5cXqvXu.jpg"
+      },
+      {
+        actor: "James Pizzinato",
+        role: "Captured Soldier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kE9S1uDnAQPkLuDGcAAogD1IJHd.jpg"
+      },
+      {
+        actor: "Chad Rook",
+        role: "Boyle",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ingigcFjpB56O4WpOMADH1pwk8k.jpg"
+      },
+      {
+        actor: "Dean Redman",
+        role: "Commanding Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7mzn5HzN2tnYypbYGZvgbybb1aE.jpg"
+      },
+      {
+        actor: "Steve Baran",
+        role: "Tanker Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mG7DDdwZYFcuaZiteedn7rVuNlw.jpg"
+      },
+      {
+        actor: "Sandy Robson",
+        role: "Gunner",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9EztCZQ4nZmBxCAKvdgYjTCVyF1.jpg"
+      },
+      {
+        actor: "Levi Meaden",
+        role: "Soldier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1KKydGsyXna3XUWPQDfxNuD71mU.jpg"
+      },
+      {
+        actor: "Billy Wickman",
+        role: "Gasping Soldier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4RvjA115oHfgI3fuhBZKoTCR4Xd.jpg"
+      },
+      {
+        actor: "Albert Nicholas",
+        role: "Tower Guard #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9azNURWdyhimWhCoc7UzprmyELZ.jpg"
+      },
+      {
+        actor: "Thomas Potter",
+        role: "Platoon Leader",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qDFfDRcU1b1BtWobt20aa28jje3.jpg"
+      },
+      {
+        actor: "Mathew Yanagiya",
+        role: "Executive Officer\'s Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6H4F45LckXI9pzcBpZXSXQYjVBM.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "War", "Sci-fi"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "mass execution of apes depicted on screen",
+        "prolonged depiction of forced labor and imprisonment",
+        "children witness parental death",
+        "non-graphic but sustained war violence and military brutality",
+        "flogging and physical abuse of captives",
+        "depictions of genocide and ethnic extermination as policy",
+        "psychological suffering and despair throughout"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:20" }
+    ],
+    awards: [
+      { body: "Academy Awards (90th)", category: "Best Visual Effects", result: "Nominated", year: 2018 },
+      { body: "BAFTA Film Awards (71st)", category: "Best Special Visual Effects", result: "Nominated", year: 2018 },
+      { body: "Saturn Awards (44th)", category: "Best Science Fiction Film", result: "Won", year: 2018 },
+      { body: "Saturn Awards (44th)", category: "Best Actor", result: "Nominated", year: 2018 },
+      { body: "Critics Choice Movie Awards (23rd)", category: "Best Visual Effects", result: "Nominated", year: 2018 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["vengeance", "sacrifice", "fanaticism", "captivity", "exodus", "mortality", "legacy", "redemption"],
+      mood: ["mournful", "harrowing", "elemental"],
+      fullReview: "Caesar has led his kind through plague and war, through the collapse of human civilization and the first terrible eruptions of conflict between species. Now, in the third chapter of Matt Reeves\' reboot trilogy, he faces something the previous films only gestured toward: the weight of his own darkness. When a ruthless military colonel strikes at the heart of the ape colony, Caesar sends his people east toward safety while he rides alone toward something that looks, from the outside, very much like revenge. The film that follows is less a blockbuster than a sustained act of mourning.\n\nReeves made a deliberate and somewhat audacious choice in treating this material as a fusion of the prison film and the mythological western. The visual grammar owes debts to Leone and Lean — long silences, vast snowscapes, figures dwarfed by their circumstances. Michael Seresin\'s cinematography is among the most striking in the franchise, finding a cold grey palette that feels like grief made visible. Michael Giacchino\'s score reaches its most elegiac register here: less propulsive than its predecessors, more concerned with the sound of things ending.\n\nAndy Serkis gives the finest performance of his career in motion capture, and it is time that observation was made with full seriousness. What he does with Caesar in this film — the exhaustion behind the eyes, the moment that pride cracks into sorrow, the specific weight with which this creature carries the knowledge of what he is becoming — is not approximated through technology. It is genuine acting, and the medium simply records it differently. That Caesar\'s final scene lands with the force it does is a testament to the care Serkis has taken over three films to build something irreplaceable.\n\nWoody Harrelson\' Colonel is, frankly, the film\'s least successful element. The character is clearly conceived in the shadow of Apocalypse Now\'s Kurtz — there are direct visual quotations that feel less like homage and more like a warning label — and while Harrelson commits fully, the screenplay gives him a motivation that is simultaneously too rational to be terrifying and too grandiose to feel grounded. He works better as a symbolic antagonist, a personification of human fear calcified into cruelty, than he does as a person. The film knows this too; the most telling exchange between him and Caesar is also the briefest.\n\nSteve Zahn\'s Bad Ape deserves a word, because the character is either the film\'s wisest decision or its most self-indulgent, depending on the viewer. Functioning as comic relief in a film drenched in suffering, Bad Ape is genuinely funny in isolation, but the tonal whiplash his scenes create is real. Placed immediately after sequences of genuine devastation, his nervous energy can feel like the film blinking away from something it has worked hard to earn. That said, there is something quietly devastating about a creature who survived human captivity by learning to be invisible, and the screenplay earns that eventually.\n\nThe prison sequence at the film\'s center — extended, deliberately paced, shot with the grimness of a historical document — is the film at its most committed and most uncompromising. What happens to the apes there is rendered without sentimentality, and the film\'s refusal to turn away from it gives the eventual resolution a weight that the franchise has been building toward across three films. When release comes, it feels genuinely earned — and then Reeves makes a choice about how Caesar\'s story ends that is, by any measure, the right one. The final image is quiet, unhurried, and devastating.\n\nThe film is not quite as tightly constructed as Dawn. The first act sets its pieces slowly, there are structural choices that betray their schematic origins, and the climax, when it finally arrives, is resolved partly through an event that feels more convenient than inevitable. But these are the flaws of a film reaching for something significant, not the flaws of a film that has stopped caring. War for the Planet of the Apes closes a trilogy that, taken together, constitutes one of the more serious bodies of work in contemporary science fiction blockbuster cinema — one that consistently treats its central character as a tragic figure worthy of genuine investment, and delivers on that investment more often than not."
     }
-  ],
-  screenplay: [
-    {
-      name: "Shinichiro Ushijima",
-      photoUrl: "https://image.tmdb.org/t/p/w185/vNrNNafv5hM1EW3CMqY32F1peV6.jpg"
-    }
-  ],
-  cast: [
-    {
-      actor: "Mahiro Takasugi",
-      role: "Haruki Shiga (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/gP5lShrAl4ovliqAqJQTgrTeEwz.jpg"
-    },
-    {
-      actor: "Lynn",
-      role: "Sakura Yamauchi (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg"
-    },
-    {
-      actor: "Yukiyo Fujii",
-      role: "Kyoko Takimoto (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/tLG4K1iix3QNHFexf98mrZ25jT6.jpg"
-    },
-    {
-      actor: "Yuma Uchida",
-      role: "Takahiro (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
-    },
-    {
-      actor: "Jun Fukushima",
-      role: "Issei Miyata (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/xo2A4cr8TnhC9rLFxSQvhwCbIOw.jpg"
-    },
-    {
-      actor: "Atsuko Tanaka",
-      role: "Haruki's Mother (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg"
-    },
-    {
-      actor: "Shin-ichiro Miki",
-      role: "Haruki's Father (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
-    },
-    {
-      actor: "Emi Wakui",
-      role: "Sakura's Mother (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/p6yRJ4ZgdEjA0rvVsk1uvzae36E.jpg"
-    },
-    {
-      actor: "Nanami Atsugi",
-      role: "Hospital Announcement (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/xueVOu33hWyl3BWZOLYEHinCuHd.jpg"
-    },
-    {
-      actor: "Kazuya Saji",
-      role: "Father of the Boy and Girl (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/8etIlbu9mBZPyYsUX7zKMRy1eBC.jpg"
-    },
-    {
-      actor: "Narumi Kaho",
-      role: "Boy (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/9QKQnv8C9usNDeg3z1B9j7qwJxX.jpg"
-    },
-    {
-      actor: "Nene Hieda",
-      role: "Girl (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/kg2cNTQ83bDadVBPJSrY2quRQpT.jpg"
-    },
-    {
-      actor: "Reiou Tsuchida",
-      role: "Delinquent 1 (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/9GZBqBZp8s1Ini3UadvI2z5anqE.jpg"
-    },
-    {
-      actor: "Hayato Kimura",
-      role: "Delinquent 2 (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/zUsWnIq72NBk71XZCvU5NtZwKlQ.jpg"
-    },
-    {
-      actor: "Anju Nitta",
-      role: "Man from the Dried Food Store (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/yA1GvKCLE9w1CxojcfHgeMtmhbN.jpg"
-    },
-    {
-      actor: "Emiko Takeuchi",
-      role: "Old Lady (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/gZAtnuuHvQOltimOP3jPo5PKjb1.jpg"
-    },
-    {
-      actor: "Takaaki Uchino",
-      role: "Shopkeeper (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/2ll2XvDfM3NbiBQaF9Uh4SVAq9j.jpg"
-    },
-    {
-      actor: "Kenta Kataoka",
-      role: "Police Officer 1 (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/qNbD0EAEChmmyHYaHrlShTx3ZSq.jpg"
-    },
-    {
-      actor: "Tomoyuki Arai",
-      role: "Police Officer 2 (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/91HUd7ydCTYXtxYyPHLKbQoDM29.jpg"
-    },
-    {
-      actor: "Takayuki Ogawa",
-      role: "Office Worker (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/gEUiaygEO4T4LRnu51UHO1Ir4ln.jpg"
-    },
-    {
-      actor: "Junnosuke Kuroda",
-      role: "Old Man from the Fish Shop (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/kgZRsfXOKT4OZi1nKOWxvSQlkNi.jpg"
-    },
-    {
-      actor: "Yurina Amami",
-      role: "TV Anchor (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/peSPIgRkaiowkDTNfw7GpbW2J5Z.jpg"
-    },
-    {
-      actor: "Momoko Notomi",
-      role: "Female Student (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/hziyIhBcLKqTI2MTg0SlUxLVg9e.jpg"
-    },
-    {
-      actor: "Kotaro Ishikawa",
-      role: "News Presenter (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/t8AWYr50WcDP7EXsIdt7u74i3RX.jpg"
-    }
-  ],
-  languages: ["Japanese"],
-  genres: ["Animation", "Romance", "Drama"],
-  viewerRating: {
-    rating: "PG",
-    descriptors: [
-      "terminal illness and its emotional impact on a teenager",
-      "off-screen death of a young person",
-      "prolonged depictions of anticipatory grief",
-      "mild physical altercation between students"
-    ]
   },
-  runtime: [
-    { version: "Theatrical Cut", duration: "1:48" }
-  ],
-  awards: [
-    { body: "Japan Academy Film Prize (52nd)", category: "Animation of the Year", result: "Won", year: 2019 },
-    { body: "Anime of the Year (Crunchyroll Anime Awards)", category: "Best Film", result: "Nominated", year: 2019 }
-  ],
-  criticRating: "Great",
-  review: {
-    themes: ["mortality", "solitude", "vulnerability", "connection", "grief", "acceptance", "youth"],
-    mood: ["tender", "bittersweet", "mournful"],
-    fullReview: "The title stops people cold, and that is entirely intentional. Drawn from an old folk belief that consuming a sick organ helps heal it, the phrase that names this film is a confession — a strange, oblique declaration of closeness between two people who have agreed to spend what little time remains together before one of them disappears. The film opens with a young man, now an adult, learning that a former classmate has died. What follows is a memory: a high school year in which he, a self-sufficient loner who has never needed anyone, became the only person in the world who knew that the brightest girl in his class was dying of pancreatic disease.\n\nYoru Sumino\'s source novel was a publishing phenomenon in Japan, and it is easy to understand why. The central dynamic between Haruki — closed-off, fond of books precisely because they ask nothing of him — and Sakura — vivid, curious, apparently fearless about her own ending — is the kind of pairing that romantic fiction has always known how to exploit. What lifts this above formula is that the film takes both characters seriously as people rather than as archetypes. Sakura\'s brightness is not naive. She knows what she is doing when she drags this quiet, resistant boy into her final chapter. She chose him specifically because he would not treat her as a dying girl. He would treat her as a person — and in doing so, he would have to become one too.\n\nShinichiro Ushijima\'s direction is unhurried, attentive to the texture of ordinary days. The animation, warm and luminous throughout, renders the world of sunlit school corridors and early spring cherry blossoms with the quality of something remembered from a great distance — slightly brightened by nostalgia, slightly aching for the same reason. Hiroko Sebu\'s score works in the same register: gentle, spare, never working too hard to manufacture feeling because the situation generates it naturally.\n\nLynn\'s voice performance as Sakura is the film\'s most essential contribution. She threads the needle between a character who performs effortless joy and a character who is, underneath it, genuinely joyful — someone who has made a deliberate choice to live rather than simply wait. The few moments where that performance slips to reveal something more frightened beneath are handled with restraint, which is the right call. The film trusts its audience to understand what is not being said.\n\nThe framing device — adult Haruki in the present tense, revisiting his hometown — is the film\'s primary structural weakness. It front-loads knowledge of the outcome in a way that occasionally dilutes the tension that the central memory generates on its own terms. The film knows this too: the present-day scenes are comparatively thin, and the weight of the final act rests almost entirely on the past. A secondary emotional revelation near the end, involving a character left behind, is handled deftly but arrives slightly too late to fully integrate with what has come before, giving the film\'s conclusion the feeling of stacked catharsis rather than a single, clean release.\n\nNone of this undoes what the film achieves in its middle sections, where two young people sit in hospital cafeterias and travel together and lie badly to each other about how this is going to end. There is a particular sequence — the two of them stuck in a hotel room during a rainstorm, with nothing to do but talk — that captures the specific quality of a friendship that happens too fast because it has to, where the accelerated intimacy of shared mortality produces something that slower connections might never reach.\n\nThe film is not for everyone. Its emotional pitch is high, its sentiment unguarded. Anyone allergic to the more earnest conventions of Japanese young-adult fiction will find the whole enterprise too willing to reach for tears. But for those who can meet it where it lives, it offers something genuine: a reminder that the people who teach us how to be present are rarely the ones who have the most time."
-  }
-},
-{
-  id: "mirai-2018",
-  title: "Mirai",
-  originalTitle: "未来のミライ",
-  romanization: "Mirai no Mirai",
-  year: 2018,
-  tagline: "I have met the future.",
-  titleLogoUrl: "https://image.tmdb.org/t/p/original/u9ymGWdtM9t2iTE8epitrx3G1er.png",
-  posterUrl: "https://image.tmdb.org/t/p/original/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg",
-  backdropUrl: "https://image.tmdb.org/t/p/original/53H7JtbElETTstolwTnTDxcG5So.jpg",
-  trailerUrl: "https://www.youtube.com/watch?v=6d-lsJZgmJs",
-  director: [
-    {
-      name: "Mamoru Hosoda",
-      photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+  {
+    id: "i-want-to-eat-your-pancreas-2018",
+    title: "I Want to Eat Your Pancreas",
+    originalTitle: "君の膵臓をたべたい",
+    romanization: "Kimi no Suizou wo Tabetai",
+    year: 2018,
+    tagline: "This is a story about an unforgettable spring...",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/iOGhQzUidBzOj6pxKp7pBZkw2ta.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/5fimN5Zreuq96Y49eupbfOuGQWT.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/YLyORLsYIjC0d1TFBSpJKk7piP.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=MmoBvmJA9XI",
+    director: [
+      {
+        name: "Shinichiro Ushijima",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vNrNNafv5hM1EW3CMqY32F1peV6.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Shinichiro Ushijima",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vNrNNafv5hM1EW3CMqY32F1peV6.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Mahiro Takasugi",
+        role: "Haruki Shiga (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gP5lShrAl4ovliqAqJQTgrTeEwz.jpg"
+      },
+      {
+        actor: "Lynn",
+        role: "Sakura Yamauchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg"
+      },
+      {
+        actor: "Yukiyo Fujii",
+        role: "Kyoko Takimoto (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tLG4K1iix3QNHFexf98mrZ25jT6.jpg"
+      },
+      {
+        actor: "Yuma Uchida",
+        role: "Takahiro (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2otstbLfQ7MXuFt1X8MFOb4OIgd.jpg"
+      },
+      {
+        actor: "Jun Fukushima",
+        role: "Issei Miyata (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xo2A4cr8TnhC9rLFxSQvhwCbIOw.jpg"
+      },
+      {
+        actor: "Atsuko Tanaka",
+        role: "Haruki's Mother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pacuup8TMK9SFsSJOY8jlbyzkFt.jpg"
+      },
+      {
+        actor: "Shin-ichiro Miki",
+        role: "Haruki's Father (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
+      },
+      {
+        actor: "Emi Wakui",
+        role: "Sakura's Mother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p6yRJ4ZgdEjA0rvVsk1uvzae36E.jpg"
+      },
+      {
+        actor: "Nanami Atsugi",
+        role: "Hospital Announcement (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xueVOu33hWyl3BWZOLYEHinCuHd.jpg"
+      },
+      {
+        actor: "Kazuya Saji",
+        role: "Father of the Boy and Girl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8etIlbu9mBZPyYsUX7zKMRy1eBC.jpg"
+      },
+      {
+        actor: "Narumi Kaho",
+        role: "Boy (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9QKQnv8C9usNDeg3z1B9j7qwJxX.jpg"
+      },
+      {
+        actor: "Nene Hieda",
+        role: "Girl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kg2cNTQ83bDadVBPJSrY2quRQpT.jpg"
+      },
+      {
+        actor: "Reiou Tsuchida",
+        role: "Delinquent 1 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9GZBqBZp8s1Ini3UadvI2z5anqE.jpg"
+      },
+      {
+        actor: "Hayato Kimura",
+        role: "Delinquent 2 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zUsWnIq72NBk71XZCvU5NtZwKlQ.jpg"
+      },
+      {
+        actor: "Anju Nitta",
+        role: "Man from the Dried Food Store (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yA1GvKCLE9w1CxojcfHgeMtmhbN.jpg"
+      },
+      {
+        actor: "Emiko Takeuchi",
+        role: "Old Lady (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gZAtnuuHvQOltimOP3jPo5PKjb1.jpg"
+      },
+      {
+        actor: "Takaaki Uchino",
+        role: "Shopkeeper (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2ll2XvDfM3NbiBQaF9Uh4SVAq9j.jpg"
+      },
+      {
+        actor: "Kenta Kataoka",
+        role: "Police Officer 1 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qNbD0EAEChmmyHYaHrlShTx3ZSq.jpg"
+      },
+      {
+        actor: "Tomoyuki Arai",
+        role: "Police Officer 2 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/91HUd7ydCTYXtxYyPHLKbQoDM29.jpg"
+      },
+      {
+        actor: "Takayuki Ogawa",
+        role: "Office Worker (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gEUiaygEO4T4LRnu51UHO1Ir4ln.jpg"
+      },
+      {
+        actor: "Junnosuke Kuroda",
+        role: "Old Man from the Fish Shop (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kgZRsfXOKT4OZi1nKOWxvSQlkNi.jpg"
+      },
+      {
+        actor: "Yurina Amami",
+        role: "TV Anchor (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/peSPIgRkaiowkDTNfw7GpbW2J5Z.jpg"
+      },
+      {
+        actor: "Momoko Notomi",
+        role: "Female Student (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hziyIhBcLKqTI2MTg0SlUxLVg9e.jpg"
+      },
+      {
+        actor: "Kotaro Ishikawa",
+        role: "News Presenter (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/t8AWYr50WcDP7EXsIdt7u74i3RX.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Romance", "Drama"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "terminal illness and its emotional impact on a teenager",
+        "off-screen death of a young person",
+        "prolonged depictions of anticipatory grief",
+        "mild physical altercation between students"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:48" }
+    ],
+    awards: [
+      { body: "Japan Academy Film Prize (52nd)", category: "Animation of the Year", result: "Won", year: 2019 },
+      { body: "Anime of the Year (Crunchyroll Anime Awards)", category: "Best Film", result: "Nominated", year: 2019 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["mortality", "solitude", "vulnerability", "connection", "grief", "acceptance", "youth"],
+      mood: ["tender", "bittersweet", "mournful"],
+      fullReview: "The title stops people cold, and that is entirely intentional. Drawn from an old folk belief that consuming a sick organ helps heal it, the phrase that names this film is a confession — a strange, oblique declaration of closeness between two people who have agreed to spend what little time remains together before one of them disappears. The film opens with a young man, now an adult, learning that a former classmate has died. What follows is a memory: a high school year in which he, a self-sufficient loner who has never needed anyone, became the only person in the world who knew that the brightest girl in his class was dying of pancreatic disease.\n\nYoru Sumino\'s source novel was a publishing phenomenon in Japan, and it is easy to understand why. The central dynamic between Haruki — closed-off, fond of books precisely because they ask nothing of him — and Sakura — vivid, curious, apparently fearless about her own ending — is the kind of pairing that romantic fiction has always known how to exploit. What lifts this above formula is that the film takes both characters seriously as people rather than as archetypes. Sakura\'s brightness is not naive. She knows what she is doing when she drags this quiet, resistant boy into her final chapter. She chose him specifically because he would not treat her as a dying girl. He would treat her as a person — and in doing so, he would have to become one too.\n\nShinichiro Ushijima\'s direction is unhurried, attentive to the texture of ordinary days. The animation, warm and luminous throughout, renders the world of sunlit school corridors and early spring cherry blossoms with the quality of something remembered from a great distance — slightly brightened by nostalgia, slightly aching for the same reason. Hiroko Sebu\'s score works in the same register: gentle, spare, never working too hard to manufacture feeling because the situation generates it naturally.\n\nLynn\'s voice performance as Sakura is the film\'s most essential contribution. She threads the needle between a character who performs effortless joy and a character who is, underneath it, genuinely joyful — someone who has made a deliberate choice to live rather than simply wait. The few moments where that performance slips to reveal something more frightened beneath are handled with restraint, which is the right call. The film trusts its audience to understand what is not being said.\n\nThe framing device — adult Haruki in the present tense, revisiting his hometown — is the film\'s primary structural weakness. It front-loads knowledge of the outcome in a way that occasionally dilutes the tension that the central memory generates on its own terms. The film knows this too: the present-day scenes are comparatively thin, and the weight of the final act rests almost entirely on the past. A secondary emotional revelation near the end, involving a character left behind, is handled deftly but arrives slightly too late to fully integrate with what has come before, giving the film\'s conclusion the feeling of stacked catharsis rather than a single, clean release.\n\nNone of this undoes what the film achieves in its middle sections, where two young people sit in hospital cafeterias and travel together and lie badly to each other about how this is going to end. There is a particular sequence — the two of them stuck in a hotel room during a rainstorm, with nothing to do but talk — that captures the specific quality of a friendship that happens too fast because it has to, where the accelerated intimacy of shared mortality produces something that slower connections might never reach.\n\nThe film is not for everyone. Its emotional pitch is high, its sentiment unguarded. Anyone allergic to the more earnest conventions of Japanese young-adult fiction will find the whole enterprise too willing to reach for tears. But for those who can meet it where it lives, it offers something genuine: a reminder that the people who teach us how to be present are rarely the ones who have the most time."
     }
-  ],
-  screenplay: [
-    {
-      name: "Mamoru Hosoda",
-      photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
-    }
-  ],
-  cast: [
-    {
-      actor: "Moka Kamishiraishi",
-      role: "Kun (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/aBF4RdFWZbxyYVnQslgl3F5uCzR.jpg"
-    },
-    {
-      actor: "Haru Kuroki",
-      role: "Mirai (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
-    },
-    {
-      actor: "Gen Hoshino",
-      role: "Father (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/3DBWEx7MXbtesEvBcfpzyZF42OL.jpg"
-    },
-    {
-      actor: "Kumiko Aso",
-      role: "Mother (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/pVOiHNMaIpue64dRg1GbXnSmMJK.jpg"
-    },
-    {
-      actor: "Mitsuo Yoshihara",
-      role: "Mysterious Man (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/plFu5yi71UA9HSSNRPbNVD3MTDf.jpg"
-    },
-    {
-      actor: "Yoshiko Miyazaki",
-      role: "Grandmother (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/uFdHiD3I9sKUHsfmQVGMMy6ueMm.jpg"
-    },
-    {
-      actor: "Koji Yakusho",
-      role: "Grandfather (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
-    },
-    {
-      actor: "Masaharu Fukuyama",
-      role: "Young Man (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/nQzW8rkEh9unI1BbzRpinRW2SsH.jpg"
-    },
-    {
-      actor: "Kaede Hondo",
-      role: "Baby Mirai (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg"
-    },
-    {
-      actor: "Daniel Dae Kim",
-      role: "Great-Grandfather / Young Man (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg"
-    }
-  ],
-  languages: ["Japanese"],
-  genres: ["Animation", "Fantasy", "Drama", "Family"],
-  viewerRating: {
-    rating: "PG",
-    descriptors: [
-      "repeated emotional outbursts and tantrums from a young child",
-      "mild fantasy sequences with surreal and occasionally disorienting imagery",
-      "brief depiction of wartime danger in a historical flashback",
-      "low-level household conflict and parental exhaustion"
-    ]
   },
-  runtime: [
-    { version: "Theatrical Cut", duration: "1:38" }
-  ],
-  awards: [
-    { body: "Japan Academy Film Prize (42nd)", category: "Animation of the Year", result: "Won", year: 2019 },
-    { body: "Academy Awards (91st)", category: "Best Animated Feature Film", result: "Nominated", year: 2019 },
-    { body: "Annie Awards (47th)", category: "Outstanding Achievement for Animated Feature", result: "Nominated", year: 2019 },
-    { body: "Annie Awards (47th)", category: "Outstanding Achievement for Character Animation in an Animated Feature Production", result: "Nominated", year: 2019 },
-    { body: "Annie Awards (47th)", category: "Outstanding Achievement for Writing in an Animated Feature Production", result: "Nominated", year: 2019 }
-  ],
-  criticRating: "Decent",
-  review: {
-    themes: ["jealousy", "inheritance", "childhood", "legacy", "memory", "belonging", "growth"],
-    mood: ["tender", "dreamlike", "wistful"],
-    fullReview: "Four-year-old Kun has been the uncontested center of his family\'s universe for his entire short life — and then Mirai arrives. The baby sister is squalling, helpless, and immediately redistributes every scrap of parental attention in the household. The family home, a marvel of interlocking terraces and split-level architecture nestled in a quiet Japanese neighborhood, becomes something stranger when Kun retreats to its small garden: a threshold between the present and the rest of his family\'s history, through which he encounters ancestors, a future version of his sibling, and people he loves at ages he has never known them.\n\nMamoru Hosoda made this film during the years he was becoming a father, and that autobiographical weight is everywhere. Mirai is a film about learning to share, about the bewildering shock of no longer being singular, about how families are chains of ordinary people who had to untangle the same knots as everyone before them. There is real tenderness in that idea. The house itself — rendered with a specificity of texture and light that Studio Chizu has quietly made its signature — grounds what could have been a shapeless magical-realist exercise in something that feels genuinely inhabited.\n\nAnd yet the film\'s central problem is built into its own premise. Kun is, by functional necessity, a tantrum machine — a four-year-old who screams, throws things, sulks, and refuses comfort in exactly the way four-year-olds actually do. Hosoda commits fully to this authenticity, and in principle that commitment is admirable. In practice, spending ninety-eight minutes inside the psyche of a character who cannot yet articulate anything beyond immediate want is an endurance test that the surrounding magic does not consistently offset. Each visit through the garden portal is structurally self-contained — a vignette in which Kun learns something modest — and the cumulative effect is more episodic than developmental. The moments do not build toward each other so much as accrue alongside each other, which gives the film an unusual flatness of emotional momentum for a work so clearly invested in feeling.\n\nWhat saves those individual moments is the craft. Hosoda\'s animators handle the domestic spaces with tactile warmth: the weight of small bodies tumbling over furniture, the specific quality of late-afternoon light in a house where young children live, the way clothing moves. Masakatsu Takagi\'s score breathes around the edges of scenes rather than swelling through them, which suits the film\'s quieter registers. The sequence involving Kun\'s great-grandfather and a motorcycle — an extended, kinetic departure from the film\'s otherwise small-scale intimacy — demonstrates what Hosoda can achieve when the material allows him actual momentum, and it arrives like a gulp of fresh air.\n\nThe climax, set in an enormous abstract train station functioning as a kind of cosmic interchange for all human lives, is the film\'s most discussed sequence and also its most tonally disconnected. It is visually arresting and conceptually ambitious. Whether it lands as emotionally earned depends entirely on how much purchase a viewer has found in everything leading up to it. Those who have been at a slight remove from Kun\'s frustrations — and there will be many — may find the sequence beautiful in the way a stranger\'s home movie can be beautiful: genuinely made with love, but not quite addressed to them.\n\nWhat the film does unambiguously well is make ordinary domestic life feel weighted with time. The notion that a child\'s earliest years are not only experience but inheritance — that a family is a living relay across generations, each link having to figure things out in its own stumbling way — is handled with genuine thoughtfulness and without sentimentality. Hosoda does not glamorize parenthood or childhood. He holds both up to the light and lets them refract.\n\nThis is not Hosoda at his most architecturally confident. Wolf Children managed what Mirai attempts — deploying magical elements to anchor emotional truths about parenthood and generational identity — with considerably more structural control and cumulative force. Mirai feels like the same director operating on instinct and personal feeling rather than on construction, and the difference is audible in the film\'s uneven rhythms. It is a film of passages rather than a journey. Whether that reads as a flaw or as an honest formal choice will depend on what each viewer brings to the garden gate."
-  }
-},
-{
-  id: "weathering-with-you-2019",
-  title: "Weathering with You",
-  originalTitle: "天気の子",
-  romanization: "Tenki no Ko",
-  year: 2019,
-  tagline: "A story about the secret of this world that only I and she know.",
-  titleLogoUrl: "https://image.tmdb.org/t/p/original/fefN0b0cWtyFbHNF7bsSxL9yEn9.png",
-  posterUrl: "https://image.tmdb.org/t/p/original/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
-  backdropUrl: "https://image.tmdb.org/t/p/original/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
-  trailerUrl: "https://www.youtube.com/watch?v=Q6iK6DjV_iE",
-  director: [
-    {
-      name: "Makoto Shinkai",
-      photoUrl: "https://image.tmdb.org/t/p/w185/mSCk6PmAR99bCsKJYlMx94vq5qe.jpg"
+  {
+    id: "mirai-2018",
+    title: "Mirai",
+    originalTitle: "未来のミライ",
+    romanization: "Mirai no Mirai",
+    year: 2018,
+    tagline: "I have met the future.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/u9ymGWdtM9t2iTE8epitrx3G1er.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/53H7JtbElETTstolwTnTDxcG5So.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=6d-lsJZgmJs",
+    director: [
+      {
+        name: "Mamoru Hosoda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Mamoru Hosoda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Moka Kamishiraishi",
+        role: "Kun (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aBF4RdFWZbxyYVnQslgl3F5uCzR.jpg"
+      },
+      {
+        actor: "Haru Kuroki",
+        role: "Mirai (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
+      },
+      {
+        actor: "Gen Hoshino",
+        role: "Father (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3DBWEx7MXbtesEvBcfpzyZF42OL.jpg"
+      },
+      {
+        actor: "Kumiko Aso",
+        role: "Mother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pVOiHNMaIpue64dRg1GbXnSmMJK.jpg"
+      },
+      {
+        actor: "Mitsuo Yoshihara",
+        role: "Mysterious Man (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/plFu5yi71UA9HSSNRPbNVD3MTDf.jpg"
+      },
+      {
+        actor: "Yoshiko Miyazaki",
+        role: "Grandmother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uFdHiD3I9sKUHsfmQVGMMy6ueMm.jpg"
+      },
+      {
+        actor: "Koji Yakusho",
+        role: "Grandfather (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
+      },
+      {
+        actor: "Masaharu Fukuyama",
+        role: "Young Man (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nQzW8rkEh9unI1BbzRpinRW2SsH.jpg"
+      },
+      {
+        actor: "Kaede Hondo",
+        role: "Baby Mirai (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/11BcHnuJYrOZhIftgUiQqfm7TK6.jpg"
+      },
+      {
+        actor: "Daniel Dae Kim",
+        role: "Great-Grandfather / Young Man (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Fantasy", "Drama", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "repeated emotional outbursts and tantrums from a young child",
+        "mild fantasy sequences with surreal and occasionally disorienting imagery",
+        "brief depiction of wartime danger in a historical flashback",
+        "low-level household conflict and parental exhaustion"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:38" }
+    ],
+    awards: [
+      { body: "Japan Academy Film Prize (42nd)", category: "Animation of the Year", result: "Won", year: 2019 },
+      { body: "Academy Awards (91st)", category: "Best Animated Feature Film", result: "Nominated", year: 2019 },
+      { body: "Annie Awards (47th)", category: "Outstanding Achievement for Animated Feature", result: "Nominated", year: 2019 },
+      { body: "Annie Awards (47th)", category: "Outstanding Achievement for Character Animation in an Animated Feature Production", result: "Nominated", year: 2019 },
+      { body: "Annie Awards (47th)", category: "Outstanding Achievement for Writing in an Animated Feature Production", result: "Nominated", year: 2019 }
+    ],
+    criticRating: "Decent",
+    review: {
+      themes: ["jealousy", "inheritance", "childhood", "legacy", "memory", "belonging", "growth"],
+      mood: ["tender", "dreamlike", "wistful"],
+      fullReview: "Four-year-old Kun has been the uncontested center of his family\'s universe for his entire short life — and then Mirai arrives. The baby sister is squalling, helpless, and immediately redistributes every scrap of parental attention in the household. The family home, a marvel of interlocking terraces and split-level architecture nestled in a quiet Japanese neighborhood, becomes something stranger when Kun retreats to its small garden: a threshold between the present and the rest of his family\'s history, through which he encounters ancestors, a future version of his sibling, and people he loves at ages he has never known them.\n\nMamoru Hosoda made this film during the years he was becoming a father, and that autobiographical weight is everywhere. Mirai is a film about learning to share, about the bewildering shock of no longer being singular, about how families are chains of ordinary people who had to untangle the same knots as everyone before them. There is real tenderness in that idea. The house itself — rendered with a specificity of texture and light that Studio Chizu has quietly made its signature — grounds what could have been a shapeless magical-realist exercise in something that feels genuinely inhabited.\n\nAnd yet the film\'s central problem is built into its own premise. Kun is, by functional necessity, a tantrum machine — a four-year-old who screams, throws things, sulks, and refuses comfort in exactly the way four-year-olds actually do. Hosoda commits fully to this authenticity, and in principle that commitment is admirable. In practice, spending ninety-eight minutes inside the psyche of a character who cannot yet articulate anything beyond immediate want is an endurance test that the surrounding magic does not consistently offset. Each visit through the garden portal is structurally self-contained — a vignette in which Kun learns something modest — and the cumulative effect is more episodic than developmental. The moments do not build toward each other so much as accrue alongside each other, which gives the film an unusual flatness of emotional momentum for a work so clearly invested in feeling.\n\nWhat saves those individual moments is the craft. Hosoda\'s animators handle the domestic spaces with tactile warmth: the weight of small bodies tumbling over furniture, the specific quality of late-afternoon light in a house where young children live, the way clothing moves. Masakatsu Takagi\'s score breathes around the edges of scenes rather than swelling through them, which suits the film\'s quieter registers. The sequence involving Kun\'s great-grandfather and a motorcycle — an extended, kinetic departure from the film\'s otherwise small-scale intimacy — demonstrates what Hosoda can achieve when the material allows him actual momentum, and it arrives like a gulp of fresh air.\n\nThe climax, set in an enormous abstract train station functioning as a kind of cosmic interchange for all human lives, is the film\'s most discussed sequence and also its most tonally disconnected. It is visually arresting and conceptually ambitious. Whether it lands as emotionally earned depends entirely on how much purchase a viewer has found in everything leading up to it. Those who have been at a slight remove from Kun\'s frustrations — and there will be many — may find the sequence beautiful in the way a stranger\'s home movie can be beautiful: genuinely made with love, but not quite addressed to them.\n\nWhat the film does unambiguously well is make ordinary domestic life feel weighted with time. The notion that a child\'s earliest years are not only experience but inheritance — that a family is a living relay across generations, each link having to figure things out in its own stumbling way — is handled with genuine thoughtfulness and without sentimentality. Hosoda does not glamorize parenthood or childhood. He holds both up to the light and lets them refract.\n\nThis is not Hosoda at his most architecturally confident. Wolf Children managed what Mirai attempts — deploying magical elements to anchor emotional truths about parenthood and generational identity — with considerably more structural control and cumulative force. Mirai feels like the same director operating on instinct and personal feeling rather than on construction, and the difference is audible in the film\'s uneven rhythms. It is a film of passages rather than a journey. Whether that reads as a flaw or as an honest formal choice will depend on what each viewer brings to the garden gate."
     }
-  ],
-  screenplay: [
-    {
-      name: "Makoto Shinkai",
-      photoUrl: "https://image.tmdb.org/t/p/w185/mSCk6PmAR99bCsKJYlMx94vq5qe.jpg"
-    }
-  ],
-  cast: [
-    {
-      actor: "Kotaro Daigo",
-      role: "Hodaka Morishima (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/i2pNaX2x4naW6Eyf4SGPypqh7To.jpg"
-    },
-    {
-      actor: "Nana Mori",
-      role: "Hina Amano (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/92cSvqzUVbancmqFmtfgdIVBh6s.jpg"
-    },
-    {
-      actor: "Tsubasa Honda",
-      role: "Natsumi Suga (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/1xdR7FXHc3zeRrMyy5qHlDQr9Ou.jpg"
-    },
-    {
-      actor: "Sakura Kiryu",
-      role: "Nagisa Amano (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/jS96RwYZLaPPhlvxKzJmb8ItURN.jpg"
-    },
-    {
-      actor: "Sei Hiraizumi",
-      role: "Yasui (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/4zrn7ltgOCvjyk9CWrhmsS7yrlc.jpg"
-    },
-    {
-      actor: "Chieko Baisho",
-      role: "Fumi Tachibana (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/b8ANR4WfdUZtoU4ktlnMFzbq759.jpg"
-    },
-    {
-      actor: "Shun Oguri",
-      role: "Keisuke Suga (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg"
-    },
-    {
-      actor: "Yuki Kaji",
-      role: "Takai (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
-    },
-    {
-      actor: "Sumi Shimamoto",
-      role: "Mamiya (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/iKIDv2VFpAgzJ0uMQi7pzcMHB9i.jpg"
-    },
-    {
-      actor: "Moe Katsuki",
-      role: "Moka Suga (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/sKuckeQVhy3xYVnhlm3EwiVwEj6.jpg"
-    },
-    {
-      actor: "Ryohei Kimura",
-      role: "Kimura (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/m4GktFKhjrVTewsZtqTusInHZqT.jpg"
-    },
-    {
-      actor: "Kana Hanazawa",
-      role: "Kana (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
-    },
-    {
-      actor: "Ayane Sakura",
-      role: "Ayane (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
-    },
-    {
-      actor: "Kana Ichinose",
-      role: "Sasaki (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/hBJx5tpLA2vkXqfkPZosGjW4e8C.jpg"
-    },
-    {
-      actor: "Masako Nozawa",
-      role: "Fortuneteller (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
-    },
-    {
-      actor: "Hidekatsu Shibata",
-      role: "Priest (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg"
-    },
-    {
-      actor: "Ryunosuke Kamiki",
-      role: "Taki Tachibana (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
-    },
-    {
-      actor: "Mone Kamishiraishi",
-      role: "Mitsuha Miyamizu (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/cPydoy2sSqFDsbXeBPmzQGPmq0R.jpg"
-    },
-    {
-      actor: "Ryo Narita",
-      role: "Katsuhiko Teshigawara (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/f42OXn4J7cM62wtykL196YW7x85.jpg"
-    },
-    {
-      actor: "Aoi Yuuki",
-      role: "Sayaka Natori (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
-    },
-    {
-      actor: "Kanon Tani",
-      role: "Yotsuha Miyamizu (voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/udR4Cax2EecH3ZkATE4h6ejiGD9.jpg"
-    },
-    {
-      actor: "Hikaru Ikuta",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/6n7Cj8hI0jXRYIdU5AOTBFTAez1.jpg"
-    },
-    {
-      actor: "Shuichiro Umeda",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/dCr870q8ojD6qpD1hmS1sdvh2pe.jpg"
-    },
-    {
-      actor: "Kosuke Echigoya",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/ehEQGlr5ORQ5DPWWNvqqnMYvppZ.jpg"
-    },
-    {
-      actor: "Yuki Ominami",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/AoH08rfioWXIPcgF70Xv9uCOtB.jpg"
-    },
-    {
-      actor: "Ai Kaneta",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/sStufM2reZ84EpAysNdhLsrr6BM.jpg"
-    },
-    {
-      actor: "Noriaki Kanze",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/oMtucEisqIrqRVrhIgdMfqusKY2.jpg"
-    },
-    {
-      actor: "Yasuhiro Kikuchi",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/izNQyTUzNaKOwOOvXkBSbvZyP0O.jpg"
-    },
-    {
-      actor: "Sayaka Kitahara",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/72qZvVj7HhxeakXCN8g6xwW0Rns.jpg"
-    },
-    {
-      actor: "Shinjirou Gouda",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/nB7P927JF3Jx9o6xfsniEyKX3HH.jpg"
-    },
-    {
-      actor: "Eito Kogusuri",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/nNxM5UF4Xu8G0udW5aV1UI15FZN.jpg"
-    },
-    {
-      actor: "Iori Saeki",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/sh4p5hiUgpwOPErjtcXGlEzrHK.jpg"
-    },
-    {
-      actor: "Asumi Sakamoto",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/7nhQM4hcZqWxI6FPZfOVXcapSJR.jpg"
-    },
-    {
-      actor: "Yusuke Sasaki",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/1PTlnypdfoquT6aYz0QWbxIoWPx.jpg"
-    },
-    {
-      actor: "Yuuki Shin",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/pyOAlLSA9ZabbVy5HD8j9QuUdV8.jpg"
-    },
-    {
-      actor: "Takahiro Sumi",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/iHjM0MjIjbWOGG4YK1TqlB9H9yI.jpg"
-    },
-    {
-      actor: "Arisa Sekine",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/z8GTafCwhgx6cgjpuUWHOWXZCkg.jpg"
-    },
-    {
-      actor: "Taichi Takeda",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/nyE5uckjUe7GKxsqzaqSYCPuTSI.jpg"
-    },
-    {
-      actor: "Shinya Takahashi",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/19DN4yrD9c3E7BWthVEqvwhQNdb.jpg"
-    },
-    {
-      actor: "Akihiro Tajima",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/1z3o2q5JjQBDsRgRYCcKlCJo4tQ.jpg"
-    },
-    {
-      actor: "Miho Tabata",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/lCyRi1n5ypNIBGCwZtjLDOytTiK.jpg"
-    },
-    {
-      actor: "Takaaki Torashima",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/5aeG0SZ46XukmNJDOSTp2MfKvIc.jpg"
-    },
-    {
-      actor: "Genta Nakamura",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg"
-    },
-    {
-      actor: "Takayuki Nakatsukasa",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/u7is3U9DHZchUVrlPM2D2AEflAr.jpg"
-    },
-    {
-      actor: "Kyosuke Nitta",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/8bIo4XaGak4CtSvWiBJa0rFPnC0.jpg"
-    },
-    {
-      actor: "Masato Niwa",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/hNKDvatX9IKY5RiSYEvPd81Yn2J.jpg"
-    },
-    {
-      actor: "Nodoka Hasegawa",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/gZn9jnapSyTZwhtR29LqXrzvXR9.jpg"
-    },
-    {
-      actor: "Manami Hanawa",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/25HItfz2Bj2WKG0SyJIX3MMRZM3.jpg"
-    },
-    {
-      actor: "Taito Ban",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg"
-    },
-    {
-      actor: "Saya Hirose",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/r9C8RyqBHX4GVoSrlX8JETO64dO.jpg"
-    },
-    {
-      actor: "Katsumi Fukuhara",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/ijpwBGoo3iPmb9v1Oh4Fz9CFzOx.jpg"
-    },
-    {
-      actor: "Asuka Maesako",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/8bRQEAUviyiIx7o4VKlyF49pv9I.jpg"
-    },
-    {
-      actor: "Hiroki Matsukawa",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/5ZcmaOEaIUZm4tpOHjQcs3HtEPM.jpg"
-    },
-    {
-      actor: "Tomoya Matsubara",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/8Z8qbHNjYmWq4u0gAkYoMKwnJ8K.jpg"
-    },
-    {
-      actor: "Raika Minami",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/tZC6IdbEHr1XWzJpdoGOo6FKTDs.jpg"
-    },
-    {
-      actor: "Shinnosuke Musashi",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/jKEs3oWMAt7IHtdAYg04P9Ryqof.jpg"
-    },
-    {
-      actor: "Kaori Motoyama",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/yngmc2iUXBs4xuSw302gd2saQNl.jpg"
-    },
-    {
-      actor: "Riri Yoshikawa",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/m62yGrNTRTcpFjj3nG5r4I9yG3E.jpg"
-    },
-    {
-      actor: "Joichiro Yoshida",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/uy3bQ2FCWBeQGTgvQfCa1mHC7U0.jpg"
-    },
-    {
-      actor: "Tomoki Lavernhe",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/jgHgfx6PIydgM7Hlk2dF7NfEFTs.jpg"
-    },
-    {
-      actor: "Kentaro Araki",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/aP9l59spkhWYXJztQWGNm45dRUM.jpg"
-    },
-    {
-      actor: "Shin\'ichi Hatori",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/hU5C3QKuzZH1kTeuPCgjYds6EXk.jpg"
-    },
-    {
-      actor: "Naoko Hara",
-      role: "(voice)",
-      photoUrl: "https://image.tmdb.org/t/p/w185/6OkbqMENaAc1oXctajIpJyVcRu4.jpg"
-    }
-  ],
-  languages: ["Japanese"],
-  genres: ["Animation", "Romance", "Fantasy", "Drama"],
-  viewerRating: {
-    rating: "T-13",
-    descriptors: [
-      "unsupervised teenage runaway living on Tokyo streets",
-      "brief depiction of a minor handling and discharging a firearm",
-      "mild alcohol consumption by a minor",
-      "romantic scenes between teenagers without sexual content",
-      "supernatural peril involving heights and atmospheric phenomena",
-      "brief police pursuit and detention of a minor"
-    ]
   },
-  runtime: [
-    { version: "Theatrical Cut", duration: "1:52" }
-  ],
-  awards: [
-    { body: "Japan Academy Film Prize (43rd)", category: "Animation of the Year", result: "Won", year: 2020 },
-    { body: "Mainichi Film Awards (75th)", category: "Best Animated Film", result: "Won", year: 2020 },
-    { body: "Blue Ribbon Awards (62nd)", category: "Best Film", result: "Won", year: 2020 },
-    { body: "Annie Awards (48th)", category: "Outstanding Achievement for Animated Feature", result: "Nominated", year: 2021 }
-  ],
-  criticRating: "Solid",
-  review: {
-    themes: ["sacrifice", "consequence", "escape", "belonging", "love", "displacement", "choice"],
-    mood: ["luminous", "yearning", "bittersweet"],
-    fullReview: "Hodaka Morishima is sixteen years old, broke, and sleeping on park benches in Tokyo when he meets Hina Amano, a girl who carries something extraordinary inside her. On her clearest days, she can open the sky. The city has been submerged in relentless, climatically wrong rain for weeks, and Hina can stop it — briefly, imperfectly, at a cost she keeps to herself. The two of them, young and unsupervised and finding each other in the crush of the metropolis, build a small business around her gift. What neither can quite see yet is what that gift is made of.\n\nThe film Makoto Shinkai made in the wake of Your Name carries the same DNA — teenage romance, supernatural intervention, Tokyo rendered with photorealist devotion — but it arrives at a fundamentally different emotional destination. Where its predecessor was about searching, this one is about choosing. The distinction matters enormously, because the choice at the center of Weathering with You is genuinely uncomfortable, and whether the film earns that discomfort or merely aestheticizes it is the question worth sitting with long after the credits dissolve.\n\nWhat is beyond argument is the sheer visual ambition of what Shinkai and CoMix Wave have put on screen. The rain in this film is not background — it is a living presence, silver and relentless, coursing through Tokyo\'s drainage systems and pooling on rooftops and fracturing the neon of Shinjuku into something hallucinatory. The sunshine sequences, by contrast, arrive with the force of something long withheld. Hina parts the clouds and suddenly the city breathes. The contrast is not subtle, but it is earned through sustained craft — individual frames composed with such lavish attention to light and precipitation that the film could be paused at nearly any moment and found worth studying. It is among the most beautiful animated films of its decade, full stop.\n\nThe romance at the center unfolds with the particular sincerity that has become Shinkai\'s most reliable quality — earnest, occasionally clumsy, arriving at its emotional peaks through accumulation rather than manufactured event. The two central voice performances are warm without curdling into sweetness, and the relationship between Hodaka and Hina feels genuinely developed rather than plotted to produce a payoff. Yojiro Noda\'s score does significant emotional labor throughout — arguably more than it should, cuing responses the images might have earned on their own with greater restraint — but the integration of music and visual is handled with more discipline than in Your Name, and several sequences land with real force.\n\nWhere the film strains is in its secondary architecture. Keisuke Suga, Hodaka\'s reluctant employer and makeshift guardian, is given enough texture to suggest a fully inhabited character but not enough screen time to become one. His niece Natsumi drifts in and out of the narrative without ever fully anchoring in it. The mythology around Hina\'s ability — the cosmological stakes, the history of weather maidens — is laid in with sufficient specificity to generate genuine unease, but the worldbuilding stops short of feeling fully thought through. These are not fatal problems, but they create patches of slack in a film that, at its best, has no slack at all.\n\nThe ending is the film\'s most discussed element and its most deliberately polarizing. Shinkai makes a narrative choice that conventional disaster-movie logic would forbid, and he commits to it without apology. The emotional logic is airtight. The ethical logic is left as a void — a space where consequences should be reckoned with and are instead given over to sensation. Some viewers will experience this as genuine courage: a film that elects love over responsibility and makes that feel not just understandable but right. Others will read it as evasion dressed in beautiful clothes. Both responses are defensible, which may be the film\'s most interesting quality — it produces an unresolved feeling that resurfaces, unprompted, when the next day\'s rain arrives.\n\nThis is not Shinkai working at peak structural control. Your Name managed the mechanics of its central premise with sharper precision, and its emotional payoff felt more rigorously constructed. But Weathering with You has something its predecessor does not quite have: a willingness to be wrong about what it wants. It pursues its conclusion recklessly and does not clean up after itself. That quality — selfish, young, entirely consistent with the characters at its center — gives the film a texture that lingers past what its plot deserves.\n\nViewers who respond to Shinkai\'s particular frequency — teenage longing rendered in impossible color, a Japan that exists slightly to the left of the real one — will find this essential. Those arriving from Your Name expecting equivalent structural satisfaction may leave with something stranger: a film that traded coherence for conviction and found the trade worthwhile."
-  }
-},
+  {
+    id: "weathering-with-you-2019",
+    title: "Weathering with You",
+    originalTitle: "天気の子",
+    romanization: "Tenki no Ko",
+    year: 2019,
+    tagline: "A story about the secret of this world that only I and she know.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/fefN0b0cWtyFbHNF7bsSxL9yEn9.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Q6iK6DjV_iE",
+    director: [
+      {
+        name: "Makoto Shinkai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mSCk6PmAR99bCsKJYlMx94vq5qe.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Makoto Shinkai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mSCk6PmAR99bCsKJYlMx94vq5qe.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Kotaro Daigo",
+        role: "Hodaka Morishima (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i2pNaX2x4naW6Eyf4SGPypqh7To.jpg"
+      },
+      {
+        actor: "Nana Mori",
+        role: "Hina Amano (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/92cSvqzUVbancmqFmtfgdIVBh6s.jpg"
+      },
+      {
+        actor: "Tsubasa Honda",
+        role: "Natsumi Suga (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1xdR7FXHc3zeRrMyy5qHlDQr9Ou.jpg"
+      },
+      {
+        actor: "Sakura Kiryu",
+        role: "Nagisa Amano (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jS96RwYZLaPPhlvxKzJmb8ItURN.jpg"
+      },
+      {
+        actor: "Sei Hiraizumi",
+        role: "Yasui (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4zrn7ltgOCvjyk9CWrhmsS7yrlc.jpg"
+      },
+      {
+        actor: "Chieko Baisho",
+        role: "Fumi Tachibana (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b8ANR4WfdUZtoU4ktlnMFzbq759.jpg"
+      },
+      {
+        actor: "Shun Oguri",
+        role: "Keisuke Suga (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg"
+      },
+      {
+        actor: "Yuki Kaji",
+        role: "Takai (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+      },
+      {
+        actor: "Sumi Shimamoto",
+        role: "Mamiya (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iKIDv2VFpAgzJ0uMQi7pzcMHB9i.jpg"
+      },
+      {
+        actor: "Moe Katsuki",
+        role: "Moka Suga (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sKuckeQVhy3xYVnhlm3EwiVwEj6.jpg"
+      },
+      {
+        actor: "Ryohei Kimura",
+        role: "Kimura (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m4GktFKhjrVTewsZtqTusInHZqT.jpg"
+      },
+      {
+        actor: "Kana Hanazawa",
+        role: "Kana (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+      },
+      {
+        actor: "Ayane Sakura",
+        role: "Ayane (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+      },
+      {
+        actor: "Kana Ichinose",
+        role: "Sasaki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hBJx5tpLA2vkXqfkPZosGjW4e8C.jpg"
+      },
+      {
+        actor: "Masako Nozawa",
+        role: "Fortuneteller (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg"
+      },
+      {
+        actor: "Hidekatsu Shibata",
+        role: "Priest (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg"
+      },
+      {
+        actor: "Ryunosuke Kamiki",
+        role: "Taki Tachibana (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        actor: "Mone Kamishiraishi",
+        role: "Mitsuha Miyamizu (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cPydoy2sSqFDsbXeBPmzQGPmq0R.jpg"
+      },
+      {
+        actor: "Ryo Narita",
+        role: "Katsuhiko Teshigawara (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f42OXn4J7cM62wtykL196YW7x85.jpg"
+      },
+      {
+        actor: "Aoi Yuuki",
+        role: "Sayaka Natori (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+      },
+      {
+        actor: "Kanon Tani",
+        role: "Yotsuha Miyamizu (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/udR4Cax2EecH3ZkATE4h6ejiGD9.jpg"
+      },
+      {
+        actor: "Hikaru Ikuta",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6n7Cj8hI0jXRYIdU5AOTBFTAez1.jpg"
+      },
+      {
+        actor: "Shuichiro Umeda",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dCr870q8ojD6qpD1hmS1sdvh2pe.jpg"
+      },
+      {
+        actor: "Kosuke Echigoya",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ehEQGlr5ORQ5DPWWNvqqnMYvppZ.jpg"
+      },
+      {
+        actor: "Yuki Ominami",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AoH08rfioWXIPcgF70Xv9uCOtB.jpg"
+      },
+      {
+        actor: "Ai Kaneta",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sStufM2reZ84EpAysNdhLsrr6BM.jpg"
+      },
+      {
+        actor: "Noriaki Kanze",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oMtucEisqIrqRVrhIgdMfqusKY2.jpg"
+      },
+      {
+        actor: "Yasuhiro Kikuchi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/izNQyTUzNaKOwOOvXkBSbvZyP0O.jpg"
+      },
+      {
+        actor: "Sayaka Kitahara",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/72qZvVj7HhxeakXCN8g6xwW0Rns.jpg"
+      },
+      {
+        actor: "Shinjirou Gouda",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nB7P927JF3Jx9o6xfsniEyKX3HH.jpg"
+      },
+      {
+        actor: "Eito Kogusuri",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nNxM5UF4Xu8G0udW5aV1UI15FZN.jpg"
+      },
+      {
+        actor: "Iori Saeki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sh4p5hiUgpwOPErjtcXGlEzrHK.jpg"
+      },
+      {
+        actor: "Asumi Sakamoto",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7nhQM4hcZqWxI6FPZfOVXcapSJR.jpg"
+      },
+      {
+        actor: "Yusuke Sasaki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1PTlnypdfoquT6aYz0QWbxIoWPx.jpg"
+      },
+      {
+        actor: "Yuuki Shin",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pyOAlLSA9ZabbVy5HD8j9QuUdV8.jpg"
+      },
+      {
+        actor: "Takahiro Sumi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iHjM0MjIjbWOGG4YK1TqlB9H9yI.jpg"
+      },
+      {
+        actor: "Arisa Sekine",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z8GTafCwhgx6cgjpuUWHOWXZCkg.jpg"
+      },
+      {
+        actor: "Taichi Takeda",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nyE5uckjUe7GKxsqzaqSYCPuTSI.jpg"
+      },
+      {
+        actor: "Shinya Takahashi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/19DN4yrD9c3E7BWthVEqvwhQNdb.jpg"
+      },
+      {
+        actor: "Akihiro Tajima",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1z3o2q5JjQBDsRgRYCcKlCJo4tQ.jpg"
+      },
+      {
+        actor: "Miho Tabata",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lCyRi1n5ypNIBGCwZtjLDOytTiK.jpg"
+      },
+      {
+        actor: "Takaaki Torashima",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5aeG0SZ46XukmNJDOSTp2MfKvIc.jpg"
+      },
+      {
+        actor: "Genta Nakamura",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg"
+      },
+      {
+        actor: "Takayuki Nakatsukasa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u7is3U9DHZchUVrlPM2D2AEflAr.jpg"
+      },
+      {
+        actor: "Kyosuke Nitta",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8bIo4XaGak4CtSvWiBJa0rFPnC0.jpg"
+      },
+      {
+        actor: "Masato Niwa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hNKDvatX9IKY5RiSYEvPd81Yn2J.jpg"
+      },
+      {
+        actor: "Nodoka Hasegawa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gZn9jnapSyTZwhtR29LqXrzvXR9.jpg"
+      },
+      {
+        actor: "Manami Hanawa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/25HItfz2Bj2WKG0SyJIX3MMRZM3.jpg"
+      },
+      {
+        actor: "Taito Ban",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg"
+      },
+      {
+        actor: "Saya Hirose",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r9C8RyqBHX4GVoSrlX8JETO64dO.jpg"
+      },
+      {
+        actor: "Katsumi Fukuhara",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ijpwBGoo3iPmb9v1Oh4Fz9CFzOx.jpg"
+      },
+      {
+        actor: "Asuka Maesako",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8bRQEAUviyiIx7o4VKlyF49pv9I.jpg"
+      },
+      {
+        actor: "Hiroki Matsukawa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5ZcmaOEaIUZm4tpOHjQcs3HtEPM.jpg"
+      },
+      {
+        actor: "Tomoya Matsubara",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8Z8qbHNjYmWq4u0gAkYoMKwnJ8K.jpg"
+      },
+      {
+        actor: "Raika Minami",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tZC6IdbEHr1XWzJpdoGOo6FKTDs.jpg"
+      },
+      {
+        actor: "Shinnosuke Musashi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jKEs3oWMAt7IHtdAYg04P9Ryqof.jpg"
+      },
+      {
+        actor: "Kaori Motoyama",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yngmc2iUXBs4xuSw302gd2saQNl.jpg"
+      },
+      {
+        actor: "Riri Yoshikawa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m62yGrNTRTcpFjj3nG5r4I9yG3E.jpg"
+      },
+      {
+        actor: "Joichiro Yoshida",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uy3bQ2FCWBeQGTgvQfCa1mHC7U0.jpg"
+      },
+      {
+        actor: "Tomoki Lavernhe",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jgHgfx6PIydgM7Hlk2dF7NfEFTs.jpg"
+      },
+      {
+        actor: "Kentaro Araki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aP9l59spkhWYXJztQWGNm45dRUM.jpg"
+      },
+      {
+        actor: "Shin\'ichi Hatori",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hU5C3QKuzZH1kTeuPCgjYds6EXk.jpg"
+      },
+      {
+        actor: "Naoko Hara",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6OkbqMENaAc1oXctajIpJyVcRu4.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Romance", "Fantasy", "Drama"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "unsupervised teenage runaway living on Tokyo streets",
+        "brief depiction of a minor handling and discharging a firearm",
+        "mild alcohol consumption by a minor",
+        "romantic scenes between teenagers without sexual content",
+        "supernatural peril involving heights and atmospheric phenomena",
+        "brief police pursuit and detention of a minor"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:52" }
+    ],
+    awards: [
+      { body: "Japan Academy Film Prize (43rd)", category: "Animation of the Year", result: "Won", year: 2020 },
+      { body: "Mainichi Film Awards (75th)", category: "Best Animated Film", result: "Won", year: 2020 },
+      { body: "Blue Ribbon Awards (62nd)", category: "Best Film", result: "Won", year: 2020 },
+      { body: "Annie Awards (48th)", category: "Outstanding Achievement for Animated Feature", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Solid",
+    review: {
+      themes: ["sacrifice", "consequence", "escape", "belonging", "love", "displacement", "choice"],
+      mood: ["luminous", "yearning", "bittersweet"],
+      fullReview: "Hodaka Morishima is sixteen years old, broke, and sleeping on park benches in Tokyo when he meets Hina Amano, a girl who carries something extraordinary inside her. On her clearest days, she can open the sky. The city has been submerged in relentless, climatically wrong rain for weeks, and Hina can stop it — briefly, imperfectly, at a cost she keeps to herself. The two of them, young and unsupervised and finding each other in the crush of the metropolis, build a small business around her gift. What neither can quite see yet is what that gift is made of.\n\nThe film Makoto Shinkai made in the wake of Your Name carries the same DNA — teenage romance, supernatural intervention, Tokyo rendered with photorealist devotion — but it arrives at a fundamentally different emotional destination. Where its predecessor was about searching, this one is about choosing. The distinction matters enormously, because the choice at the center of Weathering with You is genuinely uncomfortable, and whether the film earns that discomfort or merely aestheticizes it is the question worth sitting with long after the credits dissolve.\n\nWhat is beyond argument is the sheer visual ambition of what Shinkai and CoMix Wave have put on screen. The rain in this film is not background — it is a living presence, silver and relentless, coursing through Tokyo\'s drainage systems and pooling on rooftops and fracturing the neon of Shinjuku into something hallucinatory. The sunshine sequences, by contrast, arrive with the force of something long withheld. Hina parts the clouds and suddenly the city breathes. The contrast is not subtle, but it is earned through sustained craft — individual frames composed with such lavish attention to light and precipitation that the film could be paused at nearly any moment and found worth studying. It is among the most beautiful animated films of its decade, full stop.\n\nThe romance at the center unfolds with the particular sincerity that has become Shinkai\'s most reliable quality — earnest, occasionally clumsy, arriving at its emotional peaks through accumulation rather than manufactured event. The two central voice performances are warm without curdling into sweetness, and the relationship between Hodaka and Hina feels genuinely developed rather than plotted to produce a payoff. Yojiro Noda\'s score does significant emotional labor throughout — arguably more than it should, cuing responses the images might have earned on their own with greater restraint — but the integration of music and visual is handled with more discipline than in Your Name, and several sequences land with real force.\n\nWhere the film strains is in its secondary architecture. Keisuke Suga, Hodaka\'s reluctant employer and makeshift guardian, is given enough texture to suggest a fully inhabited character but not enough screen time to become one. His niece Natsumi drifts in and out of the narrative without ever fully anchoring in it. The mythology around Hina\'s ability — the cosmological stakes, the history of weather maidens — is laid in with sufficient specificity to generate genuine unease, but the worldbuilding stops short of feeling fully thought through. These are not fatal problems, but they create patches of slack in a film that, at its best, has no slack at all.\n\nThe ending is the film\'s most discussed element and its most deliberately polarizing. Shinkai makes a narrative choice that conventional disaster-movie logic would forbid, and he commits to it without apology. The emotional logic is airtight. The ethical logic is left as a void — a space where consequences should be reckoned with and are instead given over to sensation. Some viewers will experience this as genuine courage: a film that elects love over responsibility and makes that feel not just understandable but right. Others will read it as evasion dressed in beautiful clothes. Both responses are defensible, which may be the film\'s most interesting quality — it produces an unresolved feeling that resurfaces, unprompted, when the next day\'s rain arrives.\n\nThis is not Shinkai working at peak structural control. Your Name managed the mechanics of its central premise with sharper precision, and its emotional payoff felt more rigorously constructed. But Weathering with You has something its predecessor does not quite have: a willingness to be wrong about what it wants. It pursues its conclusion recklessly and does not clean up after itself. That quality — selfish, young, entirely consistent with the characters at its center — gives the film a texture that lingers past what its plot deserves.\n\nViewers who respond to Shinkai\'s particular frequency — teenage longing rendered in impossible color, a Japan that exists slightly to the left of the real one — will find this essential. Those arriving from Your Name expecting equivalent structural satisfaction may leave with something stranger: a film that traded coherence for conviction and found the trade worthwhile."
+    }
+  },
+  {
+    id: "josee-the-tiger-and-the-fish-2020",
+    title: "Josee, the Tiger and the Fish",
+    originalTitle: "ジョゼと虎と魚たち",
+    romanization: "Josee to Tora to Sakana-tachi",
+    year: 2020,
+    tagline: "Together they can fly.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/v0shZPByCvy32331NMWzEamygAV.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/z1D8xi9x4uEhyFruo7uEHXUMD4K.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/521koHpCyK6ZeNpEAvPAuC75cJ5.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=QvgpMxoyDds",
+    director: [
+      {
+        name: "Kotaro Tamura",
+        photoUrl: "https://image.tmdb.org/t/p/w185/afr9r1it1UsOKlr0qC5jpQyMnpm.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Sayaka Kuwamura",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Taishi Nakagawa",
+        role: "Tsuneo Suzukawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gvUJ1Ge1ERLnYwqb4cJVCXQQIYA.jpg"
+      },
+      {
+        actor: "Kaya Kiyohara",
+        role: "Kumiko 'Josee' Yamamura (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9BoIEdUhkHFhC521us29EqHoti0.jpg"
+      },
+      {
+        actor: "Yume Miyamoto",
+        role: "Mai Ninomiya (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8PzHX7owawEZKq7Eg9WwcmWYx9s.jpg"
+      },
+      {
+        actor: "Kazuyuki Okitsu",
+        role: "Hayato Matsuura (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vgyaK5dAxhvzAi6LJM3ZyaJd4mJ.jpg"
+      },
+      {
+        actor: "Lynn",
+        role: "Kana Kishimoto (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg"
+      },
+      {
+        actor: "Chiemi Matsutera",
+        role: "Chizu Yamamura (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3zzJcGTCX8BFgvHSVqu1C4wk8vv.jpg"
+      },
+      {
+        actor: "Kanji Obana",
+        role: "Professor Kondo (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x0uiwdRKQjUsGQRow5rehv3O2oa.jpg"
+      },
+      {
+        actor: "Shintarou Moriyama",
+        role: "Nishida (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/et8AkSHZrKm1xIS2VzS9kBJa0kf.jpg"
+      },
+      {
+        actor: "Yuuya Uchida",
+        role: "Mizushima (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4xLLQGEDWtmLWUapo0UnfvCdsXp.jpg"
+      },
+      {
+        actor: "Jin Urayama",
+        role: "Fujita (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5D6QFwS5aOk6agnOjLEwpbJoW9Z.jpg"
+      },
+      {
+        actor: "Lily",
+        role: "Train Station Attendant (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iZKz6hDjAWRaO8n1mP4I83uCfZN.jpg"
+      },
+      {
+        actor: "Masaki Terasoma",
+        role: "Doctor (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eol7Ul4buAam9SmJDuFIWln0Cd3.jpg"
+      },
+      {
+        actor: "Kengo Kawanishi",
+        role: "Yukichi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/s0CxrO6LixJBgqiHEUjKelAh8ei.jpg"
+      },
+      {
+        actor: "Masaaki Ihara",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/IvPXEVCuH9JNagimzY012DmNf2.jpg"
+      },
+      {
+        actor: "Madoka Kido",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cYE0BjHV9WNkDwxoMelK4xXnhKE.jpg"
+      },
+      {
+        actor: "Arisa Kori",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Jnt9px2jDpI79lPUm3n8aEhP14.jpg"
+      },
+      {
+        actor: "Shuhei Sakaguchi",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nMhYPT9sRr8TFHWkEggzXrzqgPe.jpg"
+      },
+      {
+        actor: "Ayu Shoji",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aLBSdfVjxGHnx5rHOljUg0Iwdcp.jpg"
+      },
+      {
+        actor: "Masaya Takatsuka",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nmCGqEZsdwYzno0xWAZ3AVF9VUE.jpg"
+      },
+      {
+        actor: "Ayako Takeuchi",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/90vLA1gStZtjOmAp3L8fJ1EVSe5.jpg"
+      },
+      {
+        actor: "Keiko Tsukamoto",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/50AMEWXz2HUt3RFKoEuJk3Xl84k.jpg"
+      },
+      {
+        actor: "Arisa Tsuruno",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mAWtDpWsgD49S7IG18T0xz76gVl.jpg"
+      },
+      {
+        actor: "Yui Nakajima",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/22UDPfiqtgo8yMhr9IEiBCIohkh.jpg"
+      },
+      {
+        actor: "Sanae Nakata",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oCaLzwte8FAkE0w4uYBl6q6iiSF.jpg"
+      },
+      {
+        actor: "Nico",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1F7LzGkbBhD9rfKTp4x8BE8fyjk.jpg"
+      },
+      {
+        actor: "Ayano Hamaguchi",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/I2Dte205k3e0EJHsbfI4zLEyvo.jpg"
+      },
+      {
+        actor: "Kenji Hamada",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/27bujo3KlawFgrFOO2nnlDgxXsE.jpg"
+      },
+      {
+        actor: "Yukari Hikida",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nuUNzaQR2faG1pNpwCtrjyGtLh6.jpg"
+      },
+      {
+        actor: "Takumu Miyazono",
+        role: "Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hmknRTL1d9lGYXYBsGRGGDpHF5B.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Drama", "Romance"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "portrayal of physical disability and its emotional and social consequences",
+        "brief depiction of a serious accident with resulting injury",
+        "mild romantic intimacy and non-explicit physical affection",
+        "scenes of emotional distress including grief and self-doubt"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:38" }
+    ],
+    awards: [],
+    criticRating: "Great",
+    review: {
+      themes: ["disability", "escapism", "ambition", "vulnerability", "interdependence", "imagination", "growth"],
+      mood: ["tender", "wistful", "luminous"],
+      fullReview: "Josee, the Tiger and the Fish follows Tsuneo Suzukawa, a marine biology student with his sights fixed on distant waters — the kind of deep-ocean diving that requires funding, focus, and a life unencumbered by distraction. A chance mishap pulls him into a part-time caregiving arrangement with Kumiko, a young woman who uses a wheelchair and has reinvented herself as Josee, borrowing the name from a character in a Francoise Sagan novel. She lives in her grandmother\'s cluttered house, surrounded by books and paintings, occasionally ferried to the seafront in a pushcart while the rest of the world walks past. Tsuneo arrives intending to earn money and leave. What develops between them is slower, stranger, and considerably more honest than either of them expects.\n\nWhat director Kotaro Tamura and screenwriter Sayaka Kuwamura get right — and this is genuinely difficult territory — is refusing to smooth Josee into a figure of pathos or gratitude. She is prickly, demanding, often unkind, and wholly sovereign in her imagination. The story of a wheelchair-bound woman who finds liberation through a man who carries her is laden with narrative traps, and the film avoids most of them by maintaining a clear-eyed interest in who Josee actually is rather than what her condition represents. The scenes where her pride and her longing occupy the same breath, without either one cancelling the other, are among the most carefully observed moments in recent Japanese animation.\n\nBONES has never been a studio that coasts on technical competence, and the film\'s visual ambition is evident throughout — but the sequences that earn their place most completely are those rooted in Josee\'s interior world. A recurring visual grammar built around deep water and the lightless unknown runs through the entire film, connecting Tsuneo\'s professional aspirations to Josee\'s fears and private longings in ways the screenplay is wise enough to leave unspoken. When her imagination finally breaks loose on screen, the animation becomes something properly transporting: not spectacle for its own sake but a coherent expression of a person who has had to build an entire life inside her own head. Evan Call\'s score tracks this without overstatement, doing the work that great film music always does — not announcing the emotion, but swimming alongside it.\n\nKaya Kiyohara\'s voice performance as Josee is the film\'s emotional foundation. She holds the audience at a careful distance for much of the running time, and when that distance collapses it feels genuinely earned rather than scripted. Taishi Nakagawa as Tsuneo is working with thinner material — the film is far more invested in Josee\'s inner life than in his ambitions — but he anchors the dynamic credibly, and the warmth between the two voices never curdles into easy sentiment.\n\nThe third act is where the film loses some of what makes it special. A rupture arrives that feels mechanical in its construction — a plot crisis engineered to produce separation, familiar enough in romantic storytelling that its appearance here registers as a concession rather than a necessity. The screenplay sheds its specificity during these passages, reaching for emotional shorthand where the first half had found something more precise. The film recovers, but not before the audience has noticed the shift in register. Viewers who came for the quieter pleasures of the opening hour — the odd textures of Josee\'s daily existence, the way two very different world-views slowly recalibrate around each other — may find themselves waiting for the film to remember what it was.\n\nNone of that damage is fatal. Josee, the Tiger and the Fish belongs to a tradition of Japanese animated cinema that treats the medium not as a vehicle for spectacle but as a way of rendering interior experience — the kind of film where a character\'s relationship to a piece of music, or an image, or the idea of a particular place, carries as much weight as anything that happens between people. It sits comfortably in that company. Josee herself is a character worth the time: strange, difficult, vivid, and far more moving than the plot machinery occasionally deserves. The film asks for patience and earns it."
+    }
+  },
+  {
+    id: "belle-2021",
+    title: "Belle",
+    originalTitle: "竜とそばかすの姫",
+    romanization: "Ryuu to Sobakasu no Hime",
+    year: 2021,
+    tagline: "You are no longer alone.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/t7KtPDOefm6Y2KI0apTkyUQfgUf.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/7aiVtavsu145yo6n4ZpazwMDLXL.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Iqt8tzH4c6Y",
+    director: [
+      {
+        name: "Mamoru Hosoda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Mamoru Hosoda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Kaho Nakamura",
+        role: "Suzu Naito / Belle (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kW0WsXcYUdGjxgVN7YsJgg1Rltp.jpg"
+      },
+      {
+        actor: "Takeru Satoh",
+        role: "Kei / Dragon (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dKWtZXEnTOedUUnDwBCZZN7w2uG.jpg"
+      },
+      {
+        actor: "Ryo Narita",
+        role: "Shinobu Hisatake (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f42OXn4J7cM62wtykL196YW7x85.jpg"
+      },
+      {
+        actor: "Shota Sometani",
+        role: "Shinjiro 'Kamishin' Chikami (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+      },
+      {
+        actor: "Tina Tamashiro",
+        role: "Ruka Watanabe (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u2OfpoFq4ZFaWnuCuH0JSpTo6hr.jpg"
+      },
+      {
+        actor: "Lilas Ikuta",
+        role: "Hiroka 'Hiro' Betsuyaku (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qIH0Sb2H4jae2ywBo1VTSMrL4zD.jpg"
+      },
+      {
+        actor: "Koji Yakusho",
+        role: "Suzu's Father (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
+      },
+      {
+        actor: "Mamoru Miyano",
+        role: "Muitaro Hitokawa / Guttokoraemaru (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg"
+      },
+      {
+        actor: "Kenjiro Tsuda",
+        role: "Jellinek (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+      },
+      {
+        actor: "Toshiyuki Morikawa",
+        role: "Justin (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg"
+      },
+      {
+        actor: "Sumi Shimamoto",
+        role: "Suzu's Mother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iKIDv2VFpAgzJ0uMQi7pzcMHB9i.jpg"
+      },
+      {
+        actor: "Mami Koyama",
+        role: "Swan (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4KjDxYsa7mMh8gbqSKCV2DixDAx.jpg"
+      },
+      {
+        actor: "Mitsuru Miyamoto",
+        role: "Fox (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zcgbjwPHY9YV4UMpm6bvFXorWCJ.jpg"
+      },
+      {
+        actor: "Ryoko Moriyama",
+        role: "Yoshitani (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/47JOgZqEEt0vJjbnXXvPBljPKAp.jpg"
+      },
+      {
+        actor: "Michiko Shimizu",
+        role: "Kita (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uUweeAQD3URr1XLKfS4hjoVXWAT.jpg"
+      },
+      {
+        actor: "Fuyumi Sakamoto",
+        role: "Okumoto (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ojm4FbTapWtbOH59KVjGu11ShZ5.jpg"
+      },
+      {
+        actor: "Yoshimi Iwasaki",
+        role: "Nakai (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3GPmPaNWw2Q0hAIjceMGCJ1dDLy.jpg"
+      },
+      {
+        actor: "Sachiyo Nakao",
+        role: "Hatanaka (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mrXEbnVdthoycNpGwKBZQzPccda.jpg"
+      },
+      {
+        actor: "Ken Ishiguro",
+        role: "Kei and Tomo's Father (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eEtoeJCGZfcjPlwf7BNO0lDXrYj.jpg"
+      },
+      {
+        actor: "Hana Hope",
+        role: "Tomo / Angel (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2c225H4YhMyYFC7kQfGz1zkonjQ.jpg"
+      },
+      {
+        actor: "Taichi Masu",
+        role: "Announcer (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1i9513V9zNclEKCueuIJe10iN8s.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Drama", "Musical", "Sci-fi"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "depiction of child abuse and domestic violence shown without graphic detail",
+        "scenes of maternal death and prolonged grief",
+        "mild confrontational sequences involving intimidation and pursuit in a virtual environment",
+        "brief emotional distress in a child depicted with unflinching clarity"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:01" }
+    ],
+    awards: [
+      { body: "Japan Academy Film Prize (45th)", category: "Animation of the Year", result: "Won", year: 2022 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["grief", "anonymity", "performance", "rescue", "trauma", "courage", "vulnerability"],
+      mood: ["wondrous", "melancholic", "euphoric"],
+      fullReview: "Belle opens in rural Kochi Prefecture, where seventeen-year-old Suzu lives quietly with her father, carrying a loss she cannot name and a voice she cannot use. Her mother drowned when Suzu was small, and since that day Suzu has been unable to sing — not physiologically but emotionally, in the way that grief can seal off the parts of a person that used to be free. When a classmate introduces her to \"U,\" a vast virtual world built on biometric data, Suzu creates an avatar named Belle. In U, her voice comes back — not timidly, but in full, flooding a concert space of impossible scale and design. Belle becomes a phenomenon almost overnight. Then a feral, walled-off creature known as the Dragon appears and upends everything, and Suzu finds herself in pursuit of whoever is hiding behind the monster.\n\nThe first thing to establish is that Belle\'s virtual world sequences are among the most visually ambitious passages in recent animated cinema. Mamoru Hosoda assembled an extraordinary range of global collaborators — Jin Kim from Disney, Tomm Moore of Wolfwalkers, architects and illustrators recruited from Europe and beyond — and the result is a \"U\" that feels genuinely alien rather than a familiar digital space dressed up in new clothes. The concert scenes achieve something close to intoxicating: Belle suspended in a cathedral-scaled void, her avatar dissolving into melody while the film\'s color palette shifts with the song. These sequences work not merely because they are beautiful (though they are) but because Hosoda understands that visual scale in animation is not decoration — it is the inner life made legible.\n\nAt the center of it all is Kaho Nakamura, whose vocal performance is the film\'s single greatest asset. Nakamura is a singer-songwriter first, an actor second, and the casting turns out to be exactly right. Her voice as Belle carries real weight in its upper registers and something close to damage at its quietest — not a pop confection but a sound that seems to have come from somewhere real. The songs Hosoda and his collaborators built around her are not anime soundtrack filler. They are emotional arguments, and the film makes them when it needs to most.\n\nWhere Belle struggles is with its structure. The film is running two stories at different altitudes — one about a grieving teenager finding her voice through a persona, the other a fairy tale about compassion and what it costs to see through the walls someone has built around themselves. These two stories coexist well for most of the running time, but in the final third they converge in ways that do not fully hold. A resolution requires Suzu to take real-world action of considerable personal risk, and while the emotional logic is coherent in isolation, the path to it moves faster than two hours of established paralysis has earned. The decision arrives, and then is made, and viewers who have been watching Hosoda carefully track Suzu\'s inertia may feel the ground shift slightly under them.\n\nThere is also a subplot involving thousands of U users attempting to forcibly unmask the Dragon — a gesture toward something genuinely interesting about collective online violence and the weaponization of curiosity — that the film gestures at but never quite develops. It passes through without leaving a mark.\n\nNone of this undoes what Belle achieves at its peaks. Hosoda has built his entire career on emotional arguments that only animation can make, and the best passages here extend that tradition with real force. The grief at the film\'s core is handled with specificity rather than sentiment: this is not a story about healing because love arrives but about a person finding her voice while the wound is still open. That distinction matters, and the film is honest enough to hold it.\n\nBelle is the work of a filmmaker who reached further than his structure could cleanly support, which is a more interesting kind of imperfection than playing it safe would have produced. In its finest moments — a girl suspended in song above a world built from collective imagination — it makes a case for animated cinema as serious artistic territory. That case lands."
+    }
+  },
 ]; // ← paste movie objects here, one by one
