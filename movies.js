@@ -49700,4 +49700,835 @@ const MOVIES = [
       fullReview: "Belle opens in rural Kochi Prefecture, where seventeen-year-old Suzu lives quietly with her father, carrying a loss she cannot name and a voice she cannot use. Her mother drowned when Suzu was small, and since that day Suzu has been unable to sing — not physiologically but emotionally, in the way that grief can seal off the parts of a person that used to be free. When a classmate introduces her to \"U,\" a vast virtual world built on biometric data, Suzu creates an avatar named Belle. In U, her voice comes back — not timidly, but in full, flooding a concert space of impossible scale and design. Belle becomes a phenomenon almost overnight. Then a feral, walled-off creature known as the Dragon appears and upends everything, and Suzu finds herself in pursuit of whoever is hiding behind the monster.\n\nThe first thing to establish is that Belle\'s virtual world sequences are among the most visually ambitious passages in recent animated cinema. Mamoru Hosoda assembled an extraordinary range of global collaborators — Jin Kim from Disney, Tomm Moore of Wolfwalkers, architects and illustrators recruited from Europe and beyond — and the result is a \"U\" that feels genuinely alien rather than a familiar digital space dressed up in new clothes. The concert scenes achieve something close to intoxicating: Belle suspended in a cathedral-scaled void, her avatar dissolving into melody while the film\'s color palette shifts with the song. These sequences work not merely because they are beautiful (though they are) but because Hosoda understands that visual scale in animation is not decoration — it is the inner life made legible.\n\nAt the center of it all is Kaho Nakamura, whose vocal performance is the film\'s single greatest asset. Nakamura is a singer-songwriter first, an actor second, and the casting turns out to be exactly right. Her voice as Belle carries real weight in its upper registers and something close to damage at its quietest — not a pop confection but a sound that seems to have come from somewhere real. The songs Hosoda and his collaborators built around her are not anime soundtrack filler. They are emotional arguments, and the film makes them when it needs to most.\n\nWhere Belle struggles is with its structure. The film is running two stories at different altitudes — one about a grieving teenager finding her voice through a persona, the other a fairy tale about compassion and what it costs to see through the walls someone has built around themselves. These two stories coexist well for most of the running time, but in the final third they converge in ways that do not fully hold. A resolution requires Suzu to take real-world action of considerable personal risk, and while the emotional logic is coherent in isolation, the path to it moves faster than two hours of established paralysis has earned. The decision arrives, and then is made, and viewers who have been watching Hosoda carefully track Suzu\'s inertia may feel the ground shift slightly under them.\n\nThere is also a subplot involving thousands of U users attempting to forcibly unmask the Dragon — a gesture toward something genuinely interesting about collective online violence and the weaponization of curiosity — that the film gestures at but never quite develops. It passes through without leaving a mark.\n\nNone of this undoes what Belle achieves at its peaks. Hosoda has built his entire career on emotional arguments that only animation can make, and the best passages here extend that tradition with real force. The grief at the film\'s core is handled with specificity rather than sentiment: this is not a story about healing because love arrives but about a person finding her voice while the wound is still open. That distinction matters, and the film is honest enough to hold it.\n\nBelle is the work of a filmmaker who reached further than his structure could cleanly support, which is a more interesting kind of imperfection than playing it safe would have produced. In its finest moments — a girl suspended in song above a world built from collective imagination — it makes a case for animated cinema as serious artistic territory. That case lands."
     }
   },
+  {
+    id: "suzume-2022",
+    title: "Suzume",
+    originalTitle: "すずめの戸締まり",
+    romanization: "Suzume no Tojimari",
+    year: 2022,
+    tagline: "On the other side of the door, was time in its entirety.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/q543yE9gmhqbMkVUtwE0YzRFMzO.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=IfKNOUUtyCA",
+    director: [
+      {
+        name: "Makoto Shinkai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mSCk6PmAR99bCsKJYlMx94vq5qe.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Makoto Shinkai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mSCk6PmAR99bCsKJYlMx94vq5qe.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Nanoka Hara",
+        role: "Suzume Iwato (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gbK8GbkeOvd1ZdYoxkEajYvXFjI.jpg"
+      },
+      {
+        actor: "Hokuto Matsumura",
+        role: "Souta Munakata (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/omTHb8ZEB5Fv154LHiyYMy89Gkx.jpg"
+      },
+      {
+        actor: "Ryunosuke Kamiki",
+        role: "Tomoya Serizawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        actor: "Eri Fukatsu",
+        role: "Tamaki Iwato (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xlSYQwDHZaXRFVh29JfRlu4EedP.jpg"
+      },
+      {
+        actor: "Kana Hanazawa",
+        role: "Tsubame Iwato (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+      },
+      {
+        actor: "Sairi Ito",
+        role: "Rumi Ninomiya (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y9aLVWxYGiqU9iT8gQqaQ1ZKX6B.jpg"
+      },
+      {
+        actor: "Shota Sometani",
+        role: "Minoru Okabe (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+      },
+      {
+        actor: "Kotone Hanase",
+        role: "Chika Amabe (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xSimDM5cdwBtVAa7FJ36gFyMC0p.jpg"
+      },
+      {
+        actor: "Matsumoto Hakuō II",
+        role: "Hitsujiro Munakata (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hvY9r6exOHiBC1LmsOXelB5Sat8.jpg"
+      },
+      {
+        actor: "Ann Yamane",
+        role: "Daijin (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q2uQ09AxnLUy07zR7XEJOvc8hJf.jpg"
+      },
+      {
+        actor: "Akari Miura",
+        role: "Young Suzume Iwato (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4Nb1EJwmp2fFvpmlO2154Y0aBPW.jpg"
+      },
+      {
+        actor: "Yoji Ueda",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fHvIfE0Q7ab0DFlkNVFcXvTKX9y.jpg"
+      },
+      {
+        actor: "Aimi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9mk1CHBZDmY2hh9BT5gb7yDMsQY.jpg"
+      },
+      {
+        actor: "Yuu Ayase",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lazOmGxIzw1yAQB6iGx1GX1inR7.jpg"
+      },
+      {
+        actor: "Akihiro Tajima",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1z3o2q5JjQBDsRgRYCcKlCJo4tQ.jpg"
+      },
+      {
+        actor: "Ryoko Nagata",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qQT6dHHNYrIB4ZiXWRTS4TkJbOx.jpg"
+      },
+      {
+        actor: "Kyo Yaoya",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mXSOGZyStdZ3v7ylmm0hJLlsm7O.jpg"
+      },
+      {
+        actor: "Hinano Harumi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3PI06MlIu4Ul6BOohkVx25dswl8.jpg"
+      },
+      {
+        actor: "Saori Seto",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jcjVe09m7YLjDExJCknzh24rDKw.jpg"
+      },
+      {
+        actor: "Yuri Kimura",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/43TbwiPGOL78x7NHkyz6yUOIxPz.jpg"
+      },
+      {
+        actor: "Tomomichi Nishimura",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nDy0ANhUPUGkpSprwuiCbq4Hrwn.jpg"
+      },
+      {
+        actor: "Yoshino Aoyama",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yPOprcT7tPKR3p79RMYtogTEXGr.jpg"
+      },
+      {
+        actor: "Kaho Uesugi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fOk8FWEVKJORLYhcWdMLVEFxKSX.jpg"
+      },
+      {
+        actor: "Kaito Ogawa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4MnQrJh4XPQUAGFTn4hoQ8HaX1.jpg"
+      },
+      {
+        actor: "Madoka Kayama",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/125iVSWkPddc7tI0ubSJvbbi2CR.jpg"
+      },
+      {
+        actor: "Shinjirou Gouda",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nB7P927JF3Jx9o6xfsniEyKX3HH.jpg"
+      },
+      {
+        actor: "Genta Nakamura",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg"
+      },
+      {
+        actor: "Manatsu Hada",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8n98q9rjfbnCmEKPe7mkMxEOli9.jpg"
+      },
+      {
+        actor: "Katsumi Fukuhara",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ijpwBGoo3iPmb9v1Oh4Fz9CFzOx.jpg"
+      },
+      {
+        actor: "Asuka Maesako",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8bRQEAUviyiIx7o4VKlyF49pv9I.jpg"
+      },
+      {
+        actor: "Takuya Yokota",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9axxyRkAaqmn2WFWemmnQuBVtA0.jpg"
+      },
+      {
+        actor: "Yukina Shuto",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mxIpJabfqqJWNjJBzEnJrRDyOsE.jpg"
+      },
+      {
+        actor: "Yuki Sorami",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bdQPa52G786MrZm5kqmzvSVsL4T.jpg"
+      },
+      {
+        actor: "Ayumi Tsuji",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dGUaNoIBIob1XPCIEWBwC2dAjBN.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Drama", "Fantasy", "Adventure"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "disaster imagery depicting earthquake destruction and tsunami-devastated landscapes",
+        "a young child witnessing a parent\'s death during a natural disaster",
+        "supernatural creatures associated with tectonic catastrophe depicted as threatening forces",
+        "prolonged unresolved grief and emotional distress in a teenage protagonist",
+        "scenes of physical peril including falling and entrapment"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:02" }
+    ],
+    awards: [
+      { body: "Japan Academy Film Prize (46th)", category: "Animation of the Year", result: "Won", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "disaster", "memory", "closure", "journey", "sacrifice", "guardianship"],
+      mood: ["kinetic", "elegiac", "wondrous"],
+      fullReview: "Suzume follows a seventeen-year-old girl living in a small coastal town who, on a morning that begins like any other, follows a stranger into the ruins of an old resort and opens a stone door in a crumbling wall. The thing she releases is ancient and catastrophic. Closing it again requires pursuing the young man — who is promptly cursed into the form of a small three-legged child\'s chair — on a journey through Kyushu, Kobe, Tokyo, and finally northeast toward the ocean, shutting doors in abandoned places before the forces behind them wake into earthquakes.\n\nThat synopsis contains \"a three-legged chair\" as the romantic lead. Makoto Shinkai makes it work, which may be the single most impressive thing Suzume accomplishes. The conceit sounds like a structural joke, something that would collapse the moment the film asked viewers to care. Instead it becomes the film\'s emotional engine. There is something unexpectedly moving about watching a teenage girl carry a piece of furniture across the country, speaking to it with care, and the film finds the genuine comedy in the situation without ever letting it deflate what the relationship costs each of them. The constraint produces a tenderness that a more conventional romance might not have reached.\n\nThe road-trip structure — Suzume moves east, each leg introducing strangers who help and are helped in return — doubles as a portrait of a country that holds its losses quietly in ordinary places. CoMix Wave\'s backgrounds render Japan with careful specificity: the quality of light is different in each prefecture, the texture of each ruin different from the last. The film is deeply interested in abandoned places — what lingers in the air of resorts and stations and schools that once held life and now hold only its residue. This is not set decoration. It is the film\'s subject.\n\nBecause Suzume is, underneath its adventure structure, a film addressed to the Tohoku earthquake and tsunami of 2011. Shinkai does not announce this immediately. The connection emerges gradually, through landscape and direction, until by the final act the allegory has dissolved entirely into the literal: the film is speaking directly to the dead and to those who could not stop the waves. The emotional stakes of the final stretch land with a force that outstrips anything Shinkai has previously managed precisely because the grief here is not encrypted inside a time-loop puzzle or buried beneath spectacle. It is the center, and the film makes the audience stay in it.\n\nNanoka Hara\'s voice performance is the load-bearing element throughout. There is a passage in the final act where Suzume must speak to someone who cannot hear her, and what Hara does in that scene — the specific quality of restraint and then release — produces one of the most quietly devastating moments Shinkai has put on screen. The RADWIMPS score, augmented this time by Kazuma Jinnouchi\'s orchestral contributions, understands the film\'s rhythms with the precision of a long collaboration. The sound, across all its registers, is doing real work.\n\nThe episodic middle section is the one place where the film shows its seams. Some of the figures Suzume meets on the road are rendered more fully than others, and the mechanical rhythm of arrive-discover-close can feel repetitive before the final stretch reframes it. But the repetition is not careless. Shinkai is building a composite image of a country that carries its grief in its geography, in the specific silences of places that used to matter, and Suzume\'s repeated movement through those places is method rather than mechanics.\n\nSuzume is the most emotionally honest film Shinkai has made. It does not reach for the temporal sleight-of-hand of Your Name or the provocative morality of Weathering With You. It does something more direct and, in the end, more affecting — it turns a supernatural chase across Japan into a very specific act of mourning, and it earns the right to close the door it opens."
+    }
+  },
+  {
+    id: "tunnel-to-summer-2022",
+    title: "The Tunnel to Summer, the Exit of Goodbyes",
+    originalTitle: "夏へのトンネル、さよならの出口",
+    romanization: "Natsu e no Tunnel, Sayonara no Deguchi",
+    year: 2022,
+    tagline: "A mysterious tunnel can grant your fondest wish... but at a price.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/zr3tyTafzh5RLo5AVQ4537vMQA5.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/5AGA6pbBKXZTI8k1c6odx30JuQR.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/rWJc5BkI7Op1IYMb3gW6qGjOnIp.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=EhPu7arYYYo",
+    director: [
+      {
+        name: "Tomohisa Taguchi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c2UHmjFjfQ9fxoFjz2990VdXWhF.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Tomohisa Taguchi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c2UHmjFjfQ9fxoFjz2990VdXWhF.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ouji Suzuka",
+        role: "Kaoru Tono (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k5hKLBwSvxcwfSxetS4uo60Knx.jpg"
+      },
+      {
+        actor: "Marie Iitoyo",
+        role: "Anzu Hanashiro (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aPe3k3pB1aDG6rROVFrMuvSRouQ.jpg"
+      },
+      {
+        actor: "Tasuku Hatanaka",
+        role: "Shohei Kaga (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xPDqoxAia1ShoVC2aMS2ZDPDWzG.jpg"
+      },
+      {
+        actor: "Arisa Komiya",
+        role: "Koharu Kawasaki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kQNteaY9vYGXW1wklQSCfkEukod.jpg"
+      },
+      {
+        actor: "Haruka Terui",
+        role: "Ms. Hamamoto (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tXqj7kZJaJuYKyOEA0Zmu4fEXH0.jpg"
+      },
+      {
+        actor: "Rikiya Koyama",
+        role: "Kaoru's Father (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+      },
+      {
+        actor: "Seiran Kobayashi",
+        role: "Karen Tono (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yc8Q1ZbkQhgl9hEm9n1MtQaBv7s.jpg"
+      },
+      {
+        actor: "Chiko Mizumori",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oCRhPYsWxwWt7OlKO1FdrvPJsb9.jpg"
+      },
+      {
+        actor: "Hiroto Kazuki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u9qvZMdtMYI8H7cAYT8Ep38N4od.jpg"
+      },
+      {
+        actor: "Kaori Maeda",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nj0DsfJ5tL96HlXvzThj7R022f2.jpg"
+      },
+      {
+        actor: "Kazuki Miyagi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uWAMQGYx96KFkPWKlZEzsj9rWOL.jpg"
+      },
+      {
+        actor: "Kikunosuke Toya",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tSAHe7tjN7luUD1Tx5yPSCuCnuD.jpg"
+      },
+      {
+        actor: "Kumiko Nakane",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p1JUWl4ycuBzmxTbC33CvR7WtI3.jpg"
+      },
+      {
+        actor: "Mai Kanazawa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AkBO424PkOkhenO4jxmcCmpuOxI.jpg"
+      },
+      {
+        actor: "Misono Suzuki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kTQI0RmFoWqcqBs1PC6hFw35cpV.jpg"
+      },
+      {
+        actor: "Miyu Tomita",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rSR17l4HdchLkhpRuAZbGbXNmUS.jpg"
+      },
+      {
+        actor: "Ryosuke Shukutani",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4JHIYgHmvlLRGxvXy3VLJ4hpJML.jpg"
+      },
+      {
+        actor: "Saima Nakano",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/giu0leCH33NNEJxADhJIJ49OikN.jpg"
+      },
+      {
+        actor: "Sayaka Ohara",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4WQXLzj0gjYqkYFcTTxAkIwedvr.jpg"
+      },
+      {
+        actor: "Yuuki Shin",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pyOAlLSA9ZabbVy5HD8j9QuUdV8.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Romance", "Fantasy", "Drama"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "prolonged grief and bereavement over a lost sibling",
+        "emotional discussion of absence and unresolved mourning",
+        "mild depiction of parental neglect and emotional withdrawal",
+        "supernatural peril with implied personal sacrifice"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:23" }
+    ],
+    awards: [],
+    criticRating: "Decent",
+    review: {
+      themes: ["grief", "longing", "sacrifice", "nostalgia", "loss", "wish", "regret"],
+      mood: ["wistful", "tender", "melancholic"],
+      fullReview: "In a sleepy rural town, a high school boy named Kaoru Tohno carries a wound he has never found words for. When he stumbles upon a local legend about the Urashima Tunnel — a passage that can grant any wish, but steals years of the user\'s life in return — he recognizes something in it immediately. A sharp, restless transfer student named Anzu Hanashiro discovers his investigation and insists on joining it. Both of them want something from that tunnel. Neither is quite ready to say what.\n\nThe film\'s central premise arrives pre-loaded with emotional logic. The Urashima Effect, named after the Japanese folk tale of a fisherman who surfaces from an underwater palace to find decades have passed him by, gives the story a built-in metaphor for the particular trap of grief — the way a person can keep feeding time into a wound that refuses to close. Kaoru has, in a meaningful sense, already been standing at the mouth of a tunnel for years. That the screenplay, adapted by director Tomohisa Taguchi from Mei Hachimoku\'s light novel, understands this about its own character is to its credit. That it does not push the metaphor very far is its limitation.\n\nWhat unfolds is a competent and earnest YA romance — the two leads circling each other with the expected mixture of guardedness and gradual disclosure, their shared project over the tunnel becoming a proxy for the things they cannot say directly. Ouji Suzuka voices Kaoru with a flat, closed-off quality that communicates the damage without performing it, and Marie Iitoyo brings a steeliness to Anzu that keeps the film from collapsing into simple warmth. Their dynamic has enough friction to feel real, even when the screenplay irons out its more interesting complications too quickly.\n\nThe animation, from studio CLAP, is clean and pleasant without being visually ambitious. The rural setting is rendered with the golden-haze nostalgia that has become so standardized in this corner of anime that it no longer quite evokes summer — it evokes other anime evoking summer. Cicadas, river light, school rooftops at dusk: the visual vocabulary is assembled rather than observed. The tunnel itself is handled with more invention — a churning, time-warped interior rendered with a disorienting, almost hallucinatory quality — and these sequences stand noticeably apart from the rest of the film, hinting at a more visually courageous version of the same story.\n\nHarumi Fuuki\'s score does its job with the reliability of a wristwatch. Piano runs and gentle strings arrive on cue, annotating emotional beats that would probably land well enough without annotation. The music is never unpleasant, but it does not trust the audience, and that lack of trust becomes something a viewer notices over time.\n\nAt 83 minutes the film moves efficiently, and efficiency here reads as both a virtue and a slight evasion. The emotional resolution, when it comes, feels calibrated rather than accumulated — assembled from the right components in the right order, landing with the clean thud of something designed to produce tears rather than the messier, more durable impact of something that earned them. Audiences already sympathetic to this genre\'s emotional register will likely find it satisfying on those terms. Anyone hoping the Urashima premise would be turned toward something genuinely unexpected — something that said a new thing about grief, or time, or the cost of refusing to let the dead be dead — will sense, somewhere in the second half, that the film has chosen the safer road.\n\nThe Tunnel to Summer, the Exit of Goodbyes is not a film that fails. It is a film that does exactly what it means to do, with sincerity, craft, and a clear-eyed understanding of its audience. The problem is only that what it means to do has been done before, and done with more weight, by films less comfortable with tying things neatly."
+    }
+  },
+  {
+    id: "to-every-you-ive-loved-before-2022",
+    title: "To Every You I\'ve Loved Before",
+    originalTitle: "僕が愛したすべての君へ",
+    romanization: "Boku ga Aishita Subete no Kimi e",
+    year: 2022,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/bIRk1vyabhnr2FGoOHc7TWmjuqR.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/yl4WOrXTVFihtd6wcxpwkKD7xoP.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/dqTOcdf1ILtakesKUhBOutaIee3.jpg",
+    trailerUrl: null,
+    director: [
+      {
+        name: "Jun Matsumoto",
+        photoUrl: null
+      }
+    ],
+    screenplay: [
+      {
+        name: "Riko Sakaguchi",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Hio Miyazawa",
+        role: "Koyomi Takasaki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c4WmpXCLWixRXPwF3zmHA2KdISC.jpg"
+      },
+      {
+        actor: "Ai Hashimoto",
+        role: "Kazune Takigawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2sTNnkzF5e6dogfHEsnD1aU36J4.jpg"
+      },
+      {
+        actor: "Kimiko Yo",
+        role: "Kazune Takigawa (old woman) (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g1NZGtCzJKpqgdjNbNYaKBPyYRw.jpg"
+      },
+      {
+        actor: "Maki Mizuno",
+        role: "Itoko Satou (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tvFpx8i6ZZPj1arShELPf4pknWp.jpg"
+      },
+      {
+        actor: "Tokuma Nishioka",
+        role: "Koyomi Takasaki (old man) (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ficsdIO9qozn1XRGNUn51M8nvEM.jpg"
+      },
+      {
+        actor: "Kenji Shibata",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vPkho3atGUeLPLGK12aPWZShfFo.jpg"
+      },
+      {
+        actor: "Kano Komiyama",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gTb0asOU8biDHTOaOjvWGU0JCmS.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Romance", "Drama", "Sci-fi"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "emotional fallout of parental divorce depicted affecting a child",
+        "recurring loneliness and social isolation in adolescence",
+        "mild romantic intimacy between teenagers",
+        "abstract depictions of grief over a relationship lost across timelines"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:42" }
+    ],
+    awards: [],
+    criticRating: "Flawed",
+    review: {
+      themes: ["longing", "parallel", "choice", "belonging", "loss", "identity", "displacement"],
+      mood: ["wistful", "contemplative", "bittersweet"],
+      fullReview: "Koyomi Takasaki is a quietly withdrawn teenager whose parents have just divorced, leaving him adrift in a new school with no particular inclination toward connection. Then a girl named Kazune Takigawa tells him, without any apparent embarrassment, that she is from World Line 85 — an alternate dimension — and that in her version of reality, the two of them are already in love. This is not a confession so much as a report. The film inhabits a world where interdimensional drift has become routine enough to be taught in school, and that conceptual grounding is both its most distinctive quality and the source of its most persistent problems.\n\nReleased on the same day as its companion film — a parallel work covering the same years from a different character\'s perspective — To Every You I\'ve Loved Before was always meant to be experienced as half of something larger. Watched without that companion piece, it functions as a complete narrative on a technical level, but there is a persistent sensation throughout of connective tissue that has been removed. Certain emotional beats land without the full weight the screenplay seems to believe they carry, because the information that would give them that weight is sitting in another theater.\n\nThis is not a fatal problem, but it is an honest one. The multiverse conceit here is not used — as it is in the best science fiction — to amplify something true about human emotion. It is deployed instead as a mechanism for generating romantic melancholy, a way of populating the story with other-dimension versions of love so that the present-tense love feels more precarious. That can work. It works imperfectly here, because the screenplay by Riko Sakaguchi never quite establishes what this version of Koyomi wants before the plot begins delivering it and threatening to take it away.\n\nHio Miyazawa voices the lead with a restrained diffidence that suits the character, though the character asks very little of him. Koyomi receives events more than he drives them — a passive figure in a narrative that needed someone leaning forward. Ai Hashimoto as Kazune brings a warmer, more textured presence to her scenes, and the film is most alive when Kazune is doing the work of making Koyomi see something he has been looking past. Their chemistry builds slowly and then stalls somewhere in the second act when the multiverse mechanics take over and human behavior gets subordinated to plot logistics.\n\nThe animation from Tatsunoko Production and BAKKEN RECORD is functional and occasionally lovely, particularly in the quieter domestic scenes where light and space are used with restraint. The interdimensional sequences aim for visual strangeness but arrive at visual blandness — flat geometry and clean gradients that feel chosen for cost efficiency as much as aesthetic expression. There is nothing here that demands the theatrical frame, nothing that could not have breathed just as well on a smaller screen.\n\nTakashi Ohmama\'s score is pleasant and forgettable in equal measure, a collection of gentle piano arrangements that rise and fall obediently behind the emotional cues without adding an emotional perspective of their own.\n\nWhat lingers, stubbornly, is the central idea itself. A world in which people routinely slip between versions of their own lives — carrying memories of relationships that technically never happened, loving people who may not remember loving them back — is a genuinely rich premise for exploring how attachment actually works, how people build meaning from contingency. The film brushes against this without settling in. It prefers the romantic surface of the concept to its more destabilizing implications, which is a choice, but it is a choice that makes the film considerably smaller than the questions it raises.\n\nViewers who arrive without having seen the companion film should be warned: the full emotional architecture only resolves when both halves are in place. As a standalone experience, this is a film of real feeling and genuine ideas that has been assembled just cautiously enough to stay on the near side of what it could have been."
+    }
+  },
+  {
+    id: "to-me-the-one-who-loved-you-2022",
+    title: "To Me, the One Who Loved You",
+    originalTitle: "君を愛したひとりの僕へ",
+    romanization: "Kimi wo Aishita Hitori no Boku e",
+    year: 2022,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/wfek9PIxqffXMWPvhtVVEPEAfIf.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/gt7kD8MjObtgQYH130pZiLTN0qx.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/yswml0UPEVFCVc3GJ1PF2BNyaNs.jpg",
+    trailerUrl: null,
+    director: [
+      {
+        name: "Kenichi Kasai",
+        photoUrl: null
+      }
+    ],
+    screenplay: [
+      {
+        name: "Riko Sakaguchi",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Hio Miyazawa",
+        role: "Koyomi Hidaka (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c4WmpXCLWixRXPwF3zmHA2KdISC.jpg"
+      },
+      {
+        actor: "Aju Makita",
+        role: "Shiori Satou (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gMhDyTpfsXH2q6m8zdZHwFCAWfq.jpg"
+      },
+      {
+        actor: "Ai Hashimoto",
+        role: "Kazune Takigawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2sTNnkzF5e6dogfHEsnD1aU36J4.jpg"
+      },
+      {
+        actor: "Kimiko Yo",
+        role: "Kazune Takigawa (old woman) (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g1NZGtCzJKpqgdjNbNYaKBPyYRw.jpg"
+      },
+      {
+        actor: "Maki Mizuno",
+        role: "Itoko Satou (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tvFpx8i6ZZPj1arShELPf4pknWp.jpg"
+      },
+      {
+        actor: "Tokuma Nishioka",
+        role: "Koyomi Takasaki (old man) (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ficsdIO9qozn1XRGnUn51M8nvEM.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Romance", "Drama", "Sci-fi"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "romantic feelings developing between two teenagers whose parents remarry",
+        "emotional distress caused by parental relationships and family restructuring",
+        "dimensional displacement depicted as psychologically disorienting",
+        "unresolved yearning and separation anxiety across extended runtime"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:38" }
+    ],
+    awards: [],
+    criticRating: "Flawed",
+    review: {
+      themes: ["forbidden", "sacrifice", "escape", "belonging", "parallel", "longing", "consequence"],
+      mood: ["melancholic", "restless", "suffocating"],
+      fullReview: "Koyomi Hidaka and Shiori Satou meet as children at a research facility where their respective parents work. Something quiet and genuine grows between them — the kind of tentative closeness that adolescence occasionally permits before circumstance intervenes. Circumstance here intervenes with particular cruelty: their parents fall in love and marry, collapsing the distance between Koyomi and Shiori into something the world around them has decided to call siblinghood. In a near-future Japan where interdimensional travel is an established if still-unsettling technology, the two conclude that the only universe in which they belong to each other is one they will have to find for themselves.\n\nThe premise carries considerably more dramatic charge than its companion film. Where that story asked what a person does with a love that arrives from a universe slightly adjacent to their own, this one asks what a person is willing to destroy — and how far they are willing to run — to protect something that the present world refuses to recognize as legitimate. The stakes feel higher because the obstacle is not cosmic bad luck but a specific, named social prohibition, and the decision to flee it is one the characters make consciously and together. A film built on that foundation has somewhere real to go.\n\nWhat is frustrating, then, is how carefully director Kenichi Kasai navigates around the sharpest implications of his own story. The decision to flee to another dimension is treated primarily as a romantic gesture — tender and courageous — rather than the destabilizing act it would be. The ripple effects on the people left behind are acknowledged but kept at a remove, glimpsed rather than felt. The film is not interested in the cost; it is interested in the longing, and it renders longing with a kind of lush, melancholic confidence that makes the avoidances harder to forgive rather than easier.\n\nAju Makita brings Shiori to life with enough specificity that her silences feel inhabited rather than simply unwritten. There is a watchfulness to the performance — a sense that Shiori is always calculating the gap between what she feels and what she is permitted to feel — that elevates the character beyond the role the screenplay strictly requires of her. Hio Miyazawa, reprising his vocal presence from the companion film in a meaningfully different register, is adequate without being particularly revealing. Koyomi here is a more active figure than his counterpart — he acts, he decides, he commits — but the screenplay gives him so little interior resistance that the acting has nothing to push against.\n\nRiko Sakaguchi\'s script, shared with the companion film, works harder here to earn its emotional payoffs, and the structural ambition is visible. Certain sequences genuinely ache. But the screenplay keeps making the same error: it trusts the concept to do emotional work that only character behavior can do. When the dimensional mechanics tighten around the two leads in the final act, the tension is mechanical in both the intended and unintended senses.\n\nTMS Entertainment\'s animation is somewhat warmer in palette than the companion film\'s more clinical rendering — the research facility interiors glow amber in a way that codes as memory and loss — though the dimensional travel sequences suffer from the same visual blandness that plagued both entries in this diptych. Takashi Ohmama\'s score is indistinguishable from the music in the companion film, which is either a deliberate design choice communicating thematic unity or a production efficiency that accidentally reveals one.\n\nThe film is most worth seeing for anyone prepared to watch both halves as a single work — the way the two storylines refract each other is genuinely interesting, and a handful of moments land with real weight once both narratives are in place. Seen alone, it is a film that mistakes prettiness for depth and sincerity for rigor. The premise deserved something thornier. What it received was something considerably softer."
+    }
+  },
+  {
+    id: "dream-scenario-2023",
+    title: "Dream Scenario",
+    originalTitle: null,
+    romanization: null,
+    year: 2023,
+    tagline: "Meet the man of your dreams.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/aUOEhTzNeDjEEDahQBuWmG2D2p8.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/2RSMu2iMDCdMKmvBWWvcmE8vjMj.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/rmfIhftLXpHEZzkLSpWQMZhirMJ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=q3x9iUL-74w",
+    director: [
+      {
+        name: "Kristoffer Borgli",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ftLljVAuKvECl8rAG7JbiGANy8P.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Kristoffer Borgli",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ftLljVAuKvECl8rAG7JbiGANy8P.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Nicolas Cage",
+        role: "Paul Matthews",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+      },
+      {
+        actor: "Julianne Nicholson",
+        role: "Janet Matthews",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AqlEWaBfrqwb6St5qrL1yJ9d6VS.jpg"
+      },
+      {
+        actor: "Michael Cera",
+        role: "Trent",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+      },
+      {
+        actor: "Tim Meadows",
+        role: "Brett",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u9MCgfy0n5jJ2GTsGALdist19C1.jpg"
+      },
+      {
+        actor: "Dylan Gelula",
+        role: "Molly",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nqXd0gVNlma8knaykJh5ArXSYqy.jpg"
+      },
+      {
+        actor: "Lily Bird",
+        role: "Sophie Matthews",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fZzWQW9cBBfjmUzZvROdddM9sCU.jpg"
+      },
+      {
+        actor: "Jessica Clement",
+        role: "Hannah Matthews",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nqD72rIXeRhq1k94GHBVfmRX4L5.jpg"
+      },
+      {
+        actor: "Dylan Baker",
+        role: "Richard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+      },
+      {
+        actor: "Kate Berlant",
+        role: "Mary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8m6bRPqRqurHVCeXr0CrSiVstxK.jpg"
+      },
+      {
+        actor: "Star Slade",
+        role: "Greta",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zA7AES22VAiYH0Ao5xGGAd99rvr.jpg"
+      },
+      {
+        actor: "Josh Richards",
+        role: "Hunter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AptVDlUhahp9DOYZC1JMDFbB3dy.jpg"
+      },
+      {
+        actor: "Noah Centineo",
+        role: "Dylan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p1bcst401RyxfDGykx2iQLI7CV5.jpg"
+      },
+      {
+        actor: "Marnie McPhail",
+        role: "Claire",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qHTkE44HUjobp8MwWvVb4xDtQe6.jpg"
+      },
+      {
+        actor: "David Klein",
+        role: "Andy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hME3vTyP1L49QSURqTNRt37SOmI.jpg"
+      },
+      {
+        actor: "Kaleb Horn",
+        role: "Miles",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e8Dw4RNTmmbn5p7pYNP92wO3cA9.jpg"
+      },
+      {
+        actor: "Liz Adjei",
+        role: "Avery",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7Dz7S21wOtbORiovhfcN4xiKOSE.jpg"
+      },
+      {
+        actor: "Noah Lamanna",
+        role: "Jessie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dow9JUm2DP3GCsR1q9WIaydDQGN.jpg"
+      },
+      {
+        actor: "Maev Beaty",
+        role: "Naomi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xu1NcOTmT3gNPgjcIu1UJxLaNPD.jpg"
+      },
+      {
+        actor: "Marc Coppola",
+        role: "Sidney",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9wT4CU3lwKtXwbzlqtgIyRP2i7V.jpg"
+      },
+      {
+        actor: "Krista Bridges",
+        role: "Carlotta",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zFA8HVDbi7RO3cfk5oGjaQTAm9t.jpg"
+      },
+      {
+        actor: "Jim Armstrong",
+        role: "Tristan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tTwjTWDPWK3HkWXE4qcpzCv1yQ.jpg"
+      },
+      {
+        actor: "Ben Caldwell",
+        role: "Eli",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nmZ8RsSUQOiswJsR1cuUeCCdoAg.jpg"
+      },
+      {
+        actor: "Agape Mngomezulu",
+        role: "Robbie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3WDYsOmxT4N9WrqXhCrAsmlOPsD.jpg"
+      },
+      {
+        actor: "Stephen R. Hart",
+        role: "Tall Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nZUqCX3mmYkGdq1TUu1osFTktEv.jpg"
+      },
+      {
+        actor: "Sofia Banzhaf",
+        role: "Leah",
+        photoUrl: "https://image.tmdb.org/t/p/w185/l0hfmF8db0YJUonZO6CHiEFSmg5.jpg"
+      },
+      {
+        actor: "Al Warren",
+        role: "Chris",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x8wJ1WgJsm4tQNwavJPRYeCM5uO.jpg"
+      },
+      {
+        actor: "Conrad Coates",
+        role: "Dinner Guest #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/synctEI6SoicViRJxHupyQgs6zv.jpg"
+      },
+      {
+        actor: "Marnie Brunton",
+        role: "Dinner Guest #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f7rqHQ9D8je3Xfp083BLqTdeWwy.jpg"
+      },
+      {
+        actor: "Nneka Elliott",
+        role: "News Anchor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lvKrkICabtejk9Wp2X4Fvz6CsAV.jpg"
+      },
+      {
+        actor: "Jeremy Levick",
+        role: "Sleep Specialist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/w5gzbOZQbiJYzBUEDMpZeLHpL6e.jpg"
+      },
+      {
+        actor: "Cara Volchoff",
+        role: "Candice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1QUwwfu4SOH0YXqzxwPUTaIgYV5.jpg"
+      },
+      {
+        actor: "Greer Cohen",
+        role: "Grace",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z2DKGZz1sqgFSvqTRcS2OsThBhP.jpg"
+      },
+      {
+        actor: "James Collins",
+        role: "Large Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ai7hzoOJyJIi5umEdU1tP4PowvK.jpg"
+      },
+      {
+        actor: "Jennifer Wigmore",
+        role: "Kayla",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jX1qqO43dlXNBUkjR7D57ZWXRpV.jpg"
+      },
+      {
+        actor: "Ramona Gilmour-Darling",
+        role: "Portia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aPKO9junHhWf5nBkQq2pefz4QBd.jpg"
+      },
+      {
+        actor: "Will Corno",
+        role: "Security Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/14q8YXaT8Gcj2WHEyXVNiJGc0mU.jpg"
+      },
+      {
+        actor: "Talia Schlanger",
+        role: "Norio Ad (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/71n5QDMmZDhP9v8JknjuubMujJN.jpg"
+      },
+      {
+        actor: "Alton Mason",
+        role: "Carter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4WuqtBtXniEHO398JDmWFEaVAtP.jpg"
+      },
+      {
+        actor: "Amber Midthunder",
+        role: "Haley",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+      },
+      {
+        actor: "Nicholas Braun",
+        role: "Brian Berg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg"
+      },
+      {
+        actor: "Lily Gao",
+        role: "Realtor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qCNsTSz3g70M9PNaNxWw5uRepQy.jpg"
+      },
+      {
+        actor: "Philip van Martin",
+        role: "Claude",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8JJiv0SZcvupJluYJppDLqxvaZj.jpg"
+      },
+      {
+        actor: "Richard Jutras",
+        role: "Jean",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b00f6HObWAaw5smlcgaiSvnU23c.jpg"
+      },
+      {
+        actor: "Nicole Leroux",
+        role: "Amandine",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5mL9qQsj0FJYI8BtskOsjC8l1qd.jpg"
+      },
+      {
+        actor: "Jordan Raf",
+        role: "Dream Travel Guru",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xLTfE4aADh44NoPfb6PbQZNwBnM.jpg"
+      },
+      {
+        actor: "Domenic Di Rosa",
+        role: "Fontane",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3MeitHxDhFFvf5r3aqGcislsDBe.jpg"
+      },
+      {
+        actor: "Bas Reitsma",
+        role: "Stunts",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6IBdpgwjTqeHKUHenjs9UWw8YA1.jpg"
+      },
+      {
+        actor: "Jennifer Murray",
+        role: "Stunts",
+        photoUrl: "https://image.tmdb.org/t/p/w185/maVR5OqaGImeeg9Nj2jRLboXiHu.jpg"
+      },
+      {
+        actor: "Torianna Lee",
+        role: "Stunts",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xyYNxRW8eU9ugMvWzkyIDbohNwp.jpg"
+      },
+      {
+        actor: "Jackson Rozario",
+        role: "Stunts",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zmAALyUefD2A1D7Tm8ZUTfI6nJo.jpg"
+      }
+    ],
+    languages: ["English", "French"],
+    genres: ["Comedy", "Satire", "Fantasy", "Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "brief non-explicit sexual dream sequence involving a real person without their consent",
+        "depictions of public shaming and social ostracism",
+        "strong language throughout",
+        "disturbing dream imagery including simulated violence",
+        "moderate alcohol consumption in social settings"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:42" }
+    ],
+    awards: [
+      { body: "National Society of Film Critics Awards (2024)", category: "Best Actor", result: "Won", year: 2024 },
+      { body: "New York Film Critics Circle Awards (2023)", category: "Best Actor", result: "Won", year: 2023 },
+      { body: "Chicago Film Critics Association Awards (2023)", category: "Best Actor", result: "Nominated", year: 2023 },
+      { body: "Critics Choice Movie Awards (14th)", category: "Best Actor in a Comedy", result: "Nominated", year: 2024 },
+      { body: "Independent Spirit Awards (39th)", category: "Best Male Lead", result: "Nominated", year: 2024 },
+      { body: "Saturn Awards (50th)", category: "Best Fantasy Film", result: "Nominated", year: 2024 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["narcissism", "passivity", "arbitrariness", "accountability", "projection", "celebrity", "complicity"],
+      mood: ["wry", "disquieting", "corrosive"],
+      fullReview: "Paul Matthews is an evolutionary biology professor at a small college — the kind of man who has spent decades convinced the world has not yet noticed how interesting he is. He has a comfortable marriage, two daughters, a book proposal that has gone nowhere for years, and a low-grade dissatisfaction he has never bothered to examine. Then, without warning or explanation, he begins appearing in the dreams of millions of strangers. He is not doing anything in these dreams — just standing there, a passive presence in other people\'s subconscious landscapes. And for a brief, intoxicating season, this makes him famous.\n\nKristoffer Borgli, the Norwegian director who announced himself with the caustic Sick of Myself, uses this premise as a delivery mechanism for a very specific kind of satire: not about the famous, but about the mediocre man who mistakes attention for recognition and recognition for worth. Paul has not achieved anything. He has simply shown up, and the world has decided, for now, that showing up is enough. The cruelty of the film\'s setup is that it gives Paul exactly what he thinks he wants — visibility, interest, a seat at the table — and then demonstrates with quiet precision that he has no idea what to do with any of it.\n\nNicolas Cage plays Paul as a man whose vanity is too small and too sincere to be called vanity. This is not Cage operating at his baroque extremes — no wild eyes, no operatic breakdowns. The performance is built from small hesitations, half-suppressed smiles, the particular way a man straightens slightly when someone recognizes him in public. It is some of the finest restrained work of his career precisely because the restraint is doing something: communicating a person who has always believed himself extraordinary and is now watching, with helpless pleasure, as the world catches up to what he has always known. When things shift — when the dreams turn from peaceful to violent and Paul becomes not a comfort but a nightmare — Cage conveys the humiliation of a man whose entire sense of self has been built on something he never controlled and cannot reclaim.\n\nJulianne Nicholson as Janet is quietly essential. She plays a woman who has been watching her husband\'s quiet self-regard for years, and what she brings to the film is not resentment but a clear-eyed weariness — the knowledge of exactly who Paul is, rendered without cruelty. The marriage is believable because Janet is not a foil or a corrective; she is simply a person who chose this man and has been living with the full consequences of that choice ever since.\n\nThe film\'s satirical target shifts in its second half from the arbitrariness of fame to the machinery of public condemnation, and here the film is deliberately uncomfortable in its ambiguity. Paul has done nothing wrong. His dream appearances have turned threatening through no act of his own will. Yet he is treated as responsible — managed, abandoned, ultimately discarded — and the film refuses to adjudicate this cleanly. The comparison to cancel culture is present but Borgli is too smart to reduce it to a simple verdict. What the film is really asking is whether accountability requires agency, and it lets that question hang without a net.\n\nThe comedy throughout is the dry, almost affectless kind — jokes delivered at the pace of ordinary conversation, punchlines buried in mundane exchanges. The dream sequences are rendered with a mundane quality that is precisely the point: these are not cinematic visions but the kind of half-formed, slightly off-kilter scenarios that constitute actual dreaming. The effect is that the extraordinary feels everyday, which is what the film is arguing the entire time.\n\nBorgli\'s script is not perfectly calibrated — the final act disperses some of the film\'s accumulated pressure rather than converting it into something final — but the intelligence of the central observation never wavers. Dream Scenario understands something true and uncomfortable about a particular type of man, and it communicates that understanding through a premise so perfectly suited to its purposes that the film\'s best moments feel inevitable. Anyone who has sat next to a Paul Matthews at a dinner party will recognize him immediately, and find the recognition deeply unsettling."
+    }
+  },
 ]; // ← paste movie objects here, one by one
