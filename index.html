@@ -417,10 +417,15 @@
       border-radius: 3px;
     }
 
-    /* ─── Header ────────────────────────────────────────────── */
-    .header {
+    /* ─── Header & Controls Wrapper ─────────────────────────── */
+    .sticky-wrapper {
       position: sticky;
       top: 1rem;
+      z-index: 100;
+    }
+
+    /* ─── Header ────────────────────────────────────────────── */
+    .header {
       margin: 0 2rem;
       border-radius: 24px 24px 0 0;
       z-index: 100;
@@ -587,8 +592,6 @@
 
     /* ─── Controls Bar ──────────────────────────────────────── */
     .controls {
-      position: sticky;
-      top: calc(1rem + 72px);
       margin: 0 2rem 2rem 2rem;
       border-radius: 0 0 24px 24px;
       z-index: 99;
@@ -2243,14 +2246,25 @@
        RESPONSIVE — TABLET (≤ 768px)
        ═══════════════════════════════════════════════════════════ */
     @media (max-width: 768px) {
+      .sticky-wrapper {
+        position: sticky;
+        top: 0.5rem;
+        z-index: 100;
+        margin: 0 0.5rem;
+      }
 
-      /* ── Header: stack vertically and unstick to save space ── */
+      /* ── Header: stack vertically ── */
       .header {
-        position: relative;
         flex-wrap: wrap;
         height: auto;
-        padding: 0.75rem 1rem;
+        padding: 0.75rem 1rem 1.25rem 1rem;
         gap: 0.5rem;
+        margin: 0;
+        border-radius: 16px 16px 0 0;
+      }
+      .header::after {
+        left: 1rem;
+        right: 1rem;
       }
 
       .header__brand {
@@ -2280,13 +2294,15 @@
 
       /* ── Controls: single line horizontal scroll ── */
       .controls {
-        top: 0;
         padding: 0.5rem 1rem;
         flex-wrap: nowrap;
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
         scrollbar-width: none;
         gap: 0.5rem;
+        margin: 0;
+        border-radius: 0 0 16px 16px;
+        margin-bottom: 0.5rem;
       }
 
       .controls::-webkit-scrollbar {
@@ -2395,6 +2411,8 @@
       .modal__poster-col {
         display: flex;
         justify-content: center;
+        transform: none;
+        z-index: 1;
       }
 
       .modal__poster {
@@ -2524,7 +2542,7 @@
       .header {
         flex-direction: column;
         align-items: stretch;
-        padding: 0.6rem 0.75rem;
+        padding: 0.6rem 0.75rem 1rem 0.75rem;
         gap: 0.4rem;
       }
 
@@ -3047,27 +3065,29 @@
 
 <body>
 
-  <!-- ─── Header ────────────────────────────── -->
-  <header class="header">
-    <div class="header__brand">
-      <img src="site_logo.png" alt="CineVault Logo" class="cinevault-logo" aria-hidden="true">
-      <h1 class="header__title" id="collection-title">CineVault</h1>
-      <div class="header__divider" aria-hidden="true"></div>
-      <span class="header__count"><span id="film-count">0</span> film<span id="film-count-plural">s</span></span>
-    </div>
-    <div class="header__actions">
-      <div class="search-wrap" role="search">
-        <span class="search-icon" aria-hidden="true">⌕</span>
-        <input type="search" class="search-input" id="search-input" placeholder="Search films, directors, cast…"
-          aria-label="Search the collection" autocomplete="off" spellcheck="false">
+  <div class="sticky-wrapper">
+    <!-- ─── Header ────────────────────────────── -->
+    <header class="header">
+      <div class="header__brand">
+        <img src="site_logo.png" alt="CineVault Logo" class="cinevault-logo" aria-hidden="true">
+        <h1 class="header__title" id="collection-title">CineVault</h1>
+        <div class="header__divider" aria-hidden="true"></div>
+        <span class="header__count"><span id="film-count">0</span> film<span id="film-count-plural">s</span></span>
       </div>
-      <button class="btn-icon" id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle theme">☾</button>
-    </div>
-  </header>
+      <div class="header__actions">
+        <div class="search-wrap" role="search">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input type="search" class="search-input" id="search-input" placeholder="Search films, directors, cast…"
+            aria-label="Search the collection" autocomplete="off" spellcheck="false">
+        </div>
+        <button class="btn-icon" id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle theme">☾</button>
+      </div>
+    </header>
 
-  <!-- ─── Controls Bar ──────────────────────── -->
-  <div class="controls" id="filter-controls" role="toolbar" aria-label="Filter and Sort controls">
-    <!-- Populated by JS -->
+    <!-- ─── Controls Bar ──────────────────────── -->
+    <div class="controls" id="filter-controls" role="toolbar" aria-label="Filter and Sort controls">
+      <!-- Populated by JS -->
+    </div>
   </div>
 
   <!-- ─── Main Grid ─────────────────────────── -->
@@ -3762,7 +3782,7 @@
       // Dropdown Toggles
       const isMobile = () => window.innerWidth <= 768;
 
-      function closeMobileSheet() {
+      function closeMobileSheet(fromPopstate = false) {
         const backdrop = document.querySelector('.mobile-dropdown-backdrop');
         const sheet = document.querySelector('.dropdown-menu.mobile-sheet');
         if (backdrop) {
@@ -3776,10 +3796,13 @@
           sheet._origParent = null;
         }
         document.querySelectorAll('.dropdown-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+        if (fromPopstate !== true && history.state && history.state.filterOpen) {
+          history.back();
+        }
       }
 
-      function closeAllDropdowns() {
-        closeMobileSheet();
+      function closeAllDropdowns(fromPopstate = false) {
+        closeMobileSheet(fromPopstate);
         document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.remove('is-open'));
         document.querySelectorAll('.dropdown-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
       }
@@ -3805,6 +3828,7 @@
               document.body.appendChild(menu);
               menu.classList.add('mobile-sheet', 'is-open');
               requestAnimationFrame(() => backdrop.classList.add('is-visible'));
+              history.pushState({ filterOpen: true }, '');
             } else {
               menu.classList.add('is-open');
             }
@@ -3815,10 +3839,7 @@
         menu.addEventListener('click', e => e.stopPropagation());
       });
 
-      // Close dropdowns on outside click
-      document.addEventListener('click', () => {
-        closeAllDropdowns();
-      });
+      // Close dropdowns on outside click (handled globally to avoid stacking)
 
       // Random Pick
       const randomBtn = controls.querySelector('#random-pick-btn');
@@ -4010,6 +4031,7 @@
       overlay.setAttribute('aria-label', `${film.title} — Film details`);
       overlay.classList.add('is-open');
       document.body.style.overflow = 'hidden';
+      history.pushState({ modalOpen: true }, '');
 
       content.querySelector('.modal__close').addEventListener('click', closeModal);
 
@@ -4019,11 +4041,14 @@
       }, 50);
     }
 
-    function closeModal() {
+    function closeModal(fromPopstate = false) {
       const overlay = document.getElementById('modal-overlay');
       overlay.classList.remove('is-open');
       document.body.style.overflow = '';
       if (lastFocus) { lastFocus.focus(); lastFocus = null; }
+      if (fromPopstate !== true && history.state && history.state.modalOpen) {
+        history.back();
+      }
     }
 
     function buildModalHTML(film) {
@@ -4381,6 +4406,15 @@
         if (e.target === document.getElementById('modal-overlay')) closeModal();
       });
 
+      // Close desktop dropdowns on outside click
+      document.addEventListener('click', (e) => {
+        if (!e.target.closest('.dropdown')) {
+           // Close dropdowns but don't mess with history since it's desktop
+           document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.remove('is-open'));
+           document.querySelectorAll('.dropdown-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+        }
+      });
+
       // Keyboard events
       document.addEventListener('keydown', e => {
         const overlay = document.getElementById('modal-overlay');
@@ -4440,6 +4474,28 @@
         window.addEventListener('offline', updateOnline);
         updateOnline();
       }
+
+      // ─── Popstate (Hardware Back Button) ───
+      window.addEventListener('popstate', (e) => {
+        const overlay = document.getElementById('modal-overlay');
+        if (overlay && overlay.classList.contains('is-open')) {
+          closeModal(true);
+        }
+        const backdrop = document.querySelector('.mobile-dropdown-backdrop');
+        if (backdrop && backdrop.classList.contains('is-visible')) {
+          backdrop.classList.remove('is-visible');
+          setTimeout(() => backdrop.remove(), 200);
+          const sheet = document.querySelector('.dropdown-menu.mobile-sheet');
+          if (sheet) {
+            const origParent = sheet._origParent;
+            sheet.classList.remove('mobile-sheet', 'is-open');
+            if (origParent) origParent.appendChild(sheet);
+            sheet._origParent = null;
+          }
+          document.querySelectorAll('.dropdown-menu').forEach(m => m.classList.remove('is-open'));
+          document.querySelectorAll('.dropdown-btn').forEach(b => b.setAttribute('aria-expanded', 'false'));
+        }
+      });
     }
     document.addEventListener('DOMContentLoaded', init);
 
