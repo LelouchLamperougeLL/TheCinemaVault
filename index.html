@@ -3999,7 +3999,7 @@
       bindSetToggle('input[data-filter="criticRating"]', 'criticRatings');
 
       // Tag Pills
-      controls.querySelectorAll('.tag-pill').forEach(btn => {
+      controls.querySelectorAll('.tag-pill:not(.yr-pill)').forEach(btn => {
         btn.addEventListener('click', () => {
           const filterType = btn.dataset.filter;
           const v = btn.dataset.value;
@@ -4009,9 +4009,11 @@
           else if (filterType === 'mood') set = f.moods;
           else if (filterType === 'language') set = f.languages;
 
-          set.has(v) ? set.delete(v) : set.add(v);
-          btn.classList.toggle('is-active', set.has(v));
-          updateAndSave();
+          if (set) {
+            set.has(v) ? set.delete(v) : set.add(v);
+            btn.classList.toggle('is-active', set.has(v));
+            updateAndSave();
+          }
         });
       });
 
