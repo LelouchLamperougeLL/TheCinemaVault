@@ -643,11 +643,17 @@
       user-select: none;
     }
 
-    .dropdown-btn:hover,
     .dropdown-btn.is-active {
       border-color: var(--accent);
       color: var(--accent);
       background: rgba(212, 175, 55, 0.05);
+    }
+    @media (hover: hover) {
+      .dropdown-btn:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+        background: rgba(212, 175, 55, 0.05);
+      }
     }
 
     .dropdown-menu {
@@ -790,9 +796,11 @@
       transition: all 0.3s ease;
       overflow: hidden;
     }
-    .filter-accordion:hover {
-      background: rgba(255, 255, 255, 0.04);
-      border-color: rgba(212, 175, 55, 0.15);
+    @media (hover: hover) {
+      .filter-accordion:hover {
+        background: rgba(255, 255, 255, 0.04);
+        border-color: rgba(212, 175, 55, 0.15);
+      }
     }
     .filter-accordion[open] {
       background: rgba(212, 175, 55, 0.03);
@@ -874,8 +882,10 @@
       transition: var(--transition);
     }
 
-    .filter-check:hover {
-      color: var(--text-primary);
+    @media (hover: hover) {
+      .filter-check:hover {
+        color: var(--text-primary);
+      }
     }
 
     .filter-check input[type="checkbox"] {
@@ -933,11 +943,13 @@
       box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
     }
 
-    .tag-pill:hover {
-      border-color: rgba(212, 175, 55, 0.4);
-      background: rgba(255, 255, 255, 0.08);
-      color: var(--accent);
-      transform: translateY(-1px);
+    @media (hover: hover) {
+      .tag-pill:hover {
+        border-color: rgba(212, 175, 55, 0.4);
+        background: rgba(255, 255, 255, 0.08);
+        color: var(--accent);
+        transform: translateY(-1px);
+      }
     }
 
     .tag-pill.is-active {
@@ -1106,9 +1118,11 @@
       opacity: 0.6;
     }
 
-    .filter-badge-toggle:hover .viewer-badge-ui {
-      opacity: 0.9;
-      background: rgba(255, 255, 255, 0.05);
+    @media (hover: hover) {
+      .filter-badge-toggle:hover .viewer-badge-ui {
+        opacity: 0.9;
+        background: rgba(255, 255, 255, 0.05);
+      }
     }
 
     .filter-badge-toggle input:checked+.viewer-badge-ui {
@@ -1132,8 +1146,10 @@
       transition: var(--transition);
     }
 
-    .filter-row-toggle:hover .filter-row-ui {
-      background: rgba(255, 255, 255, 0.03);
+    @media (hover: hover) {
+      .filter-row-toggle:hover .filter-row-ui {
+        background: rgba(255, 255, 255, 0.03);
+      }
     }
 
     .filter-row-indicator {

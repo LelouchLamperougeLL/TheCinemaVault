@@ -50531,4 +50531,2925 @@ const MOVIES = [
       fullReview: "Paul Matthews is an evolutionary biology professor at a small college — the kind of man who has spent decades convinced the world has not yet noticed how interesting he is. He has a comfortable marriage, two daughters, a book proposal that has gone nowhere for years, and a low-grade dissatisfaction he has never bothered to examine. Then, without warning or explanation, he begins appearing in the dreams of millions of strangers. He is not doing anything in these dreams — just standing there, a passive presence in other people\'s subconscious landscapes. And for a brief, intoxicating season, this makes him famous.\n\nKristoffer Borgli, the Norwegian director who announced himself with the caustic Sick of Myself, uses this premise as a delivery mechanism for a very specific kind of satire: not about the famous, but about the mediocre man who mistakes attention for recognition and recognition for worth. Paul has not achieved anything. He has simply shown up, and the world has decided, for now, that showing up is enough. The cruelty of the film\'s setup is that it gives Paul exactly what he thinks he wants — visibility, interest, a seat at the table — and then demonstrates with quiet precision that he has no idea what to do with any of it.\n\nNicolas Cage plays Paul as a man whose vanity is too small and too sincere to be called vanity. This is not Cage operating at his baroque extremes — no wild eyes, no operatic breakdowns. The performance is built from small hesitations, half-suppressed smiles, the particular way a man straightens slightly when someone recognizes him in public. It is some of the finest restrained work of his career precisely because the restraint is doing something: communicating a person who has always believed himself extraordinary and is now watching, with helpless pleasure, as the world catches up to what he has always known. When things shift — when the dreams turn from peaceful to violent and Paul becomes not a comfort but a nightmare — Cage conveys the humiliation of a man whose entire sense of self has been built on something he never controlled and cannot reclaim.\n\nJulianne Nicholson as Janet is quietly essential. She plays a woman who has been watching her husband\'s quiet self-regard for years, and what she brings to the film is not resentment but a clear-eyed weariness — the knowledge of exactly who Paul is, rendered without cruelty. The marriage is believable because Janet is not a foil or a corrective; she is simply a person who chose this man and has been living with the full consequences of that choice ever since.\n\nThe film\'s satirical target shifts in its second half from the arbitrariness of fame to the machinery of public condemnation, and here the film is deliberately uncomfortable in its ambiguity. Paul has done nothing wrong. His dream appearances have turned threatening through no act of his own will. Yet he is treated as responsible — managed, abandoned, ultimately discarded — and the film refuses to adjudicate this cleanly. The comparison to cancel culture is present but Borgli is too smart to reduce it to a simple verdict. What the film is really asking is whether accountability requires agency, and it lets that question hang without a net.\n\nThe comedy throughout is the dry, almost affectless kind — jokes delivered at the pace of ordinary conversation, punchlines buried in mundane exchanges. The dream sequences are rendered with a mundane quality that is precisely the point: these are not cinematic visions but the kind of half-formed, slightly off-kilter scenarios that constitute actual dreaming. The effect is that the extraordinary feels everyday, which is what the film is arguing the entire time.\n\nBorgli\'s script is not perfectly calibrated — the final act disperses some of the film\'s accumulated pressure rather than converting it into something final — but the intelligence of the central observation never wavers. Dream Scenario understands something true and uncomfortable about a particular type of man, and it communicates that understanding through a premise so perfectly suited to its purposes that the film\'s best moments feel inevitable. Anyone who has sat next to a Paul Matthews at a dinner party will recognize him immediately, and find the recognition deeply unsettling."
     }
   },
+  {
+    id: "we-live-in-time-2024",
+    title: "We Live in Time",
+    originalTitle: null,
+    romanization: null,
+    year: 2024,
+    tagline: "Every minute counts.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/oENEjNzgJiQhbJBqHBqVWwlbDcT.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=MH02yagHaNw",
+    director: [
+      {
+        name: "John Crowley",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2s24bopQ131ZTF3lrBLRFKMHPQG.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Nick Payne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c4Dyz9xMRXsxlIDkxH2pk8FxN9j.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Andrew Garfield",
+        role: "Tobias Durand",
+        photoUrl: "https://image.tmdb.org/t/p/w185/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
+      },
+      {
+        actor: "Florence Pugh",
+        role: "Almut Brühl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+      },
+      {
+        actor: "Grace Delaney",
+        role: "Ella",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pZaiUYfapa7vj6vdFjNQWNS6VUT.jpg"
+      },
+      {
+        actor: "Lee Braithwaite",
+        role: "Jade",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sUekD712makzFOvg7wg4y1EfuMy.jpg"
+      },
+      {
+        actor: "Aoife Hinds",
+        role: "Skye",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5Gckrcs7WXkMClFWszNOtuJqRou.jpg"
+      },
+      {
+        actor: "Adam James",
+        role: "Simon Maxson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5aVa1LgnOzkzsIYdcb1QUTxV5g3.jpg"
+      },
+      {
+        actor: "Douglas Hodge",
+        role: "Reginald",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tENL3Uxt07Rn21o0y0eolwTnkoZ.jpg"
+      },
+      {
+        actor: "Niamh Cusack",
+        role: "Sylvia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nfSWB8Ek9X9kjUtjD6PzWxVM5Xd.jpg"
+      },
+      {
+        actor: "Lucy Briers",
+        role: "Dr Kerri Weaver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rEIqaTVMMMZzzi1BZZpIml5AUby.jpg"
+      },
+      {
+        actor: "Nikhil Parmar",
+        role: "Sanjaya",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zlOjzGTlmYghKWFPzROlyiZ41l6.jpg"
+      },
+      {
+        actor: "Kerry Godliman",
+        role: "Jane",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eLbKxu58ZPFCGl6WF9rbRJdg7R4.jpg"
+      },
+      {
+        actor: "Heather Craney",
+        role: "Buffy Jones",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uLQabaYfREl4M5cO1kUyyRExCsf.jpg"
+      },
+      {
+        actor: "Matt Kennard",
+        role: "Benjamin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9fNXEsovwJzexjnUPPErWEJpaWp.jpg"
+      },
+      {
+        actor: "Laura Guest",
+        role: "Midwife",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bzMZHfmZXYr43bt1isanIRFoMkb.jpg"
+      },
+      {
+        actor: "Marama Corlett",
+        role: "Adrienne Duvall",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kLIwpT5Vn6AIad4z6O9pgzMOv5u.jpg"
+      },
+      {
+        actor: "Megan Haly",
+        role: "Cashier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rfkkZ6NKUEvVSzGPsRvgWNMSI3b.jpg"
+      },
+      {
+        actor: "Eliot Salt",
+        role: "Chef James",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7wE2fgucCBqtapjI2eJSlwBxnlN.jpg"
+      },
+      {
+        actor: "Kevin Brewer",
+        role: "Chef Luke",
+        photoUrl: "https://image.tmdb.org/t/p/w185/otZ1qTCMDl0p7YIxpmOGm9Ojm8f.jpg"
+      },
+      {
+        actor: "Roly Botha",
+        role: "Noel (Close-Up Magician)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pljto5jL16XDOxix9W0Iu2l0A47.jpg"
+      },
+      {
+        actor: "Grace Molony",
+        role: "Nurse (Chemo Ward)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/igXLulnl2ohv1NKXmyiTi7LPeSl.jpg"
+      },
+      {
+        actor: "Ann Ogbomo",
+        role: "Operator",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5EGoq8xksh6w1MZJBDgEi7LofDC.jpg"
+      },
+      {
+        actor: "Saira Choudhry",
+        role: "Sheena",
+        photoUrl: "https://image.tmdb.org/t/p/w185/isfZ02QYX9zdwciyuXixlbxeFKg.jpg"
+      },
+      {
+        actor: "João Soares dos Reis",
+        role: "Station Cook",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4Kk1KPzqvSsOvQ8fGNkWfSh9FUR.jpg"
+      },
+      {
+        actor: "Kemal Shah",
+        role: "CEO Weetabix",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7x9nxyDMnVBcbiOWAk41rJLvKnt.jpg"
+      },
+      {
+        actor: "Fumilayo Brown-Olateju",
+        role: "Chef Ruth",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zkSfZncpbpOWOe8YACKjYfSIGRk.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Romance", "Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "terminal cancer diagnosis and prolonged illness depicted in clinical and emotional detail",
+        "frank discussion of mortality with a young child",
+        "brief non-explicit sexual content",
+        "childbirth sequence with moderate physical intensity",
+        "sustained emotional distress around grief and anticipated loss"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:48" }
+    ],
+    awards: [
+      { body: "BAFTA Film Awards (78th)", category: "Best Actress in a Leading Role", result: "Nominated", year: 2025 },
+      { body: "BAFTA Film Awards (78th)", category: "Best Actor in a Leading Role", result: "Nominated", year: 2025 },
+      { body: "Golden Globe Awards (82nd)", category: "Best Performance by a Female Actor in a Motion Picture — Drama", result: "Nominated", year: 2025 },
+      { body: "Screen Actors Guild Awards (31st)", category: "Outstanding Performance by a Female Actor in a Leading Role", result: "Nominated", year: 2025 },
+      { body: "Critics Choice Movie Awards (15th)", category: "Best Actress", result: "Nominated", year: 2025 }
+    ],
+    criticRating: "Solid",
+    review: {
+      themes: ["mortality", "impermanence", "parenthood", "love", "grief", "ambition", "time"],
+      mood: ["tender", "elegiac", "intimate"],
+      fullReview: "Tobias Durand is a recently divorced cereal brand executive — not a man who has particularly distinguished himself, but a decent one — when a car accident outside a restaurant puts him quite literally in the path of Almut Brühl, a chef of formidable drive and guarded warmth who has spent her life outrunning something she has not yet named. What begins in injury and embarrassment becomes, across the decade that follows, the organizing fact of both their lives.\n\nThat synopsis describes the film\'s architecture rather than its texture. John Crowley and screenwriter Nick Payne — adapting his own sensibility from a theatrical tradition obsessed with time and contingency — have structured We Live in Time as a deliberately fractured chronology, moving between the couple\'s first tentative months, the arrival of their daughter, and a third timeline that the film withholds context for long enough to generate genuine dread. The non-linear approach is not a gimmick. It is the film\'s central argument: that a life lived alongside another person is not experienced as a clean arc but as a collection of moments that do not know their own importance until much later, if ever.\n\nFlorence Pugh is the reason the film works as well as it does. Almut is a character who could easily tip into the archetype of the vibrant, life-affirming woman whose illness teaches a man to feel — a role the film\'s marketing materials occasionally risk suggesting. Pugh refuses this. She plays Almut with a distinct selfishness alongside the warmth, a competitive streak that sits slightly at odds with the picture of grace the narrative occasionally reaches for, and a private fury at her own circumstances that she does not always manage to contain. The performance is specific where a lesser one would be general, and that specificity is what makes the more emotionally costly sequences land without feeling engineered.\n\nAndrew Garfield plays Tobias with an openness that approaches transparency. He is not asked to conceal much — Tobias is constitutionally a person whose feelings travel directly to his face — and Garfield honors this without reducing the character to a single note of devoted bewilderment. The chemistry between the two leads is the real structural load-bearing element of the film, and it holds. What makes their scenes together credible is not sweetness but friction: the sense that these are two people who genuinely irritate each other on occasion, and choose to be there anyway.\n\nBryce Dessner\'s score moves between restraint and feeling with more care than most contemporary romantic drama scores manage, and Stuart Bentley\'s cinematography gives the film a warmth that feels earned rather than applied — light that arrives on skin and surfaces rather than being placed there. The food preparation sequences, which could easily read as atmospheric filler, are shot and edited with an attentiveness to process that says something about Almut\'s relationship to control and creation without spelling it out.\n\nThe non-linear structure does create some unevenness. The film\'s third timeline — the one weighted with medical reality — carries an emotional charge the earlier sections have not quite prepared for. This is both a feature and a flaw: the structural surprise generates impact, but certain emotional beats feel outpaced by the information arriving around them. A quieter, less fragmented version of this story might have given secondary characters room to breathe — Tobias\'s family, Almut\'s restaurant colleagues, the daughter Ella at various ages — and the compression occasionally makes the film feel slightly sealed off from the world its central couple inhabits.\n\nThis is nevertheless a film made with real craft and real feeling, and it does not mistake sentiment for emotion. The ending, when it comes, does not reach for resolution so much as for presence — the value of a moment not as a step toward something but as the thing itself. That is a harder target than it sounds, and the film comes close enough to matter."
+    }
+  },
+  {
+    id: "transformers-one-2024",
+    title: "Transformers One",
+    originalTitle: null,
+    romanization: null,
+    year: 2024,
+    tagline: "Witness the origin.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/jgrw66styiJa3YfPpXQVYmi0EdW.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/bBY65ft2yCquqcm9Icx5IG3R3Jy.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=5a09yJU-mCI",
+    director: [
+      {
+        name: "Josh Cooley",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eGN0vaFmKtqHu1nFi3Lv4roQ6P2.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Andrew Barrer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6e1Q2aTYCpRV54u7N9xOKXXR0xR.jpg"
+      },
+      {
+        name: "Gabriel Ferrari",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rd9PnbwFMBCCD2nro6Yi9CZ9g06.jpg"
+      },
+      {
+        name: "Eric Pearson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vmvz2dMyaTBSNFjKyY7ikFI44xM.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Chris Hemsworth",
+        role: "Orion Pax / Optimus Prime (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+      },
+      {
+        actor: "Brian Tyree Henry",
+        role: "D-16 / Megatron (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1UgDnFt3OteCJQPiUelWzIR5bvT.jpg"
+      },
+      {
+        actor: "Scarlett Johansson",
+        role: "Elita-1 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6bBCPmc55gzP7TR9Th4WbykrYd0.jpg"
+      },
+      {
+        actor: "Keegan-Michael Key",
+        role: "B-127 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+      },
+      {
+        actor: "Jon Hamm",
+        role: "Sentinel Prime (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+      },
+      {
+        actor: "Steve Buscemi",
+        role: "Starscream (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+      },
+      {
+        actor: "Laurence Fishburne",
+        role: "Alpha Trion (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+      },
+      {
+        actor: "Vanessa Liguori",
+        role: "Airachnid (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9EkNTWHZ1U83XuQJ9VU9sldxI9g.jpg"
+      },
+      {
+        actor: "Jason Konopisos-Alvarez",
+        role: "Shockwave / Guard 2 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vWunN0rdthwvaX3FOj1tmQIMylD.jpg"
+      },
+      {
+        actor: "Evan Michael Lee",
+        role: "Jazz (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/t5ge6vhIRLX9VjOw9Q2nInhw57T.jpg"
+      },
+      {
+        actor: "James Remar",
+        role: "Zeta Prime (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
+      },
+      {
+        actor: "Isaac C. Singleton, Jr.",
+        role: "Darkwing (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AsVdOAbT1Ewqy6fbWZTvfKWkt4r.jpg"
+      },
+      {
+        actor: "Steve Blum",
+        role: "Announcer Bot / Guard 1 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+      },
+      {
+        actor: "Jinny Chung",
+        role: "Chromia / Arcee (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wpYVdTxPIBblaNyluy4ghauxpOb.jpg"
+      },
+      {
+        actor: "Josh Cooley",
+        role: "Control Room Guys / PA System / Skywarp (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eGN0vaFmKtqHu1nFi3Lv4roQ6P2.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Animation", "Adventure", "Sci-fi", "Action"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "sustained action combat between robotic characters with destruction and peril",
+        "themes of class oppression and forced labor",
+        "betrayal between close companions depicted with emotional weight",
+        "one character death that may distress younger viewers"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:44" }
+    ],
+    awards: [
+      { body: "Annie Awards (52nd)", category: "Outstanding Achievement in an Animated Feature - Independent", result: "Nominated", year: 2025 },
+      { body: "Annie Awards (52nd)", category: "Outstanding Achievement for Voice Acting in an Animated Feature - Brian Tyree Henry", result: "Nominated", year: 2025 },
+      { body: "Saturn Awards (51st)", category: "Best Animated Film", result: "Nominated", year: 2025 },
+      { body: "Critics Choice Movie Awards (15th)", category: "Best Animated Feature", result: "Nominated", year: 2025 }
+    ],
+    criticRating: "Solid",
+    review: {
+      themes: ["brotherhood", "betrayal", "corruption", "freedom", "loyalty", "power", "identity"],
+      mood: ["kinetic", "warm", "electric"],
+      fullReview: "Long before the shouting and the explosions and Shia LaBeouf, before Cybertron became a backdrop for human protagonists to stand in front of, Orion Pax and D-16 were friends. That is the premise of Transformers One — and the fact that a summer blockbuster prequel built on a toy franchise has genuine emotional traction because of that friendship is not a small achievement. Josh Cooley, who previously directed Toy Story 4, takes what could have been a cynical mythology-building exercise and turns it into something considerably warmer: an origin story that earns its tragedy because it first earns its bond.\n\nOrion Pax is an underclass worker on Cybertron, a world where the caste you are born into determines whether you will ever be permitted to transform. He is earnest to a fault, enthusiastic in the manner of someone whose optimism has not yet been tested by the thing that will eventually break it. D-16 is his more pragmatic counterpart — harder, faster to read the room, protective of Orion in the way that people who have given up on the world become protective of the few things they still believe in. The film\\'s first act, which establishes their friendship through a series of increasingly reckless scrapes, is legitimately funny and consistently characterful. Chris Hemsworth finds a register for Orion that is distinct from his usual charisma — more naive, more genuinely good — and Brian Tyree Henry\\'s D-16 is the film\\'s real revelation: a voice performance of real emotional complexity that manages to make the path toward Megatron feel both inevitable and genuinely sad.\n\nThe screenplay, credited to Andrew Barrer, Gabriel Ferrari, and Eric Pearson, is wise enough to put the political architecture of Cybertron to work rather than leaving it as backdrop. The energon caste system is not complicated, but it is legible, and the film uses it to make D-16\\'s eventual radicalization coherent rather than cartoonish. The system is corrupt. The grievance is real. The tragedy is that the response to a real grievance becomes the thing it sought to destroy — and the film lays enough groundwork that this does not feel schematic.\n\nKeegan-Michael Key as B-127 provides the comic relief with enough self-awareness to avoid undermining the stakes. Jon Hamm\\'s Sentinel Prime is a well-cast piece of casting against expectation — the voice suggests credibility and authority while the character slowly reveals something hollower underneath. These are not complex performances, but they are well-suited performances, which in an animated ensemble is exactly what is required.\n\nThe animation itself is genuinely impressive — Cybertron rendered as a living mechanical world with texture and scale that justifies the theatrical format. The transformation sequences have been reconceived for animation in ways that free them from the visual chaos that defined the live-action films, replacing that noise with clarity and even elegance. A race sequence in the first act is the kind of setpiece that reminds an audience what animation can do when it is not trying to replicate live-action physics.\n\nBrian Tyler\\'s score provides the bombast the material requires without distinguishing itself beyond that function, and the film\\'s pacing is muscular without being breathless — a runtime of just under one hour and forty-five minutes that mostly earns its duration.\n\nTransformers One is the best film this franchise has produced, which is both high praise in context and a statement that requires context to land properly. What it achieves is more modest than a great film and more genuine than a good one: it takes characters who have existed for forty years as symbols of a conflict and makes their falling-out feel like a specific, personal loss. The last twenty minutes carry weight that the first act carefully deposited, and that transference — the payoff of genuine setup — is rarer in blockbuster filmmaking than it ought to be."
+    }
+  },
+  {
+    id: "the-roses-2025",
+    title: "The Roses",
+    originalTitle: null,
+    romanization: null,
+    year: 2025,
+    tagline: "This marriage ain't big enough for the both of them.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/FzhBVd6eqrM4jSmYVyge8tMcTe.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/3CPQc1pgYu0iWr1UNk2nwy2ylDE.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=XkgMaS5gbaA",
+    director: [
+      {
+        name: "Jay Roach",
+        photoUrl: "https://image.tmdb.org/t/p/w185/48uTxNDRlnP56quVewyByotKAen.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Tony McNamara",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rlp4SPxehpOeLZV9E6xQdMnzLw8.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Olivia Colman",
+        role: "Ivy Rose",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4kceB4JYBcFTdzVhfq3cDnExcGa.jpg"
+      },
+      {
+        actor: "Benedict Cumberbatch",
+        role: "Theo Rose",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+      },
+      {
+        actor: "Andy Samberg",
+        role: "Barry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+      },
+      {
+        actor: "Kate McKinnon",
+        role: "Amy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+      },
+      {
+        actor: "Belinda Bromilow",
+        role: "Janice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wogUw8gWAjfKYK9CM1pVOdohvvA.jpg"
+      },
+      {
+        actor: "Ncuti Gatwa",
+        role: "Jeffrey",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vLFh9kdB2G06ugwYmRNpxiXhbN0.jpg"
+      },
+      {
+        actor: "Sunita Mani",
+        role: "Jane",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+      },
+      {
+        actor: "Zoë Chao",
+        role: "Sally",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4QZrFVx3VUmiII8iI5rGLiElc9m.jpg"
+      },
+      {
+        actor: "Jamie Demetriou",
+        role: "Rory",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nRhjzDgxQ8PzdUX1MTGhSmWwm8D.jpg"
+      },
+      {
+        actor: "Allison Janney",
+        role: "Eleanor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+      },
+      {
+        actor: "Delaney Quinn",
+        role: "Hattie Rose (Younger)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bLuE8taPlPUMohWTpXuspdqv1PT.jpg"
+      },
+      {
+        actor: "Ollie Robinson",
+        role: "Roy Rose (Younger)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7qE1QEcDFarurVPg7ffMLCQW4GW.jpg"
+      },
+      {
+        actor: "Hala Finley",
+        role: "Hattie Rose (Older)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9tU0kFjCGNiEe55KAxXkExBVMPC.jpg"
+      },
+      {
+        actor: "Wells Rappaport",
+        role: "Roy Rose (Older)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8OuW36ErYkFqgfn956ecjP3Mdfk.jpg"
+      },
+      {
+        actor: "Will Smith",
+        role: "Derek",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2MndmsbL0PE5oNj1t00v4jUwtaS.jpg"
+      },
+      {
+        actor: "Caroline Partridge",
+        role: "Sylvia (Food Critic)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bHUTz4APi4il9wRKvvmnRwGFHZk.jpg"
+      },
+      {
+        actor: "Margaret Clunie",
+        role: "Sophy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/enmPDhrWhZBMpJInxjuQQYroCK5.jpg"
+      },
+      {
+        actor: "Jude Coward Nicoll",
+        role: "Teenager on Airplane",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eifbyTAxneBQhrZ594gwTizrYBE.jpg"
+      },
+      {
+        actor: "Akie Kotabe",
+        role: "Alan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/89qQru3SueSpKPhAb1MgoIZEnen.jpg"
+      },
+      {
+        actor: "Emily Piggford",
+        role: "Lily",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
+      },
+      {
+        actor: "Paul Pape",
+        role: "Commercial Announcer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7lBHhavJ6wpLoMl9FybfLzKzVQy.jpg"
+      },
+      {
+        actor: "Ranjani Brow",
+        role: "News Anchor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zvhcwnrvDpa4iZGgdKgQ8GWdYJI.jpg"
+      },
+      {
+        actor: "Robin Atkin Downes",
+        role: "Boss",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"
+      },
+      {
+        actor: "Matt Corboy",
+        role: "HAL (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hkyyIuwqN6AqLZj6YHUPfYa2EKF.jpg"
+      }
+    ],
+    languages: ["English", "Spanish"],
+    genres: ["Comedy", "Drama", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "escalating emotional cruelty between romantic partners",
+        "moderate coarse language throughout",
+        "alcohol consumption in social and domestic settings",
+        "sexual references and innuendo",
+        "scenes of psychological manipulation within a marriage"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:45" }
+    ],
+    awards: [],
+    criticRating: "Decent",
+    review: {
+      themes: ["competition", "resentment", "ambition", "performance", "dissolution", "control", "entitlement"],
+      mood: ["corrosive", "wry", "bitter"],
+      fullReview: "Ivy and Theo Rose have built the kind of life that looks, from a suitable distance, like proof that everything worked out. Successful careers, well-appointed home, children, the right friends, the right dinner party conversation. Then Theo loses his footing professionally at precisely the moment Ivy finds hers, and the carefully maintained fiction of their mutual contentment begins to collapse in ways neither of them has the emotional vocabulary to address. The Roses, directed by Jay Roach from a script by Tony McNamara, is a dark comedy about how quickly a marriage can metastasize into a war once the power equilibrium that sustained it shifts past the point of recovery.\n\nMcNamara is one of the sharper comic writers working today. The Favourite and The Great both demonstrated a specific talent for finding the lacerating subtext beneath social performance, for writing characters who are monstrous and completely legible at the same time. That sensibility is present here in patches, and when the film finds it, something real flickers into view. There are exchanges between Ivy and Theo where the dialogue lands with the precise cruelty of two people who have spent years cataloguing each other\'s weak points. Those moments justify the film\'s existence. The problem is that Roach keeps pulling back from them.\n\nOlivia Colman is doing something genuinely interesting with Ivy. The particular way she plays competence as both liberation and new form of armor is difficult to describe and impossible to look away from. She makes choices in quiet scenes that feel both instinctive and exactly right, and the film is most alive in the moments it simply points the camera at her and gets out of the way. Benedict Cumberbatch is fully committed to Theo, but the screenplay does him a disservice by writing the character as primarily a vehicle for being wrong. Theo exists in a state of slow humiliation, and the film is too certain of its sympathies too early to allow him genuine menace. A sharper version of this material would have made both Roses genuinely dangerous, made the audience uncertain about where to land.\n\nThe supporting ensemble represents an embarrassment of talent operating well below its natural ceiling. Kate McKinnon, Andy Samberg, Ncuti Gatwa, Allison Janney — each arrives with their full instrument and is asked to play scales. McKinnon in particular has one genuinely inventive scene before the screenplay loses interest in what she could be doing. The ensemble reads less like an ensemble and more like a casting announcement, and the film never quite justifies assembling this particular group beyond the pleasure of their individual presences.\n\nThe British setting works better than it might have. There is something appropriate about placing this story inside the social circuits that require constant performance — the professional functions, the dinner parties where collapse must be managed through etiquette. But the geography never becomes thematic in the way the 1989 American original used Reagan-era materialism as both backdrop and subject. The new film gestures at something about contemporary professional ambition and the particular anxiety of watching a partner succeed past you, but it never fully articulates what it sees. The observation stays at the level of premise.\n\nAt 105 minutes the film moves efficiently enough, but the second act loses its footing in a sequence of escalating farce that arrives before the marriage has been properly established as something worth mourning. The comedy in those stretches works as comedy, but it costs the film something. Certain late scenes ask for a weight of feeling that the earlier sections have not quite earned, and the gap shows.\n\nWhat The Roses ultimately delivers is a handsome, intermittently sharp, persistently frustrating approximation of the film it could have been. Roach is a capable director of comedy and a less certain director of the specific register this material demands — somewhere between comedy and genuine ugliness, where laughing and wincing arrive at the same moment. McNamara can write that register; the evidence exists. But the finished film keeps softening its own best instincts, choosing the broader laugh over the more uncomfortable truth. Anyone willing to spend time watching Colman operate at close range will find that time rewarded. Anyone hoping for a comedy that commits to its own corrosive logic will find a film that understood the assignment and repeatedly negotiated its way to a gentler answer."
+    }
+  },
+  {
+    id: "4-months-3-weeks-and-2-days-2007",
+    title: "4 Months, 3 Weeks and 2 Days",
+    originalTitle: "4 luni, 3 săptămâni și 2 zile",
+    romanization: null,
+    year: 2007,
+    tagline: "At what moment do we begin to live?",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/1HN7i0l44j6qrmNHwV0SjyARbzF.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/ejpLiTuMGBtmaLqvy97GOp6YUrU.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=UjS7v4AEYco",
+    director: [
+      {
+        name: "Cristian Mungiu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Cristian Mungiu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3ECIvZzvUw4DOdQj797BsqH3bRb.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Anamaria Marinca",
+        role: "Otilia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aucTa4er4RHqSpLPxyltjXZpWDa.jpg"
+      },
+      {
+        actor: "Laura Vasiliu",
+        role: "Găbiță",
+        photoUrl: "https://image.tmdb.org/t/p/w185/70HUF6hswKB8mkqIpomrGLd45al.jpg"
+      },
+      {
+        actor: "Vlad Ivanov",
+        role: "Domnu\' Bebe",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mWEMgTQieGgvSzjtjx6UOm444hN.jpg"
+      },
+      {
+        actor: "Alexandru Potocean",
+        role: "Adi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ez05oJrNIeKyj60ygfyJfWnEQO7.jpg"
+      },
+      {
+        actor: "Luminița Gheorghiu",
+        role: "Mrs. Radu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2DdsK4FFtw869rMjcnhlFSwddwx.jpg"
+      },
+      {
+        actor: "Liliana Mocanu",
+        role: "Unirea Hotel Receptionist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uDBjCneWrRBl6ZPL0ykeeH8Pn0P.jpg"
+      },
+      {
+        actor: "Doru Ana",
+        role: "Gas Pump Attendant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q9zQiZb7WQljtIyPAptA4E0SRT2.jpg"
+      },
+      {
+        actor: "Ion Sapdaru",
+        role: "Mr. Rusu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9oNro0nKkYmOGOjQDKXtDbNJO9m.jpg"
+      },
+      {
+        actor: "Tania Popa",
+        role: "Night Receptionist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wqyahqSo86qI2tjebgF467YpAG8.jpg"
+      },
+      {
+        actor: "Teodor Corban",
+        role: "Unirea Hotel Receptionist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2gaP2oMPWLDlwNUiI1kwYjE0vbP.jpg"
+      },
+      {
+        actor: "Eugenia Bosânceanu",
+        role: "Domnu\' Bebe\'s Mother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vnftpXiTO9Swp0B7JoZMvVbw8Du.jpg"
+      },
+      {
+        actor: "Mărioara Sterian",
+        role: "Adela Racoviceanu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/v77wjgB7HR0TfPWgYKmv9LbFhlB.jpg"
+      },
+      {
+        actor: "Geo Dobre",
+        role: "Dr. Aldea",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yDwkgzFKl2277XB8QAbZsX1rItU.jpg"
+      },
+      {
+        actor: "Mădălina Ghițescu",
+        role: "Dora",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tJ36wY5O70m0yp1jUXWZHHqPJdX.jpg"
+      },
+      {
+        actor: "Adina Cristescu",
+        role: "The Bride",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A7Yduv8BnJNWrgOXofmwqGO6KIU.jpg"
+      },
+      {
+        actor: "Costel Bojog",
+        role: "Marcu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/da5UNbj5GPnuELU09LIHCBJr4De.jpg"
+      },
+      {
+        actor: "Simona Stoicescu",
+        role: "Soldier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nnptuTCh5VJdhgaQwUVrOZxl10U.jpg"
+      },
+      {
+        actor: "Ion Grosu",
+        role: "Porter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b9gmcXSHRoL7t2goVUMfdXsoZUB.jpg"
+      }
+    ],
+    languages: ["Romanian"],
+    genres: ["Drama", "Thriller"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "clinical and disturbing depiction of the physical aftermath of an illegal abortion",
+        "sexual coercion and implied assault by a figure of authority",
+        "sustained psychological pressure and moral anguish",
+        "pervasive atmosphere of fear under authoritarian state surveillance",
+        "scenes depicting the disposal of human remains"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:54" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (60th)", category: "Palme d\'Or", result: "Won", year: 2007 },
+      { body: "Cannes Film Festival (60th)", category: "FIPRESCI Prize", result: "Won", year: 2007 },
+      { body: "Cannes Film Festival (60th)", category: "Ecumenical Jury Prize", result: "Won", year: 2007 },
+      { body: "European Film Awards (20th)", category: "Best European Film", result: "Won", year: 2007 },
+      { body: "European Film Awards (20th)", category: "Best European Director", result: "Won", year: 2007 },
+      { body: "European Film Awards (20th)", category: "Best European Actress (Anamaria Marinca)", result: "Won", year: 2007 },
+      { body: "Satellite Awards (12th)", category: "Best Motion Picture, Foreign Language", result: "Won", year: 2007 },
+      { body: "César Awards (33rd)", category: "Best Foreign Film", result: "Won", year: 2008 },
+      { body: "BAFTA Film Awards (61st)", category: "Best Film Not in the English Language", result: "Nominated", year: 2008 },
+      { body: "Golden Globe Awards (65th)", category: "Best Foreign Language Film", result: "Nominated", year: 2008 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["complicity", "coercion", "desperation", "solidarity", "oppression", "survival", "shame"],
+      mood: ["harrowing", "suffocating", "bleak"],
+      fullReview: "Romania, 1987. Two university roommates have a single day to arrange an illegal abortion, working through the grey infrastructure of a country where almost everything is forbidden and almost anything is obtainable for a price. Otilia carries the practical weight — finding a hotel room, locating the abortionist, managing the money, managing Găbiță — while Găbiță, whose situation it actually is, waits. That asymmetry, and what it costs the person doing the carrying, is the moral engine of Cristian Mungiu\'s Palme d\'Or-winning film, which unfolds across one continuous, airless day and night and makes the viewer feel time passing like something physical pressing against the chest.\n\nThe film works under a strict set of self-imposed constraints that would have announced themselves as artistic posture in less certain hands. There is no score. The camera, operated by cinematographer Oleg Mutu, remains close to Otilia in long, unbroken takes that end only when they absolutely must. The editing barely breathes. These choices are not decorative — they are structural decisions about how anxiety is transmitted from screen to audience. Communist Romania in its late Ceaușescu period was, the film understands, an aesthetic as much as a political system: it was the lived experience of sustained low-grade pressure in institutions designed to dehumanise at the procedural level, one form at a time, one desk at a time. The formal rigour enacts that. Viewers who find the pacing oppressive are having exactly the response the film intends.\n\nAnamaria Marinca gives one of the great screen performances of this century. What she does with Otilia is almost impossible to describe in technical terms because the performance resists extraction from its context — it is not a collection of choices but a sustained state of being, and every scene reveals a different facet of a woman calculating, absorbing, enduring, and carrying more than anyone should be asked to carry. The audience experiences her fear and her exhaustion not through expressive display but through the specific quality of her attention to each successive obstacle. She is never indicating emotion. She is always thinking.\n\nVlad Ivanov as Domnu Bebe, the abortionist, is among the most frightening figures in European cinema of this period. There is a scene — extended, held in a single long static shot — in which the conditions of his assistance are established, and the scene is constructed so that the full ugliness of what is being demanded arrives gradually, without musical cue, without editorial intervention, until it cannot be denied. What Mungiu does here is not exploit the situation for shock but observe it with a kind of cold precision that implicates the viewer in the watching. The scene is genuinely difficult to sit through, not because of graphic imagery but because of what it reveals about the specific cruelty that finds its opportunity in other people\'s desperation.\n\nThe film also contains a dinner party sequence that operates in an entirely different register. A social occasion Otilia must attend while Găbiță waits alone in the hotel room. In terms of plot, nothing happens. In terms of emotional texture, the sequence is among the most devastating things in the film: the oblivious conversation, the birthday warmth, the fundamental gap between the room Otilia is physically occupying and the room she cannot stop thinking about. It demonstrates that Mungiu is not simply a director of harrowing events but a filmmaker of complete tonal control who understands that absence and displacement can be as devastating as anything shown directly.\n\nThe political context is never explained. The film has no interest in orienting viewers who do not already know that abortion was criminalised in Romania from 1966, that the consequences of detection could be severe, that daily life under the regime involved a perpetual negotiation between official prohibition and private survival conducted through unofficial channels. It simply renders the texture of that world — the hotel receptionists who require convincing, the arbitrary forms, the obstacles that function as instruments of social control — and trusts the audience to understand that the personal and the political are, in this film, the same thing.\n\nWhat remains long after the credits is the ending, which arrives without resolution in any conventional sense and delivers its closing image and its closing exchange with a precision that few films achieve. Mungiu does not offer catharsis. He offers clarity of a harder and more lasting kind. This is not a film to watch for pleasure. It is a film to have seen, which is a different and more demanding proposition — and the distinction is worth everything."
+    }
+  },
+  {
+    id: "another-round-2020",
+    title: "Another Round",
+    originalTitle: "Druk",
+    romanization: null,
+    year: 2020,
+    tagline: "What is youth? A dream. What is love? The content of the dream.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/4RzUOFOQfSfnWnC82wNoTlJbu6v.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=xlwAgvn1e5E",
+    director: [
+      {
+        name: "Thomas Vinterberg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1lChKBPVLqbn7Kl8lHghybBVzgw.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Thomas Vinterberg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1lChKBPVLqbn7Kl8lHghybBVzgw.jpg"
+      },
+      {
+        name: "Tobias Lindholm",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tNl1qcd5QzwddNPycDtgNfG002u.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Mads Mikkelsen",
+        role: "Martin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+      },
+      {
+        actor: "Thomas Bo Larsen",
+        role: "Tommy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x5Egmvb8FU275PfYZovyJggDBIs.jpg"
+      },
+      {
+        actor: "Magnus Millang",
+        role: "Nikolaj",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z0jM63yPLymCkVhc9WcG5xUFbjn.jpg"
+      },
+      {
+        actor: "Lars Ranthe",
+        role: "Peter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9kaqquzzGBBa1zXD8QAcMn42XUu.jpg"
+      },
+      {
+        actor: "Maria Bonnevie",
+        role: "Anika",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9BQAQNRsoN8Aderfp6QBwMp02JE.jpg"
+      },
+      {
+        actor: "Helene Reingaard Neumann",
+        role: "Amalie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1ctv638jZwpi94O6xY6SbbmECA.jpg"
+      },
+      {
+        actor: "Susse Wold",
+        role: "Rektor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wKrR5XYvEL8xiYBYp5PUoOlJ95k.jpg"
+      },
+      {
+        actor: "Magnus Sjørup",
+        role: "Jonas",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vcQ9H6W7vhUqGAK3gC4l3qWApPc.jpg"
+      },
+      {
+        actor: "Silas Cornelius Van",
+        role: "Kasper",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n7PTzAEO43Zu2yctuZuM1RRPkpJ.jpg"
+      },
+      {
+        actor: "Albert Rudbeck Lindhardt",
+        role: "Sebastian",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iEvh3kr3ZTfxjUdWvXCLPUUsx.jpg"
+      },
+      {
+        actor: "Martin Greis-Rosenthal",
+        role: "Overtjener",
+        photoUrl: "https://image.tmdb.org/t/p/w185/laIjxXgAfyfUqFQO2WSWqKZTLL0.jpg"
+      },
+      {
+        actor: "Frederik Winther Rasmussen",
+        role: "Malthe",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dIg4ViZkfRybAAlNnweSRj58Kgi.jpg"
+      },
+      {
+        actor: "Freja Bella Lindahl",
+        role: "Caro",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g0CEq4J2FvL149jkYTKUREFVabn.jpg"
+      },
+      {
+        actor: "Cassius Aasav Browning",
+        role: "Sander",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bvmFfzWQitWRgw7SZb8XmIwvRYK.jpg"
+      },
+      {
+        actor: "Clara Phillipson",
+        role: "Nicola",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kVtfimtBGBZbi79sgSpzt8tcuQ1.jpg"
+      },
+      {
+        actor: "Le Münster Swendsen",
+        role: "Female Teacher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8Dl78vcuYyf9JhS6DZwZBSBgCJX.jpg"
+      },
+      {
+        actor: "Michael Asmussen",
+        role: "Malthe\'s Father",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1EB3ocRbmXYFW9k0eLl6qkFH4Uj.jpg"
+      },
+      {
+        actor: "Christina Hildebrandt",
+        role: "Parent",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kjOxG9w3Kvbg0Sh2rETjfbRLXHC.jpg"
+      },
+      {
+        actor: "Thomas Guldberg Madsen",
+        role: "Waiter, Lumskebugten",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mQZWCuECWSfkqMcagtdEPsB7HbM.jpg"
+      },
+      {
+        actor: "Per Otto Bersang Rasmussen",
+        role: "Waiter, Sankt Peder",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wZAkFXGzlgZB8mZECd9eea3z8gP.jpg"
+      },
+      {
+        actor: "Dorte Højsted",
+        role: "Bartender, Alléenberg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a7awcwRx1QtONGkDngzQGEkfQaq.jpg"
+      },
+      {
+        actor: "Morten Thunbo",
+        role: "Irma Employee",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n5faWgOxLySqZSQ1vV3X4n47Rrm.jpg"
+      },
+      {
+        actor: "Jens Basse Dam",
+        role: "Caretaker",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qOzVQNl6USt6gGLXMAuehSg4bpk.jpg"
+      },
+      {
+        actor: "Jacob Ottensten",
+        role: "Sune",
+        photoUrl: "https://image.tmdb.org/t/p/w185/Ag3bSd0N0rpRKZ5VIHhKsPF4XNv.jpg"
+      }
+    ],
+    languages: ["Danish", "Swedish"],
+    genres: ["Drama", "Comedy"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "sustained and escalating alcohol consumption throughout",
+        "scenes of severe intoxication and alcohol-related incapacitation",
+        "alcohol-related tragedy and prolonged grief",
+        "marital breakdown and emotional estrangement",
+        "depression and existential despair in middle age",
+        "moderate coarse language"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:57" }
+    ],
+    awards: [
+      { body: "Toronto International Film Festival (2020)", category: "People\'s Choice Award", result: "Won", year: 2020 },
+      { body: "European Film Awards (33rd)", category: "Best European Film", result: "Won", year: 2020 },
+      { body: "European Film Awards (33rd)", category: "Best European Director (Thomas Vinterberg)", result: "Won", year: 2020 },
+      { body: "Academy Awards (93rd)", category: "Best International Feature Film", result: "Won", year: 2021 },
+      { body: "Golden Globe Awards (78th)", category: "Best Motion Picture, Foreign Language", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["stagnation", "liberation", "mortality", "regret", "brotherhood", "renewal", "loss"],
+      mood: ["elegiac", "euphoric", "melancholic"],
+      fullReview: "Four Danish high school teachers, all somewhere in the unremarkable middle of their forties, arrive at the same unspoken conclusion by different routes: they have stopped being present in their own lives. Martin teaches history with declining conviction and sits at dinner with his wife in a silence that has long since passed from comfortable to diagnostic. Tommy coaches football for teenagers who show no signs of improving. Nikolaj has a house full of small children and the permanent mild panic of a man who chose the life he wanted and cannot explain why it does not feel like enough. Peter conducts music lessons and has settled into a relationship with students who are simply waiting for him to stop talking. At a birthday dinner, the theory enters the conversation — a Norwegian psychologist supposedly argued that human beings are born with a blood alcohol deficit of 0.05%, and that maintaining that level throughout the working day might restore something essential. Four middle-aged men with professional jurisdiction over their own schedules decide to find out.\n\nThomas Vinterberg\'s film handles this premise with a tonal intelligence that is easy to underestimate while watching and impossible to deny in retrospect. It is genuinely funny in its first hour — there is something both absurd and entirely plausible about watching these men arrive at their classrooms marginally altered and finding that the alteration works, that students respond to a slightly more expansive version of their teachers, that life acquires texture again. The comedy is specific and warm without being soft, and it earns the film the emotional credit it spends without mercy later.\n\nThe experiment expands. The rules loosen. What began as a controlled study with a shared spreadsheet becomes something older and less manageable, and Vinterberg understands that the point was never whether alcohol is beneficial or destructive but that these men were already in trouble before the first drink, and that the drinking reveals what was there rather than creating something new.\n\nMads Mikkelsen as Martin is doing something that looks deceptively contained. Martin is the least outwardly voluble of the four, and the performance works through listening and through the precise quality of absence that precedes his reawakening. When Martin begins to come back — and the film is unambiguous that something real is happening, that the experiment genuinely works for a time — the shift registers through physical detail: the way he occupies a classroom, the way he looks at his wife across a room, the way his body starts to remember what pleasure feels like. The dancing that comes later in the film has circulated widely online and deserves every second of attention, but the real performance is in the quieter scenes, where Mikkelsen demonstrates what controlled restraint and controlled release actually cost a performer.\n\nThomas Bo Larsen takes the film\'s emotional weight in a different direction — toward the specific loneliness that exists inside sociability, the sadness of a man whose tenderness has no adequate object — and he carries it without a visible seam. The four-person ensemble works as an ensemble: Vinterberg and co-writer Tobias Lindholm are genuinely interested in all four men, and the distribution of consequence across the group is one of the script\'s structural achievements. Not everyone pays the same price, and the film is honest about that.\n\nThe screenplay refuses to resolve into a moral verdict on the experiment, and that refusal is a form of courage. Audiences looking for the film to condemn or endorse what these men do will find instead a film that holds both possibilities open simultaneously, and insists they look at what was missing before any of this began.\n\nThe final sequence is among the most purely felt endings in recent European cinema. It arrives as a statement about joy and grief and the decision to occupy a moment fully even when the moment is not built to last. Whether it reads as triumph or as something more complicated depends entirely on what a viewer brings to it. Both readings are available at once. That simultaneity — not as a trick but as a genuine representation of how life actually feels — is what separates Another Round from films that are merely very good."
+    }
+  },
+  {
+    id: "reprise-2006",
+    title: "Reprise",
+    originalTitle: null,
+    romanization: null,
+    year: 2006,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/uq3eLtoXHrJ5RuUfeVw8RFGdoXc.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/9GdptmzKh5Sx1KFiABJeUEt9eS.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/l9OZmtjVoFhicaY0PtdmTRKiaSR.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=J6xhnSp5Gdw",
+    director: [
+      {
+        name: "Joachim Trier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Joachim Trier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg"
+      },
+      {
+        name: "Eskil Vogt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y5Rg3vdQleveYe7VfyGve4ljDtV.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Anders Danielsen Lie",
+        role: "Philipp",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7qdJdzFFXhoSVvBCi53ryF1wkCn.jpg"
+      },
+      {
+        actor: "Espen Klouman Høiner",
+        role: "Erik",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kJK72kZDtO7nqi8BUONhvxrQDYy.jpg"
+      },
+      {
+        actor: "Viktoria Winge",
+        role: "Kari",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kxPhO9diaYveo40HAZiJaHQIXmT.jpg"
+      },
+      {
+        actor: "Christian Rubeck",
+        role: "Lars",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gZ7f4zkmX8hluHkP6OCLpiofQNC.jpg"
+      },
+      {
+        actor: "Henrik Elvestad",
+        role: "Henning",
+        photoUrl: "https://image.tmdb.org/t/p/w185/osMxZszOCEEmLFMK5ZH2HoaUJhR.jpg"
+      },
+      {
+        actor: "Odd-Magnus Williamson",
+        role: "Morten",
+        photoUrl: "https://image.tmdb.org/t/p/w185/clkF2apRZNcRzswp60eKvL5Jc0d.jpg"
+      },
+      {
+        actor: "Pål Stokka",
+        role: "Geir",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uEXlNU32UTCktc6FffQ9r3cJb7D.jpg"
+      },
+      {
+        actor: "Henrik Mestad",
+        role: "Jan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uhUKVFGEPP4168ulWUsz3GISn4a.jpg"
+      },
+      {
+        actor: "Thorbjørn Harr",
+        role: "Mathis Wergeland",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hqBkuGoISmRB5O8t6RkKcHv3bZA.jpg"
+      },
+      {
+        actor: "Rebekka Karijord",
+        role: "Johanne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qpWXwOqIUHCJTIVba7rZ60lMpmP.jpg"
+      },
+      {
+        actor: "Sigmund Sæverud",
+        role: "Sten Egil Dahl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kD5TN0TeSwJAny7BnVlTASRqXXG.jpg"
+      },
+      {
+        actor: "Tone Danielsen",
+        role: "Inger",
+        photoUrl: "https://image.tmdb.org/t/p/w185/toKLCByR3MXEG1Dw05eLVzrXBTm.jpg"
+      },
+      {
+        actor: "Elisabeth Sand",
+        role: "Hanne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1BO6JbOrsIsYIcM7waNXc8HGcBn.jpg"
+      },
+      {
+        actor: "Eindride Eidsvold",
+        role: "Narrator (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2eqYPz6HA5ugCnnojeFa5k6hxg7.jpg"
+      },
+      {
+        actor: "Anders Borchgrevink",
+        role: "Joy Division Jogger",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vLrjlTDHkFQNFQQtWSqncCcRzuj.jpg"
+      },
+      {
+        actor: "Ine Marie Wilmann",
+        role: "Andre medvirkende",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6uQlF0RdwLGaWezFsn9429HE6zu.jpg"
+      },
+      {
+        actor: "Julia Bache-Wiig",
+        role: "Andre medvirkende",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pxCEEcpnVWze2RfIW7nQuoJJiMG.jpg"
+      },
+      {
+        actor: "Espen Sandvik",
+        role: "Andre medvirkende",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5RvbBvQHTYuSjhOjt9OPKiArW05.jpg"
+      },
+      {
+        actor: "Ingvild Haugstad",
+        role: "Andre medvirkende",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3FjiAWaU8hxlHDcHPyZ4ZmdezA4.jpg"
+      }
+    ],
+    languages: ["Norwegian", "French", "English"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "acute psychiatric breakdown and involuntary hospitalization depicted with clinical candor",
+        "prolonged clinical depression and its effect on relationships",
+        "emotional dependency and manipulation within a romantic relationship",
+        "moderate alcohol consumption in social and celebratory settings",
+        "brief implied sexual content"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:47" }
+    ],
+    awards: [
+      { body: "Amanda Awards (2007)", category: "Best Norwegian Film", result: "Won", year: 2007 },
+      { body: "Amanda Awards (2007)", category: "Best Norwegian Director (Joachim Trier)", result: "Won", year: 2007 },
+      { body: "Amanda Awards (2007)", category: "Best Norwegian Actor (Anders Danielsen Lie)", result: "Won", year: 2007 },
+      { body: "Amanda Awards (2007)", category: "Best Norwegian Screenplay", result: "Won", year: 2007 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["ambition", "disintegration", "friendship", "nostalgia", "longing", "obsession", "recovery"],
+      mood: ["restless", "intimate", "elegiac"],
+      fullReview: "Two young Oslo men drop their debut novels into a mailbox simultaneously and wait for the world to notice. One gets a call from a publisher. The other — Philipp — does not. From that single asymmetry, Joachim Trier\'s debut feature constructs a film about literary ambition, male friendship, romantic catastrophe, and the particular violence of a mind that cannot make peace with itself. It is the most self-consciously literary Norwegian debut in recent memory, and it almost always earns the self-consciousness.\n\nThe film opens with a hypothetical: what if both of them had been published? A narrator propels the audience through the imagined version of their lives at breakneck pace — book reviews, parties, women, envy, success — and the sequence is both funny and diagnostically precise about these two men before either has spoken a line. Trier and his regular co-writer Eskil Vogt return to such hypotheticals throughout, using them to illuminate the gap between the life the characters desire and the life they are actually living. It is a device that could exhaust itself quickly. It does not, because the film deploys it with genuine structural purpose rather than as a stylistic tic.\n\nThe formal vocabulary — freeze-frames, associative cuts, a narrator who comments rather than explains, sequences that drift into fantasy before returning without announcement — owes obvious debts to the French New Wave and to certain strains of reflexive European art cinema. Trier wears those influences with the enthusiasm of a young filmmaker still in the process of deciding which ones to keep. There are moments, particularly in the first act, where the seams of that enthusiasm show: a sequence that tries a little hard to be interesting, a cut that announces itself when it should disappear. These are the costs of a debut. They are also, on balance, forgivable, because the formal intelligence beneath the enthusiasm is genuine and increasingly assured as the film moves forward.\n\nAnders Danielsen Lie as Philipp delivers a performance that belongs in conversation with the best screen acting of this period of Norwegian cinema. His Philipp is a young man whose interior life is considerably more volatile than his surface suggests, and the film follows him through romantic obsession, psychiatric collapse, hospitalization, and a tentative, uncertain return to daily existence. Lie tracks this trajectory without false notes: the scenes in the psychiatric ward, and the scenes that immediately follow his release, are handled with a simplicity that is more difficult to achieve than it appears. He is operating below the level of performance, at the level of being, and it is extraordinary to watch.\n\nEspen Klouman Høiner as Erik provides the necessary counterpoint — a young man whose ambitions are real but whose tolerance for disorder is lower, who would prefer to be more unconventional than he actually is. The dynamic between the two friends is the film\'s most sustained and rewarding relationship, observed with real subtlety: the way that friendship between young men who take themselves seriously can become a form of mutual mythology, a story each tells about the other that may have only partial contact with the truth.\n\nThe romantic content — Philipp\'s consuming relationship with Kari — is less fully realized than the central friendship. Viktoria Winge does good work with limited material, but Kari exists somewhat more as an object of the film\'s scrutiny than as an independent person within it. This is a genuine imbalance, and the film does not entirely overcome it.\n\nWhat Reprise finally does, and does with more honesty than most films attempt, is capture what it feels like to be young in a specific and bookish way — to be simultaneously enamored of your own potential and terrified by the evidence that potential is not a guarantee. Trier and Vogt locate that experience in Oslo, in winter, in the specific social world of young Norwegians who read too much and feel too much and have not yet learned which of those things is a virtue. The film loves these characters without flattering them. That is a harder balance to strike than it looks."
+    }
+  },
+  {
+    id: "oslo-august-31st-2011",
+    title: "Oslo, August 31st",
+    originalTitle: "Oslo, 31. august",
+    romanization: null,
+    year: 2011,
+    tagline: "Live today, one minute at a time.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/uf1U0LWdILoqMcrcBuAi3aTI2kp.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/3IJZ252ecJICOShQgymHk7AOVIs.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/9JPzNkDAzrnqINyaYMKfgL4FZPT.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=0QpTqYoEzto",
+    director: [
+      {
+        name: "Joachim Trier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Joachim Trier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg"
+      },
+      {
+        name: "Eskil Vogt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y5Rg3vdQleveYe7VfyGve4ljDtV.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Anders Danielsen Lie",
+        role: "Anders",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7qdJdzFFXhoSVvBCi53ryF1wkCn.jpg"
+      },
+      {
+        actor: "Malin Crépin",
+        role: "Malin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fVSMMwh9Au3zZwTxhGzpDAjFM9z.jpg"
+      },
+      {
+        actor: "Hans Olav Brenner",
+        role: "Thomas",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b1KniLUbYuys1U7CXMpIYSrOhXI.jpg"
+      },
+      {
+        actor: "Ingrid Olava",
+        role: "Rebecca",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1gc2GnFjHiS3JuE1TrHU9ApXRiT.jpg"
+      },
+      {
+        actor: "Tone Beate Mostraum",
+        role: "Tove",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qyKv0c5c2oHugPB7ljTIOvw5VSe.jpg"
+      },
+      {
+        actor: "Øystein Røger",
+        role: "David",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eT5vB7tFecsem4JZLRmrvHtZkGu.jpg"
+      },
+      {
+        actor: "Kjærsti Odden Skjeldal",
+        role: "Mirjam",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mOok6slHDwxKykcdrdvqHQgW3NG.jpg"
+      },
+      {
+        actor: "Renate Reinsve",
+        role: "Renate",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
+      },
+      {
+        actor: "Anders Borchgrevink",
+        role: "Øystein",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vLrjlTDHkFQNFQQtWSqncCcRzuj.jpg"
+      },
+      {
+        actor: "Petter Width Kristiansen",
+        role: "Petter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/io8JiSonDiw7tPcdACiCN0muB81.jpg"
+      }
+    ],
+    languages: ["Norwegian", "English"],
+    genres: ["Drama", "Psychological"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "drug addiction and relapse ideation depicted with clinical frankness",
+        "suicidal ideation and passive death wish",
+        "alcohol consumption throughout",
+        "prolonged existential despair and emotional withdrawal",
+        "brief references to past overdose"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:30" }
+    ],
+    awards: [
+      { body: "Amanda Awards (19th)", category: "Best Norwegian Film", result: "Won", year: 2012 },
+      { body: "Amanda Awards (19th)", category: "Best Director", result: "Won", year: 2012 },
+      { body: "Amanda Awards (19th)", category: "Best Actor in a Leading Role", result: "Won", year: 2012 },
+      { body: "Cannes Film Festival (64th)", category: "FIPRESCI Prize – Un Certain Regard", result: "Won", year: 2011 },
+      { body: "Cannes Film Festival (64th)", category: "Un Certain Regard", result: "Nominated", year: 2011 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["alienation", "addiction", "nostalgia", "disconnection", "mortality", "longing", "regret", "complicity"],
+      mood: ["elegiac", "suffocating", "mournful"],
+      fullReview: "Anders is 34 years old, ten months clean, and has been given a single day away from his rehabilitation center outside Oslo. He has a job interview in the city. He has old friends he could visit. He has a sister whose number he dials and dials without answer. What he does with this day — and what the day does to him — is the entirety of Joachim Trier's second feature, a film loosely adapted from Pierre Drieu La Rochelle's 1931 novel and transplanted from interwar Paris to contemporary Norway without losing a single gram of its weight.\n\nThe film opens with voices. A collage of Osloites speaking about their memories of the city — its bars, its summer light, its particular smell — plays over footage of streets and apartment windows. It is a strange, quietly destabilizing opening that names the film's real subject before Anders even appears: the way a city holds the shape of a life you used to live, and how returning to it can feel like pressing on a bruise. When Anders finally steps into frame, he is already somewhere that most films would not dare to begin.\n\nTrier and co-writer Eskil Vogt have no interest in the iconography of addiction. There are no shaking hands, no dramatic rock-bottom sequences, no moment where Anders stares at his reflection and finally understands what he has become. The drugs are almost beside the point. What the film excavates instead is the particular loneliness of someone who suspects that sobriety, however real it becomes, will not give him back whatever he lost — or perhaps never had. He moves through Oslo like a man auditioning for a version of his own life, waiting to see if he can convince himself to want it.\n\nAnders Danielsen Lie carries the film entirely, and does so without a single moment of visible effort. His is not a performance of breakdown or revelation but of sustained, interior listening — to the people around him, to music, to the ambient noise of a city that keeps moving regardless. In every conversation, whether with an old friend now contentedly domestic, a job interviewer who seems only lightly convinced by him, or acquaintances at a party who are genuinely glad to see him, there is the same gap: between their ordinary human warmth and his inability to receive it across whatever distance has opened inside him. He watches people the way someone watches a film they have already seen, looking for the part where it turns out differently.\n\nJakob Ihre's cinematography refuses to editorialize. Oslo looks like Oslo: clear-aired, bright, occasionally beautiful. The city does not drain of color to match the protagonist's interiority, does not go grey and significant at crucial moments. The light simply keeps arriving. That impassivity — the world persisting at normal brightness around a man who is fading — is the film's most precise formal choice. Suffering here is not cosmically legible. It is private and unpicturesque, which is exactly what makes it land.\n\nThe screenplay earns every silence it deploys. Dialogue is spare but not stylized — people say small, real, slightly distracted things to each other, the way they do — and the accumulation of small real moments builds into something that feels inescapable without ever feeling manipulated. Trier understands that one of the cruelest things loneliness does is make other people's happiness illegible: not painful exactly, just written in a language that no longer quite translates.\n\nAt 90 minutes the film is flawlessly timed. Not a scene overextends its welcome, but nothing is withheld either. The rhythm of the day — an interview, a cafe, a reunion, a party, a long night — has the pace of an afternoon where small things keep happening and none of them resolve, which is precisely how days like this actually feel. When the film arrives at its ending, it does not surprise. It completes. The audience understands that they have been watching a conclusion the whole time.\n\nWhat remains, after the credits, is not grief in the conventional sense. It is something more like recognition — the uncomfortable understanding that some forms of isolation are not puzzles with solutions but states a person either survives or does not. The film never says this directly. It does not need to. This is the work of genuine restraint in service of genuine honesty, and it is rare enough that sitting with it still feels like a small event. Not for every viewer, and not for anyone hoping to be comforted. For anyone who has ever felt precisely nowhere inside a city they know by heart, it will feel uncomfortably exact."
+    }
+  },
+  {
+    id: "the-worst-person-in-the-world-2021",
+    title: "The Worst Person in the World",
+    originalTitle: "Verdens verste menneske",
+    romanization: null,
+    year: 2021,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/aswvupnV5V9hIjVNrl6HR6s5AxK.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/97nC70wc5KuD0XMwmRAoIrNKhM.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/4oWU9FPOvjCE85DaHm4vo89Whpz.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=42ouy74zntk",
+    director: [
+      {
+        name: "Joachim Trier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Joachim Trier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg"
+      },
+      {
+        name: "Eskil Vogt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y5Rg3vdQleveYe7VfyGve4ljDtV.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Renate Reinsve",
+        role: "Julie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
+      },
+      {
+        actor: "Anders Danielsen Lie",
+        role: "Aksel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7qdJdzFFXhoSVvBCi53ryF1wkCn.jpg"
+      },
+      {
+        actor: "Herbert Nordrum",
+        role: "Eivind",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg"
+      },
+      {
+        actor: "Hans Olav Brenner",
+        role: "Ole Magnus",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b1KniLUbYuys1U7CXMpIYSrOhXI.jpg"
+      },
+      {
+        actor: "Helene Bjørneby",
+        role: "Karianne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/skJrpDchAL0eF7KsuW8AiH0k5rr.jpg"
+      },
+      {
+        actor: "Maria Grazia Di Meo",
+        role: "Sunniva",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fMMDZFxF9fZLgKhZHdZuHaytNk9.jpg"
+      },
+      {
+        actor: "Deniz Kaya",
+        role: "Adil",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p34LLqd9EGzXhtI7qX7MKlQ0wgT.jpg"
+      },
+      {
+        actor: "Ruby Dagnall",
+        role: "Young Actor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AbXowCj9VYpPhdDujhadds0vSsX.jpg"
+      },
+      {
+        actor: "Anna Dworak",
+        role: "Kathrine",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ykpa68sqGWIL09qdk6zsyStitz8.jpg"
+      },
+      {
+        actor: "Ine Jansen",
+        role: "Narrator (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8zJSjhGxgTRWNW6rgQq2QwFPxQg.jpg"
+      },
+      {
+        actor: "Nataniel Nordnes",
+        role: "Comic Book Fan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7qjOwl1G9u8ubU89eUcPHwF8rz5.jpg"
+      },
+      {
+        actor: "Gisle Tveito",
+        role: "TV Debate Sound Engineer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cL5ODIEx9MZMYHdgZl9pNEbqXF4.jpg"
+      }
+    ],
+    languages: ["Norwegian"],
+    genres: ["Drama", "Romance", "Comedy"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "brief non-explicit sexual content and partial nudity",
+        "psychedelic drug use depicted with visual stylization",
+        "frank discussion of abortion and unwanted pregnancy",
+        "terminal illness and death of a significant character",
+        "moderate language throughout"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:08" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (74th)", category: "Best Actress", result: "Won", year: 2021 },
+      { body: "Amanda Awards", category: "Best Norwegian Film", result: "Won", year: 2022 },
+      { body: "Amanda Awards", category: "Best Director", result: "Won", year: 2022 },
+      { body: "Amanda Awards", category: "Best Actress in a Leading Role", result: "Won", year: 2022 },
+      { body: "Amanda Awards", category: "Best Screenplay", result: "Won", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best International Feature Film", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Original Screenplay", result: "Nominated", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2022 },
+      { body: "Golden Globe Awards (79th)", category: "Best Non-English Language Film", result: "Nominated", year: 2022 },
+      { body: "Cannes Film Festival (74th)", category: "Palme d\'Or", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["ambivalence", "desire", "stagnation", "femininity", "choice", "mortality", "domesticity", "time"],
+      mood: ["restless", "tender", "bittersweet"],
+      fullReview: "Julie is somewhere around thirty — though pinning her to any fixed coordinate is precisely what she cannot manage herself. Across twelve chapters, a prologue, and an epilogue spanning four years of her life in Oslo, she moves through two significant relationships, a rotating cast of prospective careers, and a persistent, low-level suspicion that the real version of her life is happening just out of frame. Joachim Trier\'s fifth feature is structured like a novel read in an afternoon: intimately close to its subject, tenderly observant, and assembled with the kind of formal elegance that only reveals itself once the film has already worked on a person.\n\nRenate Reinsve, who appeared briefly in Trier\'s Oslo, August 31st a decade earlier, gives here what might be the most fully inhabited performance to emerge from Scandinavian cinema in years. There is a scene — the film\'s most formally audacious — in which Julie runs through Oslo while the city around her stands frozen, time suspended, as she races toward something she wants before she thinks better of wanting it. The way Reinsve moves through that sequence, caught between elation and guilt and sheer animal need, is something that does not happen through technique alone. It is the kind of moment that makes the rest of the film feel earned.\n\nWhat Trier and co-writer Eskil Vogt have accomplished in the screenplay is rarer than it looks. Julie is neither punished for her indecision nor celebrated for it. She is not a free spirit and not a cautionary tale. She simply cannot locate the life that feels like hers, keeps reaching for things that seem right at a distance and strange up close, and the film follows her through this experience without once tipping into condescension or false comfort. The writing understands that ambivalence is not a character flaw to be overcome — it is a genuine cognitive state, one that modern life has gotten extremely efficient at producing, and that films almost never take seriously as such.\n\nAnders Danielsen Lie, as Aksel — the older, successful, emotionally intelligent man Julie loves and outgrows — does something difficult with a role that could easily read as a foil. He plays Aksel\'s certainty not as rigidity but as a kind of earned peace, which makes his later scenes, when that certainty is tested by forces entirely beyond his control, quietly devastating. The film\'s treatment of illness and mortality is handled with a restraint that most films mistake for coldness; here it registers as respect. What happens to Aksel is not dramatized for pathos. It is simply allowed to be real.\n\nHerbert Nordrum as Eivind — the man Julie meets at a party and keeps circling back to — brings an easy, unforced warmth to a character who functions partly as a projection surface and partly as a genuine person, sometimes simultaneously. The film is smart about how desire works in practice: how it selects for qualities that are not always compatible with the life one imagines wanting.\n\nKasper Tuxen\'s cinematography keeps Oslo specific and inhabited — its winter light, its bookshops, its apartment windows — without turning the city into metaphor. The city simply exists, independent of Julie\'s interiority, going about its business while she figures hers out. This documentary quality in the image-making is exactly right for a film that is fundamentally interested in what it means to be a real person in a real place at a specific moment in history.\n\nThe film is funny with some consistency, and in the precise way that accuracy is funny — not because situations are engineered for comic effect, but because certain recognitions land with a laugh that has grief underneath it. A sequence involving psychedelic mushrooms and a feminist essay Julie writes in a night of chemically assisted clarity is both genuinely amusing and structurally important: it shows Julie at her most alive, most confident, most fully herself, which makes what follows it more resonant.\n\nAt 128 minutes the film never feels long, though it earns its length honestly: each chapter adds texture rather than plot, and the cumulative effect by the epilogue is of a life genuinely understood. The chapter structure itself — announced by title cards, narrated in the past tense as if recounted by someone who survived the period in question — creates an emotional distance that paradoxically makes the film feel closer to lived experience than a conventionally constructed story would. People narrate their own pasts like this: from safety, with full knowledge of outcomes, still unable to explain exactly how they got there.\n\nThis is the rare film about female ambivalence that does not, at any point, require the audience to decide whether its protagonist is making the right choices. It simply watches her make them. That watching, by the end, feels like one of the more humane things cinema has offered in recent years."
+    }
+  },
+  {
+    id: "the-boy-and-the-heron-2023",
+    title: "The Boy and the Heron",
+    originalTitle: "君たちはどう生きるか",
+    romanization: "Kimitachi wa Dō Ikiru ka",
+    year: 2023,
+    tagline: "Where death comes to an end, life finds a new beginning.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/3Fee44nFACylWN35FYhp2fPydGl.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=t5khm-VjEu4",
+    director: [
+      {
+        name: "Hayao Miyazaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ouhjt9KugzhWtdEyBPipihB3ic8.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Hayao Miyazaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ouhjt9KugzhWtdEyBPipihB3ic8.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Soma Santoki",
+        role: "Mahito Maki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g4I9g3IRcbxqTqDuOtgG9QicvfB.jpg"
+      },
+      {
+        actor: "Masaki Suda",
+        role: "Gray Heron (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g7gXu0bE9jZ5LHjSqn1zHdNtiA1.jpg"
+      },
+      {
+        actor: "Ko Shibasaki",
+        role: "Kiriko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eEBNceN1MsDFibWVV3VIcEHygUW.jpg"
+      },
+      {
+        actor: "Aimyon",
+        role: "Lady Himi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4pFkEwuyqADASOX205qZhLl4hfF.jpg"
+      },
+      {
+        actor: "Yoshino Kimura",
+        role: "Natsuko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fI0ALURUC3CO96fEb33f4iijlF.jpg"
+      },
+      {
+        actor: "Takuya Kimura",
+        role: "Shoichi Maki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sswCg8kvFsgSaVJwcIKKe4K7jOe.jpg"
+      },
+      {
+        actor: "Keiko Takeshita",
+        role: "Izumi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jmXWhUM4IhvyMrRkzYnDQamkqjG.jpg"
+      },
+      {
+        actor: "Jun Fubuki",
+        role: "Utako (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nKGf08qfeng3KjssqcZU0nxMHtM.jpg"
+      },
+      {
+        actor: "Sawako Agawa",
+        role: "Eriko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/erf8kZxEitlpiOOcyFWqBNjbOjX.jpg"
+      },
+      {
+        actor: "Karen Takizawa",
+        role: "Warawara (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rd5VCODW2qNJpLc4YNkpJF3089S.jpg"
+      },
+      {
+        actor: "Shinobu Otake",
+        role: "Aiko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/az5hCPy37MFM9EH2f3gn1cTBhA6.jpg"
+      },
+      {
+        actor: "Jun Kunimura",
+        role: "The Parakeet King (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
+      },
+      {
+        actor: "Kaoru Kobayashi",
+        role: "Noble Pelican (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zpnQ8L6SpyT8pI5vgbpKqXyMYoj.jpg"
+      },
+      {
+        actor: "Shōhei Hino",
+        role: "Granduncle (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n9q1VZd7AoUFeCaRKMpycDP0SCM.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Fantasy", "Drama"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "wartime imagery including fire and civilian death",
+        "prolonged grief over maternal loss",
+        "frightening fantastical creatures and surreal horror imagery",
+        "depictions of blood from self-inflicted injury",
+        "themes of mortality and the afterlife presented without softening"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:04" }
+    ],
+    awards: [
+      { body: "Academy Awards (96th)", category: "Best Animated Feature Film", result: "Won", year: 2024 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Animated Film", result: "Won", year: 2024 },
+      { body: "Golden Globe Awards (81st)", category: "Best Animated Motion Picture", result: "Won", year: 2024 },
+      { body: "Annie Awards (51st)", category: "Outstanding Achievement for Animated Feature", result: "Won", year: 2024 },
+      { body: "Japan Academy Film Prize (47th)", category: "Animation of the Year", result: "Won", year: 2024 },
+      { body: "New York Film Critics Circle Awards (2023)", category: "Best Animated Film", result: "Won", year: 2023 },
+      { body: "Los Angeles Film Critics Association Awards (2023)", category: "Best Animated Film", result: "Won", year: 2023 },
+      { body: "National Board of Review (2023)", category: "Top Films", result: "Won", year: 2023 },
+      { body: "Producers Guild of America Awards (2024)", category: "Outstanding Producer of Animated Theatrical Motion Pictures", result: "Nominated", year: 2024 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "creation", "legacy", "mortality", "inheritance", "memory", "war", "passage"],
+      mood: ["dreamlike", "elegiac", "hypnotic"],
+      fullReview: "Wartime Japan, 1943. Twelve-year-old Mahito watches his mother die in a hospital fire. His father, an arms manufacturer, relocates the family to the countryside, where a new stepmother waits — a woman who wears his mother\'s face close enough to confuse the eye. Then a strange gray heron begins to speak, and the tower at the edge of the property, sealed for decades, slowly makes its intentions known. What follows refuses to be summarized, because it has not been constructed to be summarized. It has been constructed to be experienced, and the difference is everything.\n\nHayao Miyazaki announced his retirement more than once. This is the film he made anyway, at eighty-two, without a screenplay written in advance, animating scenes as they arrived and letting the shape of the thing emerge as it was made. The result carries the textures of that process — the sudden lurches of logic, the sequences that feel dreamed rather than planned, the way meaning accumulates sideways rather than forward. Viewers who need a narrative to follow will find one, barely. Viewers willing to let the film do what it does to them will find something harder to name and more difficult to forget.\n\nWhat is unambiguous is the imagery, which arrives with the density and specificity of someone who has been drawing living things for sixty years and has lost none of the urgency. Creatures that seem wrong at first glance — off in their proportions, uncanny in their movement — gradually become legible as Miyazaki\'s creatures always do, not through explanation but through accumulation of detail. There are pelicans here engaged in something ancient and sorrowful. There are parakeets organized into a hierarchy that comments, obliquely, on fascism and orderly violence. There are small white beings called Warawara, ascending toward birth, whose vulnerability in a hostile sky produces a sequence of such concentrated feeling that the stomach drops before the brain has caught up.\n\nThe film is partly about making things. The great-granduncle has built an entire world from a single falling stone, and he maintains it through acts of pure will against the entropy that is always threatening to dismantle what has been assembled. Miyazaki is eighty-two years old. The correspondence is not accidental. There is something in the film\'s sustained attention to the effort of creation — the weariness of it, and the compulsion of it — that functions as autobiography in the deepest sense: not the recounting of events but the revelation of inner weather.\n\nJoe Hisaishi\'s score is among his best work with Miyazaki, which is saying something. It does not explain or underscore but breathes alongside the images — sometimes elegiac, sometimes jagged, occasionally breaking into something that sounds almost like joy before the composition catches itself. The silence the score leaves is as carefully placed as the notes.\n\nThe film will not satisfy everyone, and it should not be expected to. Its emotional logic is genuine but not transparent. Viewers looking for the warm resolution of Spirited Away or the moral clarity of Princess Mononoke will find neither. The ending arrives with the logic of a dream\'s ending — complete on its own terms, impossible to argue with, faintly unsettling even in its apparent peace. Mahito returns from wherever he has been carrying something the film declines to identify. The audience does the same.\n\nFor the right viewer — patient, willing to trust sensation over explanation, comfortable with images that ask to be absorbed rather than decoded — this is the work of an artist who has nothing left to prove and has used that freedom to make something that could only have come from exactly where and who he is. For others, it will feel willfully private, even indulgent. Both responses are legitimate. The film has already decided it does not need to win the argument."
+    }
+  },
+  {
+    id: "monster-2023",
+    title: "Monster",
+    originalTitle: "怪物",
+    romanization: "Kaibutsu",
+    year: 2023,
+    tagline: "Are they the ones we dream of, or the ones we fail to see among us?",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/cjTZhQLGAgBnkTpXlN7ybnHo5e6.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/kvUJUyUGOhEoiWWNH04IXoExPE2.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/dZJcOyRonN0Kb7kJR3DE3esGn16.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=lA9ADgHQ3yk",
+    director: [
+      {
+        name: "Hirokazu Kore-eda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Quu2Jo5ItVgs8V1YPCaLEHc8y1.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Yuji Sakamoto",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uOnkMazSKLwDHqa1REfK2gVUbeM.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Sakura Ando",
+        role: "Saori Mugino",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg"
+      },
+      {
+        actor: "Soya Kurokawa",
+        role: "Minato Mugino",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zqBT16EdgLX9ToPwU6qhuY09QBI.jpg"
+      },
+      {
+        actor: "Hinata Hiiragi",
+        role: "Yori Hoshikawa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sKhMVQUIoNpqVVuFM3gKp5jvKgg.jpg"
+      },
+      {
+        actor: "Eita Nagayama",
+        role: "Michitoshi Hori",
+        photoUrl: "https://image.tmdb.org/t/p/w185/10Q2xdJyMJ4Bngx8NDYtFbBcWLQ.jpg"
+      },
+      {
+        actor: "Yuko Tanaka",
+        role: "Makiko Fushimi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fMonAnp3OQ16FmGy5SGhEJRcuVI.jpg"
+      },
+      {
+        actor: "Mitsuki Takahata",
+        role: "Hirona Suzumura",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3OyFnVh71yNLXeEqNG2wFf3aCze.jpg"
+      },
+      {
+        actor: "Akihiro Kakuta",
+        role: "Shoda Fumiaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y0amt9M8Aux2YOIVDgXvKvepspB.jpg"
+      },
+      {
+        actor: "Shido Nakamura",
+        role: "Kiyotaka Hoshikawa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dMyf8ZoHD5xkld66h8bEw9QgQZI.jpg"
+      },
+      {
+        actor: "Ryu Morioka",
+        role: "Kanzaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7KkATZAj5qna9G1F5yO5Cd2dF2K.jpg"
+      },
+      {
+        actor: "Daisuke Kuroda",
+        role: "Shinagawa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bBwirsQ3ZvH1hNeNXXJGrpm3Ocu.jpg"
+      },
+      {
+        actor: "Ayu Kitaura",
+        role: "Mariko Yajima",
+        photoUrl: "https://image.tmdb.org/t/p/w185/76XRB5ymWBJMgnk4wh6zcxcdnrJ.jpg"
+      },
+      {
+        actor: "Haruto Kobayashi",
+        role: "Taisho Kamata",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ao6FN3R2ITwyXkBI0vRZqjaA2H.jpg"
+      },
+      {
+        actor: "Kouga Yagishita",
+        role: "Gaku Hirohashi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tG43GKUw67tG6c6NRo6Iu6MkMSJ.jpg"
+      },
+      {
+        actor: "Taichi Kanemitsu",
+        role: "Yu Hamaguchi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f5fRuWUClfWA2pbXo8HeKkOMOqS.jpg"
+      },
+      {
+        actor: "Harune Iida",
+        role: "Mio Kida",
+        photoUrl: "https://image.tmdb.org/t/p/w185/v0jN4Gun568p4xJ6zGSoYotJKrv.jpg"
+      },
+      {
+        actor: "Shiyun Nakamura",
+        role: "Makiko\'s Husband",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sKOtLjJQyvmgwH0qiQh6m8BRXPB.jpg"
+      },
+      {
+        actor: "Peey",
+        role: "Miss Kazuo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hzXYTCoGGznxv1F4fvo4TWrE6VB.jpg"
+      },
+      {
+        actor: "Kayo Noro",
+        role: "Satomi Hirohashi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7yVoln6lLAidsVKS02LKjiAoCed.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Drama", "Mystery"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "sustained bullying of a child including verbal humiliation and physical intimidation",
+        "implied physical abuse of a child by a parent",
+        "a child character\'s passive suicidal ideation",
+        "children placed in life-threatening situations",
+        "suppressed queer identity and social shame in early adolescence",
+        "institutional cover-up and adult dishonesty toward a grieving parent"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:05" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (76th)", category: "Best Screenplay", result: "Won", year: 2023 },
+      { body: "Cannes Film Festival (76th)", category: "Queer Palm", result: "Won", year: 2023 },
+      { body: "Japan Academy Film Prize (47th)", category: "Picture of the Year", result: "Won", year: 2024 },
+      { body: "Japan Academy Film Prize (47th)", category: "Director of the Year", result: "Won", year: 2024 },
+      { body: "Japan Academy Film Prize (47th)", category: "Screenplay of the Year", result: "Won", year: 2024 },
+      { body: "Japan Academy Film Prize (47th)", category: "Best Music", result: "Won", year: 2024 },
+      { body: "Asia Pacific Screen Awards (17th)", category: "Best Feature Film", result: "Won", year: 2023 },
+      { body: "Asia Pacific Screen Awards (17th)", category: "Best Screenplay", result: "Won", year: 2023 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2024 },
+      { body: "Cannes Film Festival (76th)", category: "Palme d\'Or", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["perception", "shame", "conformity", "childhood", "truth", "queerness", "silence", "complicity"],
+      mood: ["disquieting", "tender", "revelatory"],
+      fullReview: "A single mother notices her young son behaving strangely after school. Something happened — he is certain of it, even if he cannot or will not say what. She goes to the school. The school closes ranks. A teacher is implicated. The situation escalates. This is where Monster begins, and it is precisely where most films would continue: a righteous parent against an evasive institution, a wronged child in need of protection, a culprit to be identified and punished. Hirokazu Kore-eda and screenwriter Yuji Sakamoto are, however, interested in something far more difficult than a story where the audience knows who to trust.\n\nThe film is structured in three chapters, each covering the same stretch of events from a different vantage point. The first belongs to the mother, Saori, played by Sakura Ando with the specific, coiled energy of someone who loves ferociously and is being slowly driven toward a panic she cannot afford to show. What she sees, the audience sees. The school principal (Yuko Tanaka, operating on a frequency of quiet wrongness that is hard to pin down and impossible to shake) offers scripted apologies. The teacher at the center of the allegations, Hori (Eita Nagayama), behaves in ways that confirm every suspicion. The film, in this chapter, is practically a thriller.\n\nThe second chapter belongs to Hori. The same events, re-lit. Nothing that was shown in the first chapter is revealed to have been fabricated — the film is rigorous about this — but the context shifts, and with it, the emotional valence of every scene already witnessed. The audience is left with the uncomfortable task of reassessing not just the characters but their own readiness to condemn on the basis of incomplete information. This is the film\'s central moral operation, and it is performed without the slightest smugness.\n\nThe third chapter is quieter than the first two, and it is where the film becomes something that earns the word essential. The children — Saori\'s son Minato and his classmate Yori — are given the story back, and what emerges is an account of childhood so precisely observed, so honest about the specific texture of what it means to be young and confused and unable to name what you feel, that the revelation it carries lands with the weight of something already known but never said aloud. Soya Kurokawa and Hinata Hiiragi give performances of unusual transparency, two children onscreen acting not like children performing for a camera but like children being seen by one.\n\nRyuichi Sakamoto composed the score before his death in March 2023, weeks before the film premiered at Cannes. His music here does not signal or swell at climactic moments — it thinks alongside the film, spare and searching, occasionally dropping into a piano figure that sounds like someone trying to remember something they cannot quite retrieve. That it is his final major score is not something the film announces. The knowledge simply sits with a viewer, quietly shaping how everything sounds.\n\nKore-eda is working in a mode he has not quite occupied before. His earlier films — Shoplifters, Like Father Like Son, Nobody Knows — moved carefully through the textures of family life, patient and precise. Monster is faster in its first act, more structurally aggressive throughout, and the screenplay is someone else\'s. The collaboration produced something neither party had made independently: a film about social machinery — about how institutions protect themselves, how adults fail children not through malice but through cowardice and inattention, how children survive these failures by finding each other — that holds all of this inside a form precise enough to never feel like argument.\n\nThe ending will not satisfy those who require resolution. It offers something more austere: a moment of pure freedom from a film that has spent two hours showing how rarely freedom is permitted. Whether that moment is literal or imagined is a question the film declines to answer, correctly. What matters is what it means to the two children at its center — and, by the time it arrives, to anyone watching alongside them."
+    }
+  },
+  {
+    id: "life-is-beautiful-1997",
+    title: "Life Is Beautiful",
+    originalTitle: "La vita è bella",
+    romanization: null,
+    year: 1997,
+    tagline: "An unforgettable fable that proves love, family and imagination conquer all.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/xgLlkGCfUWxhAVocl7Jvb9qhY1s.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/6tEJnof1DKWPnl5lzkjf0FVv7oB.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=pAYEQP8gx3w",
+    director: [
+      {
+        name: "Roberto Benigni",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Roberto Benigni",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg"
+      },
+      {
+        name: "Vincenzo Cerami",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8YDpYwdW5V6EKPZiPO9xfsKKMnb.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Roberto Benigni",
+        role: "Guido",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ba1Sg02XxCphu6E1dWDMAH1GzeE.jpg"
+      },
+      {
+        actor: "Nicoletta Braschi",
+        role: "Dora",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9IeE3Iz9HXZVTrvhjSCKlR4FLxB.jpg"
+      },
+      {
+        actor: "Giorgio Cantarini",
+        role: "Giosué",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1tKZHpVTYcw8EP3naVTZFlrOkhQ.jpg"
+      },
+      {
+        actor: "Giustino Durano",
+        role: "Zio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5VbG50qZNUnpx6UW7594RUlX7SZ.jpg"
+      },
+      {
+        actor: "Sergio Bini Bustric",
+        role: "Ferruccio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/crnlLn1SxP2LqbsXNr8CQrvaiNc.jpg"
+      },
+      {
+        actor: "Marisa Paredes",
+        role: "Dora\'s Mother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/71esuRUCyeSyib35mTFPkR24zH7.jpg"
+      },
+      {
+        actor: "Horst Buchholz",
+        role: "Doctor Lessing",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9V38Di9T0qsjKBl2dR7sZMN1N0i.jpg"
+      },
+      {
+        actor: "Lidia Alfonsi",
+        role: "Mrs. Guicciardini",
+        photoUrl: "https://image.tmdb.org/t/p/w185/85BrcBOeIcfV9XkV523wN0VGNRR.jpg"
+      },
+      {
+        actor: "Giuliana Lojodice",
+        role: "School Principal",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cACsY8JyWaR3WeX7w1D09YssXbq.jpg"
+      },
+      {
+        actor: "Amerigo Fontani",
+        role: "Rodolfo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uRQn3gGNPGQzG6XNli1b1TiEu6G.jpg"
+      },
+      {
+        actor: "Pietro De Silva",
+        role: "Bartolomeo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tjP3YLGB3VNtqNgqGmLjZbJENzG.jpg"
+      },
+      {
+        actor: "Francesco Guzzo",
+        role: "Vittorino",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8HSTZitD85LIqOOhpTepILHyxW2.jpg"
+      },
+      {
+        actor: "Raffaella Lebboroni",
+        role: "Elena",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4ExMBh5s6eonU4yyZp3Gq20fgBW.jpg"
+      },
+      {
+        actor: "Claudio Alfonsi",
+        role: "Rodolfo\'s Friend",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wXC4Zbg45JRUnF3ya8rk5lx4Yfj.jpg"
+      },
+      {
+        actor: "Massimo Bianchi",
+        role: "Man with Key",
+        photoUrl: "https://image.tmdb.org/t/p/w185/npRKxMEjFs1Sn8GvUbXPiaFnUPr.jpg"
+      },
+      {
+        actor: "Verena Buratti",
+        role: "German Auxiliary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yuauzvkee0BanUsUkh146mB7jco.jpg"
+      },
+      {
+        actor: "Giancarlo Cosentino",
+        role: "Waiter Ernesto",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xqTHEGEqNyfN51BydtSBpArH5Yk.jpg"
+      },
+      {
+        actor: "Aaron Craig",
+        role: "US Tank Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ufGU1bnyLMSZ0eTwrHdYHSav6dS.jpg"
+      },
+      {
+        actor: "Hannes Hellmann",
+        role: "German Corporal",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y9tEzBMQJb8wiP1YAmHoGtCPSib.jpg"
+      },
+      {
+        actor: "Wolfgang Hillinger",
+        role: "German Major at Party",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fIFxKeELoxyj3HXmPDOXW3NmRnw.jpg"
+      },
+      {
+        actor: "Franco Mescolini",
+        role: "Public Education Inspector",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ltYfyulyKzHC2rbWpfOY4gcgxXX.jpg"
+      },
+      {
+        actor: "Antonio Prester",
+        role: "Bruno",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z8wGJL9bCiHrXi31zvmcngZP5S5.jpg"
+      },
+      {
+        actor: "Gina Rovere",
+        role: "Dora\'s Maid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/BSLt1QoZ5oYGs8jW0g3UzoPqAx.jpg"
+      },
+      {
+        actor: "Massimo Salvianti",
+        role: "Policeman in Stationery Shop",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nNp7nuc9Z1apfC0nKDSB3h00UxE.jpg"
+      },
+      {
+        actor: "Richard Sammel",
+        role: "German Lieutenant at Station",
+        photoUrl: "https://image.tmdb.org/t/p/w185/91IPxy0IuHhIqcrJdI0hYBpJmOg.jpg"
+      },
+      {
+        actor: "Andrea Tidona",
+        role: "Grand Hotel Doorman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zAAumPfwVljPd3VHPuRKlEMNo2D.jpg"
+      },
+      {
+        actor: "Omero Antonutti",
+        role: "Narrator (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3JLrGj8i0tmTkvBJV7aEWVstNvW.jpg"
+      },
+      {
+        actor: "Adelaide Alaïs",
+        role: "German Auxiliary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wvlaqClIHLPQQW3KJBddgChY9aa.jpg"
+      }
+    ],
+    languages: ["Italian", "German"],
+    genres: ["Drama", "Comedy", "War", "Period"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "depiction of Nazi concentration camp conditions including forced labor and starvation",
+        "execution of a significant character shown at close range without graphic imagery",
+        "state-sanctioned antisemitism and racial humiliation depicted in pre-war Italy",
+        "child in sustained danger from the Holocaust",
+        "piles of bodies briefly visible in concentration camp context",
+        "emotional devastation of family separation during wartime deportation"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:56" }
+    ],
+    awards: [
+      { body: "Academy Awards (71st)", category: "Best Actor in a Leading Role", result: "Won", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Foreign Language Film", result: "Won", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Original Dramatic Score", result: "Won", year: 1999 },
+      { body: "Cannes Film Festival (51st)", category: "Grand Prix", result: "Won", year: 1998 },
+      { body: "Cannes Film Festival (51st)", category: "Best Actor", result: "Won", year: 1998 },
+      { body: "Cannes Film Festival (51st)", category: "Ecumenical Jury Prize", result: "Won", year: 1998 },
+      { body: "Golden Globe Awards (56th)", category: "Best Motion Picture – Foreign Language", result: "Won", year: 1999 },
+      { body: "David di Donatello Awards (43rd)", category: "Best Film", result: "Won", year: 1999 },
+      { body: "David di Donatello Awards (43rd)", category: "Best Director", result: "Won", year: 1999 },
+      { body: "David di Donatello Awards (43rd)", category: "Best Actor", result: "Won", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Picture", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Director", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Original Screenplay", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Film Editing", result: "Nominated", year: 1999 },
+      { body: "BAFTA Film Awards (52nd)", category: "Best Film Not in the English Language", result: "Nominated", year: 1999 },
+      { body: "BAFTA Film Awards (52nd)", category: "Best Actor in a Leading Role", result: "Nominated", year: 1999 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["survival", "fatherhood", "imagination", "innocence", "genocide", "sacrifice", "performance", "love"],
+      mood: ["warm", "harrowing", "bittersweet"],
+      fullReview: "Guido is a Jewish Italian with a gift for improvisation and an appetite for life so large it seems to crowd out everything cautionary. He arrives in Arezzo in the late 1930s, falls headlong for a schoolteacher named Dora, charms his way into her life with a persistence that borders on mania, and builds something that looks, from the outside, like a fairy tale. Then the war arrives. The second half of the film takes place in a Nazi concentration camp, where Guido constructs an elaborate fiction for his young son Giosué — insisting that their imprisonment is a competition, that the rules are strict but the prize is real, that points are accumulated through silence and obedience, and that the winner gets a tank.\n\nRoberto Benigni wrote, directed, and stars in his own film, which is either a strength or a problem depending on how a viewer feels about the central gamble the film makes: that comedy, deployed with sufficient love, can be wielded inside a death camp without falsifying what happened there. This is not a small ethical question, and the film does not fully answer it. What it does instead is ask the audience to hold two registers simultaneously — to watch a man perform happiness for his son\'s benefit while understanding what surrounds that performance — and to feel the weight of the performance rather than be deceived by it.\n\nThe film\'s first half is genuinely funny in the manner of Italian silent-era physical comedy, filtered through Chaplin and inflated by Benigni\'s elastic, slightly unhinged screen presence. Guido\'s courtship of Dora (Nicoletta Braschi, Benigni\'s real-life wife, warm and grounded in a role that could easily have been decorative) moves at the speed of a pratfall and has the internal logic of a dream. These scenes are not merely prologue. They establish, carefully, what Guido is: a man who organizes reality according to what he needs it to be, whose relationship to truth has always been creative rather than literal. The concentration camp scenes reveal what that quality costs.\n\nGiorgio Cantarini as Giosué gives a performance of rare, unforced naturalness — a child who genuinely does not understand and whom the film, crucially, never condescends to. His innocence is not sentimentalized. It is simply there, intact, which is both the film\'s hope and its deepest source of dread.\n\nNicola Piovani\'s score is one of the film\'s most debated elements. It is unabashedly romantic, achingly so, and it refuses to modulate downward for the camp sequences with the solemnity the material might seem to demand. Whether this constitutes artistic courage or tonal irresponsibility is a question the film leaves open. The music swells. The horror underneath it does not disappear. Reasonable viewers have landed on opposite sides of this, and both sides have a case.\n\nTonino Delli Colli\'s cinematography moves between sunlit Tuscany and the grey, pressurized interiors of the camp with a directness that never aestheticizes either. The camp is not beautiful. It is functional and terrible, and Benigni shoots it without the atmospheric gothic dressing that German Expressionism trained audiences to expect from such settings. This plainness is its own form of respect.\n\nThe film\'s central criticism — that using comedy to address the Holocaust risks trivializing an event that exists beyond the reach of consolation — is not easily dismissed. What Life Is Beautiful offers in response is not an argument but a demonstration: that the fiction Guido constructs is understood by the audience to be exactly that, a fiction, and that watching a man perform survival for the sake of his child\'s mind is not the same as pretending the camps were survivable. Whether that distinction holds is ultimately a matter for each viewer to settle. The film does not resolve it, and it is more honest for the refusal.\n\nWhat remains inarguable is the final movement, which lands with a combination of grief and gratitude that very few films achieve. Benigni earns the ending because he has not cheated to get there. The price has been paid in full, off to one side, just out of the child\'s line of sight — and by extension, almost out of the audience\'s. Almost."
+    }
+  },
+  {
+    id: "tokyo-godfathers-2003",
+    title: "Tokyo Godfathers",
+    originalTitle: "東京ゴッドファーザーズ",
+    romanization: "Tōkyō Goddofāzāzu",
+    year: 2003,
+    tagline: "Meet the ultimate dysfunctional family.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/y8TodXnkBmrAf6kh5oij6gSoLzM.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/ukhvxpVcBsb1MpRRwiqEIwyKdUX.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/mnppPdfdtKPNoRemzIZDwOKpgfv.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ZL_2E-HfIZY",
+    director: [
+      {
+        name: "Satoshi Kon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b7Oqg1bjS0e2iEzEjYWnsyVVagt.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Satoshi Kon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b7Oqg1bjS0e2iEzEjYWnsyVVagt.jpg"
+      },
+      {
+        name: "Keiko Nobumoto",
+        photoUrl: "https://image.tmdb.org/t/p/w185/blQKGYG3QwsUnslEcoIMWEkbEMk.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Aya Okamoto",
+        role: "Miyuki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fRyDwNLmUCxdsu54kdbtSWghCUC.jpg"
+      },
+      {
+        actor: "Yoshiaki Umegaki",
+        role: "Hana (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qlSGkSgrs18ZMUWplD1703HDxVr.jpg"
+      },
+      {
+        actor: "Tohru Emori",
+        role: "Gin (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/Qdzjq7UANUZfko03sCsebTniVL.jpg"
+      },
+      {
+        actor: "Satomi Korogi",
+        role: "Kiyoko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zNJyGVOJQULuyO0isN8sTVwPaX0.jpg"
+      },
+      {
+        actor: "Mamiko Noto",
+        role: "Kiyoko, Gin\'s daughter (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wCSD7Umgzc66p8VGXrrMZtSLSuS.jpg"
+      },
+      {
+        actor: "Ryuji Saikachi",
+        role: "Roujin (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fGCuIdYNTiP7U6jqfPEUaPn8FXi.jpg"
+      },
+      {
+        actor: "Kyoko Terase",
+        role: "Sachiko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z6vPr939Frh589X3AhHXxwZNuP1.jpg"
+      },
+      {
+        actor: "Rikiya Koyama",
+        role: "Shinrou (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+      },
+      {
+        actor: "Hiroya Ishimaru",
+        role: "Yasuo (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6h15xlrU8rSQgfH2dreDrYx0Y1z.jpg"
+      },
+      {
+        actor: "Koichi Yamadera",
+        role: "Taxi Driver (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+      },
+      {
+        actor: "Akio Otsuka",
+        role: "Isha (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+      },
+      {
+        actor: "Yusaku Yara",
+        role: "Ishida (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
+      },
+      {
+        actor: "Seizo Kato",
+        role: "Kaa-san (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zM45YWPQp5HCXSt9nzcdu5c9s9.jpg"
+      },
+      {
+        actor: "Shozo Iizuka",
+        role: "Oota (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/msqe5A1q5YUUND0RhzB9dw1AEAO.jpg"
+      },
+      {
+        actor: "Chiyako Shibahara",
+        role: "Additional voices",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y9wNAvXnGvJ9kRsOXBLO3tBRcfH.jpg"
+      },
+      {
+        actor: "Mitsuru Ogata",
+        role: "Additional voices",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hU4oLTtbjMSHbDfByuhQx9jzaym.jpg"
+      },
+      {
+        actor: "Hidenari Ugaki",
+        role: "Additional voices",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iYdRY5LY5B0M1UsEpCQb3x83DJr.jpg"
+      }
+    ],
+    languages: ["Japanese", "Spanish"],
+    genres: ["Animation", "Drama", "Comedy"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "depictions of homelessness and urban destitution",
+        "alcoholism and compulsive gambling referenced throughout",
+        "non-graphic domestic violence",
+        "brief implied suicide attempt",
+        "a transgender character subjected to social hostility and discrimination",
+        "moderate peril including gun violence and vehicular danger"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:32" }
+    ],
+    awards: [
+      { body: "Annie Awards (31st)", category: "Outstanding Achievement for Animated Feature Production", result: "Nominated", year: 2004 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["redemption", "parenthood", "abandonment", "forgiveness", "displacement", "coincidence", "belonging", "performance"],
+      mood: ["warm", "frenetic", "bittersweet"],
+      fullReview: "Three people living rough on the streets of Tokyo discover an abandoned newborn in a rubbish heap on Christmas Eve. Gin is a middle-aged alcoholic dragging behind him a lie he has rehearsed so many times it has almost become true. Hana is a transgender woman who mothers the other two with theatrical ferocity and a grief she does not name. Miyuki is a teenage runaway carrying a wound she will not show anyone. They name the baby Kiyoko, and Hana decides, with the certainty of someone who has nothing left to lose, that they will find the child\'s parents — a decision that sends all three of them careening across a neon-soaked city that seems, improbably, to be bending itself toward their rescue.\n\nSatoshi Kon spent most of his career making films about the dangerous seam between reality and illusion — the way fantasy colonizes the self, the way memory rewrites what actually happened until the revision feels more true than the original. Tokyo Godfathers is the odd one out in that body of work. It is the only film he made where the hallucination is warmth rather than horror, where the city\'s impossible generosity is treated not as psychic rupture but as grace. Whether that represents his greatest act of openness as a filmmaker or a slight stepping back from his sharpest instincts is a question worth sitting with — but not one the film itself seems interested in.\n\nThe structure is a cascade of coincidences so operatic in their convenience that they can only be read as deliberate. A gangster\'s daughter surfaces at exactly the right moment. A figure from someone\'s buried past reappears when the plot needs them most. The Tokyo of this film is not a realistic city — it is a city that has decided, quietly, to look after these three people that every other version of Tokyo would have stepped over without a glance. Kon knows precisely what he is doing. This is not sloppy writing; it is fairy-tale logic applied with complete commitment. Viewers who require their coincidences earned rather than gifted will have a harder time of it. Those who can surrender to the film\'s particular faith will find themselves moved in ways that sneak up rather than announce themselves.\n\nThat faith is considerably easier to extend because the three central characters are so precisely drawn. Hana is one of the great creations in Japanese animation — a figure of almost uncontainable expressiveness whose theatricality functions as both armor and genuine nature, and whose unspoken loss gives the comedy somewhere real to land. Tohru Emori\'s voice work for Gin finds the exact pitch between belligerent and pitiable that keeps the character from collapsing into a recognizable archetype. Miyuki, the youngest and the most visibly wounded, is the film\'s moral center — she carries the most to answer for while remaining the one the audience most instinctively wants to see forgiven, which is not a balance easy to maintain for ninety-two minutes.\n\nWhat Kon and co-writer Keiko Nobumoto manage that is genuinely rare is a film about desperate, discarded people that does not condescend to them. The homeless encampments in the backgrounds receive the same exactness of observation as the hotel lobbies and hospital corridors. Nothing is aestheticized into poverty tourism; nothing is prettified into comfortable distance. The world these characters inhabit is cold, specific, and unromantic, which makes the warmth the film eventually offers feel earned rather than manufactured.\n\nThe one genuine structural weakness is backstory management. Each character\'s history arrives in concentrated chunks, delivered efficiently but not always organically — the exposition feels administered rather than discovered. At ninety-two minutes, the film is the shortest of Kon\'s features, and there are moments where an extra beat of silence would have allowed the emotional weight to settle before the next absurdity arrives. The screenplay is very good at momentum and occasionally at the expense of depth.\n\nKeiichi Suzuki\'s score moves between Christmassy warmth and something more plaintive with enough intelligence to support rather than direct the emotional register. The Madhouse animation gives bodies their proper weight — these characters move with the specific exhaustion of people who sleep on cold ground, and that physicality keeps the fantastical plotting anchored in something that feels real.\n\nTokyo Godfathers is not the film to reach for when trying to understand what made Satoshi Kon singular. Perfect Blue remains one of the most precisely engineered psychological horror films ever made in any medium, and Millennium Actress achieves a grief so large it threatens to dissolve the film containing it. But this is the film that demonstrates something those darker works only implied: that a filmmaker so preoccupied with the cruelties of illusion still believed, somewhere underneath, that certain kinds of grace were available even to people who had run out of options. For that alone, it is worth the time of anyone willing to meet it on its own improbable terms."
+    }
+  },
+  {
+    id: "howls-moving-castle-2004",
+    title: "Howl's Moving Castle",
+    originalTitle: "ハウルの動く城",
+    romanization: "Hauru no Ugoku Shiro",
+    year: 2004,
+    tagline: "The two lived there.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/wdTLajZyrh6yEeSqU5xrFATJh9Y.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/yeJ5Nj1k2NA0bBZjkZ10PvQKjTD.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=iwROgK94zcM",
+    director: [
+      {
+        name: "Hayao Miyazaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ouhjt9KugzhWtdEyBPipihB3ic8.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Hayao Miyazaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ouhjt9KugzhWtdEyBPipihB3ic8.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Chieko Baisho",
+        role: "Sophie (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b8ANR4WfdUZtoU4ktlnMFzbq759.jpg"
+      },
+      {
+        actor: "Takuya Kimura",
+        role: "Howl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sswCg8kvFsgSaVJwcIKKe4K7jOe.jpg"
+      },
+      {
+        actor: "Akihiro Miwa",
+        role: "Witch of the Waste (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z0G2wYBMxBHOREe99Hd5zmq9EVI.jpg"
+      },
+      {
+        actor: "Tatsuya Gashûin",
+        role: "Calcifer (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg"
+      },
+      {
+        actor: "Ryunosuke Kamiki",
+        role: "Markl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        actor: "Mitsunori Isaki",
+        role: "Kosho (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qg7TOjxWW2UMvUJglQ7fyLlE3gI.jpg"
+      },
+      {
+        actor: "Yo Oizumi",
+        role: "Prince Justin / Turnip Head (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qw5KLuww2AEAk6JEssEkJY3wBn1.jpg"
+      },
+      {
+        actor: "Akio Otsuka",
+        role: "King of Ingary (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg"
+      },
+      {
+        actor: "Daijirō Harada",
+        role: "Heen (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i1r0vuDmUgz7LgqR1qXkP0vO9MH.jpg"
+      },
+      {
+        actor: "Haruko Katō",
+        role: "Madame Suliman (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/WyeP5PbPEDeQI83Mq1NYwB87mk.jpg"
+      },
+      {
+        actor: "Makoto Yasumura",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j4I1yoJW8VyVhlJAp0h0lg1TY16.jpg"
+      },
+      {
+        actor: "Manabu Muraji",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/l3YxHOtIEWjULyol8A36xLfBZKN.jpg"
+      },
+      {
+        actor: "Keiko Tsukamoto",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/50AMEWXz2HUt3RFKoEuJk3Xl84k.jpg"
+      },
+      {
+        actor: "Tsuzuki Kayako",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9lKIm8V4yU3LztYj3B6LlOF9FyN.jpg"
+      },
+      {
+        actor: "Seiji Sasaki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iPEfwEUZdBagnEVEiSx18IL4aA3.jpg"
+      },
+      {
+        actor: "Hiroshi Takahashi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jLk2yzpXKe0e76YqtrxNBhIuevY.jpg"
+      },
+      {
+        actor: "Mayuno Yasokawa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nnyAx35H2LKQ7OC0Qwc6BleA9xu.jpg"
+      },
+      {
+        actor: "Rio Kanno",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5H4tWYZGCex99MYzKO1EZ8CAzUp.jpg"
+      },
+      {
+        actor: "Kojiro Takahashi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y2qNDxkkVgjoRXWCtwbnHJYOMda.jpg"
+      },
+      {
+        actor: "Akiyoshi Sakurai",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j64yOufoRatfoxDwU5qHpv2U0jZ.jpg"
+      },
+      {
+        actor: "Momoko Kurita",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1sGya1xbC7w9mCHSbnqB15ZIQda.jpg"
+      },
+      {
+        actor: "Mina Meguro",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mx1n8cmUTMT0oZH4zyqo3zx84MN.jpg"
+      },
+      {
+        actor: "Yasuhiro Ohara",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i4UQaaFRZCfrRyZ9Cfef0ru0xrQ.jpg"
+      },
+      {
+        actor: "Akio Tanaka",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/78NdM12nC8jaNnJuaJOzWzormKl.jpg"
+      },
+      {
+        actor: "Rina Yamada",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/baVr49M1u7bcmEMD4NrP84aGzX0.jpg"
+      },
+      {
+        actor: "Tomoe Hanba",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tj3HV3vbvfY53SjG1XQjyqa6hyE.jpg"
+      },
+      {
+        actor: "Naoto Kaji",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6fzuj6fYwrogkJ62sPAp5BMrFMw.jpg"
+      },
+      {
+        actor: "Teruo Seki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cbQIunOxd5jWfCqWvoN8nVnP408.jpg"
+      },
+      {
+        actor: "Shinobu Katabuchi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gYMuEq00H2ESNnSNfGmBNSjld7T.jpg"
+      },
+      {
+        actor: "Yohei Ohbayashi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ftaaLiBVEyZeqVTcgA42Z3TbwCH.jpg"
+      },
+      {
+        actor: "Takeshi Miyajima",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/webfozdOnWN4xuyQcZYptiH9Xex.jpg"
+      },
+      {
+        actor: "Yukiko Mizuochi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6xQskM9JHzoWWq7L2nuUoaOQwFN.jpg"
+      },
+      {
+        actor: "Nobito Nishioka",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eLXyV4RpUoJdUgvqGTQ0x4gcRw8.jpg"
+      },
+      {
+        actor: "Teppei Akashi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gqT4kzByvDp4aXyjdQMhfSGgPEE.jpg"
+      },
+      {
+        actor: "Reiko Onishi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2au7FIKF1qI2CIHLjgk8cyoMhzr.jpg"
+      },
+      {
+        actor: "Yumiko Ogata",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dg6fC78BOENZINENWmpBhp6B7o5.jpg"
+      },
+      {
+        actor: "Hiroyuki Kamikawaji",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gVRC9DhKc7Zp6lqbV4cmdPlyQsh.jpg"
+      },
+      {
+        actor: "Tomohiko Kiyota",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zLO6coYW410vmqiLVRj9SaekglX.jpg"
+      },
+      {
+        actor: "Aiko Nakajima",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9FWydaSLFQEuGNmNvXdFtXNTuRo.jpg"
+      },
+      {
+        actor: "Yuta Kobayashi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yBLU0PbBxWWEC1CPA3LKbiIXkCo.jpg"
+      },
+      {
+        actor: "Yoshifumi Nakagawa",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xNvtjDRBgort5vXWbYQbXEZzDZc.jpg"
+      },
+      {
+        actor: "Hiroki Tanaka",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jUezkrWPRC52v7oPTNE1KeO7ZF3.jpg"
+      },
+      {
+        actor: "Yohei Matsukado",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5VctwLX2n96YLQjoFWhLY6JAWc0.jpg"
+      },
+      {
+        actor: "Akane Fujisaki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vgiClf3t5sODJk9swYEYwYOEt94.jpg"
+      },
+      {
+        actor: "Izumi Matsuoka",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zR5YrSZejWK7miAh7jQOLKXHcJ3.jpg"
+      },
+      {
+        actor: "Tomonori Yanagibashi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cacSVB53WfwZ4LtqRi4aMAJtzvc.jpg"
+      },
+      {
+        actor: "Ken Yasuda",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mSEnXFHj8MnighBVG0yZdKOVyxI.jpg"
+      },
+      {
+        actor: "Hiroyuki Morisaki",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ru4N8FltqkZBvtVTTEmnroIinP7.jpg"
+      },
+      {
+        actor: "Shigeyuki Totsugi",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pK3B7H4qrzLy7nKr0lFKfqNRq91.jpg"
+      },
+      {
+        actor: "Takuma Otoo",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vVWVFV8JJjQuLOdotFTAgGdFsEp.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Fantasy", "Romance"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "aerial bombardment and wartime destruction depicted in impressionistic terms",
+        "a character aged decades against her will by a magical curse",
+        "frightening supernatural creatures and transformation sequences",
+        "mild fantasy peril and action throughout"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:59" }
+    ],
+    awards: [
+      { body: "Japan Academy Film Prize (28th)", category: "Animation of the Year", result: "Won", year: 2005 },
+      { body: "Mainichi Film Awards (59th)", category: "Best Animation Film", result: "Won", year: 2005 },
+      { body: "Venice Film Festival (61st)", category: "Osella Award for Technical Achievement", result: "Won", year: 2004 },
+      { body: "Academy Awards (77th)", category: "Best Animated Feature", result: "Nominated", year: 2005 },
+      { body: "Annie Awards (32nd)", category: "Outstanding Achievement for Animated Feature Production", result: "Nominated", year: 2005 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["transformation", "selfworth", "pacifism", "aging", "enchantment", "war", "courage", "narcissism"],
+      mood: ["enchanted", "wistful", "restless"],
+      fullReview: "Sophie is a young woman who has already decided she is unremarkable. She runs her late father\'s hat shop with quiet efficiency, deflects compliments without ceremony, and assumes the world will continue to overlook her. When the Witch of the Waste curses her into the body of a ninety-year-old woman, Sophie leaves town and finds herself inside Howl\'s moving castle — a clattering, wheezing architectural impossibility on mechanical legs, home to a vain and magnificent wizard, a fire demon bound by contract, and a small boy who runs the shop front. The kingdom, meanwhile, is sliding toward a war between neighboring powers that the film observes at a meaningful distance, registering its horror while declining to let it take over the story it actually wants to tell.\n\nThat story — the one about a young woman who discovers her own value through the paradox of an elderly body — is where Howl\'s Moving Castle succeeds most completely and most quietly. Chieko Baisho voices both Sophie\'s young and old selves, and the work she does with the aged version is the film\'s greatest performance: a woman who seems, disconcertingly, more at ease in her transformed body than she ever was before the curse. This is the film\'s real argument, delivered not through dialogue but through the way Sophie moves, the authority she finds in her white hair, the directness she allows herself only once she believes nobody is watching. The curse, in some lights, reads less as punishment than as permission.\n\nMiyazaki\'s visual imagination here operates at a level that resists comparison even within his own catalog. The castle is one of cinema\'s great invented objects — every angle reveals new contradictions between its rusted, mechanical exterior and its warm, improbable interior. The flight sequences, the bombed cities rendered in shades of orange and grey, the enchanted valley blooming in impossible color: these are images that lodge permanently in the memory. Watching the film is something like being inside a dream held together by someone with absolute command of visual grammar and a more improvisational relationship with cause and effect.\n\nThat improvisation is where the arguments begin. The screenplay, adapted very freely from Diana Wynne Jones\'s considerably more plot-coherent novel, makes choices in its final third that operate on emotional rather than narrative logic. Events resolve not because of decisions characters make but because the film decides they should resolve, and the gap between what happens and why it happens widens in the closing passages until it requires a specific kind of goodwill to bridge. Viewers who approach animation — especially Ghibli — expecting the internal architectural precision of Spirited Away will find this frustrating, and they are not wrong to find it frustrating. The ending was reportedly constructed without Miyazaki knowing how it would end, and it shows.\n\nThe anti-war content sits at the film\'s edges, aesthetically powerful and narratively weightless. Miyazaki\'s pacifism is biographical and genuine, rooted in his childhood memories of wartime Japan, but the film deploys it as backdrop: visually striking, emotionally present, structurally inert. The war begins and ends without the characters ever feeling genuinely threatened by it, which might be a deliberate fairy-tale choice, but the effect is that the film\'s most urgent thematic concern remains its least developed one.\n\nTakuya Kimura as Howl presents a different problem. The casting of a celebrity over a trained voice actor was a commercial decision that the film absorbs but never fully overcomes. Howl as written is a genuinely interesting figure — a narcissist whose vanity conceals a real terror of vulnerability — but the voice performance keeps the character at a slight remove, the emotional terrain visible but not inhabited. Scenes that should generate heat generate warmth instead, which is pleasant but not the same thing.\n\nJoe Hisaishi\'s score earns its place among his finest. The waltz that threads through the film is not merely beautiful — it appears at exactly the moments where the film is most certain of what it is, functioning as a structural marker disguised as ornamentation. When it returns in the final sequences it carries real accumulated weight.\n\nHowl\'s Moving Castle is not Miyazaki\'s most coherent film. It may be his most beautiful. For some viewers those two facts exist in irresolvable tension. For others, the beauty is the coherence — a film that argues, in every frame, that the world is worth saving, and that the people most convinced of their own insignificance are the ones most likely to save it."
+    }
+  },
+  {
+    id: "the-girl-who-leapt-through-time-2006",
+    title: "The Girl Who Leapt Through Time",
+    originalTitle: "時をかける少女",
+    romanization: "Toki wo Kakeru Shōjo",
+    year: 2006,
+    tagline: "There is a future that we can't wait for.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/3GV3JldzdNQ7FfrnVQl0BrwZaGZ.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/3c59KMNs2MYqXUb2GZe8Yfwn4kb.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ny6t6tLLhtI",
+    director: [
+      {
+        name: "Mamoru Hosoda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Satoko Okudera",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lvBCgqZUjEoqNiTi9eGngRtKMhC.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Riisa Naka",
+        role: "Makoto Konno (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lQHNZeMCqEK8AJvNb15BFnji7qO.jpg"
+      },
+      {
+        actor: "Takuya Ishida",
+        role: "Chiaki Mamiya (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aHQk6XxqyJinfvrVRADEIg31nOk.jpg"
+      },
+      {
+        actor: "Mitsutaka Itakura",
+        role: "Kousuke Tsuda (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mnKYU7HIsuRkx3YjdRO5FLXCdX5.jpg"
+      },
+      {
+        actor: "Ayami Kakiuchi",
+        role: "Yuri Hayakawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lUhVV9u5VGMCNdCAVhGzg8GFSdo.jpg"
+      },
+      {
+        actor: "Mitsuki Tanimura",
+        role: "Kaho Fujitani (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xV9UrP8kZdxOiTI2efDFhp3t4iA.jpg"
+      },
+      {
+        actor: "Yuki Sekido",
+        role: "Miyuki Konno (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7LVYeFTgUpjYDrxnU7Wm5ZQUX9t.jpg"
+      },
+      {
+        actor: "Utawaka Katsura",
+        role: "Makoto\'s Father (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j0GXzLelO1dOzI7d1WVIwQXhLz8.jpg"
+      },
+      {
+        actor: "Midori Ando",
+        role: "Makoto\'s Mother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/26R1LBiSOkkP08saSsz6LmVTY16.jpg"
+      },
+      {
+        actor: "Fumihiko Tachiki",
+        role: "Fukushima (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9nHFGrvdT5c4klZOiFQElybNy7h.jpg"
+      },
+      {
+        actor: "Keiko Yamamoto",
+        role: "Auntie (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4w3OVUdjzN0EpIij0gDYvnbOXx.jpg"
+      },
+      {
+        actor: "Shiori Yokohari",
+        role: "Moriko Uesugi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7Y7PIIgd1c8lTsPW2bu4cLNg5uc.jpg"
+      },
+      {
+        actor: "Keiko Aizawa",
+        role: "School Nurse / Answering Machine (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kRQ9YnxA5tpCAWT6I5i3rMGUiNg.jpg"
+      },
+      {
+        actor: "Kiyomi Tanigawa",
+        role: "Home Economics Teacher / Female Newscaster B (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kG5B4UUxI3W7pA4BJgic0ltOSJi.jpg"
+      },
+      {
+        actor: "Yoji Matsuda",
+        role: "Sojiro Takase (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/42WeHwCymsgJh3mLAyknCdRcef8.jpg"
+      },
+      {
+        actor: "Tadashi Nakamura",
+        role: "Old Security Guard (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/reDmMkqnqabFtac7zRbWxuSaXj9.jpg"
+      },
+      {
+        actor: "Sachie Hara",
+        role: "Kazuko Yoshiyama (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/As5rQG0QEZI9TnnC2zjDJRYeryn.jpg"
+      },
+      {
+        actor: "Atsuko Yuya",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hociwUP9rYQfqXpAnYDrXqJLoBX.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Drama", "Romance"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "a near-fatal bicycle accident depicted multiple times across the narrative",
+        "mild romantic tension and love triangle confusion among teenagers",
+        "emotionally intense farewell scene involving permanent separation",
+        "time manipulation used to avoid consequence, with increasingly serious repercussions"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:38" }
+    ],
+    awards: [
+      { body: "Japan Academy Film Prize (31st)", category: "Animation of the Year", result: "Won", year: 2008 },
+      { body: "Mainichi Film Awards (62nd)", category: "Best Animation Film", result: "Won", year: 2007 },
+      { body: "Animation Kobe (11th)", category: "Theater Work Award", result: "Won", year: 2006 },
+      { body: "Asia Pacific Screen Awards (1st)", category: "Best Animated Feature Film", result: "Won", year: 2007 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["regret", "consequence", "avoidance", "youth", "time", "loss", "friendship", "choice"],
+      mood: ["nostalgic", "tender", "bittersweet"],
+      fullReview: "Seventeen-year-old Makoto Konno discovers she can physically throw herself backwards through time — stumbling, landing hard, arriving seconds or hours earlier in a scene she just left. Her first instinct, entirely believable and quietly funny, is to use this for the most trivial purposes imaginable: retaking a cooking exam, extending a perfect afternoon at the batting cages, dodging an awkward moment with a friend. The film spends a generous portion of its runtime simply enjoying this fantasy alongside her, and the enjoyment is genuine. Then, slowly and without announcement, it begins to show her the bill.\n\nMamoru Hosoda understood, making this film, that the time-travel premise was never the point. The Girl Who Leapt Through Time is a story about the specific emotional cowardice of adolescence — the desire to freeze a moment you love before it changes into something else, the terror of a friendship beginning to tip toward something more complicated, the way consequence feels like an injustice when you are sixteen and the present tense is the only tense that feels real. Every leap Makoto takes is an act of avoidance. Every avoided moment deposits its weight somewhere else in time, and the film is quietly, methodically, counting those deposits until the balance comes due.\n\nSatoko Okudera\'s screenplay, adapting Yasutaka Tsutsui\'s source novel, is economical in the best sense: nothing is stated that the images and performances can carry. The structure divides almost evenly between a light first half — warmly comic, Makoto bouncing through her summer days with the blithe selfishness of someone who just found a cheat code — and a second half that deploys everything the first half built in order to make the audience feel something considerably heavier. The seam between the two halves is almost invisible. By the time the film has shifted registers, viewers are already inside the emotion it prepared for them.\n\nRiisa Naka\'s voice performance as Makoto is the anchor the whole structure rests on. The character is not particularly introspective — she is, by design, someone who runs from reflection — but Naka finds the exact pitch of a person in the process of being forced to grow up by circumstances she created. There is a scene in the final act where Makoto\'s voice shifts and the film\'s accumulated weight lands in a single moment. It works because nothing about the preceding ninety minutes was wasted.\n\nKiyoshi Yoshida\'s score deserves a separate word. It does not call attention to itself. It threads a piano motif through the film\'s quieter passages, appearing when Makoto is still or alone, and earns its final appearance through repetition and restraint rather than crescendo. This is scoring in service of the film rather than in competition with it.\n\nThe Madhouse animation, produced on a budget that would not cover a week of a major studio feature, compensates with attention. The ordinary Tokyo of the film — riverbanks, school corridors, late summer light — is observed with the kind of care usually reserved for invented landscapes. Dust in sunlight. The specific weight of a bicycle. The color of the sky at five in the afternoon in August. These details are not decoration. They are what the film is grieving: the unrepeatable texture of ordinary days.\n\nThe ending does not offer comfort in the way the genre usually promises. It acknowledges loss, sits with it, and then asks whether moving forward anyway might be its own kind of answer. That question, delivered without sentimentality, is what makes the film stay."
+    }
+  },
+  {
+    id: "wolf-children-2012",
+    title: "Wolf Children",
+    originalTitle: "おおかみこどもの雨と雪",
+    romanization: "Okami Kodomo no Ame to Yuki",
+    year: 2012,
+    tagline: "One mother, two worlds, endless sacrifice...",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/hSPE5z0rR3Iv4Ypr3cr0UrIvowI.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/9iIVipT06xhlo48qgjwDkqekC7q.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/oMqgJMCaNIqeJtilc71D4nRqdmt.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=8xLji7WsW0w",
+    director: [
+      {
+        name: "Mamoru Hosoda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Mamoru Hosoda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+      },
+      {
+        name: "Satoko Okudera",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lvBCgqZUjEoqNiTi9eGngRtKMhC.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Aoi Miyazaki",
+        role: "Hana (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9xbfwMqlETlGMdiqycmc8FDcWa9.jpg"
+      },
+      {
+        actor: "Takao Osawa",
+        role: "Wolf Man (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nxSOEoENPw6NIYOckna94WICPAE.jpg"
+      },
+      {
+        actor: "Haru Kuroki",
+        role: "Yuki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rTxASkiwbxohT0UVHORLmECo53Y.jpg"
+      },
+      {
+        actor: "Yukito Nishii",
+        role: "Ame (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/papPYfWpj7lrpS6eGSQYH1bM4Hy.jpg"
+      },
+      {
+        actor: "Momoka Ohno",
+        role: "Yuki as a Child (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8Ts2UoALyqs0c5rRFzBkSNlrBmf.jpg"
+      },
+      {
+        actor: "Amon Kabe",
+        role: "Ame as a Child (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9QuiyASaZo17czjFA4Y7LWtu8W0.jpg"
+      },
+      {
+        actor: "Takuma Hiraoka",
+        role: "Sohei (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4a0kjjfZ2cGn0WdbWvabCEz8SRN.jpg"
+      },
+      {
+        actor: "Megumi Hayashibara",
+        role: "Sohei\'s Mother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+      },
+      {
+        actor: "Tadashi Nakamura",
+        role: "Hosokawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/reDmMkqnqabFtac7zRbWxuSaXj9.jpg"
+      },
+      {
+        actor: "Tamio Ohki",
+        role: "Yamaoka (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ixEU7F1vWpcm0MGqc04xXNGLpHz.jpg"
+      },
+      {
+        actor: "Tomie Kataoka",
+        role: "Mrs. Nirasaki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gJTXv2YFnQ6makLueTJlvNmsV5J.jpg"
+      },
+      {
+        actor: "Hajime Inoue",
+        role: "Tendo (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/deqIHIRviKtwlz5BNXEkDlsbwrq.jpg"
+      },
+      {
+        actor: "Shota Sometani",
+        role: "Mr. Tanabe (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sEEfyEfEbd9TQB9gFlvDTQJov76.jpg"
+      },
+      {
+        actor: "Taichi Masu",
+        role: "Radio Announcer (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1i9513V9zNclEKCueuIJe10iN8s.jpg"
+      },
+      {
+        actor: "Kumiko Aso",
+        role: "Mrs. Hotta (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pVOiHNMaIpue64dRg1GbXnSmMJK.jpg"
+      },
+      {
+        actor: "Bunta Sugawara",
+        role: "Nirasaki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lHPLlP8zNwGMmcUI8rGks5vp8Vn.jpg"
+      },
+      {
+        actor: "Takashi Kobayashi",
+        role: "Mr. Nirasaki (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hMl1BMXQFgIzjwcgUopmLZROLZD.jpg"
+      },
+      {
+        actor: "Mitsuki Tanimura",
+        role: "Mrs. Doi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xV9UrP8kZdxOiTI2efDFhp3t4iA.jpg"
+      },
+      {
+        actor: "Yasuko Egawa",
+        role: "Landlord (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kpqV9EvkMjPoUmcoXWJnBjHnSB4.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Drama", "Fantasy"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "sudden death of a parent depicted in the opening act",
+        "sustained portrayal of single-parent exhaustion and financial precarity",
+        "non-graphic werewolf transformation sequences including those involving children",
+        "a child choosing permanent separation from family",
+        "brief scenes of a child in danger alone in a wilderness environment"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:57" }
+    ],
+    awards: [
+      { body: "Japan Academy Film Prize (36th)", category: "Animation of the Year", result: "Won", year: 2013 },
+      { body: "Mainichi Film Awards (67th)", category: "Best Animation Film", result: "Won", year: 2012 },
+      { body: "Animation Kobe (17th)", category: "Theater Work Award", result: "Won", year: 2012 },
+      { body: "Blue Ribbon Awards (55th)", category: "Special Award", result: "Won", year: 2013 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["motherhood", "sacrifice", "belonging", "wildness", "identity", "childhood", "separation", "nature"],
+      mood: ["tender", "mournful", "luminous"],
+      fullReview: "Wolf Children is, at its core, a film about a form of love that does not require reciprocity as its goal. Hana is a university student who falls for a man who can shift between human and wolf. He dies — absurdly, accidentally — before their two children are old enough to remember him. The film then follows thirteen years of her life as she raises Yuki and Ame across the seasons of rural Japan: a daughter who begins feral and chooses civilization, a son who begins timid and chooses the mountain. But to describe it this way is only to say what happens. What the film is actually doing is quieter and considerably harder: it is trying to animate what it costs a person to love children well, knowing they will leave.\n\nThis is formally unusual territory for a feature film. The children generate most of the narrative momentum, but Hana is the center. And the drama building toward the end is not conflict in the conventional sense — it is the moment when a mother\'s work is complete, when the people she has raised no longer need her. That moment, in most stories, is background. Here it is the destination.\n\nThe first half of Wolf Children is the film at its most precisely calibrated. Hosoda handles the wolf man\'s death — and what follows immediately after — with a delicacy that very few animated films would attempt. There is a scene in which Hana must make a decision about a body she cannot take anywhere, about grief she cannot explain to anyone, in a ditch in the rain. It is held for exactly the right number of seconds. The weeks that follow, the improvisation of new motherhood under conditions that cannot be shared, the exhaustion that has nowhere to go — this is the film operating at full emotional intelligence, and it is remarkable.\n\nThe second half is less consistent. As Yuki and Ame diverge, Yuki\'s story — navigating school, friendship, and the concealment of her nature — is handled with confidence, the comedy and pathos balanced cleanly. Ame\'s arc is treated with something closer to reverence, and that reverence creates distance. He becomes a symbol of wildness reclaimed before the film has fully earned the specific weight of what he is giving up. His transformation sequences are visually striking and emotionally somewhat general. Viewers are given the meaning of his choice before they are given sufficient reason to feel it.\n\nMasakatsu Takagi\'s score — ambient, textured, less conventionally melodic than viewers accustomed to Ghibli productions might expect — is one of the film\'s genuine assets. It does not instruct the audience in what to feel. It creates a sonic environment shaped like the film\'s rural landscape: open, seasonal, patient. The piano moves through it like light through trees.\n\nThe animation uses four seasons across a decade to organize what is essentially a story about time passing. Snow on a farmhouse roof. Children running through summer grass in wolf form. A mountain turning in autumn. These images do structural work that dialogue could not — they mark the passage of years in a way that feels lived rather than time-lapsed. The countryside is rendered with the specificity of a place that is known and loved without being idealized: it is cold and muddy and full of insects and also genuinely beautiful, and the film does not try to separate those things.\n\nAoi Miyazaki voices Hana throughout, and the performance is the film\'s constant — warm, unguarded, neither sentimentalized nor martyred. She voices a woman who is tired and scared and doing her best, and the best is never quite enough and is also always enough. That tension, held across nearly two hours of a film that could easily have collapsed into uplift or tragedy, is Wolf Children\'s real achievement. It ends where it should: with Hana alone in a field, watching someone she loves disappear over a ridge, calling it success."
+    }
+  },
+  {
+    id: "summer-wars-2009",
+    title: "Summer Wars",
+    originalTitle: "サマーウォーズ",
+    romanization: "Samā Wōzu",
+    year: 2009,
+    tagline: "Always protect your network.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/w5PUrsKtLZVZCPXNzjDwUr9V0tr.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/yHy8TrRLnuBZ4t2C0l0pSpRXVHO.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/wSFAoevZuVBo4L9f8NgYSD1o9cQ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Rc8_JO4NAI0",
+    director: [
+      {
+        name: "Mamoru Hosoda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/MBrgo5yaOdV454lUgDJsqvbdxP.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Satoko Okudera",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lvBCgqZUjEoqNiTi9eGngRtKMhC.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ryunosuke Kamiki",
+        role: "Kenji Koiso (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        actor: "Hitomi Miyauchi",
+        role: "Natsuki Shinohara (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/njQMIIquIL9dBX2xdTC1lMC8tHr.jpg"
+      },
+      {
+        actor: "Mitsuki Tanimura",
+        role: "Kazuma Ikezawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xV9UrP8kZdxOiTI2efDFhp3t4iA.jpg"
+      },
+      {
+        actor: "Sumiko Fuji",
+        role: "Sakae Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rdBCPv3YRHAcBGaTporOgtQRdUQ.jpg"
+      },
+      {
+        actor: "Ayumu Saito",
+        role: "Wabisuke Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x0FyJsorebPuqqBVkLfZoIWFHTP.jpg"
+      },
+      {
+        actor: "Takahiro Yokokawa",
+        role: "Takashi Sakuma (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gtr06ke9zcxTEzxgt9E0giYCLfL.jpg"
+      },
+      {
+        actor: "Kiyomi Tanigawa",
+        role: "Yukiko Shinohara (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kG5B4UUxI3W7pA4BJgic0ltOSJi.jpg"
+      },
+      {
+        actor: "Mutsumi Sasaki",
+        role: "Kazuo Shinohara (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vfWeOCWPMONdhcm4B35B0vVhgbj.jpg"
+      },
+      {
+        actor: "Mieko Nobusawa",
+        role: "Mariko Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/znTqIdwtD6EyRMgMOVN67sKzFZa.jpg"
+      },
+      {
+        actor: "Takuya Kirimoto",
+        role: "Riichi Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tDtATZ0RzxPiEzs4X2wJU7rSlkq.jpg"
+      },
+      {
+        actor: "Sakiko Tamagawa",
+        role: "Rika Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/652TiFmGTnXmx0s3yvZsQcwPBvd.jpg"
+      },
+      {
+        actor: "Ichiro Nagai",
+        role: "Mansuke Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/d5LuqwoIjMIqKvKmEk5y6AZY1Ww.jpg"
+      },
+      {
+        actor: "Takashi Kobayashi",
+        role: "Tasuke Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hMl1BMXQFgIzjwcgUopmLZROLZD.jpg"
+      },
+      {
+        actor: "Yutaka Shimizu",
+        role: "Shota Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hn272nycSFIMXEPvkzZ8UQyaAhZ.jpg"
+      },
+      {
+        actor: "Kaori Yamagata",
+        role: "Naomi Miwa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bhtFlZCoBxhq1FeNwx7ODNOZ73R.jpg"
+      },
+      {
+        actor: "Tagame Tamura",
+        role: "Kiyomi Ikezawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8rYRLO7mn3nbyoy2rbXnnjVsHl5.jpg"
+      },
+      {
+        actor: "Tadashi Nakamura",
+        role: "Mansaku Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/reDmMkqnqabFtac7zRbWxuSaXj9.jpg"
+      },
+      {
+        actor: "Yoji Tanaka",
+        role: "Yorihiko Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/752oL9YrUumjrqbhdj4GNJ938x3.jpg"
+      },
+      {
+        actor: "Mitsutaka Itakura",
+        role: "Katsuhiko Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mnKYU7HIsuRkx3YjdRO5FLXCdX5.jpg"
+      },
+      {
+        actor: "Eiko Kanazawa",
+        role: "Noriko Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aql74rEe0VkNuB6d7HevgQhh27g.jpg"
+      },
+      {
+        actor: "Chigusa Takaku",
+        role: "Nana Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6xUrYd4sgY3wVtpyy9sr000mLyZ.jpg"
+      },
+      {
+        actor: "Riisa Naka",
+        role: "Yumi Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lQHNZeMCqEK8AJvNb15BFnji7qO.jpg"
+      },
+      {
+        actor: "Naoto Adachi",
+        role: "Ryohei Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uSV31mYCWrRhHNC3ZobNVny0187.jpg"
+      },
+      {
+        actor: "Yuki Imai",
+        role: "Shingo Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5Kbi3aYBll3xmJb7SYWVeJuRPZS.jpg"
+      },
+      {
+        actor: "Sumire Morohoshi",
+        role: "Mao Jinnouchi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6AoZkW7NxgsWXkoCkTGDSgFcyao.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Drama", "Family", "Sci-fi"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "death of an elderly character portrayed with emotional weight",
+        "global infrastructure collapse depicted as escalating digital crisis",
+        "mild romantic tension between teenagers",
+        "brief scenes of widespread civilian panic and societal disorder"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:54" }
+    ],
+    awards: [
+      { body: "Japan Academy Prize (33rd)", category: "Animation of the Year", result: "Won", year: 2010 },
+      { body: "Mainichi Film Awards (65th)", category: "Best Animation Film", result: "Won", year: 2010 },
+      { body: "Annie Awards (38th)", category: "Best Animated Feature", result: "Nominated", year: 2011 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["legacy", "solidarity", "belonging", "dependency", "accountability", "sacrifice"],
+      mood: ["warm", "urgent", "bittersweet"],
+      fullReview: "Summer Wars is set during a summer family reunion in rural Nagano, where a shy teenage math prodigy named Kenji Koiso arrives under false pretenses — introduced by his classmate Natsuki as her fiancé to satisfy the expectations of her 90-year-old grandmother Sakae, the iron-willed matriarch of the enormous Jinnouchi clan. What begins as a comedy of social mortification — a city boy dropped into a household of feuding aunts, competitive uncles, and children in every doorway — gradually, and then suddenly, becomes something far larger. A rogue artificial intelligence has hijacked OZ, a virtual world so deeply woven into global infrastructure that its collapse threatens hospitals, traffic systems, and military satellites alike. The fate of the real world is now being contested inside a pastel digital universe, by a family that can barely agree on what to have for dinner.\n\nWhat Mamoru Hosoda manages here, and what most filmmakers at this scale either cannot or do not attempt, is sustaining two emotional registers at once without letting either contaminate the other. The first act is genuinely funny — the particular humiliation of being someone\'s fake boyfriend while surrounded by people determined to embarrass you, rendered with affection rather than cruelty. The third act is operatically high-stakes in a way that somehow does not feel absurd, because the film has spent its time ensuring that the people now fighting for the world are people the audience has already come to care about as people, not as plot functions.\n\nThe OZ sequences are among the most inventive depictions of digital space in animation — a vivid, hyperkinetic world of floating avatars and geometric architecture that reads as genuinely alien while functioning as a legible metaphor for the internet already familiar to any viewer. When the antagonist AI, Love Machine, begins consuming the network from within, the visual logic of its expansion is coherent enough to feel genuinely threatening rather than decorative. The film understands that an audience needs spatial and emotional stakes in a place they cannot physically enter, and it earns both.\n\nBut technology is not the film\'s real subject. Family as infrastructure is. Hosoda uses the Jinnouchi clan — easily fifteen named characters spread across multiple generations, all carrying old grievances and unresolved loyalties — to argue that the same qualities that make a family maddening are precisely what make it enduring. They quarrel. They disappear into private resentments. They hold wounds with a possessiveness that borders on pride. And then they sit down together at a table, and something holds. Sakae, voiced with tremendous gravity and restraint by Sumiko Fuji, is the film\'s moral center: a woman who has spent her life binding people to one another, and whose final decisions carry the weight of judgments that have been forming for decades.\n\nThe screenplay by Satoko Okudera is impressively controlled given how many plates it keeps spinning. Kenji\'s transformation from polite outsider to genuine participant is charming without ever becoming saccharine, and the way his mathematical abilities are woven into the climax feels earned rather than convenient. Less successful is Wabisuke — an estranged family member whose arc of guilt and reintegration is sketched out in gestures where it needed actual scenes. He occupies real screen time without the interiority the narrative seems to believe he already has.\n\nPacing is where the film most visibly strains. The middle section juggles so many characters across two simultaneous worlds that individual moments get swallowed before they can settle. A more patient version of Summer Wars — one willing to breathe between set pieces — might have been genuinely extraordinary rather than merely excellent. The climax, chaotic and joyful and deliberately overscaled, carries considerable force, though viewers who found the second act crowded may arrive there with less emotional investment than the film is counting on.\n\nNone of that diminishes what Summer Wars ultimately is: a film with an unusually large heart and the craft to back it up. It believes, without embarrassment and without naivety, that people facing disaster are most themselves when they face it together. That conviction is what makes the film stick long after its plot has faded."
+    }
+  },
+  {
+    id: "blue-is-the-warmest-color-2013",
+    title: "Blue Is the Warmest Color",
+    originalTitle: "La Vie d'Adèle - Chapitres 1 et 2",
+    romanization: null,
+    year: 2013,
+    tagline: "To love.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/tSieGjZMCJu99Oalk2BuogGmcGH.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=aQGSlVJGlI",
+    director: [
+      {
+        name: "Abdellatif Kechiche",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3blJf1ragOzMXtiWbxQ9dc23enm.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Abdellatif Kechiche",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3blJf1ragOzMXtiWbxQ9dc23enm.jpg"
+      },
+      {
+        name: "Ghalya Lacroix",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j8qWct6mjRoLUt9JZrVlP7tbo83.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Léa Seydoux",
+        role: "Emma",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xcYZOScYqziWjPcf3xIfQUMBYlZ.jpg"
+      },
+      {
+        actor: "Adèle Exarchopoulos",
+        role: "Adèle",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5I98lvcCH7T6KlTp9pqupMXa4Pi.jpg"
+      },
+      {
+        actor: "Salim Kéchiouche",
+        role: "Samir",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e5Esg19sYhwgS0ekbqTXwxvKWMo.jpg"
+      },
+      {
+        actor: "Aurélien Recoing",
+        role: "Adèle's Father",
+        photoUrl: "https://image.tmdb.org/t/p/w185/slDvlNa3l9eadFF2sANRk7jcjCl.jpg"
+      },
+      {
+        actor: "Catherine Salée",
+        role: "Adèle's Mother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4BpOijEiMFxSIDkBS3GNppxW5Yp.jpg"
+      },
+      {
+        actor: "Benjamin Siksou",
+        role: "Antoine",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5DudlZS99uaJNbGRdGCuAo0hUGF.jpg"
+      },
+      {
+        actor: "Mona Walravens",
+        role: "Lise",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7hgd4FaxelpnZ7XzMsNTqYkSXX1.jpg"
+      },
+      {
+        actor: "Alma Jodorowsky",
+        role: "Béatrice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1Uh2MYZmly1nsKHXoveYQlfAANC.jpg"
+      },
+      {
+        actor: "Jérémie Laheurte",
+        role: "Thomas",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hTT4FsVEOFbcPt3r2N12Oj3cszr.jpg"
+      },
+      {
+        actor: "Anne Loiret",
+        role: "Emma's Mother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tTfOmswbwPCiEvm3XMA2BBtVX9Q.jpg"
+      },
+      {
+        actor: "Benoît Pilot",
+        role: "Emma's Stepfather",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gvdteKt2xDe94LyfWQTQ7uq7mvd.jpg"
+      },
+      {
+        actor: "Sandor Funtek",
+        role: "Valentin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b16fZrwuMtz44Mw8e8EPAGMtQgl.jpg"
+      },
+      {
+        actor: "Fanny Maurin",
+        role: "Amélie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pcbCzObJfUD0eLfm5iexxQOICsF.jpg"
+      },
+      {
+        actor: "Quentin Médrinal",
+        role: "Eli",
+        photoUrl: "https://image.tmdb.org/t/p/w185/64tSB6l850sEbKcdyHX9jMeSoQj.jpg"
+      },
+      {
+        actor: "Baya Rehaz",
+        role: "Meryem",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iqcC3ooMcmuijr49jD86BUMjw08.jpg"
+      },
+      {
+        actor: "Camille Rutherford",
+        role: "Camille",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8Iq8Gi1YsGNQ3gnxaVptXj68zVY.jpg"
+      },
+      {
+        actor: "Stéphane Mercoyrol",
+        role: "Joachim",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n8TRaiNRgtdfxwnMSlXYdNM4Ts3.jpg"
+      },
+      {
+        actor: "Alika Del Sol",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lFh8MS3SKsLtxsfRJIu7WBuBCGn.jpg"
+      },
+      {
+        actor: "Maud Wyler",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mOOZU8SgmuMHTiPJjq8AbcEzcow.jpg"
+      },
+      {
+        actor: "Leila D'Issernio",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/w6qJKVqZYFaivfsyOY9gT4aAROs.jpg"
+      },
+      {
+        actor: "Alain Duclos",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lM7x5vXHxbyX223jKjV2XdPJcNS.jpg"
+      },
+      {
+        actor: "Nicolas Bourgasser",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u3kJ4jMYdF6DgXWUNQRXikB20Y3.jpg"
+      },
+      {
+        actor: "Vincent Gaeta",
+        role: "Vince",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5P0IuC1mbyydGQiotel9YhNgbDy.jpg"
+      },
+      {
+        actor: "Bouraouïa Marzouk",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y4kk5qJONnT4YYrGd74Avk6aA2S.jpg"
+      },
+      {
+        actor: "Julien Lepers",
+        role: "Self (voice) (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yaVc1dKM1OPIwpBaDmHTEyaNF7l.jpg"
+      }
+    ],
+    languages: ["French"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "prolonged explicit sexual content between adult women including full nudity",
+        "sustained emotionally violent argument scenes with physical confrontation",
+        "frank depiction of sexual awakening in a teenage protagonist",
+        "recurring full frontal nudity",
+        "strong language throughout"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "3:00" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (66th)", category: "Palme d'Or", result: "Won", year: 2013 },
+      { body: "European Film Awards (26th)", category: "Best Actress", result: "Won", year: 2013 },
+      { body: "César Awards (39th)", category: "Best Actress", result: "Won", year: 2014 },
+      { body: "César Awards (39th)", category: "Best Film", result: "Nominated", year: 2014 },
+      { body: "César Awards (39th)", category: "Best Director", result: "Nominated", year: 2014 },
+      { body: "BAFTA Film Awards (67th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2014 },
+      { body: "Golden Globe Awards (71st)", category: "Best Foreign Language Film", result: "Nominated", year: 2014 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["desire", "class", "awakening", "identity", "betrayal", "loss"],
+      mood: ["intimate", "raw", "melancholic"],
+      fullReview: "A teenage girl named Adèle eats spaghetti bolognese with the particular intensity of someone who has not yet learned to perform restraint. She sleeps with her mouth open, cries with her whole face, moves through the world as though her skin is slightly too thin for it. When she encounters Emma — older, blue-haired, studying fine art — the effect is immediate and total. Blue Is the Warmest Color follows what happens next: the arrival of desire, the slow formation of an adult self, and the long aftermath of a love that becomes too large for either woman to hold without it breaking something. The film is adapted from Julie Maroh\'s graphic novel, though what Kechiche takes from the source and what he transforms beyond recognition are equally significant.\n\nAbdellatif Kechiche shoots nearly the entire film at close range. Faces fill the frame. The camera does not observe from a respectful distance — it presses. In the early sections this creates something close to suffocation in the best sense: the audience is locked inside Adèle\'s experience, unable to step back from it, unable to distinguish infatuation from identity because Adèle cannot make that distinction either. Adèle Exarchopoulos carries this with a performance of unusual physical and emotional exposure. There is nothing calculated about it. When feeling moves through her face it moves without negotiation, and the result is one of the more devastating screen presences in recent French cinema. The Cannes jury famously awarded the Palme d\'Or not only to Kechiche but to both lead actresses — an unprecedented decision that reads, in retrospect, as the jury acknowledging something the film itself sometimes obscures: that the performances are the film.\n\nLéa Seydoux is doing something different and in some ways harder — playing a woman who is already formed, who knows what she wants and contains rather than broadcasts her feelings. Emma is the gravitational center of the first chapter. The second chapter belongs to no one, which is partly the point and partly the film\'s central structural failure.\n\nAt three hours, the first ninety minutes earn every one of theirs. The second half is where cracks appear. Once the relationship is fractured, Kechiche seems uncertain what to do with Adèle except return to her face and wait for it to tell him something new. The final passages arrive quickly, almost without preparation, after so much time spent in closely observed dailiness. The imbalance is genuine — not fatal, but not invisible.\n\nThe sex scenes, running roughly eight minutes in total, attracted more critical debate than anything else in the film. The honest position lives somewhere between the poles that debate occupied: they are not pornographic in intent or context, and the bodies onscreen are treated as sites of feeling rather than spectacle. But they are directed with a prolonged, encompassing attention that sits uneasily against the documentary-style intimacy of the rest of the film. Both Seydoux and Exarchopoulos later described the shoot as grueling and at times humiliating, with the director demanding exhausting repetition across multiple days. What a camera chooses to dwell on, and for how long, is not a neutral act — and this discomfort is not entirely separable from what appears onscreen.\n\nNone of this erases what the film achieves at its peaks. The scene in which Adèle sits through a classroom discussion of Marivaux while visibly disintegrating for reasons she cannot name, or the agonizing dinner party where she stands at the edge of Emma\'s art world and understands with absolute clarity that she will never fully enter it — these are moments of genuine, precise emotional intelligence. The breakup confrontation is among the most exhausting scenes in contemporary cinema: grief and fury and humiliation cycling through two people at full volume, without mercy and without exit.\n\nBlue Is the Warmest Color is a film that earns its Palme d\'Or in parts and spends the rest of its runtime asking to be forgiven for itself. Most of it deserves that forgiveness. A little does not."
+    }
+  },
+  {
+    id: "the-tale-of-the-princess-kaguya-2013",
+    title: "The Tale of The Princess Kaguya",
+    originalTitle: "かぐや姫の物語",
+    romanization: "Kaguya-hime no Monogatari",
+    year: 2013,
+    tagline: "A princess\'s crime and punishment.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/8w0oncItZBP0WDJqlmfrdVQqtlE.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/cQidJuA546OSSXKWXoiCeINDxuj.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=W71mtorCZDw",
+    director: [
+      {
+        name: "Isao Takahata",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qbvnGLByh0N9ni7gZSREIgvO1sM.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Isao Takahata",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qbvnGLByh0N9ni7gZSREIgvO1sM.jpg"
+      },
+      {
+        name: "Riko Sakaguchi",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Aki Asakura",
+        role: "The Princess Kaguya (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/65ZiHTem1HFNx4aHBcqQPdRRsPn.jpg"
+      },
+      {
+        actor: "Takeo Chii",
+        role: "Sanuki no Miyatsuko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1DMf3RKwhtEipZAdmgj7hkkbe8V.jpg"
+      },
+      {
+        actor: "Nobuko Miyamoto",
+        role: "Ōna / Narrator (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pkIBgyBP4UYOlqK8EnpJ1BMuv9D.jpg"
+      },
+      {
+        actor: "Kengo Kora",
+        role: "Sutemaru (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wb293WmYQ7yTAtf3opmhCoTJQfa.jpg"
+      },
+      {
+        actor: "Atsuko Takahata",
+        role: "Lady Sagami (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xfVilFePWPW5qkJMa8GWQmvc5Fp.jpg"
+      },
+      {
+        actor: "Tomoko Tabata",
+        role: "Menowarawa (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8jtrmUQWICGtcaCbeceLGqteVtq.jpg"
+      },
+      {
+        actor: "Shinosuke Tatekawa",
+        role: "Lord Inbe no Akita (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sQsLUZLusjHBVwgH9dA9R2aZgwO.jpg"
+      },
+      {
+        actor: "Takaya Kamikawa",
+        role: "Prince Ishitsukuri (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ecgrhujjLwzqbYs83J4LIEqinfm.jpg"
+      },
+      {
+        actor: "Hikaru Ijūin",
+        role: "Minister of the Right Abe (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cq4QZRJz3TElbGogOl7k0wChJXu.jpg"
+      },
+      {
+        actor: "Ryudo Uzaki",
+        role: "Grand Counselor Otomo (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kO9vshZ4FJXyZO5wu4xgq8fa6OE.jpg"
+      },
+      {
+        actor: "Shichinosuke Nakamura",
+        role: "The Emperor (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uStHaHyq9Q5I5cgfxfUygKL3iQe.jpg"
+      },
+      {
+        actor: "Isao Hashizume",
+        role: "Prince Kuramochi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pM8AweTuMvGoWjxPgneHW7siYKy.jpg"
+      },
+      {
+        actor: "Tatsuya Nakadai",
+        role: "Charcoal-maker Old Man (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4LygOe0vFQplLIft5IUWI5OewPX.jpg"
+      },
+      {
+        actor: "Yukiji Asaoka",
+        role: "Kita no kata (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kMRHuPRMDGWXlxndfMjHWdD4IRu.jpg"
+      },
+      {
+        actor: "Tamaki Kojo",
+        role: "Middle Counselor Isonokami (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nQgBJXqGX6zK11ED1tViD7PrBnl.jpg"
+      },
+      {
+        actor: "Yuji Miyake",
+        role: "Sanuki no Miyatsuko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2cDkYT3sI8fCU2UYJdl8t374L3X.jpg"
+      },
+      {
+        actor: "Mirai Uchida",
+        role: "Young Kaguya (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rfWxgpIFtQQzGnwxpvmgVVXLggE.jpg"
+      },
+      {
+        actor: "Hiroyuki Yamamoto",
+        role: "Aristocrat (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2qca6gUE7edBPFlIoVOX1war0wo.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Drama", "Fantasy"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "death of elderly parental figures depicted with emotional weight",
+        "a young woman\'s freedom progressively and forcibly restricted as the film\'s central anguish",
+        "older men competing for a young woman\'s hand in marriage portrayed with critical discomfort",
+        "one hallucinatory animation sequence depicting acute psychological breakdown",
+        "sustained sorrowful final act involving irreversible loss"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:17" }
+    ],
+    awards: [
+      { body: "Japan Academy Prize (37th)", category: "Animation of the Year", result: "Won", year: 2014 },
+      { body: "Academy Awards (87th)", category: "Best Animated Feature", result: "Nominated", year: 2015 },
+      { body: "Annie Awards (42nd)", category: "Best Animated Feature", result: "Nominated", year: 2015 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["freedom", "captivity", "obligation", "grief", "belonging", "mortality"],
+      mood: ["elegiac", "luminous", "heartbreaking"],
+      fullReview: "The bamboo grove is where everything begins and where the film never quite leaves. Inside a glowing stalk, a tiny luminous creature is found by an old cutter and his wife, and what should be a fairy tale — the famous Japanese legend of the moon princess — turns out to be something considerably more complicated: an inquiry into what it costs a person to become what the world has decided they should be. Isao Takahata conducts this inquiry in animation of such distinctive and unmistakable beauty that viewers encountering this film for the first time should be warned: nothing else looks like it, and nothing else quite feels like it either.\n\nKaguya grows from infant to young woman in what feels like days. Her adoptive father, convinced she is destined for aristocratic greatness, relocates the family from their simple mountain life to the capital, where she is remade as a princess — clothed in layers, trained in stillness, displayed for powerful men who compete to solve the riddles she sets as conditions for marriage. The film follows her through all of this with patience and without mercy. Its title calls what happens to her a crime and a punishment. It means both.\n\nWhat Takahata understood, and what makes the film so quietly devastating, is that the story the culture celebrates — the princess who could have any suitor — is not the story the princess is living. Kaguya does not want admirers. She wants to run. She wants the smell of mountain forests and the roughness of a childhood she was barely allowed to have. Takahata places this desire in her body — in the way she moves when no one is watching, in the way her eyes track birds through windows — and Joe Hisaishi\'s score, which shifts between delicate plucked strings and something approaching grief, mirrors her interior in ways that dialogue cannot reach.\n\nThe visual language is unlike anything else in animation: gestural, loose-lined, watercolor in texture, resembling illustration from a book that does not exist but feels as if it always should have. Takahata spent more than eight years on this film at extraordinary cost, and the deliberateness of every image is palpable in the quiet between them. The running sequence — in which Kaguya flees a court ceremony in a state approaching dissolution — is one of the most formally daring pieces of animation ever committed to screen: figures stripped to raw charcoal lines against white, motion as psychological rupture, the frame barely able to hold what the character is going through.\n\nNone of this would land without Aki Asakura\'s voice performance, which keeps Kaguya recognizably and achingly human even as the narrative slowly reveals her to be something else entirely. The sorrow of the final act does not come from spectacle. It comes from the accumulation of small ordinary things — one by one, irreversibly — being taken from a person who wanted very little except to be allowed to want.\n\nThe Tale of the Princess Kaguya is a film about the taxation of femininity: the weight of beauty as obligation, of desire as transgression, of a life shaped entirely by what others decide a person is for. It is also, simultaneously, a meditation on impermanence so precise and so total that it registers as a physical event rather than a narrative one. The final act does not just move — it undoes. Viewers expecting a comfortable studio animation should be prepared for something that asks considerably more of them, and gives considerably more in return.\n\nTakahata died in 2018. This was his last film. It is, without qualification, a masterpiece."
+    }
+  },
 ]; // ← paste movie objects here, one by one
