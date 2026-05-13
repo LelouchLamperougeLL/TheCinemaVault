@@ -56779,4 +56779,2317 @@ const MOVIES = [
       fullReview: "Asuna is twelve years old and essentially alone. Her father is dead, her mother works nights, and she spends her afternoons on a hilltop listening to a crystal radio that picks up music from no identifiable station. When a creature attacks her and a mysterious boy named Shun saves her life, the encounter cracks open a passage to Agartha — a vast underground civilization that the surface world regards as myth. Shun disappears. Her middle-school teacher, Mr. Morisaki, a widower who has spent years studying Agartha in secret, wants to descend to resurrect his dead wife. Together, carrying different kinds of wanting, they go under.\n\n\'Children Who Chase Lost Voices\' is Makoto Shinkai\'s most nakedly ambitious film and also his most troubled. It arrived in 2011, four years after \'5 Centimeters Per Second\' confirmed him as a singular voice in Japanese animation, and it reads as a deliberate attempt to expand his canvas — from the intimate, aching character studies he had mastered into something mythologically vast. The expansion is partially successful and, at the level of pure imagery, consistently extraordinary. The problem is that the narrative never quite becomes equal to what it is reaching for.\n\nThe debt to Studio Ghibli is something the film invites openly and suffers for quietly. The mountain landscapes, the designs of Agartha\'s creatures, the structure of a young girl navigating a dangerous underground world alongside adults with their own private agendas — these elements arrive carrying the specific visual grammar of Hayao Miyazaki\'s major works. Shinkai is not copying carelessly; his backgrounds retain that quality of saturated, almost architecturally precise natural light that distinguishes his studio from everything else in Japanese animation. But the Ghibli parallels are close enough and sustained long enough that the film spends a significant portion of its runtime in conversation with its predecessors rather than with itself. A director as technically gifted as Shinkai did not need to borrow this particular set of references to demonstrate ambition.\n\nWhat genuinely works — what makes the film worth the patience it demands — is the subplot involving Morisaki. A man so consumed by grief that he would walk into mythology to undo it, he is not drawn as heroic in his desperation. The film understands that his need to resurrect his wife is also a refusal to accept reality, and that this refusal makes him unreliable and, at moments, dangerous. Kazuhiko Inoue\'s voice work is restrained and serious. Morisaki is the film\'s most honest emotional territory, and when the screenplay focuses on him, the story finds a weight it earns.\n\nAsuna, the nominal protagonist, is handled with less precision. Her interiority is suggested more than dramatized — the film shows what she observes rather than what she feels — and the final movement requires her to carry an emotional resolution the screenplay has not fully prepared her for. This is a structural problem, not a performance one. Hisako Kanemoto gives the character warmth, but warmth without interiority is not the same as presence.\n\nTenmon\'s score — the last he composed for Shinkai — does considerable emotional work that the script occasionally cannot. It moves through the film\'s shifts in register with a coherence the narrative sometimes lacks, and several sequences work almost entirely because of what the music is doing underneath the images.\n\nAt 116 minutes, the film runs longer than its story earns. The traverse through Agartha is visually extraordinary and dramatically inert in roughly equal measure. Shinkai\'s images are never less than worth watching; the problem is that \'worth watching\' and \'emotionally necessary\' are not the same thing, and the gap between them grows across the middle of the film.\n\nThis is not a failure. It is the work of a filmmaker attempting something genuinely larger than he had previously attempted and not quite arriving. The ambition is real. The craft is undeniable. What is missing is the narrative architecture capable of making the ambition feel inevitable rather than imposed. Shinkai would eventually find it. Here, the images got there first."
     }
   },
+  {
+    id: "minari-2020",
+    title: "Minari",
+    originalTitle: null,
+    romanization: null,
+    year: 2020,
+    tagline: "A timeless story of what roots us.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/5MbXQ3y01GZhyYxmpBs2XNCarHG.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/bKCpRjjTKcr3KAITmwjVMobbBYg.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=KQ0gFidlro8",
+    director: [
+      {
+        name: "Lee Isaac Chung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fwiIh7jECjefCco3ZCdug6i3t9U.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Lee Isaac Chung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fwiIh7jECjefCco3ZCdug6i3t9U.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Steven Yeun",
+        role: "Jacob",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+      },
+      {
+        actor: "Han Ye-ri",
+        role: "Monica",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ukEY6AV2EjeGDjMayDj5rpo8pHw.jpg"
+      },
+      {
+        actor: "Youn Yuh-jung",
+        role: "Soonja",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rSoSAX85gvPNSWmWXcCaJ2eBPrp.jpg"
+      },
+      {
+        actor: "Will Patton",
+        role: "Paul",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1V4DbU1mfEim4oaA5bvJywDAKwB.jpg"
+      },
+      {
+        actor: "Alan Kim",
+        role: "David",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mksORVS7tVouJZUWKlLrBSXgKQC.jpg"
+      },
+      {
+        actor: "Noel Kate Cho",
+        role: "Anne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sSBsdu6Kc2aAQd0oNs7xXFt1sEK.jpg"
+      },
+      {
+        actor: "Darryl Cox",
+        role: "Mr. Harlan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dokVBvE6DlV7gBXnLPfQo8GDC6t.jpg"
+      },
+      {
+        actor: "Esther Moon",
+        role: "Mrs. Oh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eJS60HFBRKc7Ito1yOurIK2YfP4.jpg"
+      },
+      {
+        actor: "Ben Hall",
+        role: "Dowsing Dan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kz9OvAxM8n6ouUeireS7W0IlHEO.jpg"
+      },
+      {
+        actor: "Eric Starkey",
+        role: "Randy Boomer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uVyvYCysuesnsLcjUtDFT5Xa6xZ.jpg"
+      },
+      {
+        actor: "Jacob Wade",
+        role: "Johnnie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eTt3oLsNoAHEpPWqOsiuLuz968S.jpg"
+      },
+      {
+        actor: "James Carroll",
+        role: "Brother Roy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vFhoJerQSlwuYhUHfDpyYs9wst3.jpg"
+      },
+      {
+        actor: "Jenny Phagan",
+        role: "Bonnie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pztGuvHcXrUHD8OlVlKNi458kkT.jpg"
+      },
+      {
+        actor: "Tina Parker",
+        role: "Debbie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qa4BFhrCGQKwqdTgLJ8S2rr95hD.jpg"
+      },
+      {
+        actor: "Chloe Lee",
+        role: "June",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ficlpnnXRRi35VueaZYNikKaeL0.jpg"
+      },
+      {
+        actor: "Joel Telford",
+        role: "Older Kid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1udTDWHLGIoSt18Ofpg9YikavOU.jpg"
+      },
+      {
+        actor: "Scott Haze",
+        role: "Billy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ym4CHXTC4WJjkcWeHU5uKIjj9wt.jpg"
+      },
+      {
+        actor: "Kaye Brownlee-France",
+        role: "Lab Tech",
+        photoUrl: "https://image.tmdb.org/t/p/w185/TIhalBAOE57NIXQhkg9vy7pfPO.jpg"
+      },
+      {
+        actor: "Skip Schwink",
+        role: "Doctor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vDiicDZwb82JE8rzy9gCJeXHyuG.jpg"
+      },
+      {
+        actor: "Debbi Tucker",
+        role: "Hospital Visitor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o81iOTkjSCFJC9wqrq282IItpmB.jpg"
+      },
+      {
+        actor: "Ed Spinelli",
+        role: "Church Member",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3tolZ7XBSsymd0HpLnp8Mmp1L7O.jpg"
+      }
+    ],
+    languages: ["Korean", "English"],
+    genres: ["Drama", "Family"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "marital conflict and sustained emotional distance between spouses",
+        "childhood cardiac illness depicted without graphic medical detail",
+        "family financial desperation and prolonged economic anxiety",
+        "brief fire-related peril involving property destruction",
+        "scenes of evangelical Christian faith healing and religious ritual"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:55" }
+    ],
+    awards: [
+      { body: "Sundance Film Festival (2020)", category: "Grand Jury Prize, U.S. Dramatic Competition", result: "Won", year: 2020 },
+      { body: "Sundance Film Festival (2020)", category: "Audience Award, U.S. Dramatic Competition", result: "Won", year: 2020 },
+      { body: "Academy Awards (93rd)", category: "Best Supporting Actress", result: "Won", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Supporting Actress", result: "Won", year: 2021 },
+      { body: "Golden Globe Awards (78th)", category: "Best Motion Picture — Foreign Language", result: "Won", year: 2021 },
+      { body: "Screen Actors Guild Awards (27th)", category: "Outstanding Performance by a Female Actor in a Supporting Role", result: "Won", year: 2021 },
+      { body: "Independent Spirit Awards (36th)", category: "Best Feature", result: "Won", year: 2021 },
+      { body: "Independent Spirit Awards (36th)", category: "Best Director", result: "Won", year: 2021 },
+      { body: "Independent Spirit Awards (36th)", category: "Best Supporting Female", result: "Won", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Picture", result: "Nominated", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Director", result: "Nominated", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Actor", result: "Nominated", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Original Screenplay", result: "Nominated", year: 2021 },
+      { body: "Academy Awards (93rd)", category: "Best Original Score", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Original Screenplay", result: "Nominated", year: 2021 },
+      { body: "Screen Actors Guild Awards (27th)", category: "Outstanding Performance by a Cast in a Motion Picture", result: "Nominated", year: 2021 },
+      { body: "Independent Spirit Awards (36th)", category: "Best Male Lead", result: "Nominated", year: 2021 },
+      { body: "Independent Spirit Awards (36th)", category: "Best Cinematography", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["assimilation", "belonging", "sacrifice", "rootedness", "estrangement", "legacy", "resilience"],
+      mood: ["tender", "elegiac", "intimate"],
+      fullReview: "Minari is the story of the Yi family — Jacob, Monica, and their young children David and Anne — who leave the relative stability of a California hatchery job for a plot of undeveloped land in rural Arkansas, where Jacob intends to grow Korean vegetables for a diaspora market he believes is waiting. The year is roughly 1985. The land is flat and indifferent. When Monica\'s mother Soonja flies over from Korea to help with the children, the family\'s already strained equilibrium shifts in ways none of them anticipated.\n\nWhat Lee Isaac Chung has made here is not an immigrant success story and not a tragedy. It is something rarer and more honest than either. The film draws directly from his own childhood, and that autobiographical intimacy shows in every quietly observed detail: the particular loneliness of a child who senses his family\'s difference without having language for it yet, the way a husband and wife can share a house and still be separated by something vast and unnamed, the strange grace of a grandmother who refuses to perform anyone\'s idea of what a grandmother should be.\n\nSteven Yeun\'s Jacob is built entirely from internal contradiction. He is capable, visionary, and profoundly, stubbornly wrong in the way men who need to prove something often are. Yeun plays him without softening — there is genuine selfishness in Jacob, genuine blindness — but also a longing so exposed it becomes almost unbearable to watch. Han Ye-ri carries Monica with equal honesty, and it is worth noting that her performance is the film\'s emotional spine even as the camera sometimes privileges Jacob\'s perspective. The marriage between them is the kind of relationship cinema rarely depicts with accuracy: two people who love each other but may not be compatible, grinding against one another in the specific, worn-down ways that long partnership produces.\n\nYoun Yuh-jung\'s Soonja is the film\'s wildcard and its heart. She arrives cursing and gambling and watching wrestling on television, and young David decides immediately that she is the wrong kind of grandmother. What unfolds between them — slowly, across scenes that never announce their own significance — is one of the most affecting intergenerational relationships in recent cinema. Youn won an Oscar for this role, the first Korean actress to do so, and earned every fraction of the recognition.\n\nAlan Kim as David deserves separate attention. Child performances of this caliber — naturalistic, unforced, genuinely present — are vanishingly rare. His wariness, his gradual surrender, the specific quality of his attention when he looks at his grandmother: it is the work of a child actor who had either extraordinary instincts or extraordinary direction, and possibly both.\n\nEmile Mosseri\'s score is the film\'s quiet weapon. It is spare and slightly mournful and texturally strange — closer to weather than music — and it keeps the film from ever fully settling into comfort. Lachlan Milne\'s cinematography finds the Arkansas landscape neither beautiful nor desolate but something held between the two: wide-open land that could become a dream or a failure, which is exactly the emotional frequency the story requires.\n\nThe film\'s central metaphor arrives without announcement and earns its weight without fanfare. Minari, the water herb Soonja plants by a creek, grows wherever its roots can find purchase. It proliferates. It does not need tending. It is the film\'s thesis rendered in botany: that belonging might not require belonging somewhere specific, that a family carrying its culture across an ocean is itself the act of preservation. Whether the film ultimately believes this is a question it wisely leaves open.\n\nWhere Minari earns unconditional respect is in its refusal of catharsis. Real difficulty tends not to resolve cleanly, and Chung knows this. The film arrives at something — a bruised, provisional understanding — but does not pretend that understanding repairs anything. For an audience accustomed to narratives that reward endurance with triumph, that restraint will feel like either honesty or withholding, depending on what a person brings into the room. For those willing to meet the film on its own terms, what waits there is genuinely rare: a film that loves its people without idealizing them, set on land that does not care about anyone\'s dreams, made by a filmmaker who clearly does."
+    }
+  },
+  {
+    id: "i-daniel-blake-2016",
+    title: "I, Daniel Blake",
+    originalTitle: null,
+    romanization: null,
+    year: 2016,
+    tagline: "My name is Daniel Blake. I am a man, not a dog.",
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/mNLonkdD4MtaZnHTifp8be8nJrm.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ahWgxw9E_h4",
+    director: [
+      {
+        name: "Ken Loach",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vGtkrPgNeK3xkbbKTQ4vWD1VsEm.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Paul Laverty",
+        photoUrl: "https://image.tmdb.org/t/p/w185/94iBo0p6XMgtkK6OOLMzKuaHT4G.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Dave Johns",
+        role: "Dan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cd13oIyBJ7Rx0LbEOnXhFXrbOdD.jpg"
+      },
+      {
+        actor: "Hayley Squires",
+        role: "Katie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nBchYkC2f1boBqJlYny5OVsxgFQ.jpg"
+      },
+      {
+        actor: "Briana Shann",
+        role: "Daisy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/v4ZfbCEkicRSaQNsDOn94kYq5KL.jpg"
+      },
+      {
+        actor: "Dylan McKiernan",
+        role: "Dylan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/trHlQCpD0XhFP9aQ3jAwigoLlx2.jpg"
+      },
+      {
+        actor: "Kate Rutter",
+        role: "Ann",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lGmYFMfWEgqCxqyJ1mTwdDRXbaH.jpg"
+      },
+      {
+        actor: "Sharon Percy",
+        role: "Sheila",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ihYQj9jzL72Q3FrdgGUPO5nFrWu.jpg"
+      },
+      {
+        actor: "Kema Sikazwe",
+        role: "China",
+        photoUrl: "https://image.tmdb.org/t/p/w185/egZH9zzUMt9ebIgGVtHkM4682Kr.jpg"
+      },
+      {
+        actor: "Chris McGlade",
+        role: "At the Sawmill",
+        photoUrl: "https://image.tmdb.org/t/p/w185/l4qJYoXUQxRn39you0q05aFN42V.jpg"
+      },
+      {
+        actor: "Shaun Prendergast",
+        role: "At the Sawmill",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3IMUCBXLXb7KRvRBWqH9MVVxupo.jpg"
+      },
+      {
+        actor: "Sammy T. Dobson",
+        role: "Specialist Nurse",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9hfyn6DUtjmr8FiHv9MSfkYmcKZ.jpg"
+      },
+      {
+        actor: "Stephen Clegg",
+        role: "Floor Manager",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jtzl6vNqYVesTaRIXfoVC4cAlND.jpg"
+      },
+      {
+        actor: "Andy Kidd",
+        role: "Job Centre Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wULEiAf9kC7XPJd3v3cm8WKYPOD.jpg"
+      },
+      {
+        actor: "Dan Li",
+        role: "Stan Li",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9CXdpT0p471grala8qARt0eDErd.jpg"
+      },
+      {
+        actor: "Dave Turner",
+        role: "Harry Edwards",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jtnd9pJsO995Wb7eIe3p2vqbzDy.jpg"
+      },
+      {
+        actor: "Micky McGregor",
+        role: "Supermarket Guard Ivan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3llXjmVmpm1etzppL6SwJrff6xq.jpg"
+      },
+      {
+        actor: "Julie Nicholson",
+        role: "Business Woman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wBz4zH8naTncDKOlNJ59D4NrRNS.jpg"
+      },
+      {
+        actor: "Viktoria Kay",
+        role: "Woman in House",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ol8TcZtcB4bTY8X0qYs4HYnX9fj.jpg"
+      },
+      {
+        actor: "Malcolm Shields",
+        role: "Scotsman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fwl2CkAfb25ObMXSr7dQ4rnjtEJ.jpg"
+      },
+      {
+        actor: "Bryn Jones",
+        role: "Police",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4lE4VvxXbLcOIWkuUBgMxZDitcn.jpg"
+      },
+      {
+        actor: "Natalie Ann Jamieson",
+        role: "Employment Support Allowance Assessor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AjdLhVgSf9kq35j1kYTj3Prx1qk.jpg"
+      },
+      {
+        actor: "Rob Kirtley",
+        role: "Man in Food Bank",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m88P1AKcCukzyrS38endCa8h3W1.jpg"
+      },
+      {
+        actor: "Harriet Ghost",
+        role: "Appeal Receptionist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5SPgUS3S8oLiBftNXESjkFmH559.jpg"
+      },
+      {
+        actor: "Mike Milligan",
+        role: "Man at C.V. Meeting",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fUWVoFUO1asRBRUxcKtYWg6587u.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Political"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "strong language throughout, including frequent profanity",
+        "prolonged depiction of extreme poverty and material destitution",
+        "a woman shown eating food in desperate hunger at a food bank",
+        "a single mother driven toward sex work under economic duress",
+        "sustained portrayal of bureaucratic humiliation and institutional contempt",
+        "scenes of emotional breakdown and acute despair"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:40" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (69th)", category: "Palme d\'Or", result: "Won", year: 2016 },
+      { body: "BAFTA Film Awards (70th)", category: "Outstanding British Film", result: "Won", year: 2017 },
+      { body: "British Independent Film Awards (19th)", category: "Best Independent Film", result: "Won", year: 2016 },
+      { body: "British Independent Film Awards (19th)", category: "Best Actor (Dave Johns)", result: "Won", year: 2016 },
+      { body: "European Film Awards (29th)", category: "Best Actor (Dave Johns)", result: "Won", year: 2016 },
+      { body: "European Film Awards (29th)", category: "Best Actress (Hayley Squires)", result: "Won", year: 2016 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Actor in a Leading Role", result: "Nominated", year: 2017 },
+      { body: "BAFTA Film Awards (70th)", category: "Best Supporting Actress", result: "Nominated", year: 2017 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["dignity", "bureaucracy", "humiliation", "solidarity", "poverty", "resistance", "compassion"],
+      mood: ["harrowing", "righteous", "bleak"],
+      fullReview: "Daniel Blake is fifty-nine years old, a Newcastle joiner who has spent his working life making things with his hands. After a serious heart attack, his doctors tell him he cannot work. The state\'s assessment machinery disagrees and cuts off his benefits. What follows is not a thriller, not a tragedy in the classical sense — it is a prolonged act of institutional slow violence, observed with the unflinching attention Ken Loach has been bringing to working-class British life for six decades.\n\nThe film\'s second strand follows Katie, a young single mother relocated from London to a Newcastle flat she has never seen, with two children and almost no resources. She and Daniel meet in the waiting room of a job centre — two people ground down by the same system from different angles — and what develops between them is one of the more quietly moving friendships in recent British cinema. Neither character is defined by victimhood. What they possess, both of them, is a dogged refusal to be made small.\n\nDave Johns, a stand-up comedian making his dramatic feature debut, carries the film on a performance of extraordinary dignity. Daniel is not a saint constructed for audience sympathy; he is a specific man — proud, funny, occasionally stubborn, deeply decent — and Johns never lets the character become a symbol. The film needs him to stay a person, because everything it wants to say depends on it. When the system treats Daniel as a case number, the audience has already spent an hour understanding exactly what is being erased.\n\nHayley Squires does something harder and gets less credit for it. Katie\'s trajectory runs darker than Daniel\'s, and Squires plays the descent without sentimentality or self-pity. There is a scene at a food bank — it lasts perhaps forty seconds, involves no dialogue, and requires nothing from the audience except attention — that is among the most quietly devastating moments in British cinema this century. The film earns it. Nothing about the scene feels manufactured.\n\nThe charge against Loach — and Paul Laverty, his longtime screenwriter — is well-worn but not wrong: the deck is stacked. The welfare system\'s representatives are almost uniformly hostile, robotic, or contemptuous. The film has no interest in exploring how human beings become complicit in bureaucratic cruelty, or what pressures make ordinary people perform institutional unkindness. Daniel and Katie are without meaningful flaw. The moral architecture is load-bearing and unapologetic.\n\nWhether that constitutes a failure depends entirely on what one expects cinema to be asked to do. As agitprop executed with craft and feeling, the film is close to exemplary. As a representation of lived experience for hundreds of thousands of people navigating austerity-era Britain, the absence of nuance may simply be accuracy of a different kind. Loach was not making a balanced document. He was making a case, and he knew it.\n\nRobbie Ryan\'s cinematography is characteristically restrained — handheld without agitation, intimate without claustrophobia — and the Newcastle locations are rendered with neither romanticism nor contempt. George Fenton\'s score stays almost entirely out of the way, which is exactly right. The film\'s emotional weight requires no underscoring; adding music to most of these scenes would be like putting a sign on a wound.\n\nThe Palme d\'Or it won at Cannes surprised no one who had been paying attention. What stays with a person afterward is not the politics, which are explicit enough to need no interpretation, but the title character\'s insistence on being named — on signing his own signature, on asserting that he existed as a man before the state decided he was a problem to be managed. For audiences who recognize the specific species of humiliation the film depicts, it will feel like testimony. For those who find its politics strident, it remains a well-made film about a man who deserved better than what he got."
+    }
+  },
+  {
+    id: "my-life-as-a-zucchini-2016",
+    title: "My Life as a Zucchini",
+    originalTitle: "Ma vie de courgette",
+    romanization: null,
+    year: 2016,
+    tagline: "Sometimes we cry because we\'re happy.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/taflOgMVx75mL8GuMqQLUviQtnN.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/2uu8fIzl76C9MFiUQhjKYSLKVq.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/lTOr8fcxlsLrGfe2lqZLCjhvrIH.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=8Dtqw1dTMHc",
+    director: [
+      {
+        name: "Claude Barras",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fxliinDN2CsJoY0WaTE0yLMimAy.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Céline Sciamma",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4B5Bt47HYTObsde1einBDha03ka.jpg"
+      },
+      {
+        name: "Germano Zullo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/igMuTS9O61rT3fQ5ZslZuq15KhW.jpg"
+      },
+      {
+        name: "Claude Barras",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fxliinDN2CsJoY0WaTE0yLMimAy.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Gaspard Schlatter",
+        role: "Courgette (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bSnQeyc5EGoDiXlcTLKFiD0eZbh.jpg"
+      },
+      {
+        actor: "Sixtine Murat",
+        role: "Camille (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9gElEKcPwO3d9hpnogIQLh4wq1c.jpg"
+      },
+      {
+        actor: "Paulin Jaccoud",
+        role: "Simon (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wfVtzWoYEulOdOl90Xq03xHeEoH.jpg"
+      },
+      {
+        actor: "Michel Vuillermoz",
+        role: "Raymond (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/taceJtAsZSPKqv3q2TL9AsiP8dI.jpg"
+      },
+      {
+        actor: "Brigitte Rosset",
+        role: "Aunt Ida (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4nWOEI2CJD9KJEGRqkSnRP97mFJ.jpg"
+      },
+      {
+        actor: "Natacha Koutchoumov",
+        role: "Courgette\'s Mother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iXA1zF4fjdHu8lNFdiCmf2TjurZ.jpg"
+      },
+      {
+        actor: "Monica Budde",
+        role: "Mrs. Papineau (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5fXpuwpuk8SoeWGCJ5yKzQCQEDX.jpg"
+      },
+      {
+        actor: "Adrien Barazzone",
+        role: "Mr. Paul (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p0GTycszXoFG87rjNX1k2TIALn6.jpg"
+      },
+      {
+        actor: "Véronique Montel",
+        role: "Rosy (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b0kxqlOEqlbmMban06UeBxfmsqy.jpg"
+      },
+      {
+        actor: "Evelyne Bouvier",
+        role: "Little Girl\'s Mother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zioxl5g3bhniReUBf1RMKziZjF6.jpg"
+      },
+      {
+        actor: "Anne-Laure Brasey",
+        role: "Fairground Worker (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u420Ndt88tXD0Dm6BQaxukGMLvc.jpg"
+      },
+      {
+        actor: "Jean-Claude Issenmann",
+        role: "Judge (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qdx8eCBu3RvckAsNHgS5STSW705.jpg"
+      },
+      {
+        actor: "Iannis Jaccoud",
+        role: "Simon (additional voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/HU6iMdDgol2O1qZ40H0sn5ntDI.jpg"
+      }
+    ],
+    languages: ["French"],
+    genres: ["Animation", "Drama"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "accidental death of a parent shown in immediate aftermath",
+        "parental alcoholism and drug addiction referenced by children",
+        "child abandonment by multiple parents across several storylines",
+        "implied sexual abuse of a child by a family member",
+        "sustained childhood grief and emotional trauma",
+        "children matter-of-factly describing family violence and neglect"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:06" }
+    ],
+    awards: [
+      { body: "Annecy International Animation Film Festival (2016)", category: "Audience Award", result: "Won", year: 2016 },
+      { body: "César Awards (42nd)", category: "Best Animated Film", result: "Won", year: 2017 },
+      { body: "César Awards (42nd)", category: "Best Adapted Screenplay", result: "Won", year: 2017 },
+      { body: "Academy Awards (89th)", category: "Best Animated Feature Film", result: "Nominated", year: 2017 },
+      { body: "Golden Globe Awards (74th)", category: "Best Animated Feature Film", result: "Nominated", year: 2017 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["orphanhood", "grief", "belonging", "abandonment", "innocence", "resilience", "tenderness"],
+      mood: ["tender", "melancholic", "warm"],
+      fullReview: "Icare — nicknamed Courgette by his mother, a name that makes no particular sense and therefore makes complete sense — is nine years old when an accident leaves him without a parent. A police officer named Raymond drives him to Les Fontaines, a foster home somewhere in the Swiss Alps, and deposits him among a small group of other children. Each of them arrived the same way: discarded, left behind, or taken away from something that was never safe to begin with. Then a girl named Camille arrives, and Courgette begins to understand that the heart can want things.\n\nClaude Barras adapted this French-Swiss stop-motion feature from Gilles Paris\'s novel, with Céline Sciamma writing the screenplay. The collaboration produces something that neither party could likely have made alone. Barras\'s visual world — round-headed puppet figures with enormous eyes, a palette that holds cheerful primary colors and quiet grey-blue sadness in the same frame — has the heightened emotional logic of how children actually perceive things. Sciamma\'s writing is precise and merciless in the best sense: she does not protect the audience from what these children know.\n\nWhat the film does with remarkable skill is deliver each child\'s background almost incidentally. Simon\'s mother sold drugs. Ahmed\'s parents were deported. Béatrice\'s uncle did something to her that none of the children name directly but all of them understand. These details arrive in brief exchanges — the easy shorthand of dormitory conversation — and they land with the weight of things stated without shame because the children have processed them as simply the shape of their lives. The film trusts its audience enough not to pause and let the gravity register. It knows the audience will do that work on their own.\n\nAt sixty-six minutes, the film is brief enough that nothing survives which should not be there. Every scene does something. There is no padding, no detour, no moment that exists purely to signal emotional significance. Sophie Hunger\'s score — sparse, harmonically unresolved, slightly strange — functions like a child\'s interior life: full of feelings that have not yet found their categories.\n\nThe tenderness between Courgette and Camille is handled with such care that it becomes one of the finer depictions of childhood affection in recent animation. The film understands that children experience love with a seriousness adults often fail to remember, and it refuses to condescend to that seriousness. What these two children feel for each other is not cute. It is urgent and frightened and genuinely at stake.\n\nThe film is sometimes filed under children\'s cinema, which is technically defensible and practically incomplete. Children will watch it and feel its warmth and its humor and go to sleep mostly fine. Adults will watch it and find themselves unexpectedly devastated by something small — a gesture, a sentence, a pause — that they cannot immediately explain. The gap between those two responses is the film\'s subject: the distance between what children experience and what adults are willing to admit children experience.\n\nBarras and Sciamma resist the clean resolution that lesser films would demand. What Les Fontaines offers its children is not a cure but a reprieve, and the film\'s ending is honest about the difference. Some things might be okay. That is not a guarantee, and the film does not pretend otherwise. For anyone who has spent time uncertain whether they belong to anyone at all, this small, precise, immaculately made film will feel like it was made specifically for them."
+    }
+  },
+  {
+    id: "summer-1993-2017",
+    title: "Summer 1993",
+    originalTitle: "Estiu 1993",
+    romanization: null,
+    year: 2017,
+    tagline: "A new family. A new world.",
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/krdSl7IpDb9c31CXrzA5yfP1oYM.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/dH86aTG4xBe7lzyky4NGktehOKa.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=YAnezFuhUBs",
+    director: [
+      {
+        name: "Carla Simón",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ohNupdUgeQ0XeqOxssNLHxD11Nm.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Carla Simón",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ohNupdUgeQ0XeqOxssNLHxD11Nm.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Laia Artigas",
+        role: "Frida",
+        photoUrl: "https://image.tmdb.org/t/p/w185/32plYpIWKJdinDMbCwtsiuDz1Nm.jpg"
+      },
+      {
+        actor: "Bruna Cusí",
+        role: "Marga",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gxPL7q1Ooi2LljSrZsnm6YnsEIT.jpg"
+      },
+      {
+        actor: "David Verdaguer",
+        role: "Esteve",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6TreWuZXVK9qYoHC0qLSbnHA1e0.jpg"
+      },
+      {
+        actor: "Fermí Reixach",
+        role: "Avi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1V1K53TgdcH6WXNjPeZK77imE25.jpg"
+      },
+      {
+        actor: "Montse Sanz",
+        role: "Lola",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o3UEWwPIpUAYryvZZhOqaKVMcj.jpg"
+      },
+      {
+        actor: "Isabel Rocatti",
+        role: "Àvia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1PXOk8fNL4cRlHrRHiSsXO4Pyii.jpg"
+      },
+      {
+        actor: "Berta Pipó",
+        role: "Tieta Àngela",
+        photoUrl: "https://image.tmdb.org/t/p/w185/96kRBTZ7hl5d7g39EoDqYOfgrIN.jpg"
+      },
+      {
+        actor: "Paula Blanco",
+        role: "Cesca",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wYgeQpXuIDYFm0dVM5NGef8WPHq.jpg"
+      },
+      {
+        actor: "Quimet Pla",
+        role: "Gabriel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8wdHAd2CiDaNIILcU6CNw1wGNQP.jpg"
+      }
+    ],
+    languages: ["Catalan"],
+    genres: ["Drama"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "grief following maternal death in a young child, portrayed without protective softening",
+        "parental death from AIDS-related illness, strongly implied but never named",
+        "a child\'s behavioral outbursts and manipulation rooted in unprocessed loss",
+        "brief scene of a child potentially ingesting medication unsupervised",
+        "sustained family tension around a grieving child\'s adjustment difficulties"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:38" }
+    ],
+    awards: [
+      { body: "Berlin International Film Festival (67th)", category: "Silver Bear for Best First Feature Film", result: "Won", year: 2017 },
+      { body: "Gaudí Awards (10th)", category: "Best Film", result: "Won", year: 2018 },
+      { body: "Gaudí Awards (10th)", category: "Best Director", result: "Won", year: 2018 },
+      { body: "Gaudí Awards (10th)", category: "Best Actress (Bruna Cusí)", result: "Won", year: 2018 },
+      { body: "Gaudí Awards (10th)", category: "Best Original Screenplay", result: "Won", year: 2018 },
+      { body: "Goya Awards (32nd)", category: "Best New Director", result: "Won", year: 2018 },
+      { body: "Goya Awards (32nd)", category: "Best Film", result: "Nominated", year: 2018 },
+      { body: "Goya Awards (32nd)", category: "Best Original Screenplay", result: "Nominated", year: 2018 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "belonging", "loss", "memory", "childhood", "adaptation", "family", "innocence"],
+      mood: ["elegiac", "tender", "patient"],
+      fullReview: "It is the summer of 1993 in rural Catalonia, and six-year-old Frida has just been brought to live with her uncle Esteve, his wife Marga, and their small daughter Anna. Her mother has died. The cause is never spoken aloud — the year, the age of the mother, the particular silence that descends whenever the subject approaches all point toward AIDS, an epidemic that was quietly dismantling families across Spain and much of the world in that era. Frida does not have language for any of this. She has only herself, a new house, a new child to compete with, and a summer stretching out in all directions.\n\nCarla Simón drew this film from her own childhood, and that autobiographical source expresses itself not in sentiment but in precision. The film knows exactly what a Catalan summer afternoon feels like — the heat, the particular quality of light through trees, the buzzing of insects, the long unstructured hours that belong to children. It moves at the pace of lived experience rather than dramatic convention, which means some scenes arrive and dissolve before they announce their significance. That is a deliberate choice and the right one. This is how memory actually works.\n\nLaia Artigas as Frida gives one of the finest child performances in recent European cinema, which is a strange thing to say because she does not appear to be performing at all. She is simply present — watchful, stubborn, sometimes calculating, sometimes helplessly bereft — in the specific way of a child navigating something too large for her to hold. The camera stays with her face at crucial moments and trusts the audience to read what is there. There is no score swelling to underline emotion. The film believes in Artigas completely, and that belief is earned.\n\nBruna Cusí as Marga is doing something harder and attracting less attention for it. She plays a woman who genuinely loves this child and is also genuinely, understandably worn down by her — a woman who must locate the resources to be unconditional when her patience has run out and her reserves are empty. It is the film\'s most complex role because it requires Cusí to hold warmth and exhaustion in the same breath without letting either cancel the other. She does not miss a note.\n\nFrida acts out in ways that are psychologically recognizable without ever feeling scripted. She lies. She tests limits. She risks harm. She finds ways to make the adults around her prove that their love has an edge she cannot reach. These are the behaviors of a child who needs to locate the boundary of safety before she can stop testing it, and the film presents them without judgment or explanation — not because it lacks intelligence about what is happening, but because Frida herself lacks the vocabulary, and the film stays inside her experience.\n\nThe AIDS backdrop arrives through negative space: the things not said, the relatives who visit and offer the particular condolences of people who also lost someone, the way the adults handle certain subjects with a practiced gentleness. Simón understands that a child\'s experience of a historical catastrophe is not the catastrophe itself but the shape it leaves — the absence, the grief, the silence around a subject that the grown-ups have decided she is too young to carry. The film does not correct that decision. It simply records what the child is left with.\n\nAt ninety-eight minutes, there is not a scene that should not be there, and there are several that would not survive a conventional editor\'s pass — moments of pure duration, of children playing or a family eating or a summer afternoon simply being itself. These are the film\'s richest passages. They are where Simón trusts the audience most completely, and where the trust is most fully repaid."
+    }
+  },
+  {
+    id: "the-girl-without-hands-2016",
+    title: "The Girl Without Hands",
+    originalTitle: "La jeune fille sans mains",
+    romanization: null,
+    year: 2016,
+    tagline: "A family, the Devil, a prince, a goddess : a girl without hands faces her destiny.",
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/f4EVSG3CPshLfnUe3hdQBVyliX0.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/tvknAnXj7x7Cm7WKpqB8QRzFLYh.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ANbYvxpqx8A",
+    director: [
+      {
+        name: "Sébastien Laudenbach",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ewtx4aEmIvRkcIOVe5XssVP6nvl.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Sébastien Laudenbach",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ewtx4aEmIvRkcIOVe5XssVP6nvl.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Anaïs Demoustier",
+        role: "La Fille (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kObYOu3UYkNcQGg1gnl4xitwhNc.jpg"
+      },
+      {
+        actor: "Jérémie Elkaïm",
+        role: "Le Prince (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3jiO7c8wSXRzxvxP7LSs3xVMUXD.jpg"
+      },
+      {
+        actor: "Philippe Laudenbach",
+        role: "Le Diable (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mvnByhHjk5XtoQ9QVCroiI6mV5B.jpg"
+      },
+      {
+        actor: "Olivier Broche",
+        role: "Le Père",
+        photoUrl: "https://image.tmdb.org/t/p/w185/92g3EdByuinF44Rc1fspIo7cUQc.jpg"
+      },
+      {
+        actor: "Françoise Lebrun",
+        role: "La Mère (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j3ZOQACPmBgVCawF1A4g3lWH2fk.jpg"
+      },
+      {
+        actor: "Sacha Bourdo",
+        role: "Le Jardinier (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pfTfjG7yq2GhmDrJ8K51bdHCzES.jpg"
+      },
+      {
+        actor: "Elina Löwensohn",
+        role: "La Déesse (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pRFLUsONKzg0hnl2CLnNBE4AJZ1.jpg"
+      }
+    ],
+    languages: ["French"],
+    genres: ["Animation", "Fantasy", "Drama", "Dark"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "severing of hands depicted without graphic gore but with sustained psychological weight",
+        "paternal betrayal and a parent selling a child to a supernatural entity",
+        "coercive bodily harm imposed on a woman by male figures including a father and the Devil",
+        "prolonged solitude and psychological distress following trauma",
+        "supernatural menace with an oppressive, persistent presence"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:16" }
+    ],
+    awards: [
+      { body: "César Awards (42nd)", category: "Best Animated Film", result: "Won", year: 2017 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["mutilation", "purity", "patriarchy", "resilience", "inheritance", "transformation", "isolation"],
+      mood: ["elegiac", "dreamlike", "haunting"],
+      fullReview: "La jeune fille sans mains opens in a place that feels like the edge of memory — a world assembled from watercolor washes and half-finished pencil strokes, where figures emerge from blank space and return to it without ceremony. Director Sébastien Laudenbach adapted the Brothers Grimm fairy tale almost entirely alone, serving as writer, animator, cinematographer, and editor across a production that reportedly took years of solitary labor. What arrived at Cannes in 2016 was something rare: a film that looks like nothing else that exists in animation, carrying a story that feels both ancient and achingly immediate.\n\nThe premise is one of the darker corners of the Grimm canon. A poor miller, tricked by the Devil, unwittingly promises his daughter in exchange for wealth. When Satan comes to collect and finds her too pure to claim, he demands her hands be severed instead. What follows is the girl\'s journey — through loss, through a strange and tender encounter with a prince, through the wilderness — in search of a self that cannot be owned, bartered, or amputated.\n\nWhat Laudenbach has done with his animation is a statement about the nature of fairy tales themselves. The lines don\'t close. Hands dissolve at the wrists. Faces are suggested rather than drawn. Entire sequences are built from color alone — greens bleeding into gold, flesh tones dissolving into white — as if the film itself is uncertain whether anything it shows is entirely real. This isn\'t stylistic carelessness. It\'s a visual philosophy: fairy tales are not meant to be fixed. They shift with the telling. They are always, in some sense, incomplete.\n\nThe film runs 76 minutes and does not waste a single one of them. Laudenbach understands that restraint and incompleteness are not the same thing, and his pacing carries the rhythms of oral tradition — unhurried but never slack, moving through its episodes with the logic of a story that has been told many times and knows exactly where it is going, even when the audience does not.\n\nAnaïs Demoustier voices the girl with a stillness that matches the animation\'s refusal to sentimentalize suffering. There is no trembling performance, no emotional release engineered for maximum impact. The girl endures. She persists. The restraint in the voice work creates space for something the film trusts its audience to supply — the weight of what has been taken from her, and the significance of what she slowly rebuilds. Olivier Mellano\'s score occupies an interesting middle space between folk music and contemporary composition: sparse, sometimes absent entirely, appearing only when the images need a current running beneath them rather than a signal of what to feel.\n\nWhere the film may lose some viewers is precisely in its commitment to this aesthetic and emotional register. There are sequences where the minimalism tips toward inscrutability — where the deliberate incompleteness of the images works against the narrative clarity the story, at certain moments, seems to require. The Devil is an interesting conception that occasionally feels underserved by the very visual language Laudenbach employs to such remarkable effect elsewhere. When the film is at its most abstract, the distance between image and feeling can become genuinely difficult to cross.\n\nBut these are not significant failures — they are the natural cost of operating at the outer limits of a chosen form. Laudenbach is not making a film in which every choice serves immediate comprehension. He is making a film that insists on being experienced the way a dream is experienced: in fragments, in flashes, with gaps that the mind fills in afterward, sometimes hours later, sometimes never.\n\nThe question La jeune fille sans mains most urgently asks — though it never states it directly — is about the relationship between a woman\'s body, her purity, and the men who treat both as property or as proof of something. The Devil wants her. The miller sacrifices her. The prince receives her. The film is too honest to offer easy answers about any of this, and too formally inventive to reduce it to argument. What the girl ultimately claims is not a triumphant refutation of the systems that damaged her — it is something quieter, more fragile, and considerably more real.\n\nThis is a film that deserves a patient audience and a dark room. It is not entertainment in any conventional sense. It is closer to a ritual — something that works on a viewer the way certain music works, not through what it says but through what it does to the air around it. Anyone arriving expecting the pacing, polish, or emotional directness of studio animation will be baffled and possibly bored. Anyone willing to meet it on its own terms will find something they are unlikely to forget."
+    }
+  },
+  {
+    id: "riders-of-justice-2020",
+    title: "Riders of Justice",
+    originalTitle: "Retfærdighedens ryttere",
+    romanization: null,
+    year: 2020,
+    tagline: "Someone is going to pay.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/vOPr8VQ6PzNnHjvOiyOmfEjLeXq.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/oZYUrxvgFZ0CmBrsL37Oiw4oRlN.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ZQSQ-D5Q4gM",
+    director: [
+      {
+        name: "Anders Thomas Jensen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uxSfY1Svi9WJvqX7IJWapFvTrgA.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Anders Thomas Jensen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uxSfY1Svi9WJvqX7IJWapFvTrgA.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Mads Mikkelsen",
+        role: "Markus",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+      },
+      {
+        actor: "Nikolaj Lie Kaas",
+        role: "Otto",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aU7YfSyQxxOwiNyXuaW0YRgpYyg.jpg"
+      },
+      {
+        actor: "Lars Brygmann",
+        role: "Lennart",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fjeqaDHEeInfWjDqrH1nPIqhBul.jpg"
+      },
+      {
+        actor: "Nicolas Bro",
+        role: "Emmenthaler",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sWmsxndhY7vsHBQWdO3UITrQ0Mr.jpg"
+      },
+      {
+        actor: "Andrea Heick Gadeberg",
+        role: "Mathilde",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zNh4HlmVZtVtmm55tyRlZEeEsuN.jpg"
+      },
+      {
+        actor: "Gustav Lindh",
+        role: "Bodashka",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qbCsiIl0C0E1vYvLXqK2T98bvyO.jpg"
+      },
+      {
+        actor: "Roland Møller",
+        role: "Kurt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+      },
+      {
+        actor: "Albert Rudbeck Lindhardt",
+        role: "Sirius",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iEvh3kr3ZTfxjUdWvXCLPUUsx.jpg"
+      },
+      {
+        actor: "Morten Suurballe",
+        role: "Gert",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aDSREhL99vTjZArWNGala3SLMwW.jpg"
+      },
+      {
+        actor: "Jesper Ole Feit Andersen",
+        role: "Leif",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mbMbaE0cvRIqiG1tjWu3NDHNNex.jpg"
+      },
+      {
+        actor: "Jacob Lohmann",
+        role: "Kenneth Pigvaren",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g4uWdGKfR5TkuyCNLvdiFqmzg1C.jpg"
+      },
+      {
+        actor: "Rikke Louise Andersson",
+        role: "Crisis Psychologist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mpo3zpI0oAiEA6qx9HJrZDntEno.jpg"
+      },
+      {
+        actor: "Gustav Dyekjær Giese",
+        role: "Adrian",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vYZteb9JuoxlXFMlhSTro3dNNne.jpg"
+      },
+      {
+        actor: "Klaus Messerschmidt Juhler",
+        role: "Rocker #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tYzMtvLJtpZYPiGtXTbivo6Lxge.jpg"
+      },
+      {
+        actor: "Henrik Noël Olesen",
+        role: "Noah",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aUKnHU7qmswhcOfbZo3ACJTNs0K.jpg"
+      },
+      {
+        actor: "Anne Birgitte Lind",
+        role: "Emma",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5NCAfEhdb9pc3NQyZFIi9JtyzvU.jpg"
+      },
+      {
+        actor: "Omar Shargawi",
+        role: "Palle Olsen / Aharon Nahas Shadid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j5Xnyp7BMJC5kJTtsoAmkkN4xhp.jpg"
+      },
+      {
+        actor: "Peder Holm Johansen",
+        role: "Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dFpQcft1nlj92pZEdQMyUIPU6xY.jpg"
+      },
+      {
+        actor: "Christina Ibsen Meyer",
+        role: "Psychologist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2pOQemLPpP6FEM5h03a4dHeg9FJ.jpg"
+      },
+      {
+        actor: "Jesper Groth",
+        role: "Middle Manager",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7EsnF0bVOeKmQh8mtNSef6mYsYI.jpg"
+      },
+      {
+        actor: "Stine Schrøder Jensen",
+        role: "Chef",
+        photoUrl: "https://image.tmdb.org/t/p/w185/atuHssTukQGzJfrd6V8i1M87RGi.jpg"
+      },
+      {
+        actor: "Natali Vallespir Sand",
+        role: "Priest",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bljVGExyDljWO0JDZipVxarZQTP.jpg"
+      },
+      {
+        actor: "Rigmor Ranthe",
+        role: "Noah\'s Daughter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p1UPSoKEZ4XyNShcfKkZOYOX6FN.jpg"
+      },
+      {
+        actor: "Anders Nyborg",
+        role: "Journalist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iLNstFn1auql0hNbwozROPfvDiQ.jpg"
+      },
+      {
+        actor: "Natasja Crone",
+        role: "Reporter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r6o88R6nIoyjNkU0i3UYK18NC8w.jpg"
+      },
+      {
+        actor: "Johanne Dal-Lewkovitch",
+        role: "Prosecutor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hlgejRv9P2IfbILQOse7yI6YFun.jpg"
+      },
+      {
+        actor: "Kaspar Velberg",
+        role: "Bicycle Dealer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mYlQdQWoNdk7QdrqNqATNA7ZOWH.jpg"
+      },
+      {
+        actor: "Raivo Trass",
+        role: "Orthodox Priest",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eHMwfzJXoOZgYJeBHyuN5aQ5Ais.jpg"
+      },
+      {
+        actor: "Alice E. Bier Zandén",
+        role: "Goth Girl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/haNIgcKPZZGik4bvZtawv5FJZPb.jpg"
+      },
+      {
+        actor: "Kenny Duerlund",
+        role: "Rocker",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mGuElvQ9jZVHYabjyGUGR7bf446.jpg"
+      },
+      {
+        actor: "Anne Fletting",
+        role: "Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dMvlQNH8aFxEsI4NahMldXYRuDB.jpg"
+      },
+      {
+        actor: "Jakob Candy Kolborg",
+        role: "Rocker",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xhexyUKLHPYvC8k0fuFRTO5MT4h.jpg"
+      },
+      {
+        actor: "Nikolas Kouroumtzis",
+        role: "Doctor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dXpGRJZNO0K5QomgtdekG6bx2vA.jpg"
+      },
+      {
+        actor: "Patrick Kweku Quansah Kværnø",
+        role: "Man on Train",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3uqYvBZbShWSarJtFHZkzmWWxaP.jpg"
+      }
+    ],
+    languages: ["Danish", "Arabic", "Estonian"],
+    genres: ["Comedy", "Drama", "Thriller", "Action"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "shootings and close-combat violence with moderate blood and injury detail",
+        "strong language throughout",
+        "acute grief following sudden spousal death, depicted without emotional cushioning",
+        "dark humor constructed around violent acts and human suffering",
+        "references to social anxiety, emotional dissociation, and childhood trauma",
+        "brief references to prescription medication use for psychological distress"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:56" }
+    ],
+    awards: [
+      { body: "Robert Awards (2021)", category: "Best Danish Film", result: "Won", year: 2021 },
+      { body: "Robert Awards (2021)", category: "Best Director", result: "Won", year: 2021 },
+      { body: "Robert Awards (2021)", category: "Best Actor in a Leading Role", result: "Won", year: 2021 },
+      { body: "Robert Awards (2021)", category: "Best Original Screenplay", result: "Won", year: 2021 },
+      { body: "Bodil Awards (2021)", category: "Best Danish Film", result: "Won", year: 2021 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "coincidence", "revenge", "masculinity", "rationalism", "brotherhood", "trauma", "meaning"],
+      mood: ["wry", "tender", "bittersweet"],
+      fullReview: "Riders of Justice is a film about grief that disguises itself as a revenge thriller and keeps breaking its own disguise — often hilariously, never cheaply. Mads Mikkelsen plays Markus, a soldier called home from deployment when his wife is killed in a train accident. His teenage daughter wants him to feel something. He cannot, or will not. Then Otto, a statistician who survived the same crash and lost his seat to Markus\'s wife, arrives at the door with a theory: the accident wasn\'t an accident. It was a deliberate murder, engineered by a criminal gang. He has the data to prove it. Probably.\n\nWhat follows is — on one register — an action film about a hard man and a group of socially maladroit nerds assembling an improbable vengeance operation in a suburban garage. On the register that actually matters, it\'s a film about what happens when rational people try to impose meaning on chaos, and why that impulse, however misguided, might be the most human thing there is.\n\nAnders Thomas Jensen has been working this exact territory for two decades — dark comedies that are actually tragedies that are actually comedies — and Riders of Justice may be the fullest expression of his particular sensibility. He writes characters who are broken in ways they cannot articulate, who express their damage through behavior so specific it becomes poignant. The three data analysts who orbit Markus are ostensibly comic relief, but Jensen is genuinely attentive to their wounds. By the final act, their dysfunction is not a punchline but a form of testimony. Each of them is there for a reason they haven\'t admitted to themselves, and the film is quietly merciless in making that legible.\n\nMikkelsen, playing a man whose emotional armor is essentially load-bearing, does something unusual: he builds the performance around absence rather than suppression. This is not a man hiding pain — it\'s a man who has constructed himself so completely around not having pain that he genuinely cannot locate it. The character is still, physical, and self-contained in ways that might read as limitation in lesser hands. Here they are calibrated exactly to a script that will not let this way of being in the world go unchallenged.\n\nThe film earns its comedic register in a way many dark comedies fail to do. Jensen does not use humor to deflect from emotional reality — he uses it to approach that reality from unexpected angles, finding the approach vector the audience would not anticipate. Certain exchanges between Mikkelsen and Nikolaj Lie Kaas would read as pure slapstick if staged differently, and become genuinely moving as they\'re actually staged. This is exceptional writing in a very specific mode: the joke that is also the truth.\n\nThe action sequences are purposeful without being spectacular. Jensen is not making an action film — he\'s borrowing the genre\'s vocabulary to say something else — and the violence lands with a weight that distinguishes it from category product. When people are hurt here, it registers as cost rather than choreography.\n\nIf the film has a flaw, it arrives in the final stretch, which is slightly too generous in how it distributes its emotional resolutions. The film has spent most of its length insisting that coincidence is not meaning, that pattern recognition can be a symptom rather than a skill. The ending then allows itself a small act of meaning-making that it hasn\'t quite earned from the interior logic of what precedes it. The edges soften where they had been sharp. This does not undo what came before — but a viewer who has been paying attention may feel the screenplay being kind to its audience at exactly the moment it might have pushed further.\n\nRiders of Justice is exactly what the best popular cinema can be: formally confident, genuinely funny, and built around a real idea that it pursues without letting go. It does not hold the audience at arm\'s length and does not explain itself. It trusts that people can sit inside discomfort and find something worth holding onto on the other side of it. That trust is not misplaced."
+    }
+  },
+  {
+    id: "quo-vadis-aida-2020",
+    title: "Quo Vadis, Aida?",
+    originalTitle: null,
+    romanization: null,
+    year: 2020,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/ixK3OPvkQjoCMlV8comFHGscshH.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/eQy2Tgvmx0FkK8vMMqMW4aX5UXQ.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/awElIr61fFpbudzlCfobIpbwEro.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ErLD8P4VUjY",
+    director: [
+      {
+        name: "Jasmila Žbanić",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kDNpD0wHILT2Vm8TqWPlxJRrbX5.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Jasmila Žbanić",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kDNpD0wHILT2Vm8TqWPlxJRrbX5.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Jasna Đuričić",
+        role: "Aïda Selmanagić",
+        photoUrl: "https://image.tmdb.org/t/p/w185/17BnuXpiSQVhyvJ8nIgkvn0cVyI.jpg"
+      },
+      {
+        actor: "Izudin Bajrović",
+        role: "Nihad",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sjiVDVJPPJGuRowydws7aSbOOrz.jpg"
+      },
+      {
+        actor: "Boris Ler",
+        role: "Hamdija",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kobiv7TCeQeLEUaZDI9KAeS5hnI.jpg"
+      },
+      {
+        actor: "Dino Bajrović",
+        role: "Sejo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sjPK466X0HG2aQrlNcOjKZ59LBg.jpg"
+      },
+      {
+        actor: "Johan Heldenbergh",
+        role: "Colonel Karremans",
+        photoUrl: "https://image.tmdb.org/t/p/w185/57IOlWiDfDzBvzMAD3VnwuO60R.jpg"
+      },
+      {
+        actor: "Raymond Thiry",
+        role: "Sergeant-major Franken",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eta0sCxA0bTJMIVxkIYFVdwe47S.jpg"
+      },
+      {
+        actor: "Boris Isaković",
+        role: "General Ratko Mladić",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y3xRs7FS8hwUdVCvuKCJZcABVIz.jpg"
+      },
+      {
+        actor: "Emir Hadžihafizbegović",
+        role: "Joka",
+        photoUrl: "https://image.tmdb.org/t/p/w185/golaUgIDsFCKozCOP5KDonacgEa.jpg"
+      },
+      {
+        actor: "Reinout Bussemaker",
+        role: "Colonel Doctor Robben",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g0XgcYDjbNEdHdKArOREBOxtcsr.jpg"
+      },
+      {
+        actor: "Teun Luijkx",
+        role: "Captain Mintjes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wOQZpDsOVgNOJbQ2FgqY3gRoQ6J.jpg"
+      },
+      {
+        actor: "Juda Goslinga",
+        role: "Sergeant Rutte",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iBv53tGePT2q777wotMRNEDMoif.jpg"
+      },
+      {
+        actor: "Alban Ukaj",
+        role: "Tarik",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nXQNs3uBJU8plENGnaeWfYHhH5q.jpg"
+      },
+      {
+        actor: "Joes Brauers",
+        role: "Boudewijn",
+        photoUrl: "https://image.tmdb.org/t/p/w185/VDxAYYrPZHT2gMQN7AJ42UYl9H.jpg"
+      },
+      {
+        actor: "Rijad Gvozden",
+        role: "Muharem",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qDHmvY2EdLXg439LKaUVMLe1pcO.jpg"
+      },
+      {
+        actor: "Ermin Sijamija",
+        role: "Lalović",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k5ECQXCZIfiWGXWTWgxAJWFtJgN.jpg"
+      },
+      {
+        actor: "Job Raaijmakers",
+        role: "Sergeant Major Rave",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pIIkfUgreBY0BViijyJ6v20XFBk.jpg"
+      },
+      {
+        actor: "Ermin Bravo",
+        role: "Mayor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/anGC1ifRhgGzAEe92McH6PzUOyD.jpg"
+      },
+      {
+        actor: "Sanne den Hartogh",
+        role: "UN Soldier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sm1IpG7WAhFqi28dAV7cKp7IUNU.jpg"
+      },
+      {
+        actor: "Micha Hulshof",
+        role: "Major De Haan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iFcVH3gaq8ve4LrX8AvXc6Co03e.jpg"
+      },
+      {
+        actor: "Sol Vinken",
+        role: "Soldier Lammerts",
+        photoUrl: "https://image.tmdb.org/t/p/w185/19AwxBATZb1owXOqWvLWD2mruDH.jpg"
+      },
+      {
+        actor: "Emina 'Minka' Muftić",
+        role: "Munira",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xKT3C2Ky2bVpktgwuSLFhphUl6b.jpg"
+      },
+      {
+        actor: "Jovan Živanović",
+        role: "Beli",
+        photoUrl: "https://image.tmdb.org/t/p/w185/48Xey6uT75ju9sl8FWSX5lTGz7r.jpg"
+      }
+    ],
+    languages: ["Bosnian", "Dutch", "Serbian", "English"],
+    genres: ["Drama", "War", "History", "Political"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "historical depiction of ethnic cleansing and the 1995 Srebrenica massacre",
+        "systematic separation of men and boys from families, with the knowledge of their intended fate made explicit",
+        "prolonged depiction of a mother\'s terror and helplessness as institutional systems fail around her",
+        "implied mass execution of civilians, with aftermath depicted rather than shown directly",
+        "grief and psychological disintegration following mass bereavement",
+        "portrayal of real events that may cause severe distress to survivors and their families"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:44" }
+    ],
+    awards: [
+      { body: "European Film Awards (33rd)", category: "Best European Film", result: "Nominated", year: 2020 },
+      { body: "Academy Awards (93rd)", category: "Best International Feature Film", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (74th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["genocide", "complicity", "helplessness", "motherhood", "erasure", "accountability", "bureaucracy", "survival"],
+      mood: ["harrowing", "suffocating", "mournful"],
+      fullReview: "Quo Vadis, Aida? begins with a crowd — thousands of Bosniak civilians pressing toward the gates of a Dutch UN compound in Srebrenica, July 1995, as Serbian forces close in on the town. Aida Selmanagić works as a UN translator, a role that gives her access to conference rooms, to the measured language of official procedure, to the machinery of an institution that does not operate at the speed of human emergency. When her husband and two sons arrive at the gates, she uses that access to get them inside the compound. What she cannot do — what the film spends 104 minutes watching her attempt — is keep them safe within it.\n\nJasmila Žbanić\'s film is the most significant cinematic reckoning with the Srebrenica massacre, and it achieves this through a specific formal strategy: it places the audience inside the institutional process rather than outside observing the atrocity. The horror here is not what happens in darkness. It is what happens in conference rooms, at tables, between men in uniforms who speak in the careful language of mandate and procedure while thousands of people wait in July heat outside. Žbanić understands that the most important question about Srebrenica is not the fact of what happened but how it was made possible — how a system designed to protect people was present at their destruction and did not stop it.\n\nThe film refuses to simplify the Dutch battalion\'s conduct. Colonel Karremans is rendered as a man in an impossible institutional position who makes choices with catastrophic consequences — not a cartoon of villainy but something more disturbing: a person operating within a structure that produces evil through inaction, through protocol, through the language of limitations and rules of engagement. This is one of the most precise cinematic analyses of institutional complicity ever made, and it achieves that precision without once feeling like an argument. It feels, at every moment, like an experience.\n\nJasna Đuričić\'s performance as Aida is a sustained act of controlled desperation. The camera stays close to her throughout — her face doing calculations the film trusts the audience to read without narrating. She is not a hero in any available mode. She cannot save everyone. She cannot even guarantee the people she most needs to protect. The film is merciless about the limits of individual agency inside systemic failure, and Đuričić carries that mercilessness without collapsing into it. It may be the finest performance in European cinema of the past decade.\n\nChristine A. Maier\'s cinematography keeps the camera at human level, in the crowd, pressing through corridors, finding Aida\'s face among hundreds of others. The staging of the negotiation sequences — a table surrounded by men in uniform while multitudes wait outside in the heat — achieves a suffocating quality that no amount of conventional dramatic construction could reach. When the Serbian general walks into the compound, the shift in atmosphere is accomplished through staging and the sudden, terrible weight of silence. Antoni Komasa-Łazarkiewicz\'s score is used sparsely and to devastating effect, arriving only where silence itself becomes unbearable.\n\nThe film\'s final movement is an act of moral courage. Žbanić does not allow the story to end at the massacre itself. She insists on a coda that forces the audience to sit with a specific and difficult aftermath that most films about historical atrocity avoid — because it is too complicated, too resistant to emotional resolution, and too important to omit. It works. It arrives without catharsis, which is exactly as it should.\n\nWhat remains after Quo Vadis, Aida? is not relief, not resolution, not the hollow feeling that a tragedy has been properly mourned and filed away. What remains is something more like an obligation — an understanding, arrived at through close and unsparing observation, of precisely how a particular evil happened and precisely who stood where while it unfolded. Žbanić makes that understanding unavoidable, and then leaves the viewer carrying it. That is the only honest thing a film about Srebrenica can do."
+    }
+  },
+  {
+    id: "compartment-no-6-2021",
+    title: "Compartment No. 6",
+    originalTitle: "Hytti nro 6",
+    romanization: null,
+    year: 2021,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/m0FK5NkFBQLEJxKs7NVyCZh72aU.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/3KUsYQmQXVCMrnGnQIoqkj5MJUP.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/h0uGdJyZ5o74p0E600oKYyaoDhw.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=gw4M4heQMlw",
+    director: [
+      {
+        name: "Juho Kuosmanen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6U38u9nsQPEISeyRP5qBKeHo1L6.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Juho Kuosmanen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6U38u9nsQPEISeyRP5qBKeHo1L6.jpg"
+      },
+      {
+        name: "Andris Feldmanis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aNHtrlWSs75DR5FAYgQtl3Xbzis.jpg"
+      },
+      {
+        name: "Livia Ulman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kW5ZnOlBCeTOUieTWlQf0Pu5c3R.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Seidi Haarla",
+        role: "Laura",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o2D0bPFPpiUSWRvpmBxwuRd5hGk.jpg"
+      },
+      {
+        actor: "Yura Borisov",
+        role: "Lyokha",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+      },
+      {
+        actor: "Dinara Drukarova",
+        role: "Irina",
+        photoUrl: "https://image.tmdb.org/t/p/w185/toQCnbPVetvd42kL8qPb4biUCOT.jpg"
+      },
+      {
+        actor: "Yuliya Aug",
+        role: "Train Conductor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1brGFcIanOuQ0IGx273MyKPDa1g.jpg"
+      },
+      {
+        actor: "Tomi Alatalo",
+        role: "Saska",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mpwu0RnlFPVCR847YqvwVmGzV7B.jpg"
+      },
+      {
+        actor: "Viktor Chuprov",
+        role: "Train Waiter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6R6jeFFkvnxhWO3UG0lsuwX2ndH.jpg"
+      },
+      {
+        actor: "Sergey Agafonov",
+        role: "Man in the Dining Car",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6oQ4usN27UR3hpgF2SwkfKxPbpS.jpg"
+      },
+      {
+        actor: "Nadezhda Kulakova",
+        role: "Woman in the Dining Car",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hSH0x0FGVbVNBEug3mB36SPb672.jpg"
+      },
+      {
+        actor: "Denis Pyanov",
+        role: "Man at the Phone Booth",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cAo5p6lkciCbrlv5b1jIVThZpS.jpg"
+      },
+      {
+        actor: "Polina Aug",
+        role: "Hotel Receptionist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uiew06oGMWY4SCR1a3xB3Xoxnit.jpg"
+      },
+      {
+        actor: "Natalia Drozd",
+        role: "Guest at the Party",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6PBRcIsxmciZo9S121YA5mct7Wi.jpg"
+      },
+      {
+        actor: "Konstantin Murzenko",
+        role: "Guest at the Party",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9HSsvFIhNxiqs9RpozW27S1GanY.jpg"
+      },
+      {
+        actor: "Konstantin Shavlovsky",
+        role: "Guest at the Party",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jKnIVplfap3Q2nVI1hryWpZvJHa.jpg"
+      },
+      {
+        actor: "Galina Petrova",
+        role: "Train Station Clerk",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ocZsHBuDhQDDuquGLRcaCY3xrWV.jpg"
+      },
+      {
+        actor: "Valery Nikolaev",
+        role: "Fisherman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lyd804nQaRCQFOkrVun23qYb5xb.jpg"
+      }
+    ],
+    languages: ["Russian", "Finnish", "English"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "sustained heavy alcohol consumption including vodka drinking sessions",
+        "mild emotional distress and expressions of loneliness",
+        "brief non-explicit suggestion of physical intimacy",
+        "crude language in translation",
+        "depiction of a deteriorating romantic relationship"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:46" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (74th)", category: "Grand Prix", result: "Won", year: 2021 },
+      { body: "European Film Awards (34th)", category: "Best European Film", result: "Nominated", year: 2021 },
+      { body: "European Film Awards (34th)", category: "Best European Director", result: "Nominated", year: 2021 },
+      { body: "European Film Awards (34th)", category: "Best European Actor", result: "Nominated", year: 2021 },
+      { body: "Jussi Awards (62nd)", category: "Best Finnish Film", result: "Won", year: 2022 },
+      { body: "Jussi Awards (62nd)", category: "Best Director", result: "Won", year: 2022 },
+      { body: "Jussi Awards (62nd)", category: "Best Actress", result: "Won", year: 2022 },
+      { body: "Jussi Awards (62nd)", category: "Best Screenplay", result: "Won", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best International Feature Film", result: "Nominated", year: 2022 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["alienation", "longing", "connection", "displacement", "solitude", "belonging", "surrender"],
+      mood: ["tender", "melancholic", "intimate"],
+      fullReview: "Laura is running away from something she cannot quite name. A young Finnish woman drifting through Moscow in the orbit of an older academic lover, she boards a northbound train to Murmansk — a destination she chose partly for its ancient petroglyphs and partly, one senses, because the end of the line is as far from herself as she can get. Into the cramped two-bunk compartment she shares with a stranger comes Lyokha, a Russian miner: loud, unwashed, freely insulting, and apparently incapable of reading a room. What follows across 40-odd hours of track is one of the most quietly astonishing portraits of unexpected human kinship in recent European cinema.\n\nJuho Kuosmanen, working from a screenplay he co-wrote with Andris Feldmanis and Livia Ulman, adapted Rosa Liksom\'s novel with the particular instinct of a director who knows that the most interesting drama lives in the gap between what people say and what they mean. The film does not hurry. It understands that confinement has its own rhythm — that boredom, irritation, and a shared bottle of vodka can erode the walls between strangers far more efficiently than any scripted revelation. The screenplay never cheats by manufacturing a crisis to force the relationship forward. It simply lets time and proximity do their work.\n\nSeidi Haarla carries the film\'s emotional architecture almost entirely on her face. Laura is not a passive character, but she is a deeply interior one — a woman processing a loss she has not yet admitted to herself, stranded in a country whose language she speaks imperfectly, whose social codes confuse her, and whose sheer geographic enormity seems designed to remind her how small she is. Haarla never oversells any of it. There is a scene involving a payphone that lands with the weight of an entire failed relationship without a single line of exposition, and it is a small marvel of restrained performance.\n\nYura Borisov as Lyokha is the film\'s most audacious gamble and its greatest reward. On paper, Lyokha is every cliché of the boorish Russian male — the drinking, the volume, the blunt opinions on women and foreigners. Borisov plays him as something far more complicated: a man who has learned to perform roughness as a kind of armor, whose aggression toward Laura calcifies into something that cannot quite be called tenderness but keeps pushing in that direction. The film\'s central achievement is that both characters remain fully themselves throughout. There is no transformation arc here, no moment where either person is remade by the encounter. The film believes in something subtler: that two people can matter to each other without either of them changing.\n\nCinematographer J-P Passi shoots the train\'s interior with a practical intimacy that never feels claustrophobic in the wrong way. The compartment becomes a known space, a world with its own geography. The exterior shots — birch forests blurring past the window, frozen tundra at dusk, the industrial bleakness of Russian provincial stations — carry the specific texture of a country filmed by someone who knows it rather than one who is merely visiting its surfaces for picturesque effect. The film was shot on actual working Russian trains, and that fact registers in every frame.\n\nThe film is not without its minor miscalculations. The Moscow-set prologue, establishing Laura\'s romantic situation, holds the film at a slight distance before it fully commits to the train. And a late-film detour on foot through Murmansk, while thematically coherent, briefly softens what has been a carefully sustained tension. These are quibbles against an hour and forty-six minutes that earn their Grand Prix at Cannes with something to spare.\n\nWhat stays with a person afterward is not any particular scene but a feeling — something about the particular kind of loneliness that descends in motion, the way long-distance travel strips away all performance and leaves people as they actually are. Compartment No. 6 is a film about two people who would never have chosen each other, learning that choice is sometimes beside the point. It is modest in its ambitions and enormous in its effect. Anyone willing to sit inside its rhythms will find the journey worthwhile."
+    }
+  },
+  {
+    id: "great-freedom-2021",
+    title: "Great Freedom",
+    originalTitle: "Große Freiheit",
+    romanization: null,
+    year: 2021,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/9mooTE5xGUMp4qsJuLyjoeHbEut.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/vbx3xp83wLo3ocdzhs3BvGHcrsF.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/mqtH4HuO3oy4AwOdwfnnVrLYKRl.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=PH0gB77en9k",
+    director: [
+      {
+        name: "Sebastian Meise",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yc24AZyPPoEoW70aY4hcBniaDcq.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Sebastian Meise",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yc24AZyPPoEoW70aY4hcBniaDcq.jpg"
+      },
+      {
+        name: "Thomas Reider",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Franz Rogowski",
+        role: "Hans Hoffmann",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mXehrpUeS4aXvDZPB0PyofqwSAi.jpg"
+      },
+      {
+        actor: "Georg Friedrich",
+        role: "Viktor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fAlqZkiBB50B6xL5UK3b65f9Ddh.jpg"
+      },
+      {
+        actor: "Anton von Lucke",
+        role: "Leo Giese",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5oUa4F7bYNvQi6Ybl8C8l8MvKtn.jpg"
+      },
+      {
+        actor: "Thomas Prenn",
+        role: "Oskar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3zwX6cIQwkWzjFCVpx9W3aWomXk.jpg"
+      },
+      {
+        actor: "Thomas Stecher",
+        role: "Guard 1968",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o4u05tqSmOqGztj6YfFKbgRTdw.jpg"
+      },
+      {
+        actor: "Alfred Hartung",
+        role: "Guard 1945",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hnaLy7JpNbmsrCC9b9zCtHFfTza.jpg"
+      },
+      {
+        actor: "Mex Schlüpfer",
+        role: "Buddy Viktor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hblbdQb6Q09PqOCu76g0NPzD864.jpg"
+      },
+      {
+        actor: "David Burnell IV",
+        role: "Ally",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jl5MsfUxXw1UwSlLKIQiKZyJl5Q.jpg"
+      },
+      {
+        actor: "Fabian Stumm",
+        role: "Police Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/st3XQleRWd4PdV6H8quMf9JJzSC.jpg"
+      },
+      {
+        actor: "Klaus Huhle",
+        role: "Judge",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fAMwR467nZVbLGT8Gfn0JMfepff.jpg"
+      },
+      {
+        actor: "Andreas Patton",
+        role: "Prosecutor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9dWpgdIBIqnbvKCchRtCvviYjzr.jpg"
+      },
+      {
+        actor: "Daniel Wagner",
+        role: "Criminal defense attorney",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vhSjxS4yRKiCTL7OAYQhe3nos0x.jpg"
+      }
+    ],
+    languages: ["German", "English"],
+    genres: ["Drama", "Period", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "repeated incarceration and institutional dehumanization across decades",
+        "non-graphic depictions of male sexual encounters in public spaces",
+        "male nudity",
+        "police raids targeting gay men depicted with clinical detail",
+        "prolonged psychological suffering and emotional isolation",
+        "brief non-graphic physical violence in a prison context",
+        "state-sanctioned persecution of a sexual minority as central subject matter"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:56" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (74th)", category: "Un Certain Regard — Jury Prize", result: "Won", year: 2021 },
+      { body: "Austrian Film Prize (22nd)", category: "Best Film", result: "Won", year: 2022 },
+      { body: "Austrian Film Prize (22nd)", category: "Best Direction", result: "Won", year: 2022 },
+      { body: "Austrian Film Prize (22nd)", category: "Best Actor (Franz Rogowski)", result: "Won", year: 2022 },
+      { body: "Austrian Film Prize (22nd)", category: "Best Screenplay", result: "Won", year: 2022 },
+      { body: "German Film Awards (72nd)", category: "Best Feature Film", result: "Nominated", year: 2022 },
+      { body: "German Film Awards (72nd)", category: "Best Director", result: "Nominated", year: 2022 },
+      { body: "German Film Awards (72nd)", category: "Best Leading Actor (Franz Rogowski)", result: "Nominated", year: 2022 },
+      { body: "European Film Awards (34th)", category: "Best European Film", result: "Nominated", year: 2021 },
+      { body: "European Film Awards (34th)", category: "Best European Actor (Franz Rogowski)", result: "Nominated", year: 2021 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2022 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["persecution", "desire", "imprisonment", "solidarity", "dignity", "criminalization", "longing", "resistance"],
+      mood: ["harrowing", "tender", "elegiac"],
+      fullReview: "Hans Hoffmann does not get to have a story that moves forward. In post-war West Germany, where the Allied liberation left Paragraph 175 — the law criminalizing homosexuality — firmly in place, Hans is arrested, tried, imprisoned, released, and arrested again. Sebastian Meise\'s film follows him across three decades of this cycle, structured non-linearly so that the audience is always slightly disoriented about which year they are in: 1945, 1957, 1968, each era distinguished by the changing texture of the walls and the quiet aging of Franz Rogowski\'s face. The prison cell, it becomes clear, is the film\'s true fixed point. Everything else is transit.\n\nMeise and co-writer Thomas Reider refuse to make Hans a symbol of anything beyond himself. He is not a martyr, not an activist, not a representative figure carrying the weight of a historical injustice on behalf of the audience. He is a man who wants what he wants and keeps on wanting it regardless of what the law, or a cell, or the accumulated weight of repeated punishment has to say about it. There is something almost unreasonably alive about him, and Rogowski communicates this without a single moment of actorly showmanship. The performance operates almost entirely below the surface — a stillness that registers as the result of enormous interior pressure, not its absence. It is the kind of work that makes other kinds of screen acting look slightly effortful by comparison.\n\nThe film\'s emotional spine is the relationship between Hans and Viktor, a convicted murderer who shares his cell across several of the film\'s time periods. Georg Friedrich plays Viktor as a man whose hostility is genuine and whose evolution is not a redemption arc so much as a slow territorial renegotiation. He does not become enlightened. He does not repent. What shifts is something more animal and more interesting: a dependency grown in the specific conditions of forced proximity, accumulated grievance, and shared time. The film understands that two people can matter enormously to each other without either of them being changed into someone better. That this relationship ends up being one of the more quietly devastating portraits of male intimacy in recent European cinema is a measure of how precisely both performances are calibrated.\n\nCinematographer Crystel Fournier shoots the prison interiors with a quality of light that feels leached rather than present — institutional grey broken occasionally by something warm and almost accidental. The palette does genuine narrative work, marking the texture of each era without resorting to period-film nostalgia. Editor Joana Scrinzi handles the non-linear structure with a precision that keeps the audience perpetually slightly off-balance, which is exactly the effect the film requires: for Hans, the calendar barely matters, because the cell is always the same cell.\n\nThe score by Peter Brötzmann and Nils Petter Molvær is sparse, frequently percussive, and absolutely unwilling to do the audience\'s emotional work for them. This restraint is characteristic of the entire enterprise. Great Freedom earns its Jury Prize at Cannes Un Certain Regard by consistently refusing the easier version of every scene it contains.\n\nThere are moments where that restraint tips fractionally into withholding — where a viewer not fully surrendered to the film\'s rhythms might feel held at a clinical distance that the material does not entirely warrant. The non-linearity, formally justified as it is, occasionally prevents the full accumulation of any single era\'s weight. These are minor observations against a film that otherwise knows precisely what it is doing and why.\n\nGreat Freedom is not a comfortable film, and it never pretends to be interested in your comfort. It is interested in what it costs to be built the way Hans is built, in the wrong country, under the wrong laws, across the wrong decades — and in the strange, unreasonable persistence of warmth in places designed specifically to extinguish it. That it holds both of those things simultaneously, without sentiment and without cruelty, is what makes it exceptional rather than merely very good."
+    }
+  },
+  {
+    id: "parallel-mothers-2021",
+    title: "Parallel Mothers",
+    originalTitle: "Madres paralelas",
+    romanization: null,
+    year: 2021,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/2P20HoJGUi66r8TWW9tPI7QNynm.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/xQLH9KQTig2sD7Tvu8tp1Zxh94z.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/w81qHqr1CdbdRco8jpmu6lXMqyk.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=cL6JDYkRa2g",
+    director: [
+      {
+        name: "Pedro Almodóvar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Pedro Almodóvar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dKlaXJk3NLcsC1CKMx6xmyW5BZD.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Penélope Cruz",
+        role: "Janis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+      },
+      {
+        actor: "Milena Smit",
+        role: "Ana",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a4ND4q8zjG9vNOPLMk59CmaFXDl.jpg"
+      },
+      {
+        actor: "Israel Elejalde",
+        role: "Arturo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5AWVKGqm93iCRBwxB48dlpWpTR9.jpg"
+      },
+      {
+        actor: "Aitana Sánchez-Gijón",
+        role: "Teresa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4gm7EJzvJQbN2RPW1ZOcEzF1jDn.jpg"
+      },
+      {
+        actor: "Rossy de Palma",
+        role: "Elena",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3IH9ZBUcFNwBr8IcS1RZhMKTpeg.jpg"
+      },
+      {
+        actor: "Julieta Serrano",
+        role: "Brígida",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3eVHZ5gieSxNYUJRXaYLDaljDQO.jpg"
+      },
+      {
+        actor: "Adelfa Calvo",
+        role: "Hospital Nurse",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uC6ZquT9cTTgZfJ1SLMTYZXrU1u.jpg"
+      },
+      {
+        actor: "José Javier Domínguez",
+        role: "Hospital Staff",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jsfN4Msf33MjGymxK4xfJgyPduE.jpg"
+      },
+      {
+        actor: "Trinidad Iglesias",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j6CfQchLeyuGXZ6Y50wpmJGzCSV.jpg"
+      },
+      {
+        actor: "Inma Ochoa",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/enaRWWsl8YCRxf4432PE3XWMVwx.jpg"
+      },
+      {
+        actor: "Ana Peleteiro",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jmsz8N4vV7vfHmi7UkPWjZZKG8Q.jpg"
+      },
+      {
+        actor: "Daniela Santiago",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xI5pLRTNnnKs37kXaG8TBLSzCoV.jpg"
+      },
+      {
+        actor: "Chema Adeva",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wqksKmPRpNGaTthFKcngk2Kilku.jpg"
+      },
+      {
+        actor: "Agustín Almodóvar",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ciY5icxyNekGwD3taLvzOprp2w5.jpg"
+      },
+      {
+        actor: "Carmen Flores Sandoval",
+        role: "Dolores",
+        photoUrl: "https://image.tmdb.org/t/p/w185/geVHwjv5ke2ySrkVoOFaSYZ5SSa.jpg"
+      },
+      {
+        actor: "Ainhoa Santamaría",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rpa4VYRYCxMCGqnSz4slx6O8DkY.jpg"
+      },
+      {
+        actor: "Julio Manrique",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a5noZmGsTXI7T5v7dgpgTvbmGQN.jpg"
+      },
+      {
+        actor: "María Jesús Hoyos",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9NRBnZHjLBd6PinMSWbp4rBiQYr.jpg"
+      },
+      {
+        actor: "Mar Vidal",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gMrelLaHZGh5v7WzL5kcBJCmzDh.jpg"
+      },
+      {
+        actor: "Pedro Casablanc",
+        role: "Supporting Role",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
+      }
+    ],
+    languages: ["Spanish"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "brief non-graphic sexual content between adults",
+        "emotionally complex depiction of unplanned pregnancy in a teenager",
+        "infant death depicted off-screen with significant emotional weight",
+        "historical trauma involving exhumation of mass grave victims",
+        "sustained depiction of maternal guilt and psychological distress",
+        "a woman pursuing an extramarital affair with full narrative sympathy"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:03" }
+    ],
+    awards: [
+      { body: "Venice International Film Festival (78th)", category: "Best Actress (Penélope Cruz)", result: "Won", year: 2021 },
+      { body: "Goya Awards (36th)", category: "Best Film", result: "Won", year: 2022 },
+      { body: "Goya Awards (36th)", category: "Best Director", result: "Won", year: 2022 },
+      { body: "Goya Awards (36th)", category: "Best Actress (Penélope Cruz)", result: "Won", year: 2022 },
+      { body: "Goya Awards (36th)", category: "Best Original Screenplay", result: "Won", year: 2022 },
+      { body: "European Film Awards (34th)", category: "Best European Actress (Penélope Cruz)", result: "Won", year: 2021 },
+      { body: "Goya Awards (36th)", category: "Best Supporting Actress (Milena Smit)", result: "Nominated", year: 2022 },
+      { body: "Goya Awards (36th)", category: "Best Cinematography", result: "Nominated", year: 2022 },
+      { body: "Goya Awards (36th)", category: "Best Original Music", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Actress (Penélope Cruz)", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Original Score", result: "Nominated", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2022 },
+      { body: "Golden Globe Awards (79th)", category: "Best Motion Picture – Foreign Language", result: "Nominated", year: 2022 },
+      { body: "European Film Awards (34th)", category: "Best European Film", result: "Nominated", year: 2021 },
+      { body: "European Film Awards (34th)", category: "Best European Director", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["motherhood", "complicity", "memory", "guilt", "desire", "history", "identity", "forgiveness"],
+      mood: ["sensuous", "melancholic", "urgent"],
+      fullReview: "Janis is a photographer in her late thirties who has chosen, without apology or sentimentality, to have the child of a married archaeologist she admires. Ana is seventeen, terrified, and in the maternity ward against her own better judgment. They share a room, then a secret, then a bond whose shape the film spends two hours carefully and sometimes recklessly arranging. Pedro Almodóvar\'s twenty-second feature wants to be several things at once: a melodrama about mothers and babies, a love story between two women of very different ages and circumstances, and a reckoning with Spain\'s silence around its Civil War mass graves. The ambition is genuine. The execution is uneven in ways that matter.\n\nWhen the film stays close to Janis — which it mostly does — it hums with a kind of concentrated aliveness that only Penélope Cruz can generate in this register. Cruz has made something like a dozen films with Almodóvar and the collaboration has produced some of Spanish cinema\'s most indelible performances, but this one belongs at the top of that list. Janis is not a soft character. She makes choices that the film refuses to adjudicate, pursues what she wants with a directness that other filmmakers might punish and Almodóvar simply observes. Cruz plays all of it without flinching, without softening the edges, and without asking for sympathy she has not earned on screen. The camera adores her, and the feeling appears mutual.\n\nMilena Smit, a relative newcomer, holds her own across scenes that require her to occupy a fundamentally more passive emotional register than her co-star — Ana is a woman things happen to, at least initially — and she does it without disappearing. The scenes the two women share are the film\'s warmest and most alive, carrying a specific erotic charge that Almodóvar handles with his customary lack of fuss.\n\nThe complication — and it is a genuine complication — is the film\'s other ambition. Running alongside the domestic melodrama is Janis\'s years-long campaign to have the body of her great-grandfather exhumed from a Civil War mass grave. Almodóvar has spoken extensively about this as personal and political subject matter, and the sincerity of his investment is not in doubt. But sincerity is not the same as integration. The historical thread and the melodrama strand share screen time without fully sharing air; they operate at different emotional temperatures and the film never quite finds the passage between them. When the archaeological excavation arrives in the final movement, it lands with the weight of an argument rather than a felt experience — the opposite of what the subject deserves.\n\nJosé Luis Alcaine\'s cinematography saturates the film in the particular jewel tones of late Almodóvar — deeply saturated reds, deliberate compositions that treat domestic interiors as emotional landscapes. Alberto Iglesias\'s score provides texture without intrusion. These are craftspeople who know this director\'s grammar intimately, and the film looks and sounds exactly as intended.\n\nThe issue is that Parallel Mothers occasionally mistakes eloquence for resonance. The Civil War subplot carries enormous historical and moral weight, but the screenplay handles it through exposition and statement rather than through the more oblique, experiential methods that have made Almodóvar\'s best work so difficult to shake loose from memory. A film that trusts its melodrama to carry truths the plot never articulates — and his greatest films do exactly this — would have let the excavation mean something without explaining what it means.\n\nWhat remains, still considerable, is Cruz doing the finest work of a career built on finest work, a love story that earns its complexity, and a director whose camera still finds the world of women genuinely fascinating rather than merely decorative. Parallel Mothers is not the sum of all it reaches for, but what it catches is worth sitting through twice."
+    }
+  },
+  {
+    id: "vortex-2021",
+    title: "Vortex",
+    originalTitle: null,
+    romanization: null,
+    year: 2021,
+    tagline: "Life is a short party that will soon be forgotten.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/1hN4wp22BbywktOaacs9tuGNHE8.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/fzjfcsT0kbIvy9W46jn34vX8CoX.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/61bIyX4wA7KyXWGHN9DNSBduR6i.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=-L-ZcCFePAs",
+    director: [
+      {
+        name: "Gaspar Noé",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wyUEwuZr3ATzltxxS4puwT5RS0b.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Gaspar Noé",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wyUEwuZr3ATzltxxS4puwT5RS0b.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Dario Argento",
+        role: "Lui",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2WjQlcLxhvmO9NtCfNh2npMVYqp.jpg"
+      },
+      {
+        actor: "Françoise Lebrun",
+        role: "Elle",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j3ZOQACPmBgVCawF1A4g3lWH2fk.jpg"
+      },
+      {
+        actor: "Alex Lutz",
+        role: "Stéphane",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rrZcNAIOrTOLFLZqmpi1enF57Lp.jpg"
+      },
+      {
+        actor: "Kamel Benchemekh",
+        role: "Grocer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bFRDCBNTsTZnSP9MmwX4tg9RBCu.jpg"
+      },
+      {
+        actor: "Corinne Bruand",
+        role: "Claire",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mLVsKtZ6pS4wFT9CFgOdhNKjreT.jpg"
+      },
+      {
+        actor: "Kylian Dheret",
+        role: "Kiki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xOZN95CDH02pUDIKriu7AL7OGdN.jpg"
+      },
+      {
+        actor: "Philippe Rouyer",
+        role: "Editorial Friend",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2QpT95umLkRmbGiGs8C1PboXU9r.jpg"
+      },
+      {
+        actor: "Jean-Pierre Bouyxou",
+        role: "Editorial Friend",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ur6lJWnLPSdLxG31sXLIuVuSW7l.jpg"
+      },
+      {
+        actor: "Laurent Aknin",
+        role: "Editorial Friend",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gwYtqrsvbxZmu30g60L0rW0F2rY.jpg"
+      },
+      {
+        actor: "Stephane Derderian",
+        role: "Editorial Friend",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oyKCDV2NElbRqwpSpL4JCd2zbXh.jpg"
+      },
+      {
+        actor: "Jean-Baptiste Thoret",
+        role: "Editorial Friend",
+        photoUrl: "https://image.tmdb.org/t/p/w185/d9ivVoNwamqxgG0iKFj4ucdoJ0C.jpg"
+      },
+      {
+        actor: "Françoise Hardy",
+        role: "Self (archive footage)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6LeGQfnmpOdTp3PIgR2BiTp1EFg.jpg"
+      }
+    ],
+    languages: ["French"],
+    genres: ["Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "sustained and clinically detailed depiction of advancing dementia",
+        "an elderly person discovered dead, shown with unflinching directness",
+        "heroin injection by a secondary character shown on screen",
+        "prolonged portrayal of cognitive and physical deterioration in an aging couple",
+        "depictions of extreme domestic helplessness and caregiver exhaustion",
+        "discussions of overdose, addiction, and child neglect within a family context"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:22" }
+    ],
+    awards: [
+      { body: "César Awards (47th)", category: "Best Actress (Françoise Lebrun)", result: "Won", year: 2022 },
+      { body: "Cannes Film Festival (74th)", category: "Special Screening", result: "Nominated", year: 2021 },
+      { body: "César Awards (47th)", category: "Best Film", result: "Nominated", year: 2022 },
+      { body: "César Awards (47th)", category: "Best Director", result: "Nominated", year: 2022 },
+      { body: "César Awards (47th)", category: "Best Supporting Actor (Alex Lutz)", result: "Nominated", year: 2022 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["mortality", "deterioration", "caregiving", "dependence", "memory", "grief", "endurance", "time"],
+      mood: ["harrowing", "tender", "elegiac"],
+      fullReview: "A retired psychiatrist and her husband — a film critic with a weakened heart who is still trying to finish a book about cinema and dreams — share a cluttered Paris apartment filled with the accumulated objects of a long life together. She is losing her mind in increments. He is losing her. Their adult son, struggling with addiction and single parenthood, circles the edges of their world without being able to enter it. This is the entire territory of Vortex, and Gaspar Noé — a director whose previous films have used provocation and sensory assault as primary tools — here finds something that none of those films prepared audiences to expect from him: genuine, devastating tenderness.\n\nThe film\'s central formal decision is to split the screen into two panels for virtually its entire two-hour-and-twenty-minute duration, each following one of the two protagonists through the same apartment at the same moment. The technique could have been showy or distancing. Instead it becomes the most precise visual metaphor Noé has ever devised — two people sharing a life, occupying the same space, and yet increasingly unable to share the same moment. She drifts through rooms looking for things she cannot name. He watches, writes, sleeps, fails to watch closely enough. The split screen makes visible what language cannot say: that the space between two people who love each other can become, very quietly, absolute.\n\nCasting Dario Argento — the Italian horror maestro, not an actor by profession — as Lui is the kind of gamble that either reads as a stunt or reveals itself as an act of intuition. It reveals itself as the latter. Argento brings no technique to the role, which is exactly what the role requires. He simply exists in it: old, tired, frightened, still in love, still scribbling notes in margins. The absence of performance is the performance. Françoise Lebrun, working opposite him as Elle, does something technically far more demanding — she must render the specific texture of a mind coming apart without pathos or melodrama, charting a deterioration that is neither linear nor legible — and she does it with a completeness that is almost unbearable to watch. Her César win was not an industry courtesy.\n\nNoé and cinematographer Benoît Debie, working as they have on previous films, shoot the apartment with a handheld intimacy that never aestheticizes the material. The clutter of books and medicine bottles and personal effects accumulates meaning without ever being arranged for it. This is a home that looks lived in because it is, and the film trusts that density of ordinary objects to carry the weight of two lives without underlining anything.\n\nWhat makes Vortex genuinely difficult to shake is how little it permits the audience to manage their emotions from a safe distance. There are no villain-ized systems, no cathartic confrontations, no scored moments of release. Caregiving, the film understands, is mostly bureaucratic in its tedium and annihilating in its intimacy — a sustained proximity to someone\'s suffering that offers no resolution, only continuation until continuation stops. The film does not soften this. It also does not look away from the specific grace notes: a hand held, a meal managed, a joke that still lands between two people who have been laughing at the same things for decades.\n\nThis is Noé stripped down to what he actually believes about existence, and what he believes turns out to be far more compassionate and far less nihilistic than thirty years of provocateur reputation would suggest. Vortex will not suit everyone. At nearly two and a half hours, with no conventional dramatic arc and no emotional exits, it asks for a quality of sustained attention that some viewers will reasonably refuse to give it. Those who surrender to its rhythms will find themselves watching one of the most honest accounts of dying — and of the people who stay alongside it — that cinema has yet produced."
+    }
+  },
+  {
+    id: "the-beasts-2022",
+    title: "The Beasts",
+    originalTitle: "As bestas",
+    romanization: null,
+    year: 2022,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/2dfWHjUvukvwQ6rdV96HT2XN9NO.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/ytWMRYLlusyzMFFjyuFRY1liteR.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/o1pjbrQB1SmmSo9FZLUWXZDJ1bP.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=GmgdYXYQYac",
+    director: [
+      {
+        name: "Rodrigo Sorogoyen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9oxHoT0vzumur7tMynr1FsSjMEs.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Rodrigo Sorogoyen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9oxHoT0vzumur7tMynr1FsSjMEs.jpg"
+      },
+      {
+        name: "Isabel Peña",
+        photoUrl: "https://image.tmdb.org/t/p/w185/om1oN6wqFXBHHzqcI7BnzK3XQS.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Marina Foïs",
+        role: "Olga",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dLPo5cyKoH4Y8TNRkl2GIrd4Oae.jpg"
+      },
+      {
+        actor: "Denis Ménochet",
+        role: "Antoine",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qpCPmm12kbzMKniYF6iKmKLZCjY.jpg"
+      },
+      {
+        actor: "Luis Zahera",
+        role: "Xan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4WEGXd6pOWHkAUcffJrg42BFPI3.jpg"
+      },
+      {
+        actor: "Diego Anido",
+        role: "Lorenzo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a7DVrZFjt8JjdPWfOTT93uRXOg8.jpg"
+      },
+      {
+        actor: "Marie Colomb",
+        role: "Marie Denis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yALH4PtvI9IrgAabjq9OLehW6Bw.jpg"
+      },
+      {
+        actor: "Machi Salgado",
+        role: "Rafael",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hQVh7pzPf7ZlqFYCxy7VbfBTzMn.jpg"
+      },
+      {
+        actor: "David Menéndez",
+        role: "Cabo 3 Alfonso",
+        photoUrl: "https://image.tmdb.org/t/p/w185/34DpHkDnPHgw1dLo0huQLPN85w3.jpg"
+      },
+      {
+        actor: "Luisa Merelas",
+        role: "Madre Anta",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3A360cW4WwZBlTJPRTCiZXK8rnK.jpg"
+      },
+      {
+        actor: "Federico Pérez Rey",
+        role: "Cabo 1 Mariano",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gNUzohRc1a7qXVrTkkmeonLifBg.jpg"
+      },
+      {
+        actor: "Xavier Estévez",
+        role: "Sergento Espin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uj1J1FS1bnPHY95otbUCwXtzaru.jpg"
+      },
+      {
+        actor: "Marta Lado",
+        role: "Guardia Criminalística",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mTyUFiJwwJwhVGhaCTwKh51JTBy.jpg"
+      },
+      {
+        actor: "Evaristo Calvo",
+        role: "Teniente Guardia Civil",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m1wHVOqep99AqfXB6evTminEFOw.jpg"
+      }
+    ],
+    languages: ["Galician", "French", "Spanish"],
+    genres: ["Thriller", "Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "sustained intimidation and rural harassment of a couple by neighbors",
+        "a scene of severe physical violence against a person, depicted with unsparing directness",
+        "prolonged psychological threat and menace throughout",
+        "strong language including ethnic and xenophobic slurs",
+        "depiction of grief and its aftermath in forensic detail",
+        "brief depiction of a seriously injured person"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:18" }
+    ],
+    awards: [
+      { body: "Goya Awards (37th)", category: "Best Film", result: "Won", year: 2023 },
+      { body: "Goya Awards (37th)", category: "Best Director", result: "Won", year: 2023 },
+      { body: "Goya Awards (37th)", category: "Best Actor (Denis Ménochet)", result: "Won", year: 2023 },
+      { body: "Goya Awards (37th)", category: "Best Supporting Actor (Luis Zahera)", result: "Won", year: 2023 },
+      { body: "Goya Awards (37th)", category: "Best Supporting Actress (Marie Colomb)", result: "Won", year: 2023 },
+      { body: "Goya Awards (37th)", category: "Best Original Screenplay", result: "Won", year: 2023 },
+      { body: "Cannes Film Festival (75th)", category: "FIPRESCI Prize — Un Certain Regard", result: "Won", year: 2022 },
+      { body: "European Film Awards (35th)", category: "Best European Film", result: "Won", year: 2022 },
+      { body: "European Film Awards (35th)", category: "Best European Director", result: "Won", year: 2022 },
+      { body: "European Film Awards (35th)", category: "Best European Actor (Denis Ménochet)", result: "Won", year: 2022 },
+      { body: "César Awards (48th)", category: "Best Foreign Film", result: "Nominated", year: 2023 },
+      { body: "Goya Awards (37th)", category: "Best Cinematography", result: "Nominated", year: 2023 },
+      { body: "Goya Awards (37th)", category: "Best Editing", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["xenophobia", "stubbornness", "belonging", "justice", "grief", "isolation", "violence", "endurance"],
+      mood: ["suffocating", "tense", "bleak"],
+      fullReview: "Antoine and Olga are French. They have lived in a Galician village for years, farming and renovating ruins, having chosen this particular corner of rural Spain with the conviction of people who believe a place can be chosen on principle. Their neighbors Xan and Lorenzo are also waiting — for the windfall that a wind turbine contract on their land would deliver, a contract the French couple have opposed out of ecological conviction. What begins as a planning dispute calcifies into something far older and darker: the specific hatred that a community reserves for the outsider who will not leave.\n\nRodrigo Sorogoyen, working from a screenplay he co-wrote with Isabel Peña and inspired by real events, constructs the film\'s first movement as a slow compression. Each scene tightens the space around Antoine and Olga slightly more than the last. The intimidation takes forms both crude and insidiously legible to anyone who has ever lived in a small community where everyone knows everything — glances held a beat too long, tools moved, animals threatened, conversations in Galician conducted in plain earshot for the specific pleasure of exclusion. The film understands that sustained low-level hostility is its own form of violence, and it refuses to let the audience dismiss any of it as trivial.\n\nDenis Ménochet as Antoine is doing something formally difficult: he must make a character\'s determination read as both admirable and catastrophically wrongheaded simultaneously, and the balance must hold without the screenplay ever pronouncing a verdict on it. Antoine is not wrong about the wind turbines. He is also not right about what the wind turbines are, at this point, actually about. Ménochet carries that ambiguity with enormous physical presence — a large man in a small village who takes up too much room in every frame and knows it and will not apologize. The performance is the film\'s engine.\n\nLuis Zahera as Xan is the film\'s most unsettling creation. There is nothing cartoonish about him. He is a man with grievances that are not entirely invented, operating within a community logic that has its own internal coherence, and the horror of his scenes comes precisely from the fact that his hatred is recognizable — the kind that convinces itself it is something else.\n\nThe film does something structurally audacious at roughly its midpoint — a choice that will reframe everything before and after it without a single moment of narrative manipulation. It is one of the bravest formal decisions in recent European thriller filmmaking, and Sorogoyen executes it without flinching or softening. The film that emerges from that pivot is a different film about the same wound, and Marina Foïs, largely a supporting presence in the first half, steps into the center of it and does not waste the space.\n\nAlejandro de Pablo\'s cinematography treats the Galician landscape — its granite, its mist, its relentless green — as a place of genuine beauty that has become threatening, which is precisely the emotional grammar the film requires. The countryside does not become menacing through any trick of lighting or music; it is allowed to remain what it is, and what it is has become unbearable for the people who chose to live in it.\n\nThe Beasts earned its sweep of the Goya Awards and its European Film Award for best film without having to compromise anything to get them. It is a film that knows exactly what it is doing, trusts its audience to keep up, and delivers a final image of such devastating, quiet precision that the theatre — or wherever one watches it — holds the silence longer than it expects to. That is what genre craft at its best actually looks like."
+    }
+  },
+  {
+    id: "trenque-lauquen-2022",
+    title: "Trenque Lauquen",
+    originalTitle: null,
+    romanization: null,
+    year: 2022,
+    tagline: null,
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/7Ls4s9eaSMbFDJwQXDraNkUvbLF.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/K5f1QQ3UxyEXQUdUn0x38a0NLU.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=CJEvAlSigCw",
+    director: [
+      {
+        name: "Laura Citarella",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zby9FNc91M0od2oUUDzhBSMlpgu.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Laura Citarella",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zby9FNc91M0od2oUUDzhBSMlpgu.jpg"
+      },
+      {
+        name: "Laura Paredes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gWuxoUosFG72hpfFcV02kjevdOl.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Laura Paredes",
+        role: "Laura",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gWuxoUosFG72hpfFcV02kjevdOl.jpg"
+      },
+      {
+        actor: "Ezequiel Pierri",
+        role: "Ezequiel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f48Qu8ldgGBUruGVdprXWNx8auv.jpg"
+      },
+      {
+        actor: "Rafael Spregelburd",
+        role: "Rafael",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lAFPZatnVqGjB4NRfVFxdk033ZT.jpg"
+      },
+      {
+        actor: "Elisa Carricajo",
+        role: "Elisa Esperanza",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9r5e7ImCDV1digAqHbyzNBX6gGs.jpg"
+      },
+      {
+        actor: "Juliana Muras",
+        role: "Juliana Verdi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qYjp49cTOt92atnoZo09bv9CdP.jpg"
+      },
+      {
+        actor: "Verónica Llinás",
+        role: "Romina",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eRT77QU9BxH6l1snTSGwYqPR8AC.jpg"
+      },
+      {
+        actor: "Cecilia Rainero",
+        role: "Normita",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5s1Hwa9Krpcly5KDjcMv3wWCpzj.jpg"
+      },
+      {
+        actor: "Walter Jakob",
+        role: "Marcio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yO1YcGi1Iuz9fDoNACrcQZ10N9S.jpg"
+      },
+      {
+        actor: "Mariano Llinás",
+        role: "Locutor de Radio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dfCOcnGqMXzr8BdaHHQ9ohdGfvN.jpg"
+      },
+      {
+        actor: "Eugenia Campos Guevara",
+        role: "Patita",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gxl5T7m7A0bufx6YxA59WP6CS53.jpg"
+      },
+      {
+        actor: "Agustín Gagliardi",
+        role: "Leo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mljIXAwxcM6Iy2Tz2mVvelHpXzo.jpg"
+      },
+      {
+        actor: "Andrea Garrote",
+        role: "Alda Bossi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/w22a3dkQ6YJ8T9Kijz4qD3gdS52.jpg"
+      },
+      {
+        actor: "Tomás Guiñazú",
+        role: "Eugenio Pastor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3Syjqw8e71ElkxAg7Z3Z77xkndd.jpg"
+      },
+      {
+        actor: "Agustín Mendilaharzu",
+        role: "Marcio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8lUXtYiw27b2WU3rzbd8sY2qv7x.jpg"
+      }
+    ],
+    languages: ["Spanish"],
+    genres: ["Mystery", "Drama", "Romance"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "a woman\'s unexplained disappearance as sustained narrative concern",
+        "brief depiction of desire and romantic intimacy between women",
+        "mild emotional distress and searching",
+        "some scenes of melancholy and personal loss"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "4:20" }
+    ],
+    awards: [
+      { body: "Venice International Film Festival (79th)", category: "FIPRESCI Prize — Orizzonti", result: "Won", year: 2022 },
+      { body: "Silver Condor Awards (64th)", category: "Best Argentine Film", result: "Won", year: 2023 },
+      { body: "Silver Condor Awards (64th)", category: "Best Director", result: "Won", year: 2023 },
+      { body: "Silver Condor Awards (64th)", category: "Best Actress (Laura Paredes)", result: "Won", year: 2023 },
+      { body: "Silver Condor Awards (64th)", category: "Best Original Screenplay", result: "Won", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["disappearance", "desire", "freedom", "secrets", "literature", "wandering", "femininity", "discovery"],
+      mood: ["dreamlike", "hypnotic", "melancholic"],
+      fullReview: "Laura has vanished. She was a botanist working in Trenque Lauquen, a flat, unremarkable city on the Argentine pampa, and now she is gone — no note, no obvious rupture, no body. The two men looking for her, her older boyfriend Rafael and her younger colleague Ezequiel, begin comparing notes on her recent behavior and find that Laura had been pursuing something: a set of interlocking mysteries involving secret letters hidden in library books, a strange disappearance from the 1970s, and a woman she had become obsessed with. What Laura Citarella\'s film builds from these materials across four hours and twenty minutes is one of the most singular pieces of cinema to emerge from Latin America in years — a work that refuses every genre it picks up and uses all of them anyway.\n\nThe film is structured in chapters, released initially as two separate parts and best experienced as the single unbroken artifact it actually is. Citarella and her collaborator Laura Paredes, who also plays the missing Laura with an elusiveness that turns out to be the point, constructed the screenplay from years of conversation and improvisation within the collective El Pampero Cine. That collective production method is legible on screen in the best possible way: the film feels genuinely discovered rather than engineered, following its curiosities with the loose-limbed confidence of a work that trusts its audience to stay curious alongside it.\n\nThe pampa landscape — flat, enormous, quietly strange — is shot with a naturalism that gradually accumulates unease. Nothing about the cinematography announces itself, which is precisely what makes the film\'s occasional eruptions of strangeness so disorienting. Citarella understands that mystery does not require darkness or shadow; it can live just as comfortably in ordinary afternoon light, in a library, in a face that looks directly at the camera and gives nothing away.\n\nParedes, as the absent center of the film, achieves something formally paradoxical: a performance of sustained presence in a character who is structurally an absence. The film is about her in every scene even when she is not in it, and when she does appear — which is more than the premise might suggest — the specific quality of her interiority, partly withheld, partly revealed, partly simply alien to the men trying to decode her, gives the mystery its actual content. The searching is not really about finding Laura. It is about the limits of what one person can know of another.\n\nThe romance at the film\'s heart — between Laura and a woman she encountered while following the pampa mystery — is handled with a delicacy and an erotic specificity that most films about desire do not approach. Citarella does not make it a statement. She makes it feel like weather: something that arrived and changed everything without announcing itself.\n\nFour hours and twenty minutes is not a runtime that requires defense for a film that earns every one of them, and Trenque Lauquen earns them. The length is not a provocation and not a test of endurance — it is the actual shape of the experience Citarella is offering, a film that takes its time because it is interested in accumulation, in the way small details gather meaning over hours the way they do over years. Viewers who expect conventional narrative propulsion will find the early chapters frustrating; viewers who surrender to its rhythms will find that by the time the film reaches its final hours, it has constructed something genuinely rare: a mystery that deepens rather than resolves, and a portrait of a woman whose freedom consists precisely in remaining unknowable. The FIPRESCI Prize at Venice felt like recognition of something the jury sensed mattered. It does."
+    }
+  },
+  {
+    id: "afire-2023",
+    title: "Afire",
+    originalTitle: "Roter Himmel",
+    romanization: null,
+    year: 2023,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/lIweeMPP5Zf0LuvuZD3rSLrfgQV.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/k8NYzD01zAUsdqocjhLXbO9BSS8.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/wbW4w4HvvzDavQCjUKtLMosyNn5.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=YHzpUE_FCeI",
+    director: [
+      {
+        name: "Christian Petzold",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p7r94AH2IrDa9P4hgyHUhR3Fd2v.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Christian Petzold",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p7r94AH2IrDa9P4hgyHUhR3Fd2v.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Thomas Schubert",
+        role: "Leon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pE0Xt6pjwg3BRJ6n6MsKw9X9ryV.jpg"
+      },
+      {
+        actor: "Paula Beer",
+        role: "Nadja",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kNMRhurFbvedI3rf8gP92Bbwsen.jpg"
+      },
+      {
+        actor: "Langston Uibel",
+        role: "Felix",
+        photoUrl: "https://image.tmdb.org/t/p/w185/urqjsoQvmHmmh6kUkVOeVRcovzJ.jpg"
+      },
+      {
+        actor: "Enno Trebs",
+        role: "Devid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eqMYiGPl2te8OnMNOdxyQKa3zMS.jpg"
+      },
+      {
+        actor: "Matthias Brandt",
+        role: "Helmut",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4hsgiicaXbQvgUkyWmTlaSTqk91.jpg"
+      },
+      {
+        actor: "Jennipher Antoni",
+        role: "Mrs. Roland, Cashier",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tNI8Ahe19Hav9pd5IhjGwTA5rND.jpg"
+      },
+      {
+        actor: "Esther Esche",
+        role: "Mrs. König, Hotel Manager",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lGQs7P9At8QGILBSXLvkRKsFaDD.jpg"
+      }
+    ],
+    languages: ["German", "Spanish"],
+    genres: ["Drama", "Comedy"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: ["sudden off-screen death and its emotional aftermath", "brief non-explicit sexual activity", "moderate sustained emotional distress", "mild language"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:43" }
+    ],
+    awards: [
+      { body: "Berlin International Film Festival (73rd)", category: "Silver Bear Grand Jury Prize", result: "Won", year: 2023 },
+      { body: "German Film Awards / Lola (73rd)", category: "Best Feature Film (Gold)", result: "Won", year: 2023 },
+      { body: "German Film Awards / Lola (73rd)", category: "Best Supporting Actress", result: "Won", year: 2023 },
+      { body: "German Film Awards / Lola (73rd)", category: "Best Director", result: "Nominated", year: 2023 },
+      { body: "German Film Awards / Lola (73rd)", category: "Best Lead Actor", result: "Nominated", year: 2023 },
+      { body: "European Film Awards (36th)", category: "Best Film", result: "Nominated", year: 2023 },
+      { body: "European Film Awards (36th)", category: "Best Director", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["narcissism", "creativity", "mortality", "desire", "urgency", "blindness", "complicity"],
+      mood: ["restless", "elegiac", "disquieting"],
+      fullReview: "Leon is a novelist in the grip of a manuscript that is not going well. He has retreated to a Baltic Sea summer house with his best friend Felix, intending to finish the thing in peace. The house, it turns out, is already occupied by Nadja — a delivery driver of easy warmth and unsettling vitality — and somewhere beyond the tree line, a forest fire is quietly growing. Christian Petzold\'s Afire is constructed around a man too sealed inside his own grievances to notice any of this until it is too late, and the film watches him with a patience that is by turns wry, excruciating, and quietly devastating.\n\nThomas Schubert plays Leon without a single concession to likability. This is not a grouch who secretly has a heart; it is a recognizable and fully inhabited portrait of someone whose self-absorption has set into something structural. He dismisses compliments, redirects every conversation, and interprets the world\'s failure to accommodate him as evidence of the world\'s inadequacy. Schubert lands every beat without underlining it, which is the harder and more honest choice. Petzold does not ask the audience to warm to Leon. He asks them to look at Leon clearly — which turns out to be the more demanding request.\n\nAgainst this, Paula Beer is doing something almost unreasonable. Her Nadja exists in the film with a physical and emotional intelligence that makes Leon\'s rigidity look like a medical condition. She does not announce herself; she simply occupies space with a directness and warmth that Leon cannot parse or tolerate. Beer has always had this quality on screen, but here Petzold uses it structurally: Nadja is not merely a character but a standard against which Leon is quietly and continuously measured, and the measurement is not flattering.\n\nWhat lifts Afire above a well-observed character study is the wildfire — and specifically what Petzold refuses to do with it. It never arrives at a dramatically convenient moment to deliver a lesson. Instead it accumulates: smoke on the horizon, road closures, news reports that the group half-registers and sets aside. Hans Fromm\'s cinematography gives the Baltic summer a golden softness that becomes increasingly ironic as the haze thickens at the edges of the frame. The warmth is being consumed from outside, and the people in the foreground are arguing about a novel. The editing, by Bettina Böhler — a long-standing Petzold collaborator whose work here is exactly as invisible as great editing should be — closes scenes not when they finish but when the point is made, which in a film about a man who overstays every welcome has a quiet formal wit to it.\n\nThe film is not without friction. The second act presses on Leon\'s stubbornness for slightly longer than is strictly productive, and there are passages where the film trusts its atmosphere to carry weight that a single well-placed scene might have grounded more effectively. A viewer who has not already committed to Petzold\'s register may find the middle stretches more demanding than rewarding.\n\nBut the final movement of Afire is something else. Without describing what happens — and nothing will be described here — the ending does not deliver catharsis. It delivers something stranger and more accurate: the sensation of consequence landing after the window for action has closed, with the recognition that the signals were there the entire time, visible to anyone who had been paying attention. The film is, among its other concerns, a sustained inquiry into what it means to look — and into the particular variety of tragedy that follows from choosing not to."
+    }
+  },
+  {
+    id: "do-not-expect-too-much-from-the-end-of-the-world-2023",
+    title: "Do Not Expect Too Much from the End of the World",
+    originalTitle: "Nu Aștepta Prea Mult de la Sfârșitul Lumii",
+    romanization: null,
+    year: 2023,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/mrHjJi6NxTT6djcxzybjiBfckn.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/y2H7SMzSO0f8KHjCqavUhVfRX0Z.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/9j7bPqtsbIzhMwVYD6deKsGhzys.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Pg5UjA0hEFg",
+    director: [
+      {
+        name: "Radu Jude",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2z85VQFtx4739hRFAERHKKKE7MJ.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Radu Jude",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2z85VQFtx4739hRFAERHKKKE7MJ.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ilinca Manolache",
+        role: "Angela Raducani",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A6GOH8BunLJrWlOolDW6MuqHEpy.jpg"
+      },
+      {
+        actor: "Nina Hoss",
+        role: "Doris Goethe",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j4j3eenfrg0XgW0dVReFAdPNPE0.jpg"
+      },
+      {
+        actor: "Dorina Lazăr",
+        role: "Angela Coman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kZL8zUNmBtmKmfR9lcfg799LDNh.jpg"
+      },
+      {
+        actor: "László Miske",
+        role: "Gyuri",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zjAOhigknSbhBuc5xyiK1xyP7MR.jpg"
+      },
+      {
+        actor: "Uwe Boll",
+        role: "Self",
+        photoUrl: "https://image.tmdb.org/t/p/w185/atLWExqv0Att2kiKXp6gKKtiwmD.jpg"
+      },
+      {
+        actor: "Șerban Pavlu",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/chjRlUImZyZzDmyp5n7QmWpmqv2.jpg"
+      },
+      {
+        actor: "Katia Pascariu",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dBZbp65TeVikic7eBKQjMpXNT6X.jpg"
+      },
+      {
+        actor: "Nicodim Ungureanu",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/t35jTdqQ3uTbCEHPhpAxapsRgnj.jpg"
+      },
+      {
+        actor: "Claudia Ieremia",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ctHHPosOJnnYhM6TDXR9shw8qJ7.jpg"
+      },
+      {
+        actor: "Ioana Iacob",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iI8lwVmyNtGaRrirwMSPic0mgm.jpg"
+      },
+      {
+        actor: "Rodica Negrea",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7nVZvxsPpjmyKq6tV1lZtXcQZ0O.jpg"
+      },
+      {
+        actor: "Adina Cristescu",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A7Yduv8BnJNWrgOXofmwqGO6KIU.jpg"
+      },
+      {
+        actor: "Adrian Nicolae",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2sIynzeEsLka1Buq00K1sXCj2fC.jpg"
+      },
+      {
+        actor: "Andi Vasluianu",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6aqImm4O1A3a51modGhC2aJnXFF.jpg"
+      },
+      {
+        actor: "Doru Catanescu",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/As84pXXOc2Wxo7ZKkFrd2jEGTdw.jpg"
+      },
+      {
+        actor: "Bogdan Marhodin",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/h3BXF2wc4uPSNL48yZd75akTARp.jpg"
+      },
+      {
+        actor: "Andreea Bosneag",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tx4mXVV7PIE1I5Eb9DG2sHkbxc8.jpg"
+      },
+      {
+        actor: "Marius Panduru",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8HNwNjiSgiof5kt9PMEN9gFOPN3.jpg"
+      }
+    ],
+    languages: ["Romanian", "German", "English", "Hungarian", "Italian"],
+    genres: ["Satire", "Drama", "Comedy"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: ["pervasive strong language and profanity", "extended sequences of crude misogynistic and sexually degrading humor", "unflinching depictions of serious workplace injuries and physical disability", "sexual objectification presented without editorial softening"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:44" }
+    ],
+    awards: [
+      { body: "Locarno Film Festival (76th)", category: "Special Jury Prize", result: "Won", year: 2023 },
+      { body: "European Film Awards (36th)", category: "Best Film", result: "Nominated", year: 2023 },
+      { body: "European Film Awards (36th)", category: "Best Director", result: "Nominated", year: 2023 },
+      { body: "European Film Awards (36th)", category: "Best Actress", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["exploitation", "exhaustion", "complicity", "precarity", "performance", "surveillance", "continuity"],
+      mood: ["corrosive", "electric", "bitter"],
+      fullReview: "The title is not a joke. Radu Jude\'s Do Not Expect Too Much from the End of the World runs 164 minutes, shoots mostly in black and white, interrupts itself with vertical mobile phone footage, interpolates scenes from a 1981 Romanian film, and features a recurring character called Bobita — the protagonist\'s TikTok alter-ego — who produces crude, aggressively stupid content that the film presents without the comfort of ironic distance. Anyone expecting conventional narrative pleasures should expect to be confounded. Anyone willing to meet the film on its terms will find one of the most formally alive and politically ferocious works of recent European cinema.\n\nAngela Raducani (Ilinca Manolache) spends an interminable day driving around Bucharest for a German multinational company, interviewing workers injured in workplace accidents. The company needs one of them to appear in a safety video. What the film needs from Angela is everything she has, and then some more. Manolache carries the camera for the vast majority of 164 minutes and she does it without apparent strain, which turns out to be exactly the right register for a character whose entire existence is a performance of availability — for the company, for the camera, for the men around her, for the audience. She is funny, coarse, exhausted, occasionally brutal, and completely sympathetic, and the film trusts her enough to let her fill every room she enters.\n\nThe formal structure is the argument. Marius Panduru\'s black-and-white photography in the present-day sequences is deliberately unbeautiful — functional, observational, unglamorous — the visual grammar of a world that does not aestheticize labor. Against this, the Bobita TikTok footage arrives in color and in the vertical frame of a smartphone, and these sequences are genuinely, disconcertingly funny. Bobita is a performance of misogyny and stupidity that Angela uses to decompress from the misogyny and stupidity she has to manage professionally without naming it. The discomfort of laughing along is part of what Jude is making the audience do. The question of what humor is available to someone in Angela\'s position, and what it costs her to produce it, runs beneath every Bobita scene.\n\nInterspersed throughout is a third layer: footage from a 1981 Romanian communist-era film, in which an earlier Angela (Dorina Lazăr, playing herself as she appeared then) drives around Bucharest in circumstances that rhyme with and differ from the present. Jude is not being subtle. He is arguing that the extraction of female labor and compliance — the expectation that women will absorb whatever a system requires of them and remain cheerful about it — is not a feature of capitalism specifically or communism specifically but of any apparatus that requires service while rendering those who provide it invisible. Forty years have passed. The driver is still driving.\n\nNina Hoss appears as Doris Goethe, representing the multinational with the careful, euphemistic vocabulary of corporate human resources. Her scenes generate a specific unease — the unease of watching institutional power dress itself in the language of concern — and Hoss calibrates it with characteristic precision.\n\nThe accident victims Angela interviews are either real people or actors occupying that register, and their testimony is the moral anchor of the film. Jude gives them time and takes them seriously. What emerges is not pity but specificity — specific injuries, specific causes, specific decisions made by specific entities, specific consequences of those decisions. The film accumulates this the way evidence accumulates, without underlining or scoring it for feeling.\n\nAt 164 minutes, the film is too long on purpose. The exhaustion of accompanying Angela through her day is structural, not accidental. The sense that the film might never end is the point — because for Angela, and for the people she interviews, there is no end in the sense of resolution. There is only continuation. Viewers who refuse this formal demand will find the runtime punishing in the way that any honest accounting of the present moment tends to be punishing.\n\nDo Not Expect Too Much from the End of the World is not a comfortable film, and it has no interest in becoming one. It is interested in showing a world that runs on the expendability of people like Angela, with fluency and fury and an uncomfortable amount of laughter along the way."
+    }
+  },
+  {
+    id: "godzilla-minus-one-2023",
+    title: "Godzilla Minus One",
+    originalTitle: "ゴジラ-1.0",
+    romanization: "Gojira -1.0",
+    year: 2023,
+    tagline: "Live and Fight. Survive and Resist.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/glnJMBoFXWAaD7j7pFmNW8d7RpI.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/vlmiJOeDMbiyaJCAjFPtlkDcOEv.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=r7DqccP1Q_4",
+    director: [
+      {
+        name: "Takashi Yamazaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aRxPJuOij3DUUGojtBmjAAxfL9x.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Takashi Yamazaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aRxPJuOij3DUUGojtBmjAAxfL9x.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ryunosuke Kamiki",
+        role: "Koichi Shikishima",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+      },
+      {
+        actor: "Minami Hamabe",
+        role: "Noriko Oishi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
+      },
+      {
+        actor: "Yuki Yamada",
+        role: "Shiro Mizushima",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+      },
+      {
+        actor: "Munetaka Aoki",
+        role: "Sosaku Tachibana",
+        photoUrl: "https://image.tmdb.org/t/p/w185/l5GdFPBBz717Kiimyqp5ieaglVo.jpg"
+      },
+      {
+        actor: "Hidetaka Yoshioka",
+        role: "Kenji Noda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xWNS6qStVthhWoxmKDfNS729BjJ.jpg"
+      },
+      {
+        actor: "Sakura Ando",
+        role: "Sumiko Ota",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg"
+      },
+      {
+        actor: "Kuranosuke Sasaki",
+        role: "Yoji Akitsu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
+      },
+      {
+        actor: "Miou Tanaka",
+        role: "Captain Tatsuo Hotta",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4dXKZqcF1K6n6yVAGVVRlsc1RU0.jpg"
+      },
+      {
+        actor: "Yuya Endo",
+        role: "Tadayuki Saito",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wkM6ZBelFelI4iHu4kH3CCC1y2m.jpg"
+      },
+      {
+        actor: "Kisuke Iida",
+        role: "Akio Itagaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iPz9FYCpT1XdUtBCE7qTiOD9dFx.jpg"
+      },
+      {
+        actor: "Kenji Anan",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/w9yvx9PMHd8v9N9XywkT8fVHcFh.jpg"
+      },
+      {
+        actor: "Kenji Mizuhashi",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2ydE4b4j3gFmx7kPPrGOuVyM4DX.jpg"
+      },
+      {
+        actor: "Kunihiro Suda",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/831qc9eN6IQRUIUuMGX21ZmaMPW.jpg"
+      },
+      {
+        actor: "Shota Taniguchi",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2A5yar5CEvd7t9FSLioUazpRdeG.jpg"
+      },
+      {
+        actor: "Ippei Sasaki",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9LSoZVDd6xeAaXJbyg8FTBWEfYu.jpg"
+      },
+      {
+        actor: "Ozuno Nakamura",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pXmHVdMhyP801KhvMofOxz2zN3h.jpg"
+      },
+      {
+        actor: "Sho Nishigaki",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cG4CigT2c0psccuvqlbPmLQsmki.jpg"
+      },
+      {
+        actor: "Kiyomi Aratani",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rV90XnRZdsD6YOA8BhEB0sbe3Rr.jpg"
+      },
+      {
+        actor: "Shoji Omiya",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9ubUk402XMLrmpbdlnrPbe7qSpu.jpg"
+      },
+      {
+        actor: "Michael Arias",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zxOmHqGubvPQGTlh84joWFR4P3y.jpg"
+      },
+      {
+        actor: "Tetsu Hirahara",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7896qWHNeZDN8XirYL7fjctvegF.jpg"
+      },
+      {
+        actor: "Hiroyuki Toritani",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rXCL3j2Vn8rs3iiCV5S9GqIbmMe.jpg"
+      },
+      {
+        actor: "Hidemasa Mase",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pAqIp7jxmjDueSQMebBt7Y0JGFe.jpg"
+      },
+      {
+        actor: "Daiki Ichikawa",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5M9Rylq8tHEyQ3AMpnBW1hIBQUS.jpg"
+      },
+      {
+        actor: "Goro Sato",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mw8POLI7qXtxVKJAVUC6HJQCX7C.jpg"
+      },
+      {
+        actor: "Yuta Wakabayashi",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/v6P6DPqAQkZaHpWyX0NXf0NbRQQ.jpg"
+      },
+      {
+        actor: "Koya Fukuda",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A7bElkydBLIDTReM0LnVrxV3wJN.jpg"
+      },
+      {
+        actor: "Yuki Takao",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i6WZYK5uHmq0JVGTefgUNzaGjJE.jpg"
+      },
+      {
+        actor: "Shinji Nagashima",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mrqTCabOBwoCa2SAbjy4TSu9ZrN.jpg"
+      },
+      {
+        actor: "Shohei Abe",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p9kmVIgnVEEHKXDYLPoYOpPtQQ2.jpg"
+      },
+      {
+        actor: "Masatoshi Kihara",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jG5QnaZn51Oqo7TtlFgIZoQJxdy.jpg"
+      },
+      {
+        actor: "Masaru Yahagi",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iRqk80uEOUbxhkzJ6PDCllTLf2D.jpg"
+      },
+      {
+        actor: "Touta Tawaragi",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5pLmVrgLCqwRS54WaQr5OtsNT6x.jpg"
+      },
+      {
+        actor: "Eisuke Sasai",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wodKYG7zTWCVtQfWp4PlQS1vtuF.jpg"
+      },
+      {
+        actor: "Takato Yonemoto",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sE1WL5oM0VdLa1k2kMhsgFLpsyi.jpg"
+      },
+      {
+        actor: "Saori",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4j7vn4b9M3RSQlWYYEZeqrtRFw0.jpg"
+      },
+      {
+        actor: "Aya Sakura",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pCuqzmmamkV7DY9DI7MWLZaR71f.jpg"
+      },
+      {
+        actor: "Miki Mirai",
+        role: "(voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7BZA5p2VY9USqCr0lxRnlsQCPn5.jpg"
+      }
+    ],
+    languages: ["Japanese", "English"],
+    genres: ["Drama", "Horror", "Action"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: ["intense monster attacks with implied mass civilian casualties", "war trauma and survivor guilt depicted throughout", "characters mourning family members lost to war and monster attacks", "brief scenes of physical injury and destruction aftermath", "atomic bomb thematic and visual parallels"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:05" },
+      { version: "Minus Color Edition", duration: "2:05" }
+    ],
+    awards: [
+      { body: "Academy Awards (96th)", category: "Best Visual Effects", result: "Won", year: 2024 },
+      { body: "Japan Academy Film Prize (47th)", category: "Best Picture", result: "Won", year: 2024 },
+      { body: "Japan Academy Film Prize (47th)", category: "Best Director", result: "Won", year: 2024 },
+      { body: "Japan Academy Film Prize (47th)", category: "Best Cinematography", result: "Won", year: 2024 },
+      { body: "Japan Academy Film Prize (47th)", category: "Best Film Score", result: "Won", year: 2024 },
+      { body: "Saturn Awards (50th)", category: "Best Science Fiction Film", result: "Nominated", year: 2024 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["guilt", "survival", "sacrifice", "trauma", "community", "redemption", "legacy"],
+      mood: ["harrowing", "elegiac", "tense"],
+      fullReview: "Postwar Japan, two years after the atomic bombings. Koichi Shikishima (Ryunosuke Kamiki) survived the war as a kamikaze pilot who did not complete his mission — by feigning mechanical failure, and then by freezing at a critical moment on a remote island when Godzilla first appeared. He returns to a country in ruins, carrying guilt that has no language and no monument. What follows in Takashi Yamazaki\'s Godzilla Minus One is one of the most unexpectedly moving films the franchise has produced across its seven decades: a monster movie that works precisely because it is also about what it means to be alive when those around you are not.\n\nThe film\'s central argument — that postwar Japan was already at zero before Godzilla arrived, and the creature brings it below that — is embedded in the title, and Yamazaki pursues it with real conviction. The civilian world of ruined Tokyo, the informal economy of survival, people building households out of wreckage — all of this is established with enough specificity to make its destruction genuinely costly. When Godzilla arrives in the city, the film has spent sufficient time making the audience care about what is being demolished that the spectacle is not merely impressive but disturbing.\n\nKamiki carries a great deal of this on his face alone. Shikishima\'s paralysis — his inability to act when action is required, rooted in a trauma the film understands does not resolve cleanly — is rendered with physical precision rather than melodrama. It is the specific inhabited quality of someone who has been waiting, on some level, for permission to stop surviving. Minami Hamabe as Noriko gives the film its warmth; the makeshift family unit they form becomes the human stakes Yamazaki returns to whenever the film needs to remind the audience what remains at risk.\n\nThe supporting ensemble is unusually strong for this genre. Hidetaka Yoshioka plays a weapons engineer with a nervous inventor\'s energy that shades into something more haunted as the film develops. Munetaka Aoki provides gruff comedy in the early sections that deepens without announcement into something more committed. These are recognizable types, but the actors find enough specificity in them that their presence actually registers.\n\nYamazaki, who also served as visual effects supervisor, made this film for approximately fifteen million dollars — a sum that would not finance a single sequence in a comparable Hollywood production. The Academy Award for Best Visual Effects, the first ever awarded to a Japanese film, was not a diplomatic gesture. The work is genuinely extraordinary: the creature is terrifying rather than merely spectacular, designed for dread rather than awe. Sequences in which civilians attempt to flee by boat rank among the most effective in the franchise\'s history — the smallness of the people against the water, and then against what is in the water, handled with a formal clarity that never loses its grip.\n\nWhere the film tests its own integrity is in the screenplay\'s habit of stating what the images have already said. Certain emotional turns are telegraphed so plainly in advance that their arrival feels like a scheduled appointment rather than a discovery. The closing movement pushes on emotional levers with a force that occasionally tips from earned feeling into arranged feeling — a distinction perceptible to the audience even when they cannot name it. The film wants to end with catharsis and achieves it, but not without surrendering some of the ambiguity that its best scenes had carefully built.\n\nNone of this diminishes what Godzilla Minus One accomplishes. Popular filmmaking of this quality — emotionally literate, visually commanding, anchored in something specific about historical memory and national guilt — is genuinely rare. As a Godzilla film, it is the most serious reckoning with the creature\'s original meaning since Ishiro Honda\'s 1954 original. That film asked what it felt like to live inside an atomic catastrophe. This one asks what is owed to those who survive when others do not. That turns out to be more than enough to carry a monster movie somewhere worth going."
+    }
+  },
 ]; // ← paste movie objects here, one by one
