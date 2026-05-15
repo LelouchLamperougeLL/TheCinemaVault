@@ -59092,4 +59092,1186 @@ const MOVIES = [
       fullReview: "Postwar Japan, two years after the atomic bombings. Koichi Shikishima (Ryunosuke Kamiki) survived the war as a kamikaze pilot who did not complete his mission — by feigning mechanical failure, and then by freezing at a critical moment on a remote island when Godzilla first appeared. He returns to a country in ruins, carrying guilt that has no language and no monument. What follows in Takashi Yamazaki\'s Godzilla Minus One is one of the most unexpectedly moving films the franchise has produced across its seven decades: a monster movie that works precisely because it is also about what it means to be alive when those around you are not.\n\nThe film\'s central argument — that postwar Japan was already at zero before Godzilla arrived, and the creature brings it below that — is embedded in the title, and Yamazaki pursues it with real conviction. The civilian world of ruined Tokyo, the informal economy of survival, people building households out of wreckage — all of this is established with enough specificity to make its destruction genuinely costly. When Godzilla arrives in the city, the film has spent sufficient time making the audience care about what is being demolished that the spectacle is not merely impressive but disturbing.\n\nKamiki carries a great deal of this on his face alone. Shikishima\'s paralysis — his inability to act when action is required, rooted in a trauma the film understands does not resolve cleanly — is rendered with physical precision rather than melodrama. It is the specific inhabited quality of someone who has been waiting, on some level, for permission to stop surviving. Minami Hamabe as Noriko gives the film its warmth; the makeshift family unit they form becomes the human stakes Yamazaki returns to whenever the film needs to remind the audience what remains at risk.\n\nThe supporting ensemble is unusually strong for this genre. Hidetaka Yoshioka plays a weapons engineer with a nervous inventor\'s energy that shades into something more haunted as the film develops. Munetaka Aoki provides gruff comedy in the early sections that deepens without announcement into something more committed. These are recognizable types, but the actors find enough specificity in them that their presence actually registers.\n\nYamazaki, who also served as visual effects supervisor, made this film for approximately fifteen million dollars — a sum that would not finance a single sequence in a comparable Hollywood production. The Academy Award for Best Visual Effects, the first ever awarded to a Japanese film, was not a diplomatic gesture. The work is genuinely extraordinary: the creature is terrifying rather than merely spectacular, designed for dread rather than awe. Sequences in which civilians attempt to flee by boat rank among the most effective in the franchise\'s history — the smallness of the people against the water, and then against what is in the water, handled with a formal clarity that never loses its grip.\n\nWhere the film tests its own integrity is in the screenplay\'s habit of stating what the images have already said. Certain emotional turns are telegraphed so plainly in advance that their arrival feels like a scheduled appointment rather than a discovery. The closing movement pushes on emotional levers with a force that occasionally tips from earned feeling into arranged feeling — a distinction perceptible to the audience even when they cannot name it. The film wants to end with catharsis and achieves it, but not without surrendering some of the ambiguity that its best scenes had carefully built.\n\nNone of this diminishes what Godzilla Minus One accomplishes. Popular filmmaking of this quality — emotionally literate, visually commanding, anchored in something specific about historical memory and national guilt — is genuinely rare. As a Godzilla film, it is the most serious reckoning with the creature\'s original meaning since Ishiro Honda\'s 1954 original. That film asked what it felt like to live inside an atomic catastrophe. This one asks what is owed to those who survive when others do not. That turns out to be more than enough to carry a monster movie somewhere worth going."
     }
   },
+  {
+    id: "humanist-vampire-seeking-consenting-suicidal-person-2023",
+    title: "Humanist Vampire Seeking Consenting Suicidal Person",
+    originalTitle: "Vampire humaniste cherche suicidaire consentant",
+    romanization: null,
+    year: 2023,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/RLZHYRIcG2lL0yH1MA47p6Mthy.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/m5OItLBY5T38ew1YI4VSIXjl5G2.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/gbpy4mwYEodTutM9Z1HTEPK6i3S.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ksWqIui9jHo",
+    director: [
+      {
+        name: "Ariane Louis-Seize",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8nK7JObOUbMBEEaEADpretgKCQS.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Ariane Louis-Seize",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8nK7JObOUbMBEEaEADpretgKCQS.jpg"
+      },
+      {
+        name: "Christine Doyon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tvcaajwASDbKsnUbzn3mJABIGap.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Sara Montpetit", role: "Sasha", photoUrl: "https://image.tmdb.org/t/p/w185/lKMnPTkc8GCNoWrBS97dQpWwIJG.jpg" },
+      { actor: "Félix-Antoine Bénard", role: "Paul", photoUrl: "https://image.tmdb.org/t/p/w185/exazoduXozNhJQbrfdRBTPoA5CL.jpg" },
+      { actor: "Steve Laplante", role: "Aurélien", photoUrl: "https://image.tmdb.org/t/p/w185/1m7lwE9Su3xpatVoeW4XkslX0vs.jpg" },
+      { actor: "Sophie Cadieux", role: "Georgette", photoUrl: "https://image.tmdb.org/t/p/w185/eY9RtLw0F9P7fgbnj78lKzIbugI.jpg" },
+      { actor: "Noémie O\'Farrell", role: "Denise", photoUrl: "https://image.tmdb.org/t/p/w185/7Q9v6CrdhE8GHB0z84WQyiAfVx5.jpg" },
+      { actor: "Arnaud Vachon", role: "Henry", photoUrl: "https://image.tmdb.org/t/p/w185/arCGQNdKMIr2NzxGVQbUVQj1CS7.jpg" },
+      { actor: "Marie Brassard", role: "Victorine", photoUrl: "https://image.tmdb.org/t/p/w185/tc6y1AMuygsPR5KMKpatYoZa45k.jpg" },
+      { actor: "Madeleine Péloquin", role: "Sandrine", photoUrl: "https://image.tmdb.org/t/p/w185/dxAARQtPvpnFecBU9OatRSyA4IJ.jpg" },
+      { actor: "Gabriel-Antoine Roy", role: "JP", photoUrl: "https://image.tmdb.org/t/p/w185/Ah3t9gA0yRwwO0jHfPKsweOKaTJ.jpg" },
+      { actor: "Isabella Villalba", role: "Mélissa Bessette", photoUrl: "https://image.tmdb.org/t/p/w185/u8m8o5BLioIHCd9vKvguJ36O7MW.jpg" },
+      { actor: "Patrick Hivon", role: "Mr. Goyette", photoUrl: "https://image.tmdb.org/t/p/w185/hFzf98t22oW5JHBYgdoRnjojzKp.jpg" },
+      { actor: "Marc Beaupré", role: "Rico Berlingot", photoUrl: "https://image.tmdb.org/t/p/w185/qGBBmUfj5xlDWK15po0axpTUm3K.jpg" },
+      { actor: "Micheline Bernard", role: "Madame Gauvin", photoUrl: "https://image.tmdb.org/t/p/w185/mN3EoiEUtfWFS69NUr6kHMEU8oO.jpg" },
+      { actor: "Sylvie Lemay", role: "Renaude", photoUrl: "https://image.tmdb.org/t/p/w185/rzFZ2M6MznHqUcskZRrMc7urnfo.jpg" },
+      { actor: "Ariane Castellanos", role: "Claudie", photoUrl: "https://image.tmdb.org/t/p/w185/qd47V0TFZardFY9W7765pOwx5OC.jpg" },
+      { actor: "Lilas-Rose Cantin", role: "Young Sasha", photoUrl: "https://image.tmdb.org/t/p/w185/uwCNfFX90YvsCUM21nZwL2tJmc7.jpg" },
+      { actor: "Marguerite Bouchard", role: "Miranda", photoUrl: "https://image.tmdb.org/t/p/w185/sJlG3EOrejW2mev84zImRgVvLfD.jpg" },
+      { actor: "Pierre-Luc Lafontaine", role: "Jayden", photoUrl: "https://image.tmdb.org/t/p/w185/ap65JcQoAqPxfJQhY4LUCT06WbH.jpg" },
+      { actor: "Sarianne Cormier", role: "Child Psychiatrist", photoUrl: "https://image.tmdb.org/t/p/w185/xJx3QtQm7hqrcslYiZdGljXUpzm.jpg" },
+      { actor: "Patrice Dubois", role: "Doctor", photoUrl: "https://image.tmdb.org/t/p/w185/9SSMwdnBwKOqAvO8Ho9gv3sGsWt.jpg" },
+      { actor: "Jean-Philippe Lehoux", role: "Dentiste", photoUrl: "https://image.tmdb.org/t/p/w185/wbODQIKLZGuVCpQvg2zguZRfoc.jpg" },
+      { actor: "Sébastien Beaulac", role: "Bowling Customer", photoUrl: "https://image.tmdb.org/t/p/w185/cZu1W7FIVj45Bd6Gg3Dpo7OaMPJ.jpg" },
+      { actor: "Matai Stevens", role: "Stoner", photoUrl: "https://image.tmdb.org/t/p/w185/6RZrUCYI4IBqbl3SyjyJi9beUdq.jpg" },
+      { actor: "Serge Boulianne", role: "Christian", photoUrl: "https://image.tmdb.org/t/p/w185/zXLo0TKKNWqo1MasIuX00FMNodr.jpg" },
+      { actor: "Antoine Rivard-Nolin", role: "Tourist #2", photoUrl: "https://image.tmdb.org/t/p/w185/i3SfWqGylv1zvcVMThcjhlOGril.jpg" }
+    ],
+    languages: ["French"],
+    genres: ["Comedy", "Horror", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: ["frank portrayal of suicidal ideation and passive death-seeking", "bloodletting depicted as vampiric feeding", "mild blood and wound detail", "teenage social isolation and depression", "parental emotional withdrawal and conditional love"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:31" }
+    ],
+    awards: [
+      { body: "Giornate degli Autori / Venice Days (20th)", category: "Audience Award", result: "Won", year: 2023 },
+      { body: "Gala Québec Cinéma – Prix Iris (26th)", category: "Best Film", result: "Won", year: 2024 },
+      { body: "Gala Québec Cinéma – Prix Iris (26th)", category: "Best Director", result: "Won", year: 2024 },
+      { body: "Gala Québec Cinéma – Prix Iris (26th)", category: "Best Actress (Sara Montpetit)", result: "Won", year: 2024 },
+      { body: "Canadian Screen Awards (12th)", category: "Best Motion Picture", result: "Nominated", year: 2024 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["alienation", "mortality", "consent", "loneliness", "empathy", "belonging", "adolescence"],
+      mood: ["tender", "wry", "melancholic"],
+      fullReview: "Sasha is a vampire with a problem her family considers shameful: she cannot bring herself to kill. Centuries of predator instinct have failed to take hold in this particular branch, leaving her paralyzed at the crucial moment — not by fear, but by an excess of feeling. When her exasperated parents finally cut off her blood supply, her survival becomes urgent. The solution arrives in the form of Paul, a withdrawn teenage boy who has quietly decided he no longer wants to be alive and is willing, in a gesture of peculiar generosity, to let Sasha have what she needs. What follows across a single Montreal night is something stranger and more tender than either character bargained for.\n\nAriane Louis-Seize\'s debut feature earns its genre classification only partially. The horror elements are atmospheric backdrop rather than engine — a few drops of blood, some blue-lit family dinners with older vampires discussing logistics — and what actually propels the story is closer to a coming-of-age double portrait shot through with the particular sadness of two young people who feel radically out of place in their respective worlds. Sasha cannot fit into vampire society because she cares too much. Paul cannot fit into human society because he cares too little about his own continuation. The film is sharp enough to recognize that these are not mirror-image problems but genuinely different wounds, and it refuses to collapse one into the other.\n\nSara Montpetit is exceptional in the lead. Her Sasha has a stillness to her — watchful, slow to speak, always slightly behind the conversational rhythm of everyone else — that reads not as blankness but as an inner life running too deep for easy expression. There is a scene involving a window and the coming of morning light that she carries without a single word of dialogue, and it communicates more about the character than any speech in the film. Félix-Antoine Bénard as Paul faces a different kind of challenge: he has to inhabit a character who is not despairing in the theatrical sense but simply detached, and he threads that needle with a restraint that keeps the film from ever lurching into melodrama. The chemistry between them is not romantic in any conventional sense — it is the warmth of mutual recognition, two outliers discovering that another person sees the world in a way no one else has bothered to.\n\nThe screenplay, co-written by Louis-Seize and Christine Doyon, handles its thorniest material — a teenager\'s suicidal ideation framed as something to be negotiated around rather than rescued out of — with a care that never tips into sanitization. Paul is not cured by connection. He is not saved by anyone. What the film offers instead is more honest: the suggestion that being genuinely seen by another person, even briefly and strangely, can shift something internal without fixing it. The film does not make promises it cannot keep, which in this territory is a form of respect.\n\nCinematographer Shawn Pavlin gives the film a cool, grain-textured look that suits the nocturnal setting without turning oppressive. The Montreal locations — empty parking structures, a bowling alley at 2am, suburban streets drained of population — carry the specific loneliness of a city experienced only at its quietest hours. The production is clearly working within tight constraints, and Louis-Seize makes those limitations invisible by keeping the camera close to her characters and trusting atmosphere over spectacle.\n\nThe secondary world-building is where some momentum leaks. The vampire family dynamics — Sasha\'s parents, the cousins who kill without hesitation, the broader social architecture of this undead community — gesture at something more satirical than the film ultimately commits to. There are scenes of vampire domesticity that feel like setup for a sharper comedic payoff that never fully materializes. The horror genre scaffolding occasionally draws attention to itself as scaffolding, and the film works best when it forgets its own genre obligations and simply follows these two young people through the dark.\n\nThe third act recovers the emotional thread that the middle section slightly loosens, and the ending feels genuinely arrived at rather than assembled. What stays with a viewer afterward is less any specific beat and more the overall texture of the thing — its quietness, its refusal to exploit its own premise, the particular ache of two people who have been alone for a long time finding something like company. It is not a perfect film, but it is a distinctly humane one, which given that one of its protagonists is technically undead, feels like an achievement worth noting."
+    }
+  },
+  {
+    id: "la-chimera-2023",
+    title: "La Chimera",
+    originalTitle: null,
+    romanization: null,
+    year: 2023,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/xFXoQucc8WzmBWljptu5bjRmSWE.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/3jsA7jsABvL9Y4osRbr6lWH91fm.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/ovtTn2GkzOYsMvAVWl6Bt0jN4Ye.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=iv5JQpxKle0",
+    director: [
+      {
+        name: "Alice Rohrwacher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8xDpjRUr6hlS7aGh8W0DkNbfby7.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Alice Rohrwacher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8xDpjRUr6hlS7aGh8W0DkNbfby7.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Josh O'Connor", role: "Arthur", photoUrl: "https://image.tmdb.org/t/p/w185/iFGxCv7wMaComYR40Mt7fwbfY1k.jpg" },
+      { actor: "Carol Duarte", role: "Italia", photoUrl: "https://image.tmdb.org/t/p/w185/eDkJXH8mBCH45VPWbI3LKluc2vd.jpg" },
+      { actor: "Alba Rohrwacher", role: "Spartaco", photoUrl: "https://image.tmdb.org/t/p/w185/swffcvnDnj5966fdLSnXOMY186.jpg" },
+      { actor: "Isabella Rossellini", role: "Flora", photoUrl: "https://image.tmdb.org/t/p/w185/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg" },
+      { actor: "Vincenzo Nemolato", role: "Pirro", photoUrl: "https://image.tmdb.org/t/p/w185/wTFAFh5UKCPse91IX3QrMcwSRjx.jpg" },
+      { actor: "Lou Roy-Lecollinet", role: "Melodie", photoUrl: "https://image.tmdb.org/t/p/w185/8ATTKbxquBwk15iWPlAToN1WYx4.jpg" },
+      { actor: "Ramona Fiorini", role: "Fabiana", photoUrl: "https://image.tmdb.org/t/p/w185/jMneKkqao51iKbnRpXOm6g09wjS.jpg" },
+      { actor: "Yle Vianello", role: "Beniamina", photoUrl: "https://image.tmdb.org/t/p/w185/oqmoWSIlF2eikiGv42rmqEVNi6a.jpg" },
+      { actor: "Barbara Chiesa", role: "Nella", photoUrl: "https://image.tmdb.org/t/p/w185/6MmCaik4MzPNHf10HyOAUOUQcej.jpg" },
+      { actor: "Francesca Carrain", role: "Sista", photoUrl: "https://image.tmdb.org/t/p/w185/jXIGXubO1AiAbTboYyOiOT34N9i.jpg" },
+      { actor: "Luciano Vergaro", role: "Katir", photoUrl: "https://image.tmdb.org/t/p/w185/ykzkucW2OBK5pTnJ3aK0gIx0Fii.jpg" },
+      { actor: "Milutin Dapčević", role: "Spalletta", photoUrl: "https://image.tmdb.org/t/p/w185/ftgM7JfQ5Rd5ox0jE1d6RRZPW3J.jpg" },
+      { actor: "Luke Chikovani", role: "Cico the Junkie", photoUrl: "https://image.tmdb.org/t/p/w185/9i3Ixe0tXIw5GhxPGaXwI2WMbYk.jpg" },
+      { actor: "Agnese Graziani", role: "Agnese", photoUrl: "https://image.tmdb.org/t/p/w185/dhHTy7jIUfPXpMzm6WnIVtt1nmA.jpg" },
+      { actor: "Alessandro Genovesi", role: "Controller", photoUrl: "https://image.tmdb.org/t/p/w185/agk2QJ41GBBr7MPif03yGIc9x7L.jpg" },
+      { actor: "Maria Alexandra Lungu", role: "Alexandra", photoUrl: "https://image.tmdb.org/t/p/w185/vOW6jKgCguW1oz9HUJlPGOyMt6v.jpg" },
+      { actor: "Sofija Zobina", role: "Sofjia", photoUrl: "https://image.tmdb.org/t/p/w185/wTgPq30y4Zm25nExxeuR3QHpQNo.jpg" },
+      { actor: "Adriano Tardiolo", role: "(uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/dBZlZ3QDPaNmhhjhO5gwHmet2KE.jpg" }
+    ],
+    languages: ["Italian", "English", "French", "Portuguese"],
+    genres: ["Drama", "Fantasy"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: ["depictions of heroin use and intoxication", "sustained grief and longing for the dead", "brief non-sexual nudity", "mild violence in police confrontations", "depictions of archaeological looting and black-market antiquities trade"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:11" }
+    ],
+    awards: [
+      { body: "David di Donatello (69th)", category: "Best Film", result: "Won", year: 2024 },
+      { body: "David di Donatello (69th)", category: "Best Director", result: "Won", year: 2024 },
+      { body: "Nastri d'Argento (78th)", category: "Best Film", result: "Nominated", year: 2024 },
+      { body: "Nastri d'Argento (78th)", category: "Best Director", result: "Nominated", year: 2024 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "desire", "transgression", "plunder", "obsession", "loss", "belonging"],
+      mood: ["elegiac", "hypnotic", "wistful"],
+      fullReview: "Arthur comes out of prison looking like he already belongs underground. Rumpled, hollow-eyed, existing somewhere between the living and whatever waits beneath the earth, Josh O'Connor's English archaeologist wanders back into the sunburned Tuscan countryside and rejoins the tombaroli — his ragtag crew of grave robbers who have been looting Etruscan burial chambers and fencing the contents to unscrupulous dealers since before he went away. Arthur has a gift: he can feel the chambers, sense them through the crust of the ground, pulled toward the buried dark by something that feels less like talent and more like sympathy. Whether that gift is supernatural or the film's most elegant metaphor is a question Alice Rohrwacher — who wrote and directed La Chimera — declines to answer, because the film operates in a register where that distinction has already dissolved.\n\nThis is a work about desire without a destination. Arthur is haunted by a woman named Beniamina, dead before the film begins and present everywhere within it — in photographs, in half-dreams, in the hollow of his chest that the camera returns to as he dowses for buried treasure. The Etruscan objects the tombaroli pull from the ground — terracotta figures, painted amphorae, bronze artifacts — are beautiful and immediately displaced, torn from the context that gave them meaning and absorbed into an international market where they will mean something entirely different. Rohrwacher draws a quiet line between Arthur's obsession with the lost woman and his crew's compulsive relationship with the ancient dead, and she draws it without underlining. The film is unusually graceful about its own intelligence.\n\nO'Connor carries the role as a sustained act of restraint. The grief is worn rather than performed — a permanent weather system rather than a dramatic event — and the result is a character who feels genuinely inhabited rather than constructed. He is funny without appearing to try, and in the sequences where Arthur descends into the tombs and the camera holds on his face in the dark, the film briefly tips toward something visionary. Carol Duarte as Italia — young, rootless, reaching toward a future that hasn't been named yet — brings an opposing force: forward-facing where Arthur faces only backward. Isabella Rossellini, as Flora, Beniamina's aging mother, works in scenes of carefully calibrated tenderness that never tip into sentimentality. These three form the film's emotional spine, and each is trusted to do more with stillness than speech.\n\nHélène Louvart's cinematography moves between registers of light — bleached afternoon, cavernous underground dark, the glow of outdoor suppers — without any of it feeling arranged for effect. The Tuscan countryside is shot with a restraint that makes it feel genuinely ancient rather than picturesque, which matters enormously in a film so concerned with what lies beneath the surface of things. Nelly Quettier's editing works in an associative mode; sequences don't always connect through conventional story logic, but they connect emotionally, which is what Rohrwacher is building toward.\n\nAt 131 minutes, the film occasionally loses its footing. Some sequences among the extended tombaroli household feel more atmospheric than inhabited, and a handful of supporting characters exist at a level of whimsy that sits slightly uneasily against the more grounded emotional core. Rohrwacher is working within the tradition of Italian magical realism — myth and contemporary life treated as simultaneously present — and when she is fully inside it, the film is extraordinary. When the grip loosens, it loosens because the reach is genuine rather than careless.\n\nThe chimera of the title operates on multiple levels: the mythological hybrid beast, the impossible combination, the beautiful delusion that organizes a life without ever delivering on its promise. What Arthur wants cannot be possessed. What the tombaroli pull from the earth is diminished by the act of retrieval. What stays with a viewer long after the final image is not any particular scene but the film's overall insistence: that a life organized around an absence is still, in some fundamental way, a life. Rohrwacher makes no promises about resolution, and La Chimera is considerably braver for it."
+    }
+  },
+  {
+    id: "red-rooms-2023",
+    title: "Red Rooms",
+    originalTitle: "Les Chambres rouges",
+    romanization: null,
+    year: 2023,
+    tagline: "We see you, and you are obscene.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/cP4eEMMzSm0y5Zcqor0NZGefZ0j.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/4VzKLtrbbgTjuHtkJn5U99VG9I3.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/83g3gkDw6oc2mxkyB8DSoXQZJHl.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=r1sj0OFXbkE",
+    director: [
+      {
+        name: "Pascal Plante",
+        photoUrl: "https://image.tmdb.org/t/p/w185/93qg4CYdFgAbqoB5pjk86I72hjn.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Pascal Plante",
+        photoUrl: "https://image.tmdb.org/t/p/w185/93qg4CYdFgAbqoB5pjk86I72hjn.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Juliette Gariépy", role: "Kelly-Anne", photoUrl: "https://image.tmdb.org/t/p/w185/8VKm8ykUiuE58AG7rFtf9C05AFS.jpg" },
+      { actor: "Laurie Babin", role: "Clémentine", photoUrl: "https://image.tmdb.org/t/p/w185/6YMl1dcf9ff9IOpqXf2LZHb8i4G.jpg" },
+      { actor: "Élisabeth Locas", role: "Francine Beaulieu", photoUrl: "https://image.tmdb.org/t/p/w185/w81zGfP29nbMBu4UYY0TFhZ9MD3.jpg" },
+      { actor: "Maxwell McCabe-Lokos", role: "Ludovic Chevalier", photoUrl: "https://image.tmdb.org/t/p/w185/c8iSpCzazK7A3LiFas7RWzDLMMV.jpg" },
+      { actor: "Natalie Tannous", role: "Maître Chedid — Couronne", photoUrl: "https://image.tmdb.org/t/p/w185/3uaRbS1m1OgvqfLZF2OeAcY3oXi.jpg" },
+      { actor: "Pierre Chagnon", role: "Maître Fortin — Défense", photoUrl: "https://image.tmdb.org/t/p/w185/iqdvHnF92IvhLfiT7ZcKpYiK5u8.jpg" },
+      { actor: "Guy Thauvette", role: "Juge Marcel Godbout", photoUrl: "https://image.tmdb.org/t/p/w185/kBOEY9Oc9VrY0ZxSj86RwF0JY7y.jpg" },
+      { actor: "Charlotte Aubin", role: "Actrice Talk Show", photoUrl: "https://image.tmdb.org/t/p/w185/vFsOO1PTDx9I2RjUrsY88xbSvHY.jpg" },
+      { actor: "Sébastien Beaulac", role: "Agent de sécurité #2", photoUrl: "https://image.tmdb.org/t/p/w185/cZu1W7FIVj45Bd6Gg3Dpo7OaMPJ.jpg" },
+      { actor: "Frédérick de Grandpré", role: "Mathieu Breton", photoUrl: "https://image.tmdb.org/t/p/w185/jlJyr91laQ1CFXPwqc79DNgsryP.jpg" },
+      { actor: "Stanley Hilaire", role: "Reporter — CN24", photoUrl: "https://image.tmdb.org/t/p/w185/pPKC8kvtgVrKmnxzdleoycfx3Il.jpg" },
+      { actor: "Vitali Makarov", role: "Detective", photoUrl: "https://image.tmdb.org/t/p/w185/iRLMeVp7QyBw5SjoATP4ezmSAAk.jpg" },
+      { actor: "Rebecca Makonnen", role: "Chroniqueur Talk Show", photoUrl: "https://image.tmdb.org/t/p/w185/lFDQc1TwbtAZsacUJXBQGZUZyDs.jpg" },
+      { actor: "Maxim Martin", role: "Humoriste Talk Show", photoUrl: "https://image.tmdb.org/t/p/w185/vo7PGIqF7Pq4hbaGgPCphsoaon3.jpg" },
+      { actor: "Marie-Gabrielle Ménard", role: "Virginie Rivard — TVN", photoUrl: "https://image.tmdb.org/t/p/w185/bfKRWFRsjBDGBxR7tGlReDuFCU2.jpg" },
+      { actor: "Richard Turcotte", role: "Animateur Talk Show", photoUrl: "https://image.tmdb.org/t/p/w185/fP8POkXed55HEqgFqMT2LQLQxlS.jpg" },
+      { actor: "Nadia Verrucci", role: "Lucie Faggiolo (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/gJfNxvHc3dvEcj0tGXtgUGy2EzP.jpg" },
+      { actor: "Simone Bilodeau", role: "Kim (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/6hehhRPc8rUq2Qu9nXTEwo2qzzQ.jpg" }
+    ],
+    languages: ["French", "English"],
+    genres: ["Thriller", "Crime", "Psychological"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: ["courtroom testimony describing filmed murders of minors", "implied consumption of snuff video content", "dark web trafficking and criminal exploitation networks", "compulsive gambling and financial self-destruction", "extreme psychological fixation on violent criminal acts"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:58" }
+    ],
+    awards: [
+      { body: "Fantasia International Film Festival (27th)", category: "Best Canadian Feature Film", result: "Won", year: 2023 },
+      { body: "Gala Québec Cinéma – Prix Iris (26th)", category: "Best Film", result: "Won", year: 2024 },
+      { body: "Gala Québec Cinéma – Prix Iris (26th)", category: "Best Director", result: "Won", year: 2024 },
+      { body: "Gala Québec Cinéma – Prix Iris (26th)", category: "Best Actress (Juliette Gariépy)", result: "Won", year: 2024 },
+      { body: "Canadian Screen Awards (12th)", category: "Best Motion Picture", result: "Nominated", year: 2024 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["obsession", "voyeurism", "complicity", "spectacle", "anonymity", "culpability", "exploitation"],
+      mood: ["suffocating", "cold", "disquieting"],
+      fullReview: "Kelly-Anne sits in the public gallery of a Montreal courtroom every single day. She is young, precise, and beautiful in the way of someone who has spent careful effort appearing not to care about any of those things. The trial in session is for Ludovic Chevalier, accused of murdering several young girls and filming the acts for distribution on the dark web — the so-called red rooms of the title. Kelly-Anne watches from the gallery with an expression that gives away nothing, takes meticulous notes, and returns the following morning. Pascal Plante's film is built around the question of what exactly is behind those eyes, and it is wise enough to never fully answer.\n\nJuliette Gariépy's performance is the film's engine and its most troubling mystery. She gives Kelly-Anne a surface of complete control — every interaction calibrated, every reaction withheld just a half-second longer than normal — and the camera watches her with the same slightly unnerving attentiveness with which she watches everything else. There are moments where the film holds on her face during testimony describing atrocities, and what Gariépy manages in those moments — something that reads simultaneously as horror, fascination, and an impossible blankness — is the kind of actorly work that cannot be taught or coached. It simply has to be found.\n\nThe film around her is equally precise. Vincent Biron's cinematography operates almost entirely in cold blues and the particular pallor of screen-lit rooms — a visual language that ties the courtroom, Kelly-Anne's apartment, and the dark corners of the internet into a single continuous space of watching. Plante, who also wrote the script, has made a film that is genuinely engaged with what images do to people who seek them, and what seeking them does to those people in return. This is not commentary delivered from the outside. It operates from within the discomfort.\n\nThe courtroom sequences are exceptional. Legal proceedings unfold in the flat, administrative register of actual proceedings, and the testimonies describing the alleged crimes — read from transcripts, absorbed by a gallery that keeps returning — are presented without dramatic inflation. That restraint makes them far harder to sit with than any horror film's more conventional approach to comparable material.\n\nLaurie Babin as Clémentine, a young woman Kelly-Anne meets in the gallery who has convinced herself of the killer's innocence, provides the film's most explicitly human element. She is credulous, fragile, and reaching for something the case seems to offer. The contrast between the two women — one who knows precisely what she is doing and why, one who emphatically does not — gives the film its sharpest edges. Clémentine is what an obsession looks like when it is not under control. Kelly-Anne is what it looks like when it is.\n\nPlante is working in territory that Haneke mapped — cinema as a space of ethical confrontation rather than ethical instruction — but with a specificity to the contemporary internet moment that makes Red Rooms feel distinctly its own. The dark web is not deployed as lurid backdrop but as a structural element of the film's argument: these spaces exist because demand for them exists, and demand exists because people watch, and the film quietly asks its audience to consider their own position in that chain.\n\nThe ending resolves nothing and explains nothing. For some viewers this will feel like evasion. It is the opposite: the film has been honest about Kelly-Anne from the first frame, and the conclusion is the only one the film could have reached without betraying what it has spent two hours constructing. What stays behind is a residue of unease that has no comfortable object to attach itself to — which is, one suspects, exactly where Plante intended to leave anyone sitting through it."
+    }
+  },
+  {
+    id: "la-bete-2023",
+    title: "The Beast",
+    originalTitle: "La Bête",
+    romanization: null,
+    year: 2023,
+    tagline: "You remember, don\'t you? That we have already met?",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/8saMkDrG2ydHrlH5m23wcaqmsBa.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/v4GQdDqEbYZE1F9Q7NPAEftrepD.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/e4GdyAtLXbaTW1RmZIc8Atf3EFZ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Z5KsjVf8YdU",
+    director: [
+      {
+        name: "Bertrand Bonello",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cLjSLK1L7GlkdWkZOyixka12CDM.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Bertrand Bonello",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cLjSLK1L7GlkdWkZOyixka12CDM.jpg"
+      },
+      {
+        name: "Guillaume Bréaud",
+        photoUrl: null
+      },
+      {
+        name: "Benjamin Charbit",
+        photoUrl: null
+      },
+      {
+        name: "Henry James",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gzLNPzEO8kfnvqFzU9bDolIoSvp.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Léa Seydoux", role: "Gabrielle", photoUrl: "https://image.tmdb.org/t/p/w185/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg" },
+      { actor: "George MacKay", role: "Louis", photoUrl: "https://image.tmdb.org/t/p/w185/xROmV7s8QtAIfhTUPhVl7qB0H2z.jpg" },
+      { actor: "Guslagie Malanda", role: "Poupée Kelly", photoUrl: "https://image.tmdb.org/t/p/w185/fjGrRcK4SoGLptulNbqMKxm39Am.jpg" },
+      { actor: "Dasha Nekrasova", role: "Dakota", photoUrl: "https://image.tmdb.org/t/p/w185/iEWg6G96sOtzRphRlJCVjw7TQOt.jpg" },
+      { actor: "Martin Scali", role: "Georges", photoUrl: "https://image.tmdb.org/t/p/w185/7ZCSe1elg6wYQK5DWrBjPT9ApWo.jpg" },
+      { actor: "Elina Löwensohn", role: "La voyante", photoUrl: "https://image.tmdb.org/t/p/w185/pRFLUsONKzg0hnl2CLnNBE4AJZ1.jpg" },
+      { actor: "Julia Faure", role: "Sophie", photoUrl: "https://image.tmdb.org/t/p/w185/5DvDNQ0Rs85Ytn3VtBAXdzGZ8PT.jpg" },
+      { actor: "Kester Lovelace", role: "Tom", photoUrl: "https://image.tmdb.org/t/p/w185/h8Q3nQk0raypAkJmUS0vBJTbKqM.jpg" },
+      { actor: "Pierre-François Garel", role: "Paul Poiret", photoUrl: "https://image.tmdb.org/t/p/w185/t7LKGGI7JofWwMXybblDNMNnPik.jpg" },
+      { actor: "Céline Carrère", role: "Femme bal 1910", photoUrl: "https://image.tmdb.org/t/p/w185/pCT5T8zxyCUVnqYLWoD6tVDhXfn.jpg" },
+      { actor: "Lukas Ionesco", role: "Anton", photoUrl: "https://image.tmdb.org/t/p/w185/zMB3gKPhE2yQa5WMDo8t3rduK1N.jpg" },
+      { actor: "Hortense Gelinet", role: "Femme bal 1910", photoUrl: "https://image.tmdb.org/t/p/w185/cjrQEubOItAF8D5vA8CTkcbv7jk.jpg" },
+      { actor: "Pauline Jacquard", role: "Femme bal 1910", photoUrl: "https://image.tmdb.org/t/p/w185/oVVIvxnc3wTpedMqqfC7NxFbeA.jpg" },
+      { actor: "Alice Barnole", role: "Femme bal 1910", photoUrl: "https://image.tmdb.org/t/p/w185/wMuflxtKYXadpxUvpWF4eCXGObn.jpg" },
+      { actor: "Théo Hakola", role: "Le barman clubs", photoUrl: "https://image.tmdb.org/t/p/w185/8WrOi8k90Xolb7YATZptlUbtw2G.jpg" },
+      { actor: "Antoine Barraud", role: "Homme club 1972", photoUrl: "https://image.tmdb.org/t/p/w185/9F9OhMf3KzMNwjegYCwOy4a699T.jpg" },
+      { actor: "Isabelle Prim", role: "Femme clubs", photoUrl: "https://image.tmdb.org/t/p/w185/cvH88ZXh4FbNZsoMShTebUFaZXt.jpg" },
+      { actor: "Lottie Andersen", role: "Femme clubs", photoUrl: "https://image.tmdb.org/t/p/w185/quWMizWIC4EUpP5KjG0Gksi3yhg.jpg" },
+      { actor: "Tom Neal", role: "Assistant réalisateur pub sécurité routière", photoUrl: "https://image.tmdb.org/t/p/w185/6mG1vGJhvNrb1xLRjOQa7cSOqHk.jpg" },
+      { actor: "Tiffany Hofstetter", role: "Femme pub sécurité routière", photoUrl: "https://image.tmdb.org/t/p/w185/ge4F2wAqKkNFwTOYebcn6EMSXJD.jpg" },
+      { actor: "Dimitri Michelsen", role: "Homme pub sécurité routière", photoUrl: "https://image.tmdb.org/t/p/w185/ceJhvchTvxdZA8BZ6Lps3XgfzKH.jpg" },
+      { actor: "Rémi Canaple", role: "Homme pub sécurité routière", photoUrl: "https://image.tmdb.org/t/p/w185/qcmYLliIBmkBNa88NOpbMapBSz1.jpg" },
+      { actor: "Jean-Baptiste Heuet", role: "Homme casting mannequins", photoUrl: "https://image.tmdb.org/t/p/w185/wp8vpNuooT5zGTpzRFLUM1auI8E.jpg" },
+      { actor: "Andrew Eldridge", role: "Chanteur émission karaoké", photoUrl: "https://image.tmdb.org/t/p/w185/4KwrBfNnCQSuTC7dAD3ue88iTXw.jpg" },
+      { actor: "Xavier Dolan", role: "Système intelligence artificielle (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/dfZnAEiwGjUkymUHf4zl6vR4uSp.jpg" },
+      { actor: "Adam Carage", role: "Mr. Denver (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/wxjeZviOeysnDazIerO4j81sP6K.jpg" },
+      { actor: "Bertrand Bonello", role: "Réalisateur fond vert (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/cLjSLK1L7GlkdWkZOyixka12CDM.jpg" },
+      { actor: "Doug Rand", role: "Voix service sécurité (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/kBDawasRQXDvZThX75bMEgl1xcd.jpg" },
+      { actor: "Jiselle Henderkott", role: "Danseur club (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/yLsxObkm4b3aZbCWIN4gijimIdE.jpg" }
+    ],
+    languages: ["French", "English"],
+    genres: ["Drama", "Romance", "Sci-fi", "Psychological"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: ["stalking and obsessive pursuit", "incel radicalization and misogynistic ideology", "references to mass violence and gun culture", "brief non-explicit sexual content", "psychological dread and dissociation", "emotional manipulation in romantic contexts"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "02:26" }
+    ],
+    awards: [
+      { body: "César Awards (50th)", category: "Best Film", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Director", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Actress", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Cinematography", result: "Nominated", year: 2025 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["fate", "repetition", "suppression", "memory", "connection", "vulnerability", "radicalization"],
+      mood: ["hypnotic", "melancholic", "unsettling"],
+      fullReview: "In a near-future Paris where emotional intensity has been reclassified as a biological liability, a woman named Gabrielle agrees to undergo a DNA purification procedure — a machine-assisted immersion in her past lives designed to drain her of whatever overwhelming feeling runs through her. The film follows her back across two prior existences: an aristocratic household in 1910, all suppressed longing and candlelight, and a sun-bleached stretch of Los Angeles in 2014, where she drifts between failed auditions and a growing sense of being watched. In each era a man appears, different face, same unnameable pull, and what Gabrielle experiences in his presence exists somewhere between recognition and a warning her body cannot decode. The film is loosely adapted from Henry James\'s short story about a person who spends a lifetime waiting for a catastrophe that may have already happened.\n\nBertrand Bonello has spent his career working in register and texture rather than conventional story mechanics, and La Bête is his most formally audacious attempt. The triptych structure circles rather than advances, accumulating meaning through repetition the way a melody accrues weight when it returns in a different key. The 1910 sequences are ravishing and evasive — the characters speak entirely around what they actually feel, and the period production is impeccable without ever becoming a fetish object. Then the film drops into 2014 Los Angeles and the temperature changes violently.\n\nThat middle section is the reason to see the film. Louis, played by George MacKay with a very specific and unnerving precision, is a young man who has constructed an entire worldview out of romantic rejection. He films himself in his apartment, cataloging resentments, addressing an audience that exists only in his imagination, directing contempt at women who have simply continued living their lives without acknowledging his. Bonello draws directly from the rhetoric and YouTube presence of the Elliot Rodger case, and what makes the sequence so genuinely disturbing is that it refuses to aestheticize the menace. Louis is petty and grandiose and ordinary, and MacKay finds the particular horror in that ordinariness — the way such a person does not look monstrous until the moment something inside him trips.\n\nAgainst all three of these timelines Léa Seydoux carries Gabrielle with a performance constructed almost entirely from withholding. There is a version of this role that performs the romantic longing in extended close-up, that externalizes the fear. Seydoux does the reverse. Her Gabrielle is a woman in continuous self-management, present but operating slightly behind glass, as if she has already intuited that allowing herself to feel fully will cost her something she cannot afford. It is exceptional work, quiet in a way that demands attention and strange in a way the film has earned.\n\nThe future framing is the film\'s most conceptually ambitious element and its least stable. The 2044 sequences build a credible cold world — sterile interiors, algorithmic governance, the bureaucratization of emotional experience — and Bonello\'s central argument is serious: that purging the capacity for intense feeling is not health but erasure of personhood. That argument arrives with force. What occasionally falters is the pacing within those future segments, which can feel explanatory rather than generative, the film telling the audience what to conclude rather than producing the conclusion through experience.\n\nJosée Deshaies\'s cinematography gives each era its own visual logic. The 1910 sections breathe in diffused warm light. The LA footage has the flat, overexposed quality of a city that exists outside of weather. The future interiors are stripped of almost anything approaching warmth. The score, composed by Bonello alongside his daughter Anna, threads across all three centuries without announcing its transitions — it works on the audience below conscious attention, which is precisely the right register for a film about things the mind cannot quite name.\n\nAt nearly two and a half hours the film has passages where its deliberateness tips into stasis, where a scene continues past the moment of maximum effect because Bonello trusts the atmosphere to do work the structure is no longer doing. That trust is occasionally misplaced. But La Bête is wrong the way interesting films are wrong — pressing past the point of comfort in service of an ambition that is worth the overreach. What remains after the cold quiet of its final images: the suggestion that love and dread might share the same neural pathway, that recognizing someone across lifetimes could feel less like destiny and more like the body\'s oldest alarm. For viewers who need narrative momentum, this will be a long and frustrating evening. For those willing to sit inside its particular frequency, it offers something that most films do not attempt."
+    }
+  },
+  {
+    id: "bastarden-2023",
+    title: "The Promised Land",
+    originalTitle: "Bastarden",
+    romanization: null,
+    year: 2023,
+    tagline: "A captain\'s ambition, a ruthless rival, and a land that defies them both.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/hnHvrbdOs8bvVLUaSAscUl3x2Mj.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/okVwls2laPGOsLKKhXQCEiTBwpw.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/pERcOAR1Teg4sLDDqRXj1TBjVsn.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=fRO5x4Kp7gU",
+    director: [
+      {
+        name: "Nikolaj Arcel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/59d1ivTOr81kbS8Gq2NkLhfW6iO.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Nikolaj Arcel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/59d1ivTOr81kbS8Gq2NkLhfW6iO.jpg"
+      },
+      {
+        name: "Anders Thomas Jensen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uxSfY1Svi9WJvqX7IJWapFvTrgA.jpg"
+      },
+      {
+        name: "Ida Jessen",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      { actor: "Mads Mikkelsen", role: "Ludvig Kahlen", photoUrl: "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg" },
+      { actor: "Amanda Collin", role: "Ann Barbara", photoUrl: "https://image.tmdb.org/t/p/w185/bFm5zt8vxD09Ez6irsJItmPigjq.jpg" },
+      { actor: "Simon Bennebjerg", role: "Frederik de Schinkel", photoUrl: "https://image.tmdb.org/t/p/w185/idjq71III6dK9WCi1aarDqxN072.jpg" },
+      { actor: "Kristine Kujath Thorp", role: "Edel Helene", photoUrl: "https://image.tmdb.org/t/p/w185/bEG4jhwZB2zrY5COMhkhAzDDQ50.jpg" },
+      { actor: "Gustav Lindh", role: "Anton Eklund", photoUrl: "https://image.tmdb.org/t/p/w185/qbCsiIl0C0E1vYvLXqK2T98bvyO.jpg" },
+      { actor: "Jacob Lohmann", role: "Trappaud", photoUrl: "https://image.tmdb.org/t/p/w185/g4uWdGKfR5TkuyCNLvdiFqmzg1C.jpg" },
+      { actor: "Morten Hee Andersen", role: "Johannes Eriksen", photoUrl: "https://image.tmdb.org/t/p/w185/o5tYVohJtCbpmUkbsHHAcq6W9vZ.jpg" },
+      { actor: "Magnus Krepper", role: "Hector", photoUrl: "https://image.tmdb.org/t/p/w185/xFN9sb8S2fjcUtbWvzTxoLH4QUJ.jpg" },
+      { actor: "Søren Malling", role: "Paulli", photoUrl: "https://image.tmdb.org/t/p/w185/5jmNDae49UgMGMOKTdjIqb8klUg.jpg" },
+      { actor: "Morten Burian", role: "Lauenfeldt", photoUrl: "https://image.tmdb.org/t/p/w185/tS9HnCx8cHaoLLruGxbti4xkzkm.jpg" },
+      { actor: "Thomas W. Gabrielsson", role: "Bondo", photoUrl: "https://image.tmdb.org/t/p/w185/fAuJ19LYC8nnvrxIf6o430nNvRS.jpg" },
+      { actor: "Morten Buus", role: "Colonist", photoUrl: "https://image.tmdb.org/t/p/w185/daqYqn36sL1Tq1NabFcKy6tCXs1.jpg" },
+      { actor: "Olaf Højgaard", role: "Preisler", photoUrl: "https://image.tmdb.org/t/p/w185/2kHzUQW1OeuVNJAk1Ii0Dh4BrmM.jpg" },
+      { actor: "Melina Hagberg", role: "Anmai Mus", photoUrl: "https://image.tmdb.org/t/p/w185/8UxaBgdoEN4U3qHiOlS8xGDqNHb.jpg" },
+      { actor: "Felix Kramer", role: "Balzer", photoUrl: "https://image.tmdb.org/t/p/w185/miTBzoeUCmJZjtkhiXQAwRKlukl.jpg" },
+      { actor: "Laura Bilgrau Eskild-Jensen", role: "Anmai Mus (15)", photoUrl: "https://image.tmdb.org/t/p/w185/7LLy7aME1DAZt9YlfLPznjDGpr4.jpg" },
+      { actor: "Anna Filippa Hjarne", role: "Anne", photoUrl: "https://image.tmdb.org/t/p/w185/ofnh13g8ykmy5cWrbtngQ1IujIX.jpg" },
+      { actor: "Jiří Konvalinka", role: "Rømer", photoUrl: "https://image.tmdb.org/t/p/w185/2syKKzz3DLBMQ9qQfUMQB5AuNXa.jpg" },
+      { actor: "Martin Feifel", role: "Colonist Klein", photoUrl: "https://image.tmdb.org/t/p/w185/pqJIPUoL1rPAjBHJtXGNPfiyDtW.jpg" },
+      { actor: "Lasse Steen Jensen", role: "Uldrich", photoUrl: "https://image.tmdb.org/t/p/w185/2BEbAptG4e0Ehq6uKGsgVMJa7H1.jpg" },
+      { actor: "Nanna Finding Koppel", role: "Lise", photoUrl: "https://image.tmdb.org/t/p/w185/wOFX2i0ZxiF82gRyTiypiILWEE4.jpg" },
+      { actor: "Michael Brostrup", role: "Workman", photoUrl: "https://image.tmdb.org/t/p/w185/xypFCKPY8N78wH06Z6D93EAPjNt.jpg" },
+      { actor: "Joen Højerslev", role: "Coachman", photoUrl: "https://image.tmdb.org/t/p/w185/LuHMKVKFU8PQ66e6t8TqdGhfKI.jpg" },
+      { actor: "Patricie Šlaufová", role: "Kristel", photoUrl: "https://image.tmdb.org/t/p/w185/A7r2TcooH3DgvGfHIiswH4wPWlQ.jpg" },
+      { actor: "Jan Jankovský", role: "Gypsy #1", photoUrl: "https://image.tmdb.org/t/p/w185/nfgoONnsmbEmTCV9wKiB9bpw1cx.jpg" },
+      { actor: "Kristián Černík", role: "Schinkel\'s Guard", photoUrl: "https://image.tmdb.org/t/p/w185/7EP78fH2CxZm7tsUmaZs8pywKvl.jpg" },
+      { actor: "Lise Risom Olsen", role: "Kirstin", photoUrl: "https://image.tmdb.org/t/p/w185/wKQe6fWYgv4c2B9Rxn4wTfGYjpQ.jpg" },
+      { actor: "Nikol Kouklová", role: "Antonius\' Girlfriend", photoUrl: "https://image.tmdb.org/t/p/w185/7zeBBZ2YfYVOWwQuTNnJstlplAC.jpg" },
+      { actor: "Hans Christian Lundgren", role: "Kaspar", photoUrl: "https://image.tmdb.org/t/p/w185/oMVSZpbe8lZ1MU2pFR1H27X5Brm.jpg" },
+      { actor: "Arved Friese", role: "Colonist Claus", photoUrl: "https://image.tmdb.org/t/p/w185/jegac7EfFESDIeSnz5V1z1cyz2d.jpg" },
+      { actor: "Zdeněk Dvořáček", role: "Prisoner #2", photoUrl: "https://image.tmdb.org/t/p/w185/7jUq2nf3dk1Qgc2N1rBUmYgteWx.jpg" },
+      { actor: "Adam Pengsawang", role: "Prisoner #4", photoUrl: "https://image.tmdb.org/t/p/w185/g6RwU6N513ZPIYegxc5CUU7G5Dk.jpg" },
+      { actor: "Finn Nielsen", role: "Estate Owner", photoUrl: "https://image.tmdb.org/t/p/w185/fF5AMwSKkG7JXruzr8P6vcby4rm.jpg" }
+    ],
+    languages: ["Danish", "German", "Swedish", "Norwegian"],
+    genres: ["Drama", "History", "Period"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: ["period-accurate flogging and corporal punishment", "scenes of captivity and coerced servitude", "graphic retributive violence including branding", "moderate blood and injury detail", "sustained psychological cruelty and intimidation", "depictions of class-based brutality against the poor"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "02:07" }
+    ],
+    awards: [
+      { body: "European Film Awards (36th)", category: "Best Actor (Mads Mikkelsen)", result: "Won", year: 2023 },
+      { body: "Robert Awards (33rd)", category: "Best Danish Film", result: "Won", year: 2024 },
+      { body: "Robert Awards (33rd)", category: "Best Director", result: "Won", year: 2024 },
+      { body: "Robert Awards (33rd)", category: "Best Male Lead Performance", result: "Won", year: 2024 },
+      { body: "Bodil Awards (65th)", category: "Best Danish Film", result: "Won", year: 2024 },
+      { body: "Bodil Awards (65th)", category: "Best Male Lead Performance", result: "Won", year: 2024 },
+      { body: "Academy Awards (96th)", category: "Best International Feature Film", result: "Nominated", year: 2024 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2024 },
+      { body: "Golden Globe Awards (81st)", category: "Best Non-English Language Film", result: "Nominated", year: 2024 },
+      { body: "European Film Awards (36th)", category: "Best Film", result: "Nominated", year: 2023 },
+      { body: "European Film Awards (36th)", category: "Best Director", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["ambition", "class", "perseverance", "colonialism", "belonging", "sacrifice", "dignity"],
+      mood: ["austere", "stirring", "bleak"],
+      fullReview: "Denmark, 1755. Captain Ludvig Kahlen — illegitimate son, decorated soldier, man without land or title — arrives on the Jutland heath with a single wagon, a pair of servants, and a proposition that everyone around him considers an act of madness. He intends to tame the uncultivable wilderness and establish a royal colony there, earning in exchange the noble rank that birth denied him. Standing between Kahlen and that dream is Frederik de Schinkel, the local lord who owns the heath on paper and considers any challenge to that ownership a personal insult requiring a personal response. What unfolds between them is not quite a conventional clash of hero and villain — though it sometimes comes close — so much as a collision between two men who have decided their will is the most important thing in the world.\n\nNikolaj Arcel is not a filmmaker interested in reinventing the wheel. What he is interested in, and what saves the film from being merely handsome and efficient, is the texture of a single extraordinary face. Mads Mikkelsen carries Kahlen with a stillness that the script itself could not have written — a quality of internal weather that registers as stubbornness, or grief, or contempt, or longing, depending on what the scene requires, without the actor ever quite signaling which one he has chosen. Kahlen is a man who has learned to govern his own expression the way a soldier learns to govern fear, and Mikkelsen makes that self-governance feel both admirable and quietly devastating. The film\'s most powerful passages are often its quietest: a conversation that ends without the words anyone expected, a look held a beat past comfort, a silence that contains everything the character has refused to say.\n\nSimon Bennebjerg, as de Schinkel, plays the film\'s antagonist with an intelligent refusal to simply be monstrous. He is vain, entitled, and capable of considerable brutality, but Bennebjerg finds the specific quality of a man who genuinely cannot understand why the world would resist him — a self-righteous bewilderment that makes him more unsettling than pure menace would. The scenes between Mikkelsen and Bennebjerg have an almost chemical tension, two different kinds of rigidity meeting and neither giving way.\n\nAmanda Collin brings warmth and resilience to Ann Barbara, the film\'s moral center, and it is to the screenplay\'s credit that her character is given a history, stakes, and a specific kind of courage that has nothing to do with narrative convenience. Kristine Kujath Thorp and Gustav Lindh make an impression in smaller roles, and the film is unusually careful about its supporting cast — the colonists who gather around Kahlen are differentiated enough to feel like real people rather than background.\n\nRasmus Videbæk\'s cinematography turns the Jutland heath into something almost lunar — flat, grey, hostile, indifferent to human drama. It is the right landscape for this film. The cold and the mud feel earned rather than decorative, and when the season shifts, the light shifts with it in ways that track the story\'s emotional movement without commentary. Dan Romer\'s score is restrained in a way that period epics rarely are, content to support rather than amplify, which is the correct instinct here.\n\nWhere the film runs into trouble is in its third act, where the script reaches for a scale of confrontation the story has been building toward without quite finding a resolution that matches the specificity of everything before it. The final sequences feel more determined by genre obligation than by the particular logic of these particular characters, and there is a sense of the film settling for the kind of ending that works rather than pressing for the kind of ending that would have been genuinely surprising. It does not undo what precedes it, but it does reveal that the film was, at bottom, more interested in delivering emotional satisfaction than in asking the more difficult questions its premise kept threatening to raise.\n\nNone of which changes the fundamental experience of watching Mads Mikkelsen inhabit a man whose ambitions slowly, painfully, and not without cost begin to accommodate something larger than himself. That transformation is the film\'s real subject, and on those terms it delivers fully. For viewers who find Danish winter landscapes and controlled masculine suffering conducive to a good evening, The Promised Land is close to essential."
+    }
+  },
+  {
+    id: "das-lehrerzimmer-2023",
+    title: "The Teachers\' Lounge",
+    originalTitle: "Das Lehrerzimmer",
+    romanization: null,
+    year: 2023,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/dtp9h1E0xNH0dHDLnCkYPLtks0v.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/niAGCRFH8Mh8PwL9KzaQMEp8XPl.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/7RxhC2ntrglVl1nkKjAgNoO0XP.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=6YgQBGqhTcM",
+    director: [
+      {
+        name: "İlker Çatak",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z1V9XvXsmKmcnsFLMTdXDGagoYY.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "İlker Çatak",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z1V9XvXsmKmcnsFLMTdXDGagoYY.jpg"
+      },
+      {
+        name: "Johannes Duncker",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      { actor: "Leonie Benesch", role: "Carla Nowak", photoUrl: "https://image.tmdb.org/t/p/w185/dXs2srrTNOTOZXNa0UOaO9xx2QL.jpg" },
+      { actor: "Eva Löbau", role: "Friederike Kuhn", photoUrl: "https://image.tmdb.org/t/p/w185/iHZVFa0GLXU5MeU4SUN20SgYWVS.jpg" },
+      { actor: "Michael Klammer", role: "Thomas Liebenwerda", photoUrl: "https://image.tmdb.org/t/p/w185/u47AlkNpQm0AMr9zY1DnFqXQJxW.jpg" },
+      { actor: "Rafael Stachowiak", role: "Milosz Dudek", photoUrl: "https://image.tmdb.org/t/p/w185/ib6ui3FIKUngxTrK6UbFJNNNzDz.jpg" },
+      { actor: "Sarah Bauerett", role: "Vanessa König", photoUrl: "https://image.tmdb.org/t/p/w185/8HSndA8YnD9uqVqmbUalKpaurIM.jpg" },
+      { actor: "Kathrin Wehlisch", role: "Lore Semnik", photoUrl: "https://image.tmdb.org/t/p/w185/tbBkacXQGDb4Ewc6LtGQfebmJhm.jpg" },
+      { actor: "Anne-Kathrin Gummich", role: "Dr. Bettina Böhm", photoUrl: "https://image.tmdb.org/t/p/w185/l7qUsGVIPVODcPqHO6HclK9NkUI.jpg" },
+      { actor: "Katharina M. Schubert", role: "Mrs. Haubrichs", photoUrl: "https://image.tmdb.org/t/p/w185/p7Sv8YmFoUUMjGN5pUurV24kCU5.jpg" },
+      { actor: "Uygar Tamer", role: "Mrs. Yılmaz", photoUrl: "https://image.tmdb.org/t/p/w185/1wqprqsX9aHKmlikTM6LfO4A7Vt.jpg" },
+      { actor: "Özgür Karadeniz", role: "Mr. Yılmaz", photoUrl: "https://image.tmdb.org/t/p/w185/gXTTpYfXBK2AMvHItjKCpi54oo.jpg" },
+      { actor: "Johanna Götting", role: "Krissi", photoUrl: "https://image.tmdb.org/t/p/w185/3mN4LxRpPgy5teWpcfKdnz6YrsO.jpg" },
+      { actor: "Lisa Marie Trense", role: "Luise", photoUrl: "https://image.tmdb.org/t/p/w185/gDULVfBZTQto4gSawUAzyTd8Snc.jpg" }
+    ],
+    languages: ["German", "Turkish", "Polish", "English"],
+    genres: ["Drama", "Thriller"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: ["escalating institutional conflict and mob mentality among adolescents", "sustained psychological pressure on a single adult", "depictions of a child in distress following parental accusation", "workplace bullying and professional isolation"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:38" }
+    ],
+    awards: [
+      { body: "German Film Awards / Lola (73rd)", category: "Best Feature Film", result: "Won", year: 2023 },
+      { body: "German Film Awards / Lola (73rd)", category: "Best Director", result: "Won", year: 2023 },
+      { body: "German Film Awards / Lola (73rd)", category: "Best Leading Actress (Leonie Benesch)", result: "Won", year: 2023 },
+      { body: "German Film Awards / Lola (73rd)", category: "Best Screenplay", result: "Won", year: 2023 },
+      { body: "German Film Awards / Lola (73rd)", category: "Best Editing", result: "Won", year: 2023 },
+      { body: "Academy Awards (96th)", category: "Best International Feature Film", result: "Nominated", year: 2024 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2024 },
+      { body: "European Film Awards (36th)", category: "Best Film", result: "Nominated", year: 2023 },
+      { body: "European Film Awards (36th)", category: "Best Director", result: "Nominated", year: 2023 },
+      { body: "European Film Awards (36th)", category: "Best Actress (Leonie Benesch)", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["accountability", "idealism", "complicity", "surveillance", "trust", "justice", "community"],
+      mood: ["suffocating", "tense", "disquieting"],
+      fullReview: "Carla Nowak is the kind of teacher that every reforming impulse in public education is supposed to produce: young, principled, genuinely invested in her students, allergic to the shortcuts and institutional cynicism that harden their colleagues over time. When petty thefts start circulating through a German middle school, Carla sets her own trap — a laptop with a visible wallet placed in her classroom — and the footage she captures sets off a chain of events that the film proceeds to run like an experiment. What happens when good intentions collide with an institution that protects itself first, with parents who mistake procedural transparency for persecution, with students who discover that adults are as tribal as anyone? The film takes 98 minutes to find out, and almost every one of them is gripping.\n\nİlker Çatak directs with a precision that feels like the formal equivalent of the subject matter — controlled, alert, never quite letting the audience settle. The school building itself becomes a pressure vessel. Judith Kaufmann\'s cinematography stays tight, favoring close-ups and shallow focus that create a sense of walls closing in, of space running out. There are no wasted shots. When the camera moves, it moves with purpose. When it holds, the hold starts to feel like a held breath. This is a film that knows exactly what it is doing technically, and the technique serves the story rather than decorating it.\n\nLeonie Benesch\'s performance is the film\'s engine and its moral anchor simultaneously. Carla is not written as a saint or a fool — she is written as someone whose convictions are genuine and whose methods are, at critical moments, subtly wrong. Benesch plays this without tipping the audience toward either sympathy or judgment. She makes Carla\'s rigidity feel like courage from one angle and obstinacy from another, sometimes within the same scene. The specificity of it — the way Carla\'s face moves when she realizes she has handed someone a weapon they are about to use against her — is the kind of acting that makes a film worth watching more than once.\n\nThe supporting cast operates at the same level of precision. Eva Löbau as a colleague whose job is partly implicated in the aftermath is quietly devastating; she contains a whole career of institutional compromise in the way she walks down a corridor. The students, a mostly non-professional ensemble, achieve something remarkable: they feel like actual children, not performances of children, and their collective behavior — the way a classroom turns, the way loyalty fractures along lines of interest — is one of the most honest depictions of adolescent group dynamics in recent European cinema.\n\nWhat gives the film its particular charge is that it refuses the comfort of a villain. There is no administrator pulling strings for malicious reasons, no parent driven by anything other than fear for their child. Every character who makes Carla\'s situation worse is acting from a recognizable, even defensible position, which means the film cannot be about bad people doing bad things. It has to be about the way systems produce outcomes that nobody individually intended — and it is, with a rigor that would feel schematic if the characters were not so persuasively alive.\n\nThe screenplay by Çatak and Johannes Duncker is built like a trap, with each sequence tightening the one before it. There is a school newspaper subplot that becomes a formal crisis; there is a parent confrontation that happens in a corridor and contains more dramatic voltage than most films manage in entire acts. The dialogue is not particularly literary — it sounds like people talking — which is exactly right for a film about the gap between what institutions say and what they do.\n\nIf there is a limitation, it is that the film\' final image, while appropriate, does not quite release the pressure it has spent 90 minutes building. The ending is earned but not revelatory. What precedes it, however, is some of the most controlled and quietly devastating filmmaking to come out of Germany in years. Anyone who has ever tried to do the right thing inside a system designed to protect itself will recognize something in Carla Nowak, and the recognition will not be comfortable."
+    }
+  },
+  {
+    id: "totem-2023",
+    title: "Tótem",
+    originalTitle: "Tótem",
+    romanization: null,
+    year: 2023,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/kOIKTNIRiZLNxunr09OKNpEr33x.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/gBIQrOpneWqOYA1ZBIvaClm8zuH.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/55ryL0YfqbuYDHaQJY6qlAb6M7a.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=cEYx_vOof1w",
+    director: [
+      {
+        name: "Lila Avilés",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nbk1zLRcE3AAdEe5dDOJmCU8L5f.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Lila Avilés",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nbk1zLRcE3AAdEe5dDOJmCU8L5f.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Naíma Sentíes", role: "Sol", photoUrl: "https://image.tmdb.org/t/p/w185/wgvvlWtQsAsiDNVBexJoYgSiFnt.jpg" },
+      { actor: "Montserrat Marañon", role: "Nuri", photoUrl: "https://image.tmdb.org/t/p/w185/eqXWb5hPswPCjKzKRk1oPPA1PMF.jpg" },
+      { actor: "Marisol Gasé", role: "Alejandra", photoUrl: "https://image.tmdb.org/t/p/w185/ngbm53ns2VVTE6J5kChBgcWsNqP.jpg" },
+      { actor: "Saori Gurza", role: "Esther", photoUrl: "https://image.tmdb.org/t/p/w185/AqSSbzwhA3Ava9tSIdUWrGkFka.jpg" },
+      { actor: "Mateo García Elizondo", role: "Tonatiuh", photoUrl: "https://image.tmdb.org/t/p/w185/qV6ZyvMLSKC5eOI1xO7FYPxPJa8.jpg" },
+      { actor: "Teresa Sánchez", role: "Cruz", photoUrl: "https://image.tmdb.org/t/p/w185/iLzgyVP822PHZCOtNFROi9YSHTJ.jpg" },
+      { actor: "Iazua Larios", role: "Lucía", photoUrl: "https://image.tmdb.org/t/p/w185/7xneMbsqSVqPq2NFMpkpAAZr6SG.jpg" },
+      { actor: "Alberto Amador", role: "Roberto", photoUrl: "https://image.tmdb.org/t/p/w185/7tKDK1jsKNHXnCGnk85Pn0E0u3o.jpg" },
+      { actor: "Juan Francisco Maldonado", role: "Napo", photoUrl: "https://image.tmdb.org/t/p/w185/hA3AmSvovpIZJX9K6aDHKHWZigV.jpg" },
+      { actor: "Galia Mayer", role: "Isa", photoUrl: "https://image.tmdb.org/t/p/w185/dKuz2A7jDW40oy7IcHoaMJkk20q.jpg" },
+      { actor: "Lukas Urkijo", role: "Chavita", photoUrl: "https://image.tmdb.org/t/p/w185/4rB4aILg9jlk0uovNfdq7Pw43ja.jpg" },
+      { actor: "José Manuel Poncelis", role: "Tío Octavio", photoUrl: "https://image.tmdb.org/t/p/w185/dyPXhHV2iBc0IoG6KHX0dyV1FdD.jpg" }
+    ],
+    languages: ["Spanish", "English"],
+    genres: ["Drama", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: ["terminal illness observed through a child\'s perspective", "subdued grief and emotional anguish among adults", "brief depiction of a dying person in physical decline"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:35" }
+    ],
+    awards: [
+      { body: "Berlin International Film Festival (73rd)", category: "FIPRESCI Prize", result: "Won", year: 2023 },
+      { body: "Berlin International Film Festival (73rd)", category: "Ecumenical Jury Prize", result: "Won", year: 2023 },
+      { body: "Ariel Awards (65th)", category: "Best Film", result: "Won", year: 2023 },
+      { body: "Ariel Awards (65th)", category: "Best Director", result: "Won", year: 2023 },
+      { body: "Ariel Awards (65th)", category: "Best Original Screenplay", result: "Won", year: 2023 },
+      { body: "Berlin International Film Festival (73rd)", category: "Golden Bear", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["mortality", "childhood", "grief", "family", "protection", "impermanence", "love"],
+      mood: ["tender", "elegiac", "warm"],
+      fullReview: "A household in Mexico City is preparing a birthday party. Balloons need inflating, a cake requires finishing, relatives drift in and out trailing noise and laughter and the specific anxiety that gathers around celebrations people are not sure how to feel about. At the center of all this movement is Sol, seven years old, watching. Her father Tonatiuh is terminally ill, and though the adults are working very hard to keep the weight of that fact from landing on her, Sol is observing everything — the hushed phone calls, the careful faces, the way certain conversations stop when she enters the room. What does a child understand about a parent dying? More, Lila Avilés suggests, than anyone wants to admit.\n\nThe film runs a single day and takes place almost entirely within and around the family home, and this is the right choice — maybe the only choice — for a story this intimate. The confined space does what confined spaces do in the hands of a filmmaker who knows how to use them: it pressurizes. Rooms fill and empty. Cousins chase each other. An aunt struggles with a complicated family dynamic. A grandmother maintains her routine with a composure that reads, on second look, as the composure of someone who has done this before and knows it cannot be held off. Life at full volume coexisting with something unspoken at its center.\n\nAvilés shoots from Sol\'s altitude and orientation without making the camera feel like a formal conceit. Diego Tenorio\'s cinematography is attentive rather than demonstrative — natural light, handheld, close enough to the faces that the viewer is always reading what the characters are not saying. There is a sequence involving a lizard that is among the most quietly devastating things in recent Mexican cinema, a moment that costs the film almost nothing and gives back everything. It earns its emotional payload not through manipulation but through precise observation of the way children make sense of the world through whatever is in front of them.\n\nNaíma Sentíes, playing Sol, has been entrusted with a tremendous amount of the film\'s weight and carries it with an openness that never feels coached. She is not performing understanding or performing confusion — she is just present, in each moment, which is exactly the quality the film requires. The adult ensemble is equally strong, particularly Teresa Sánchez as the family\'s housekeeper Cruz, whose presence in the film carries a warmth and a dignity that quietly makes her the household\'s emotional gravity.\n\nMateo García Elizondo as Tonatiuh is given relatively little screen time, and this is another correct instinct. The film is not about dying — it is about the people who remain in the same room as dying, who have to keep being people while that is happening. His scenes, when they come, land with an accumulated force that the film has been building toward without making the buildup obvious.\n\nThe score by Thomas Becka threads through the film without insisting on the audience\'s emotional state, which is the right approach for material this delicate. Avilés trusts her images and her actors to do the work. There is no moment where the film raises its voice to tell viewers how to feel, and this restraint is what allows it to feel genuinely affecting rather than engineered.\n\nWhat stays is not a plot development or a resolution — the film does not offer the comfort of either — but a texture. The specific smell and noise of a family that loves each other and is about to be changed by loss. Sol\'s face at the window. The candles on the cake. The way the day keeps moving even when everyone in the room knows something is ending. Tótem is a small film in the most honorable sense: it asks for a quiet hour and a half of attention and returns something that sits in the chest for days afterward."
+    }
+  },
+  {
+    id: "flow-2024",
+    title: "Flow",
+    originalTitle: "Straume",
+    romanization: null,
+    year: 2024,
+    tagline: "Disaster tore their world apart. Friendship will bring them together.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/GkoK3RGzq0k0qMSHif7e9kXIyn.svg",
+    posterUrl: "https://image.tmdb.org/t/p/original/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=82WW9dVbglI",
+    director: [
+      {
+        name: "Gints Zilbalodis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fP44KcwJLGK3or7T7bImWBSDKo8.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Gints Zilbalodis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fP44KcwJLGK3or7T7bImWBSDKo8.jpg"
+      },
+      {
+        name: "Matīss Kaža",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gOKxbIW0cJJyIiZrnT7iOxXWtX5.jpg"
+      }
+    ],
+    cast: [],
+    languages: [],
+    genres: ["Animation", "Adventure", "Fantasy"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "animals in peril from rising floodwaters",
+        "brief predatory threat between animal characters",
+        "one implied off-screen animal death",
+        "mild depictions of a submerged and devastated natural world"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:25" }
+    ],
+    awards: [
+      { body: "Academy Awards (97th)", category: "Best Animated Feature Film", result: "Won", year: 2025 },
+      { body: "BAFTA Film Awards (78th)", category: "Best Animated Film", result: "Won", year: 2025 },
+      { body: "Golden Globe Awards (82nd)", category: "Best Animated Feature Film", result: "Won", year: 2025 },
+      { body: "Annie Awards (52nd)", category: "Best Independent Animated Feature", result: "Won", year: 2025 },
+      { body: "Film Independent Spirit Awards (40th)", category: "Best International Film", result: "Won", year: 2025 },
+      { body: "Annecy International Animation Film Festival (2024)", category: "Cristal for Best Feature Film", result: "Won", year: 2024 },
+      { body: "European Film Awards (37th)", category: "Best Animated Feature Film", result: "Won", year: 2024 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["displacement", "solitude", "cooperation", "survival", "trust", "impermanence", "adaptation"],
+      mood: ["elegiac", "tender", "dreamlike"],
+      fullReview: "Flow arrives as something genuinely rare in contemporary animation: a feature-length film with no dialogue, no expository narration, no title cards — just images, sound, and the spare story of a small black cat navigating a world that has been almost entirely swallowed by water. When the flood comes, the cat finds itself sharing a crumbling wooden sailboat with a capybara, a lemur, a secretary bird, and a labrador retriever, each animal bringing its own temperament and instincts to the vessel. What develops between them is not a story of talking animals learning to communicate. It is something older and quieter than that.\n\nThat Gints Zilbalodis — the Latvian filmmaker who conceived, directed, wrote, animated, edited, photographed, and co-composed this film largely on his own using open-source software — completed it in his late twenties feels almost impossible to reconcile with what is on screen. The scale of that achievement is not just technical, though it is certainly that too. The camera moves with a confidence many studio features never find: it circles, plunges, holds its distance when holding is right, and closes in when the emotional temperature demands it. There is a visual intelligence at work that feels instinctive rather than calculated.\n\nWithout language to lean on, Flow must earn every emotional beat through behavior, composition, and timing. Remarkably, it does. The cat — self-contained, occasionally imperious, fundamentally uncertain about everything beyond its own immediate comfort — is one of the most precisely observed animal characters in recent animated cinema. Its relationships with the other creatures develop through action and proximity rather than dialogue, and the film is patient enough to let this happen at a pace that feels true rather than convenient. The capybara communicates something like warmth through nothing more than its physical mass and a kind of slow, bovine steadiness. This is genuine character work, accomplished entirely without words.\n\nThe animation draws on a textured geometric expressionism — environments built with angular simplicity that somehow evoke real landscape, creatures rendered with enough accuracy to be legible and enough stylization to feel unmistakably crafted. When the flooded world catches light at the right angle, when the boat drifts through half-submerged temple ruins or past the ghostly crowns of drowned forests, the film touches something that resembles genuine awe rather than manufactured spectacle.\n\nThe score, co-composed by Zilbalodis and Rihards Zaļupe, is not decorative music laid over images. It functions as part of the film\'s own syntax — emotional information delivered through sound when the image holds back, withdrawing when the image carries the heavier weight. The relationship between the two is one of the more organic collaborations between score and picture in recent animated cinema, and it matters enormously in a film that has no other instrument through which to guide what the audience feels.\n\nFlow is not a film about catastrophe. The flood is not framed as tragedy; it is simply the condition of the world these animals inhabit. What the film examines — with a lightness that belies how seriously it means what it says — is the question of how living things build provisional trust when the ground beneath them has disappeared. The cat cannot communicate through language. Neither can the capybara. But proximity, shared danger, and the basic need to remain above water create their own grammar, and the film traces that grammar with patience and precision.\n\nThe Academy Award win for Best Animated Feature in 2025 was not a sentimental vote for a scrappy underdog. It was a recognition that something genuinely new had arrived — not a reinvention of the form for its own sake, but a reminder that animation at its most essential is a medium for pure visual storytelling, unbothered by the expectation that every feeling be named before it is felt. Anyone fatigued by studio animated films in which no emotion is permitted to exist without verbal confirmation will understand exactly what Flow is offering in its silence.\n\nAt 85 minutes it is not entirely without slack. The final third asks for a particular kind of surrender that the film has not entirely earned through what came before, and there are passages in the middle where its refusal to accelerate tips from meditative into adrift. These are real costs. But the things this film does brilliantly — and there are many, including things that have not been done quite this way before — make those costs feel like a reasonable price for something this singular."
+    }
+  },
+  {
+    id: "on-becoming-a-guinea-fowl-2024",
+    title: "On Becoming a Guinea Fowl",
+    originalTitle: null,
+    romanization: null,
+    year: 2024,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/kKlE62avN9scWtXxMZVmxHngBeu.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/6lMOpD8XVLKaB5uCsJXt1Fo7XNh.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/f2sHokGVEOcJI1Fkgdf21XYhok.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=P5BWTLZjYR0",
+    director: [
+      {
+        name: "Rungano Nyoni",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wliVrt4xI7iLMUxJxVEz97FPPeI.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Rungano Nyoni",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wliVrt4xI7iLMUxJxVEz97FPPeI.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Susan Chardy",
+        role: "Shula",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1IAWjFG17nBE92IywWgJdfMYLCB.jpg"
+      },
+      {
+        actor: "Elizabeth Chisela",
+        role: "Nsansa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nMsiZtOC7HgMdiAXNdbb55gxUnz.jpg"
+      },
+      {
+        actor: "Esther Singini",
+        role: "Bupe",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ur2eykmnuyTcRhevTqz7edrXjOc.jpg"
+      },
+      {
+        actor: "Henry B.J. Phiri",
+        role: "Shula's Father",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4DSHAkXFQncc0bXHBYEeaVrttp1.jpg"
+      },
+      {
+        actor: "Roy Chisha",
+        role: "Uncle Fred",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kbVm1n29cD7t6U35kIaAFHOUt2F.jpg"
+      }
+    ],
+    languages: ["English", "Chichewa"],
+    genres: ["Drama", "Dark", "Satire"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "disclosure of childhood sexual abuse perpetrated by a family member",
+        "patriarchal silencing and coercive intimidation of abuse survivors",
+        "sustained psychological pressure within family rituals",
+        "strong language"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:39" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (77th)", category: "Un Certain Regard Jury Prize", result: "Won", year: 2024 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["complicity", "silence", "mourning", "patriarchy", "respectability", "trauma", "inheritance"],
+      mood: ["disquieting", "wry", "suffocating"],
+      fullReview: "A body on an empty road at night. Shula, dressed for a party, finds her uncle Fred where the road has left him, and the discovery is handled with a flat matter-of-factness that announces exactly what kind of film this will be: one in which horror and the mundane share the same untroubled space. As the extended family converges for the funeral — aunts in matching chitenge fabric, uncles performing measured grief, cousins managing logistics no one thanks them for — what presents itself as a portrait of middle-class Zambian bereavement gradually reveals something far more corroded beneath the surface.\n\nRungano Nyoni\'s second feature is a film about what ritual protects. Funerals impose a narrative — the beloved, the mourners, the loss — over the more complicated reality of what a person was and what that person did. This film watches the imposition from the inside, following Shula and her cousins as they move through the prescribed stages of mourning while carrying knowledge the proceedings cannot acknowledge and the family structure has no intention of allowing to surface.\n\nThe subject does not announce itself. It arrives obliquely: through the particular quality of silence between women who know the same thing, through sentences that stop three words short of what they mean, through looks exchanged in the back of a car. Nyoni has an extraordinary feel for what is left unsaid. The formal architecture of the funeral — the wailing sessions, the gender-segregated spaces, the carefully maintained pecking order of grief — becomes the same mechanism by which the family manages its own complicity. Keeping the ritual intact is the same act as keeping the secret intact, and the film understands this with a clarity that is quietly devastating.\n\nSusan Chardy as Shula anchors the film with a performance that is almost entirely interior. She is rarely the most active person in any scene, but the camera finds her watching, processing, arriving at quiet decisions about what she can and cannot do within this system. It is the kind of restraint that reads as almost nothing until the cumulative effect becomes impossible to ignore. Elizabeth Chisela as the more openly volatile Nsansa provides the necessary counterweight — all agitated surface where Chardy is interior stillness — and together they create something accurate about the different ways women absorb and respond to damage they were expected to inherit quietly.\n\nThe satirical register is precise and unsparing. The competitive mourning among the aunts, the social choreography of who sits where and who gets told what first, the way middle-class respectability operates in this family as a species of enforced silence — all rendered with anthropological accuracy and considerable dark wit. But Nyoni never lets the comedy soften what lies underneath it. She holds both registers alive simultaneously, which is technically demanding and morally necessary. A film that played this material as pure tragedy would let the audience off too easily; by making it also darkly funny, the film implicates the watching in the same mechanisms of deflection it is examining.\n\nThe score by Lucrecia Dalt is unsettled and slightly off-register — music that sits under scenes without resolving them, generating a persistent sense of something sliding beneath a composed surface. The cinematography by David Gallego is equally controlled: warm in the exterior family gatherings, with a habit of holding shots just past the moment of comfort.\n\nAt 99 minutes the film is perhaps ten minutes longer than its tightly wound premise entirely needs. The final stretch diffuses slightly, a scene or two past the point where the accumulation of ritual starts to feel repetitive rather than purposefully compressive. These are real costs, not minor quibbles.\n\nWhat Nyoni is examining is not simply a crime or a secret but the social infrastructure that made the secret possible and has now mobilized to protect it after the fact. The funeral is that infrastructure in its most ceremonial form. The women who keen and cook and organize while the men receive condolences are the same women who were expected to remain quiet, and the film holds that irony in place without ever turning it into a speech. That restraint — the discipline of knowing what not to say and when not to say it — is what makes this film genuinely difficult to leave behind."
+    }
+  },
+  {
+    id: "the-colors-within-2024",
+    title: "The Colors Within",
+    originalTitle: "きみの色",
+    romanization: "Kimi no Iro",
+    year: 2024,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/8XBAiM7xU8S6cBhAMUCDuTcRP9J.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/gOWDvzglcQZOQPqGfVF6hfOhMNT.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/vmSyIJSc8froKqFEZHnsZGzdYCb.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Idu8C4qKM3s",
+    director: [
+      {
+        name: "Naoko Yamada",
+        photoUrl: "https://image.tmdb.org/t/p/w185/esksK3sGJN1gWwj8HhMJN6s27UG.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Reiko Yoshida",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5LUxL8rdUtMdqxx8pnWp6PM0wKp.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Sayu Suzukawa",
+        role: "Totsuko Higurashi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qmFMuA7YzV9L2y1WuK6VTDXTpL4.jpg"
+      },
+      {
+        actor: "Akari Takaishi",
+        role: "Kimi Sakunaga (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qQURz3QiOVFHOo2azpL5cQOJg3a.jpg"
+      },
+      {
+        actor: "Taisei Kido",
+        role: "Rui Kagehira (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/biKmbMevTPbIWjF9VBq2dMO8rcl.jpg"
+      },
+      {
+        actor: "Yui Aragaki",
+        role: "Sister Hiyoko (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vhjyfNcXOy6MGgFZmSwM7Ou1FSL.jpg"
+      },
+      {
+        actor: "Aoi Yuuki",
+        role: "Shiho Nanakubo (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+      },
+      {
+        actor: "Yasuko",
+        role: "Saku Momochi (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vpGjJ24vwOEkjGj5Rca3SIvN530.jpg"
+      },
+      {
+        actor: "Minako Kotobuki",
+        role: "Sumika Yatsushika (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/puocmMfvql6X1AvhFTolaV6Vh2r.jpg"
+      },
+      {
+        actor: "Keiko Toda",
+        role: "Kimi\'s Grandmother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jRJIfQLmMyHaNnvlBnnNp3kPx6I.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Animation", "Drama", "Romance"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "mild romantic longing between teenage girls",
+        "subtle conflict between institutional faith and personal identity",
+        "brief emotional distress following unexplained academic exclusion"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:41" }
+    ],
+    awards: [],
+    criticRating: "Great",
+    review: {
+      themes: ["longing", "belonging", "faith", "perception", "connection", "estrangement", "youth"],
+      mood: ["luminous", "tender", "wistful"],
+      fullReview: "Totsuko is a high school girl at a Catholic school in Nagasaki who perceives the world in colors nobody else can see. The contentment of a classmate registers as a particular shimmer, the weight of obligation as muted grey, uncomplicated trust as warm amber — all of it visible to her as something close to light. When she crosses paths with Kimi, a girl who has quietly disappeared from school under unexplained circumstances, the color coming off her is the most beautiful thing Totsuko has ever encountered. Finding Kimi again, and eventually forming a band with her and a gentle, self-taught musician named Rui, becomes the shape the film takes — though 'plot' is probably the wrong word for what The Colors Within is doing.\n\nNaoko Yamada is one of the most attentive directors working in contemporary animation. Her films — Liz and the Blue Bird especially — operate at a register of such minute physical attention that a shifting hand or the angle of a downward glance carries more emotional information than a page of dialogue would. This film continues in that mode. It is about what cannot be spoken, rendered through what can be seen. Yamada and the animators at Science SARU make images that feel genuinely inhabited — light falls on water with the specific carelessness of real light, characters move with the hesitation and imprecision of people uncertain what their bodies are doing. The synesthesia premise is not treated with clinical interest. It functions as visual grammar for Totsuko\'s inner life, a way of making the emotional weather of the people she encounters visible without requiring any of it to be explained. The film trusts its own language, and that trust is not misplaced.\n\nThe music by Kensuke Ushio — who also scored Liz and the Blue Bird — is present not as accompaniment but as structure. The songs the three characters perform together, recorded by real musicians during production, achieve something actual rather than simulated. The band sequences carry a lightness and forward momentum that the quieter passages earn by contrast: there is genuine joy in them, the specific happiness of making music with people one is only beginning to understand.\n\nWhere the film is less certain is in its dramatic architecture. The ambiguity surrounding Kimi — what happened at her school, what she is searching for, what the color Totsuko treasures actually represents — floats rather than develops. This is a deliberate aesthetic choice, and it is partly also a limitation. The film is graceful at dwelling inside uncertainty, but there are passages where ambiguity tips into evasion, where the texture of feeling substitutes for the harder work of earned understanding. An audience seeking resolution will not find it. An audience willing to inhabit a particular emotional frequency for 101 minutes will find something generous and uncommon.\n\nA subplot involving the Catholic school and the institutional structures that govern the inner lives of its students carries genuine weight and hints at territory Yamada might have explored at greater depth. As it stands, it enriches the periphery without fully entering the center.\n\nThe Colors Within is not Yamada at the height of her powers — that altitude belongs to Liz and the Blue Bird, a film of almost unbearable precision. But it is made with authentic artistic intelligence and a commitment to emotional honesty that is rare in any medium and close to invisible in commercial animation. It knows exactly what it wants to feel like. It feels like that: refracted light through a high church window, the held breath before someone plays the first note of something they have never played for another person."
+    }
+  },
+  {
+    id: "the-count-of-monte-cristo-2024",
+    title: "The Count of Monte Cristo",
+    originalTitle: "Le Comte de Monte-Cristo",
+    romanization: null,
+    year: 2024,
+    tagline: "This is not vengeance, this is justice.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/faVdxu5Pz1L6jR2InhmA7MRSIc5.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/r7iCXrXmq4hKpB4QfDzZd8vsJ7l.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=8Q6y1waxlTY",
+    director: [
+      {
+        name: "Alexandre de La Patellière",
+        photoUrl: "https://image.tmdb.org/t/p/w185/er7ZbU5inozZfFmvpwswjujxBos.jpg"
+      },
+      {
+        name: "Matthieu Delaporte",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ofOMIBoC3FyRgfPRWhQxzJMCeLy.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Alexandre de La Patellière",
+        photoUrl: "https://image.tmdb.org/t/p/w185/er7ZbU5inozZfFmvpwswjujxBos.jpg"
+      },
+      {
+        name: "Matthieu Delaporte",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ofOMIBoC3FyRgfPRWhQxzJMCeLy.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Pierre Niney",
+        role: "Edmond Dantès / The Count of Monte Cristo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ahICOyV41nhJ2q9LaVaHOridn2m.jpg"
+      },
+      {
+        actor: "Bastien Bouillon",
+        role: "Fernand de Morcerf",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8ksm25v40MS2p2y0EyyNrxdt7it.jpg"
+      },
+      {
+        actor: "Anaïs Demoustier",
+        role: "Mercédès Herrera",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kObYOu3UYkNcQGg1gnl4xitwhNc.jpg"
+      },
+      {
+        actor: "Laurent Lafitte",
+        role: "Gérard de Villefort",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+      },
+      {
+        actor: "Pierfrancesco Favino",
+        role: "Abbé Faria",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hedzgTKFKrSleWvLkBlANng8w4T.jpg"
+      },
+      {
+        actor: "Patrick Mille",
+        role: "Danglars",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vxpQlYMyZNmDPD6JQrcnfRPdNI2.jpg"
+      },
+      {
+        actor: "Vassili Schneider",
+        role: "Albert de Morcerf",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hYy6OgeSjCrcZXNnrb2ITlbufiU.jpg"
+      },
+      {
+        actor: "Julien de Saint Jean",
+        role: "Andrea Cavalcanti",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7LgzmUUyAPSRhAT5a5v7l6aGviH.jpg"
+      },
+      {
+        actor: "Anamaria Vartolomei",
+        role: "Haydée",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jRU3453OyqirChIl2EEevhliAjq.jpg"
+      },
+      {
+        actor: "Julie de Bona",
+        role: "Victoria",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i2bQAuNoAPvu2ZsVjri3aTpafjB.jpg"
+      },
+      {
+        actor: "Adèle Simphal",
+        role: "Angèle",
+        photoUrl: "https://image.tmdb.org/t/p/w185/91dmJiu5XxIQ4TO8CJMsi4YjOpE.jpg"
+      },
+      {
+        actor: "Stéphane Varupenne",
+        role: "Caderousse",
+        photoUrl: "https://image.tmdb.org/t/p/w185/njRd1n3QR1yaFAIYeVzkXJ84WjT.jpg"
+      },
+      {
+        actor: "Marie Narbonne",
+        role: "Eugénie Danglars",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f90tq4Bb9HpF5fhXKaPaCuJgmjW.jpg"
+      },
+      {
+        actor: "Bruno Raffaelli",
+        role: "Morrel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1yMD6BTvxSk0CjZ4jUr3SZMEkJQ.jpg"
+      },
+      {
+        actor: "Abde Maziane",
+        role: "Jacopo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jtqrhyhWfLSPkQLryTUeDlYpDVY.jpg"
+      },
+      {
+        actor: "Oscar Lesage",
+        role: "Le témoin du duel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8N31SCzlmRBEHRXD7AIE50Wh7Fs.jpg"
+      },
+      {
+        actor: "Joachim Simon",
+        role: "Maximilien Morrel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bHgSFlWcFSM0zxfu4NND8XPkL14.jpg"
+      },
+      {
+        actor: "Françoise Gazio",
+        role: "Yvonne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mwDGa5SU9BXMPWpZocVW3lXvouQ.jpg"
+      },
+      {
+        actor: "Axel Baille",
+        role: "le serviteur du baron Danglars",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lweprk5YI7cOCHslCAEePRX5QuA.jpg"
+      },
+      {
+        actor: "Lily Dupont",
+        role: "Suzanne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aky0uwkzkyhbiYZlnKAZTrk0Fuq.jpg"
+      },
+      {
+        actor: "Jérémie Covillault",
+        role: "Antoine",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z2Iya5Rm5UA31RDzBIkrabFboSQ.jpg"
+      },
+      {
+        actor: "Bernard Blancan",
+        role: "Louis Dantès",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6VYHegXZT689i8b5nyWwc3e7tNs.jpg"
+      },
+      {
+        actor: "Graziella Delerm",
+        role: "Mme de Morcerf",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gU3LSbm68R0WEICji9eRqqjIN9u.jpg"
+      },
+      {
+        actor: "Xavier de Guillebon",
+        role: "M. de Morcerf",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nJodWtr4S6Gzo8XdvE9EUzFN2a9.jpg"
+      },
+      {
+        actor: "Clémentine Baert",
+        role: "Mme de Villefort",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8i3OIMM7fKJGByNeYzOKktzF7dp.jpg"
+      },
+      {
+        actor: "Florence Muller",
+        role: "Mme Herrera",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6DAKS8xAIgVOE831jyTbzhhpigV.jpg"
+      },
+      {
+        actor: "Serge Bagdassarian",
+        role: "un juge",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sXXnFr4TD8NgQtYuWAUdXQ1MpM2.jpg"
+      },
+      {
+        actor: "Jean-Louis Tribes",
+        role: "le curé",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6xsrYJr9jigT29dRtPW9OvpwnoW.jpg"
+      },
+      {
+        actor: "Laurent Dassault",
+        role: "un convive du repas chez les Morcef",
+        photoUrl: "https://image.tmdb.org/t/p/w185/umTQYXgALO3IceDlHUeEqRFRjqB.jpg"
+      }
+    ],
+    languages: ["French", "Italian"],
+    genres: ["Drama", "Adventure", "Period", "Thriller"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: ["period sword violence and dueling", "extended imprisonment and psychological torment", "non-graphic deaths by poison and violence", "sustained scheming and psychological manipulation targeting families", "brief non-explicit romantic content"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "02:58" }
+    ],
+    awards: [
+      { body: "César Awards (50th)", category: "Best Actor", result: "Won", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Film", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Director", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Cinematography", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Costume Design", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Production Design", result: "Nominated", year: 2025 },
+      { body: "César Awards (50th)", category: "Best Visual Effects", result: "Nominated", year: 2025 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["revenge", "betrayal", "identity", "transformation", "complicity", "exile", "justice"],
+      mood: ["propulsive", "grandiose", "absorbing"],
+      fullReview: "Somewhere in the Mediterranean, in the year of our Lord 1815, a young sailor named Edmond Dantès is about to be married when three men — a jealous rival, a cowardly friend, and an ambitious magistrate — conspire to remove him from the picture. The charges: treasonous correspondence with the Bonapartists. The sentence: indefinite imprisonment inside the island fortress of Château d\'If, a place from which no one escapes. When Dantès finally does escape, fourteen years of darkness have carved something else out of him entirely. The film that follows is his reckoning.\n\nAlexandre de La Patellière and Matthieu Delaporte had a formidable task. Alexandre Dumas\' novel is one of the longest and most labyrinthine works of popular fiction ever written — a machine of interlocking plots, disguises, and delayed retributions sprawling across decades and continents. Condensing it to 178 minutes means making ruthless editorial choices about what stays and what goes. The filmmakers are ruthless in mostly the right places. The architecture of the revenge — three men, three destructions, each calibrated to the specific sin committed — remains intact, and the film never loses the thread of its moral logic even while juggling half a dozen simultaneous schemes across the drawing rooms of 1830s Paris.\n\nPierre Niney is the load-bearing pillar around which everything else organizes itself. The role asks him to play two men separated by a chasm of suffering: the guileless young sailor of the opening scenes and the masked, calculating Count who surfaces later, moving through Parisian high society like a chess grandmaster who can already see the endgame. Niney navigates the gap between them with intelligence and restraint. The warmth of the early Dantès never fully disappears — it goes underground, surfacing in unguarded flickers that make the transformation feel genuinely haunted rather than merely stylish. This is not an action hero wearing a nobleman\'s coat; it is something more interesting: a man who has decided to become a weapon and is not entirely certain what will remain of him once the work is done.\n\nThe film\'s most quietly devastating passages are the prison years. Pierfrancesco Favino plays Abbé Faria — the eccentric scholar and fellow prisoner who becomes both teacher and surrogate father across the years of captivity — and he brings such unaffected warmth to the role that the sequences inside Château d\'If become the emotional center of the entire picture. What Dantès loses and finds in that cell — innocence traded for knowledge, despair redirected into cold purpose — is rendered with enough specificity that the revenge machinery of the second half never feels like mere genre exercise. Something real is at stake, and the film keeps that something visible even as the plots multiply.\n\nWhere the film loses ground is in the final third, when the various schemes converge and the screenplay must service too many characters simultaneously. The three antagonists are drawn with varying success. Bastien Bouillon and Laurent Lafitte find genuine texture in their respective villains, giving them self-delusion and small moments of trapped feeling that make the revenge register as tragedy rather than just comeuppance. Patrick Mille\'s Danglars, however, never quite becomes a person — he remains a function in the plot, a lever to be pulled at the right moment. Anaïs Demoustier as Mercédès is the other significant casualty of the compression. Her arc is the one place where the novel\'s emotional complexity threatens to exceed what the adaptation can hold, and the film settles for gesturing at what the book actually excavates.\n\nNicolas Bolduc\'s cinematography moves between the sun-bleached harshness of the island prison and the gilded interiors of Restoration-era Paris with a painter\'s instinct for contrast. The production design gives each location its own visual grammar — the vertiginous stone walls of Château d\'If, the suffocating opulence of aristocratic salons — and the costume work achieves that rare period-film balance where the clothes feel genuinely inhabited rather than rented, each character\'s wardrobe a quiet extension of their psychology. There is a scale and confidence to the filmmaking that French cinema rarely deploys on material this explicitly populist, and that it is done without condescension toward either the source material or the audience is no small thing.\n\nWhat the film ultimately gets right — what makes the nearly three-hour runtime feel earned rather than indulgent — is that it never loses faith in its own story. The reckoning of the Count is satisfying not because the film is cynical about justice, but because it is genuinely engaged with the moral question coiled at the center of everything: whether a man who has been broken and remade by injustice can execute perfect retribution without consuming the last human parts of himself in the process. That question is not quite as rigorously answered as it might be. But it is asked, and asked sincerely, and that is rarer than it should be in films operating at this scale. Viewers who have never opened the novel will find a propulsive, handsome, and emotionally coherent epic. Those who love the source material will find it somewhat slimmed but structurally faithful — and will likely be relieved by how much genuine respect the filmmakers extend to Dumas. Both groups will leave satisfied. That is, in its way, a considerable achievement."
+    }
+  },
+  {
+    id: "the-girl-with-the-needle-2024",
+    title: "The Girl with the Needle",
+    originalTitle: "Pigen med nålen",
+    romanization: null,
+    year: 2024,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/9xJwUmGE9hZuzAmtqS5jdhu2mOt.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/40u2fTmQugQ66anWAnjWp43eInr.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/uwACVNL5OpiI3oT72DVGxnU4SRV.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=okeL9ieapLw",
+    director: [
+      {
+        name: "Magnus von Horn",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fXTdCXrAEzcxQEof1jAidFL66Xt.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Magnus von Horn",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fXTdCXrAEzcxQEof1jAidFL66Xt.jpg"
+      },
+      {
+        name: "Line Langebek Knudsen",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Vic Carmen Sonne",
+        role: "Karoline",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2ROtesSqxXDT9IszpKkspsHp42O.jpg"
+      },
+      {
+        actor: "Trine Dyrholm",
+        role: "Dagmar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ntUn5eKFlQxbjPci5A99qJOjulY.jpg"
+      },
+      {
+        actor: "Besir Zeciri",
+        role: "Peter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/13qjnv0nbIjzshbDEycHEg87Vyi.jpg"
+      },
+      {
+        actor: "Joachim Fjelstrup",
+        role: "Jørgen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yg4X8prL56KuuutWnYIAplysZvo.jpg"
+      },
+      {
+        actor: "Tessa Hoder",
+        role: "Frida",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wPWimjbcjOA4aOUqDx9MaSmsROL.jpg"
+      },
+      {
+        actor: "Ava Knox Martin",
+        role: "Erena",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jKpG0LdNgLsiVRIvhUMHLwzJ4L.jpg"
+      },
+      {
+        actor: "Ari Alexander",
+        role: "Svendsen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6XOH0BuWF7iKZd0LFry5nfY3JPR.jpg"
+      },
+      {
+        actor: "Søren Sætter-Lassen",
+        role: "Ring Master",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bWe3Kd0Y0zhDYmZxDYnl0oqfzUh.jpg"
+      },
+      {
+        actor: "Magnus von Horn",
+        role: "Frida's Husband",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fXTdCXrAEzcxQEof1jAidFL66Xt.jpg"
+      },
+      {
+        actor: "Anna Terpiłowska",
+        role: "Strict Woman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x4ehWCNqxMgiW87NmWpMY7YB2m4.jpg"
+      },
+      {
+        actor: "Dan Jakobsen",
+        role: "Dwarf",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4ej2gejtMwMBfaHO7rqW8CrFgX9.jpg"
+      },
+      {
+        actor: "Anna Tulestedt",
+        role: "Old Landlady",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2CKK6GbXFdKQsWFMITUpPNxGoIh.jpg"
+      },
+      {
+        actor: "Benedikte Hansen",
+        role: "Jørgen's Mother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mol5DUffaIMZ47apbxbGmUZtoEB.jpg"
+      },
+      {
+        actor: "Peter Secher Schmidt",
+        role: "Prosecutor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hNbC2hycVe0XyujcqEcaaOAlgGs.jpg"
+      },
+      {
+        actor: "Liv Vilde Christensen",
+        role: "Girl with Baby",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1CbZZS1fggZBI28jX62Dp5Df2zV.jpg"
+      },
+      {
+        actor: "Lizzielou Corfixen",
+        role: "Frida's Sister",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5Q4LuXRUIil5qGUJFneTUZaRCwR.jpg"
+      },
+      {
+        actor: "Petrine Agger",
+        role: "Older Bath House Assistant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wjzYZU9Gxj979MYeGpjwTZxGUzf.jpg"
+      },
+      {
+        actor: "Ragnhild Kaasgaard",
+        role: "Woman at Sugar Factory",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fHSdBQO9lJr68cTpLTC4MbbD21u.jpg"
+      },
+      {
+        actor: "Jakob Højlev Jørgensen",
+        role: "Doctor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oz8OY5ptfZkISyU9Q0SR724mda2.jpg"
+      },
+      {
+        actor: "Anders Hove",
+        role: "Judge",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6UxfzFFh0T07sLQ33WgUUaV7tbJ.jpg"
+      }
+    ],
+    languages: ["Danish"],
+    genres: ["Drama", "Psychological", "Period", "Noir"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: ["scenes depicting and strongly implying the killing of infants", "unwanted pregnancy portrayed in graphic emotional detail", "implied coercive sex work and transactional sex", "psychological manipulation and predatory elder control over a vulnerable young woman", "extreme poverty and physical deprivation", "disturbing imagery involving deceased infants"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "02:03" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (77th)", category: "Palme d'Or", result: "Nominated", year: 2024 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["complicity", "abandonment", "survival", "exploitation", "maternity", "desperation", "guilt"],
+      mood: ["harrowing", "suffocating", "bleak"],
+      fullReview: "Post-WWI Copenhagen is rendered here in black and white so deep it feels like a city that has already forgotten color exists. Karoline is a young woman newly unemployed, newly pregnant, and newly abandoned — no husband, no savings, no prospects. When she encounters Dagmar, an older woman running what presents itself as an adoption service for unwanted infants, it seems like salvation. It is not salvation. What follows is a story about the things women do when society has closed every door, and who ends up bearing the cost.\n\nMagnus von Horn\'s film wears the clothing of a period drama but thinks like something older and stranger — a fairy tale gone rotten at its core. Shot in deep, almost velvety black and white by Michał Dymek, the frame periodically opens onto a traveling circus populated by sideshow grotesques: a dwarf, a bearded woman, a man-bird, figures who exist at the margins as a visual chorus for everything the story is interrogating. These are the bodies society cannot accommodate, the people it discards. The imagery never presents itself as allegory being imposed on the audience. It simply feels true, the way nightmares feel true before waking makes them absurd.\n\nTrine Dyrholm as Dagmar is the kind of performance that makes talking about craft feel insufficient. The character is monstrous in the plainest possible sense — what she does to the children in her care is the film\'s central horror, surfaced in increments that make sitting through the picture a progressively more demanding act. And yet Dyrholm never plays Dagmar as evil in any satisfying, legible way. She plays her as someone who has found a terrible purpose, a woman who has talked herself into believing that what she offers is mercy, who wraps the entire operation in a warmth so genuine it becomes its own species of dread. The film refuses to let Dagmar function as a simple explanation for anything. She is simultaneously a victim of her century and an executioner of its most powerless inhabitants, and Dyrholm holds both facts in the same breath without releasing either.\n\nVic Carmen Sonne carries the film\'s other half with equally exacting precision. Karoline\'s descent — from desperate outsider to something much closer to participant — is the film\'s moral engine, and Sonne never allows the audience to settle comfortably into the assumption that they would have chosen differently. The choices Karoline makes are choices made by someone with no choices, and the distinction is everything. The film earns Karoline\'s complicity the hard way: by making the alternative feel genuinely unthinkable at each turn.\n\nThe score, composed by noise and industrial artist Puce Mary, operates at frequencies of dread that never announce themselves. It bleeds into scenes sideways, more like a temperature shift than a musical cue, which is exactly right for a film that builds its horror through withholding rather than display. Von Horn trusts that what the audience imagines happening is worse than anything directly shown — until the film decides that imagination has run its course, and shows it anyway.\n\nWhat lifts the film above its grim subject matter is that it functions as a structural argument as much as a narrative. The Copenhagen Karoline and Dagmar inhabit is one where the entire burden of reproduction has been offloaded onto women — the economic devastation of an unwanted pregnancy, the social annihilation of unmarried motherhood, the complete unavailability of legal alternatives — while men appear mostly as the sources of pregnancy and the authors of abandonment. Dagmar exists because the system requires a Dagmar. The film holds that truth without converting it into polemic, which is the harder and more honest approach. It does not explain the society and then condemn it; it reconstructs it carefully enough that the condemnation arrives without ever being stated.\n\nThis is not a film for everyone, and it knows it. At 123 minutes it moves with deliberate, almost punishing slowness, allowing the weight of each scene to compress before it moves on. Those for whom sustained grimness becomes an endurance test will not be wrong to feel that way — the film earns its darkness, but not all darkness can be shared with all audiences. Those who can bear it will find a work of uncommon seriousness and craft, one that uses the distant past to make demands on the present without spelling out what those demands are. The needle of the title is both literal instrument and cultural metaphor, and von Horn earns both meanings in full."
+    }
+  },
+  {
+    id: "didi-2024",
+    title: "Dìdi (弟弟)",
+    originalTitle: null,
+    romanization: null,
+    year: 2024,
+    tagline: "For anyone who's ever been a teenager.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/vvbDQ3WLUu76FN7JLHCo6kzF5RW.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/3UCTNaZgxW6BbeHMMTe6uL07MpV.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/jD1oLRnLSKiLhutjiZ6OzgCgBsr.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=e6gve8GtSuU",
+    director: [
+      {
+        name: "Sean Wang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1b2NeoNZkODg4ZPemhz0X6x2Iir.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Sean Wang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1b2NeoNZkODg4ZPemhz0X6x2Iir.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Izaac Wang",
+        role: "Chris Wang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4vYS9NuDUFhzT9B9pFyjDTeNZiY.jpg"
+      },
+      {
+        actor: "Joan Chen",
+        role: "Chungsing Wang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jTu4mVKj8sQpgYnuaKchslor585.jpg"
+      },
+      {
+        actor: "Shirley Chen",
+        role: "Vivian Wang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a3ByGjOWXgPpUHNtwKeS31JUWkF.jpg"
+      },
+      {
+        actor: "Chang Li Hua",
+        role: "Nǎi Nai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dAuIWduq6NOUQLnIeQV8Q6M4Qms.jpg"
+      },
+      {
+        actor: "Mahaela Park",
+        role: "Madi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vjkIuHXbmhkbViEJXU3r06EdtiG.jpg"
+      },
+      {
+        actor: "Raul Dial",
+        role: "Fahad",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Bz1tG4XsznmxmuMFddr3qDOj3a.jpg"
+      },
+      {
+        actor: "Joziah Lagonoy",
+        role: "Josh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hjvChggYF49Eb4doQaBxzGnnouA.jpg"
+      },
+      {
+        actor: "Spike Jonze",
+        role: "Dead Squirrel (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
+      },
+      {
+        actor: "Stephanie Hsu",
+        role: "Kissing Tutorial Instructor (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+      }
+    ],
+    languages: ["English", "Mandarin"],
+    genres: ["Drama", "Comedy"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: ["pervasive strong language including slurs", "adolescent marijuana use", "sexually suggestive content in online kissing tutorials", "online cruelty and social humiliation among teenagers", "parental conflict and emotionally charged verbal arguments"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "01:34" }
+    ],
+    awards: [
+      { body: "Sundance Film Festival (40th)", category: "Audience Award in US Dramatic Competition", result: "Won", year: 2024 },
+      { body: "Film Independent Spirit Awards (40th)", category: "Best First Feature", result: "Won", year: 2025 },
+      { body: "Film Independent Spirit Awards (40th)", category: "Best First Screenplay", result: "Won", year: 2025 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["belonging", "estrangement", "assimilation", "shame", "motherhood", "performance"],
+      mood: ["tender", "bittersweet", "restless"],
+      fullReview: "It is the last month of summer, 2008, somewhere in Fremont, California, and Chris Wang is thirteen years old and very busy being embarrassed. Embarrassed by his mother, who paints in the garage and talks too much at the wrong moments. Embarrassed by his grandmother, who speaks only Mandarin and doesn\'t seem to notice that she\'s in America. Embarrassed by his own face, his own voice, the whole accumulated catastrophe of being himself at this particular age in this particular body. Sean Wang\'s debut feature is, among other things, the most precise film about thirteen-year-old-ness made in recent American cinema.\n\nThe setting is critical. 2008 means AIM instant messages and early YouTube and a specific kind of teenage social ecosystem that existed before smartphones collapsed it all into a single screen. Wang and his cinematographer Sam A. Davis shoot on film — a choice that is not nostalgic posturing but the correct technical decision, because the slightly warm, slightly imperfect grain feels like the way actual memory looks. The year is rendered with such ease that anyone who lived through it will find themselves catching details they didn\'t know they remembered.\n\nIzaac Wang plays Chris, and it would be easy to frame this as remarkable-for-his-age — but that formula undersells what\'s actually happening. The performance is remarkable, full stop. The role requires Chris to be genuinely cruel, genuinely stupid, genuinely tender, sometimes all in the same scene, and Izaac Wang never plays any of it at an angle. Every choice reads as something a specific human being would actually do, including the choices that make the audience wince. There are moments where the character behaves in ways that are difficult to watch — not dramatically difficult, just quietly, accurately recognizable — and the film trusts those moments completely.\n\nJoan Chen as Chris\'s mother Chungsing is the film\'s quiet revelation. Chungsing is a woman who is somewhere between artist and untethered — she paints, she tries, she loves her kids in ways visible from every angle except the angle her son currently has access to. Chen plays her without any of the usual immigrant-mother shorthand: no martyrdom, no cultural archetype, no tidy characterization. She is just a woman doing her best in circumstances that include a thirteen-year-old who can barely look at her. The film\'s central argument — never stated, entirely felt — is that she deserves more than she is getting from her own children, and that her children are not yet capable of knowing this, and that this is precisely what being a parent involves.\n\nThe skateboarding sequences serve a function beyond atmosphere. They are the film\'s outward story of belonging: the multiethnic group of Fremont kids who form the loose social world Chris desperately wants to enter are connected through skating the way communities have always been connected through shared physical practice. They have their own language, hierarchy, and codes, and Chris\'s navigation of that world — the self-conscious attempts, the humiliations, the moments of genuine warmth — is what plays on the surface while the real film happens between Chris and his mother.\n\nChang Li Hua as Nǎi Nai, the grandmother, brings something the film needs: a character entirely present in her own world, untroubled by assimilation, whose inability to speak with her grandson represents not just cultural distance but a particular kind of love that operates without translation. The relationship between them is handled with restraint and genuine warmth, and it earns its payoff.\n\nAt 94 minutes the film is lean, and that is mostly a strength. A few of the supporting teen characters amount to single traits rather than people, and one or two scenes make their emotional point more than once. But Wang keeps the register consistent throughout — this is a film that can be funny and breaking the audience\'s heart in the same breath, without announcing the shift — and that tonal consistency is its own form of directorial control.\n\nDìdi is the kind of debut that makes a filmmaker\'s next film immediately exciting. Wang knows exactly what he is making, who it is about, and why it matters — and he has assembled two anchor performances that any film would be fortunate to have. That is rarer than it sounds."
+    }
+  },
 ]; // ← paste movie objects here, one by one
