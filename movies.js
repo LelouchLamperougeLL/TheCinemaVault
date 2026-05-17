@@ -61023,4 +61023,355 @@ const MOVIES = [
       fullReview: "The Kyushu bullet train system has been running for about a year when twelve-year-old Koichi hears the rumor: at the exact moment two Shinkansen trains pass each other at full speed, wishes are granted. His parents have separated. He lives with his mother and grandparents in Kagoshima, in the perpetual grey shadow of Sakurajima volcano. His younger brother Ryunosuke lives with their musician father in Fukuoka, some hours away by the train they cannot afford. What Koichi wants from his wish is specific and enormous — he wants the volcano to erupt badly enough to make the city uninhabitable, badly enough to force the family back together under one roof. His brother, when consulted by phone, would settle for something considerably simpler.\n\nHirokazu Kore-eda made I Wish with the Maeda brothers — Koki and Oshirō, real siblings — cast in roles that share their given names, a decision that dissolves the usual membrane between performance and presence. These children are not acting in any legible theatrical sense. They are being observed, and what Kore-eda observes in them is something that even the most careful adult actor rarely produces: the quality of thought actually happening in a face, unmonitored and unguarded. Koki Maeda\'s Koichi is purposeful, slightly wound-up, already practicing the habit of determination that will either serve him well or quietly ruin him. His younger brother\'s Ryunosuke has the opposite temperament — looser, more accepting, less certain that the world owes him a particular shape. Their contrasting responses to an identical family rupture constitute the film\'s central argument about childhood and loss: that people begin adjusting at different speeds, and that the speed of adjustment is itself a kind of character.\n\nThe adult world surrounding these two children is drawn with Kore-eda\'s characteristic refusal to assign blame. The parents\' marriage has failed, but neither parent is made villainous. Joe Odagiri\'s guitar-playing father has the pleasant uselessness of someone who has chosen art over responsibility and has not yet faced the full accounting of that choice; he is warm, distracted, and slightly guilty — not a bad man, just an insufficient one. Yoshio Harada and Kirin Kiki as the maternal grandparents bring to their scenes a comfortable physical specificity, people who have been alive long enough to have strong opinions about food and who are unimpressed by the drama of younger generations. Every scene they inhabit has an extra dimension of lived texture that the film is wise enough to leave unexplained.\n\nWhen the children\'s plan solidifies — travel together to witness the trains passing, assemble a small coalition of co-conspirators from their respective schools, each carrying a wish of their own — the film acquires the shape of a gentle adventure. What Kore-eda does with considerable skill is refuse the emotional payload the setup appears to be building toward. The passage of the trains, when it arrives, is something other than a climax. The film is not interested in whether wishes come true. It is interested in what a child learns in the moment of discovering the world does not pivot around their desires, and Koki Maeda plays that moment with a silence that lands harder than most film speeches.\n\nAt two hours and seven minutes, I Wish runs somewhat long for its register. A schoolteacher subplot involving Hiroshi Abe and a running joke about artisanal sweets take up screen time that the film might have spent going deeper rather than wider. This is a gentle complaint — Kore-eda\'s willingness to linger is also what produces the film\'s most unexpectedly moving moments, the ones that arrive without announcement and lodge in the memory without drama.\n\nThe volcano is present throughout the Kagoshima sections: visible from windows, rising in backgrounds, dropped into frame whenever the film wants to remind the audience what Koichi is living under. It is the film\'s most efficient image — something large and potentially destructive that one either makes peace with or spends a childhood waiting for it to detonate. The film\'s quiet wisdom is that it knows these are not the same choice, and that it takes a certain kind of growing up to understand the difference."
     }
   },
+  {
+    id: "la-haine-1995",
+    title: "La Haine",
+    originalTitle: "La Haine",
+    romanization: null,
+    year: 1995,
+    tagline: "How far you fall doesn\'t matter, it\'s how you land…",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/8VWm0tNRtt8VjYI4efiMeodKfW0.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/gfdhSzPyAWtAizqs4ytc0MwOlQg.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=FKwcXt3JIaU",
+    director: [
+      {
+        name: "Mathieu Kassovitz",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Mathieu Kassovitz",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Vincent Cassel", role: "Vinz", photoUrl: "https://image.tmdb.org/t/p/w185/ivUQfhn5olOmR5hthN8C8GThBV4.jpg" },
+      { actor: "Hubert Koundé", role: "Hubert", photoUrl: "https://image.tmdb.org/t/p/w185/nii46CtpR2AYPkl8fBKtbrffqQg.jpg" },
+      { actor: "Saïd Taghmaoui", role: "Saïd", photoUrl: "https://image.tmdb.org/t/p/w185/kuxI08YpwQFGweIXK7TELknwexr.jpg" },
+      { actor: "Abdel Ahmed Ghili", role: "Abdel", photoUrl: "https://image.tmdb.org/t/p/w185/zCBgVA0B1ywgIQsMCPIhfnE7C60.jpg" },
+      { actor: "Solo", role: "Santo", photoUrl: "https://image.tmdb.org/t/p/w185/ydu1Na06GXKjARkfbdv4ulG6z6.jpg" },
+      { actor: "Héloïse Rauth", role: "Sarah", photoUrl: "https://image.tmdb.org/t/p/w185/vXfAbfJTvH92srHQR4lAJIYZKTB.jpg" },
+      { actor: "Olga Abrego", role: "Vinz\'s Aunt", photoUrl: "https://image.tmdb.org/t/p/w185/2Ler9163a2LQnfDbcc2f0iCgSrX.jpg" },
+      { actor: "Laurent Labasse", role: "Cook", photoUrl: "https://image.tmdb.org/t/p/w185/A02b91qXIUF1T1PAduRzaVcxDOp.jpg" },
+      { actor: "Choukri Gabteni", role: "Saïd\'s Brother", photoUrl: "https://image.tmdb.org/t/p/w185/4xW7gtiMOmWwTrCOgwhdj82D81c.jpg" },
+      { actor: "Benoît Magimel", role: "Benoît", photoUrl: "https://image.tmdb.org/t/p/w185/aOeTK0BHBqRrHYUtjRBlLvdXjN1.jpg" },
+      { actor: "Mathilde Vitry", role: "Journalist", photoUrl: "https://image.tmdb.org/t/p/w185/gRIu92RCdaL3LB3MOSqjKo5x7wL.jpg" },
+      { actor: "Christian Moro", role: "CRS TV Journalist", photoUrl: "https://image.tmdb.org/t/p/w185/4JF41UwsaIG4gSnhdfFZv6fs4rr.jpg" },
+      { actor: "Édouard Montoute", role: "Darty", photoUrl: "https://image.tmdb.org/t/p/w185/fWbTkHyL7ByGUuz8C77US8tuDNF.jpg" },
+      { actor: "Félicité Wouassi", role: "Hubert\'s Mother", photoUrl: "https://image.tmdb.org/t/p/w185/cxY2GnvndULyOE1TdIBavEWVv4N.jpg" },
+      { actor: "Cut Killer", role: "DJ", photoUrl: "https://image.tmdb.org/t/p/w185/26mGsqIUyOIVALWsr9tLuQpOejU.jpg" },
+      { actor: "Julie Mauduech", role: "Art Gallery Girl #1", photoUrl: "https://image.tmdb.org/t/p/w185/ahX2WtMJNaj4Dk1tuCyIKVzZfbS.jpg" },
+      { actor: "Karin Viard", role: "Art Gallery Girl #2", photoUrl: "https://image.tmdb.org/t/p/w185/quIomRrFBxXq32K5MBuvaTR3xBk.jpg" },
+      { actor: "Peter Kassovitz", role: "Art Gallery Owner", photoUrl: "https://image.tmdb.org/t/p/w185/3YHPZIDJsxZmYfVHrycWwJUeWQY.jpg" },
+      { actor: "Christophe Rossignon", role: "Taxi Driver", photoUrl: "https://image.tmdb.org/t/p/w185/xlEAUEu1owtvkFQNT9h684TryQV.jpg" },
+      { actor: "Vincent Lindon", role: "Really Drunk Man", photoUrl: "https://image.tmdb.org/t/p/w185/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg" },
+      { actor: "Mathieu Kassovitz", role: "Young Skin", photoUrl: "https://image.tmdb.org/t/p/w185/3FRBEdKKlxhvPWPt0jzgmSjeHwn.jpg" },
+      { actor: "Anthony Souter", role: "Skin #1", photoUrl: "https://image.tmdb.org/t/p/w185/yRCh3X3EPfLHS8wc5zEzRGeyiq9.jpg" },
+      { actor: "Virginie Montel", role: "Subway Homeless", photoUrl: "https://image.tmdb.org/t/p/w185/cOKhl8iUCqyb8deQ01uZH4wWzZz.jpg" },
+      { actor: "Andrée Damant", role: "Concierge", photoUrl: "https://image.tmdb.org/t/p/w185/595T51UgSlLAsIfSpusTFtRGnD9.jpg" },
+      { actor: "Karim Belkhadra", role: "Samir", photoUrl: "https://image.tmdb.org/t/p/w185/aFBzQEDL7Je3D09by4auqhGWybs.jpg" },
+      { actor: "Marc Duret", role: "Inspector \'Notre-Dame\'", photoUrl: "https://image.tmdb.org/t/p/w185/jOLK1qN6z3P1dnxYPrYxe0OV0CE.jpg" },
+      { actor: "Philippe Nahon", role: "Roof Police Chief", photoUrl: "https://image.tmdb.org/t/p/w185/CHlLvN1GCXb78eB418z9yfhrSu.jpg" },
+      { actor: "Sébastien Tavel", role: "Hospital Young Police Officer", photoUrl: "https://image.tmdb.org/t/p/w185/7vvKVKAWeXJJnAGz1PfzPbh1jpk.jpg" },
+      { actor: "François Toumarkine", role: "Hospital Police Chief", photoUrl: "https://image.tmdb.org/t/p/w185/uVj3RWhHD5OFEd0pnpCmGvrLK7i.jpg" },
+      { actor: "José Dalmat", role: "Hospital Police Officer #1", photoUrl: "https://image.tmdb.org/t/p/w185/j9ksWeRTvBUihM8T5SU0xTGF38N.jpg" },
+      { actor: "Zinedine Soualem", role: "Paris Plainclothes Police Officer #1", photoUrl: "https://image.tmdb.org/t/p/w185/feyQoQ89GDPnnmbeiiVFHkJvQtH.jpg" },
+      { actor: "Bernie Bonvoisin", role: "Paris Plainclothes Police Officer #2", photoUrl: "https://image.tmdb.org/t/p/w185/7epX7eXIR5Lbuh590ez9144PwcC.jpg" },
+      { actor: "Patrick Médioni", role: "Cave CRS Officer", photoUrl: "https://image.tmdb.org/t/p/w185/pFtDTBI3y90NHWZsRp2RDZuxPjf.jpg" }
+    ],
+    languages: ["French"],
+    genres: ["Drama", "Crime", "Political"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "pervasive strong language including racial slurs",
+        "police brutality and custodial torture depicted on screen",
+        "gun violence with implied fatal consequences",
+        "urban rioting and property destruction",
+        "racial profiling and systemic dehumanization of minorities",
+        "psychological pressure around mortality and entrapment"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:38" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (48th)", category: "Best Director", result: "Won", year: 1995 },
+      { body: "Cannes Film Festival (48th)", category: "Palme d\'Or", result: "Nominated", year: 1995 },
+      { body: "César Awards (21st)", category: "Best Film", result: "Nominated", year: 1996 },
+      { body: "César Awards (21st)", category: "Best Director", result: "Nominated", year: 1996 },
+      { body: "César Awards (21st)", category: "Best Original Screenplay", result: "Nominated", year: 1996 },
+      { body: "César Awards (21st)", category: "Best Film Editing", result: "Nominated", year: 1996 },
+      { body: "César Awards (21st)", category: "Best Sound", result: "Nominated", year: 1996 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["fatalism", "marginalization", "complicity", "escalation", "brotherhood", "mortality", "displacement"],
+      mood: ["suffocating", "volatile", "elegiac"],
+      fullReview: "The morning after a night of riots in a Paris banlieue, three young men wake up to a world that has not changed and never will. Vinz is a Jewish kid from the projects who found a police officer\'s gun in the rubble and has decided, with the conviction of someone who has never had to follow through on anything, that he will use it. Hubert is a Black boxer whose gym burned down in the chaos, a man trying to leave who cannot find the door. Saïd, Arab and restless and quick with a joke that never quite lands, floats between them. Their friend Abdel is in a coma somewhere in a hospital after a police encounter. Over the next nineteen hours, nothing happens and everything accelerates toward something that cannot be stopped.\n\nMathieu Kassovitz was twenty-seven when he made this film. That fact is worth sitting with, because La Haine does not carry the diffidence of a debut — it carries the fury of someone who already knew exactly what he was angry about and had figured out precisely how to make an audience feel it in their chest. Shot in black and white, the banlieue cinematography by Pierre Aïm refuses the grim documentary texture that lesser films would have reached for. Instead the images are high-contrast and composed with real aggression — rooftop vistas, cramped stairwells, the scalding white geometry of a Paris that keeps the three men at its edges. The monochrome choice is not aesthetic vanity. It strips the film of ambiguity\'s softer colors. Everything in this world is either illuminated or lost in shadow.\n\nThe decision to structure the film around twenty-four hours and to mark each passing hour on screen is sometimes read as a thriller device, and it is — but it is also something bleaker. The countdown does not build toward a resolution. It builds toward an inevitability. The film announces from its opening frames, in the form of a parable Hubert repeats, that the question is not whether the fall will happen but how the landing goes. Kassovitz refuses the audience any comfort of uncertainty about where this is headed. What remains is watching three young men walk toward it, pausing to bicker, to laugh, to eat badly, to visit a hospital, to get humiliated in Paris proper when they wander into the city like tourists in their own country.\n\nThe three lead performances are staggering — not because they are showy, but because they are not. Vincent Cassel plays Vinz\'s swaggering death-wish with a kind of terrified energy underneath it, a boy performing danger because the alternative is admitting powerlessness. Hubert Koundé gives Hubert a quiet that reads as defeat slowly calcifying into philosophy. Saïd Taghmaoui finds the film\'s only genuine warmth, though even his jokes feel like someone laughing to fill a silence before it fills them. The three of them together have the loose, unscripted rhythm of people who have known each other since childhood — which is to say they talk over each other, misread each other, and still move as a single organism.\n\nWhat the film understands that distinguishes it from the social realism tradition it nominally descends from is that the banlieue is not simply a place of poverty. It is a place of enforced irrelevance. The three men are not struggling against economic hardship in any direct way during these twenty-four hours — they are struggling against the specific psychic weight of knowing that France has decided they do not fully count. The camera never argues this point through dialogue or didacticism. It demonstrates it through accumulation: the way police approach them, the way a gallery owner reads their presence, the way Paris itself seems to emit a low-frequency rejection signal whenever they cross into it.\n\nThe film has been in circulation for thirty years and has not dated by a single frame. That is the thing about La Haine that still stings the most — not that it was prophetic in 1995, but that it remains entirely current. The specific details shift; the architecture of the situation does not. Kassovitz made a film about France and accidentally made a film about every country that has constructed invisible walls and then expressed surprise when people on the wrong side of them stop believing in the wall\'s legitimacy.\n\nAt ninety-eight minutes it does not overstay. The pacing is deceptive — it feels longer, not in a punishing way, but in the way of a day that refuses to end, each hour stretching out in the heat with nowhere to go and nothing to do but wait for whatever comes next. The score drifts between hip-hop and near-silence, and the silence is the more frightening of the two.\n\nThis is not a film to admire from a distance. It gets under the skin and stays there."
+    }
+  },
+  {
+    id: "the-celebration-1998",
+    title: "The Celebration",
+    originalTitle: "Festen",
+    romanization: null,
+    year: 1998,
+    tagline: "Every family has a secret.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/7dJpmUMGELxQsNOo49DFuVxzFfR.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/yCtgdv7TfgZLHj6R9IQKD5TjljP.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=XCqc_JTiNxg",
+    director: [
+      {
+        name: "Thomas Vinterberg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1lChKBPVLqbn7Kl8lHghybBVzgw.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Thomas Vinterberg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1lChKBPVLqbn7Kl8lHghybBVzgw.jpg"
+      },
+      {
+        name: "Mogens Rukov",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mPkUiZepVRMDRDtH9UpnhWIkkrt.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Ulrich Thomsen", role: "Christian", photoUrl: "https://image.tmdb.org/t/p/w185/qjXAPbuO8CicunlQs07c1fbFG67.jpg" },
+      { actor: "Henning Moritzen", role: "Faderen", photoUrl: "https://image.tmdb.org/t/p/w185/tAax9obEx0Zdg9SjXeLCzKFqCBz.jpg" },
+      { actor: "Thomas Bo Larsen", role: "Michael", photoUrl: "https://image.tmdb.org/t/p/w185/x5Egmvb8FU275PfYZovyJggDBIs.jpg" },
+      { actor: "Paprika Steen", role: "Helene", photoUrl: "https://image.tmdb.org/t/p/w185/c0OSsG2akVhYMOrCd3EYNGY4AuN.jpg" },
+      { actor: "Birthe Neumann", role: "Moderen", photoUrl: "https://image.tmdb.org/t/p/w185/bZa9JfPwcdSMfZnbL2VPysPdfwg.jpg" },
+      { actor: "Trine Dyrholm", role: "Pia", photoUrl: "https://image.tmdb.org/t/p/w185/ntUn5eKFlQxbjPci5A99qJOjulY.jpg" },
+      { actor: "Helle Dolleris", role: "Mette", photoUrl: "https://image.tmdb.org/t/p/w185/a8CEL1YkcJXFNB2gLe5keLUwozx.jpg" },
+      { actor: "Therese Glahn", role: "Michelle", photoUrl: "https://image.tmdb.org/t/p/w185/8dJnVCiU2pbgkHfqiw2eYrjMiUx.jpg" },
+      { actor: "Klaus Bondam", role: "Toastmasteren", photoUrl: "https://image.tmdb.org/t/p/w185/13Rb1BKTllQ6xn7Xcr202LEEoqS.jpg" },
+      { actor: "Bjarne Henriksen", role: "Kokken", photoUrl: "https://image.tmdb.org/t/p/w185/6WLQcG8r9JsR9itrniXKunBfY4i.jpg" },
+      { actor: "Lasse Lunderskov", role: "Onklen", photoUrl: "https://image.tmdb.org/t/p/w185/ntM2vtrNn0SgRl39CBRsDaqldq6.jpg" },
+      { actor: "Lars Brygmann", role: "Receptionisten", photoUrl: "https://image.tmdb.org/t/p/w185/fjeqaDHEeInfWjDqrH1nPIqhBul.jpg" },
+      { actor: "Linda Laursen", role: "Birthe", photoUrl: "https://image.tmdb.org/t/p/w185/w4T2QHEpJb5GiCnhr9F6MCaSn3D.jpg" },
+      { actor: "Birgitte Simonsen", role: "Christian\'s Friend", photoUrl: "https://image.tmdb.org/t/p/w185/8FivOAqqUtUl9FQt8x1a6AVbtyw.jpg" },
+      { actor: "Thomas Vinterberg", role: "Taxi Driver", photoUrl: "https://image.tmdb.org/t/p/w185/1lChKBPVLqbn7Kl8lHghybBVzgw.jpg" },
+      { actor: "Sigrid Aalbæk Jensen", role: "Børn", photoUrl: "https://image.tmdb.org/t/p/w185/5KlR56n6RoOXF1UglkMv9bkNva8.jpg" }
+    ],
+    languages: ["Danish", "German", "English"],
+    genres: ["Drama", "Psychological", "Dark"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "childhood sexual abuse by a parent revealed through direct testimony",
+        "suicide referenced explicitly and connected to abuse history",
+        "sustained psychological manipulation and gaslighting within a family setting",
+        "racist language and physical intimidation directed at a Black character",
+        "prolonged emotional cruelty between adult siblings",
+        "heavy alcohol consumption throughout",
+        "brief physical altercation"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:41" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (51st)", category: "Jury Prize", result: "Won", year: 1998 },
+      { body: "Robert Awards (1999)", category: "Best Danish Film", result: "Won", year: 1999 },
+      { body: "Robert Awards (1999)", category: "Best Director", result: "Won", year: 1999 },
+      { body: "Robert Awards (1999)", category: "Best Actor (Ulrich Thomsen)", result: "Won", year: 1999 },
+      { body: "European Film Awards (11th)", category: "People\'s Choice Award for Best European Film", result: "Won", year: 1998 },
+      { body: "European Film Awards (11th)", category: "Best European Film", result: "Nominated", year: 1998 },
+      { body: "Cannes Film Festival (51st)", category: "Palme d\'Or", result: "Nominated", year: 1998 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["abuse", "denial", "complicity", "silence", "confrontation", "accountability", "inheritance", "trauma"],
+      mood: ["suffocating", "harrowing", "disquieting"],
+      fullReview: "A wealthy Danish patriarch turns sixty, and his family gathers at the estate — siblings, spouses, children, grandparents — for a weekend of formal dinners, toasts, and the practiced warmth of people who have learned to perform closeness in lieu of feeling it. Christian, the eldest son, arrives quieter than anyone expects. His twin sister has recently died. He has prepared a birthday speech. What that speech contains is the film\'s hinge point, and to describe it even vaguely would be to remove the film\'s most devastating effect. What can be said is that once Christian speaks, the evening becomes a war between what has been said and what the assembled family needs to keep unsaid — and that this war will take the rest of the night to resolve.\n\nThomas Vinterberg shot Festen under the constraints of Dogme 95, the manifesto he co-authored with Lars von Trier. No artificial lighting. No non-diegetic music. Handheld cameras only. No post-production manipulation of image or sound. What reads on paper as cinema-school provocation turns out, in practice, to be a moral decision: by stripping away every device that film normally uses to steer an audience\'s emotional response, Vinterberg puts the viewer inside the room without instruction. There is no score to signal horror, no careful lighting to designate the villain, no editing rhythm to provide relief. Anthony Dod Mantle\'s restless handheld work creates a physical proximity to the action that grows increasingly unbearable as the evening deteriorates — not because the images are graphic, but because nothing softens them.\n\nUlrich Thomsen\'s performance as Christian is one of the genuinely great pieces of screen acting to come out of 1990s European cinema, distinguished by what it refuses to do. Thomsen never reaches for sympathy. He never tips into martyrdom. Christian simply keeps saying the thing he has come to say, returning to it after each humiliation, each dismissal, each attempt by the family apparatus to absorb and neutralize him. The performance works because it has the quality of something decided — not performed courage, but the specific blankness of a person who has already paid the cost internally and arrived at the table with nothing left to lose.\n\nHenning Moritzen as the father is the film\'s other essential performance and arguably the more difficult one. The screenplay, written by Vinterberg and the late Mogens Rukov, is honest enough to show the patriarch as someone his family genuinely loves. He has warmth, charisma, a talent for making a room feel celebratory. The film refuses to let the audience experience him only as the thing Christian says he is, which is precisely what makes the situation so difficult to process. Easy villainy would be a kindness the film declines to extend.\n\nThomas Bo Larsen as Michael, the volatile middle brother, provides most of the film\'s darkest comedy — a man who keeps trying to bully the evening back toward normalcy through sheer aggression and force of appetite, like someone attempting to seal a wound with a handshake. Paprika Steen\'s Helene spends the film in a quieter war with herself, and the moment when her position finally shifts is among the most understated and devastating things the film delivers.\n\nThe Dogme aesthetic produces a tonal range that is stranger than it first appears. The film is, at intervals, genuinely funny — the cascading absurdity of a family gathering that cannot quite metabolize what it has been told generates moments of black comedy that would not land at all in a conventionally scored and lit production. Vinterberg understands that horror and comedy are the same nerve, differently struck, and that families navigating unbearable information often generate both simultaneously. The handheld naturalism makes space for this without collapsing into farce.\n\nAt 101 minutes the film feels considerably longer, in the way any truly uncomfortable situation outstays its clock time. This is not a criticism. The screenplay is constructed like a pressure cooker — each cycle of revelation, denial, and forced return to the birthday programme tightens the mechanism another notch. By the time the evening reaches its resolution, the audience has been through something genuinely exhausting.\n\nFesten is not a film to press on people who are not ready for it. The subject matter is severe and the film does not soften its approach for the ambivalent. But what it does with unusual precision is locate the specific mechanism by which families decide, collectively and in real time, what they are willing to know about themselves — and observe that mechanism with a patience that borders on clinical fury. Nearly thirty years on, it remains one of the indispensable European films of its decade."
+    }
+  },
+  {
+    id: "ghost-world-2001",
+    title: "Ghost World",
+    originalTitle: null,
+    romanization: null,
+    year: 2001,
+    tagline: "Accentuate the negative.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/rUIfCzmqm8bDSCFLwk1EYhohbkx.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/6zIOO1NrTehQkDaNfvga4luSRQc.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=juzGS-GN79M",
+    director: [
+      {
+        name: "Terry Zwigoff",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g71UdeCOUCQylL7TFCULkbxKsDT.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Daniel Clowes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6e6whKvP0Qz4104XgfB0ZNSnNnG.jpg"
+      },
+      {
+        name: "Terry Zwigoff",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g71UdeCOUCQylL7TFCULkbxKsDT.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Thora Birch", role: "Enid", photoUrl: "https://image.tmdb.org/t/p/w185/xJ6Bb3C8f0ior5LlWdNzxlb8cgV.jpg" },
+      { actor: "Scarlett Johansson", role: "Rebecca", photoUrl: "https://image.tmdb.org/t/p/w185/6bBCPmc55gzP7TR9Th4WbykrYd0.jpg" },
+      { actor: "Steve Buscemi", role: "Seymour", photoUrl: "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg" },
+      { actor: "Brad Renfro", role: "Josh", photoUrl: "https://image.tmdb.org/t/p/w185/oOtzyE9wkbBV58ZxyYsGzyPxoSw.jpg" },
+      { actor: "Illeana Douglas", role: "Roberta Allsworth", photoUrl: "https://image.tmdb.org/t/p/w185/tICmPFccAUAOmMXmqcpK8q03kYG.jpg" },
+      { actor: "Bob Balaban", role: "Enid\'s Dad", photoUrl: "https://image.tmdb.org/t/p/w185/qceORed11dvRnxQjVGexPvgF5Xu.jpg" },
+      { actor: "Stacey Travis", role: "Dana", photoUrl: "https://image.tmdb.org/t/p/w185/sXCx1nQf11C5HcLqQTSuUOUy7ZK.jpg" },
+      { actor: "Charles C. Stevenson Jr.", role: "Norman", photoUrl: "https://image.tmdb.org/t/p/w185/cwqEyucfWh1VGBeU7jK01NarLiG.jpg" },
+      { actor: "Dave Sheridan", role: "Doug", photoUrl: "https://image.tmdb.org/t/p/w185/qJF27jpleZBQOikOuYL7rfh9CPM.jpg" },
+      { actor: "Tom McGowan", role: "Joe", photoUrl: "https://image.tmdb.org/t/p/w185/yXeRcq0Lgz8RofCcmg72ai97AFE.jpg" },
+      { actor: "Debra Azar", role: "Melora", photoUrl: "https://image.tmdb.org/t/p/w185/7zG03YmN2f8qmNwV7pYA0nNxkN0.jpg" },
+      { actor: "Brian George", role: "Sidewinder Boss", photoUrl: "https://image.tmdb.org/t/p/w185/mHjc58pfKkxtghhliPOnNz0SlcT.jpg" },
+      { actor: "Pat Healy", role: "John Ellis", photoUrl: "https://image.tmdb.org/t/p/w185/gWW97trwxTAi1nkY4CY1jNFMP5z.jpg" },
+      { actor: "Rini Bell", role: "Graduation Speaker", photoUrl: "https://image.tmdb.org/t/p/w185/sObEcnxn8YjiV3fPOJ3jQuhrDPH.jpg" },
+      { actor: "T.J. Thyne", role: "Todd", photoUrl: "https://image.tmdb.org/t/p/w185/wzPGaDjzimfGjIpRg6NjN9eqJxL.jpg" },
+      { actor: "Ezra Buzzington", role: "Weird Al", photoUrl: "https://image.tmdb.org/t/p/w185/vnkdumEom4lVAqdh7Odsf2nZpjB.jpg" },
+      { actor: "Lindsey Girardot", role: "Vanilla", photoUrl: "https://image.tmdb.org/t/p/w185/fuBdnR0H1RVU92RWZHEeR4sjqft.jpg" },
+      { actor: "Joy Bisco", role: "Jade", photoUrl: "https://image.tmdb.org/t/p/w185/ge2VE1kux6pJdodmBEwmdRhV4x3.jpg" },
+      { actor: "Venus DeMilo Thomas", role: "Ebony", photoUrl: "https://image.tmdb.org/t/p/w185/vlSTEJmH9FsXFwlU9GQkhGhGuAc.jpg" },
+      { actor: "Ashley Peldon", role: "Margaret", photoUrl: "https://image.tmdb.org/t/p/w185/l9Wl2VTPuWf9TqNRU7XnQz85qHq.jpg" },
+      { actor: "Dylan Jones", role: "Red-Haired Girl", photoUrl: "https://image.tmdb.org/t/p/w185/v2xAvlsHPJ5k5IXJ6sICiv85AIk.jpg" },
+      { actor: "Marc Vann", role: "Angry Guy (Jerome)", photoUrl: "https://image.tmdb.org/t/p/w185/7gJq2txaqjJYoDQCV4rrr19BvEg.jpg" },
+      { actor: "James Sie", role: "Asian Guy (Steven)", photoUrl: "https://image.tmdb.org/t/p/w185/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg" },
+      { actor: "Paul Keith", role: "Fussy Guy (Paul)", photoUrl: "https://image.tmdb.org/t/p/w185/y9OkeYOpSQBuLl3Z5JCfKdl1MRP.jpg" },
+      { actor: "David Cross", role: "Pushy Guy (Gerrold)", photoUrl: "https://image.tmdb.org/t/p/w185/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg" },
+      { actor: "Martin Grey", role: "M.C.", photoUrl: "https://image.tmdb.org/t/p/w185/9d7BOggefefD6V1jBHc2I67QJtN.jpg" },
+      { actor: "Jake La Botz", role: "Blueshammer Member", photoUrl: "https://image.tmdb.org/t/p/w185/sXXsLk6kG7AjkyUAp2a7XDgvEDq.jpg" },
+      { actor: "Charles Schneider", role: "Joey McCobb", photoUrl: "https://image.tmdb.org/t/p/w185/5gE3iObRtCUBWcByUPdKWUBJZn9.jpg" },
+      { actor: "Sid Hillman", role: "Zine-O-Phobia Creep", photoUrl: "https://image.tmdb.org/t/p/w185/lCZbfN2fJqdFIQyfN3lM3zN04Gu.jpg" },
+      { actor: "Patrick Fischler", role: "Masterpiece Video Clerk", photoUrl: "https://image.tmdb.org/t/p/w185/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg" },
+      { actor: "Daniel Graves", role: "Masterpiece Video Customer", photoUrl: "https://image.tmdb.org/t/p/w185/vtYtwGGkVoV2MwJrFv7LSuG7Egc.jpg" },
+      { actor: "Matt Doherty", role: "Masterpiece Video Employee", photoUrl: "https://image.tmdb.org/t/p/w185/yKB3ulgNLMzIvqDwSYW29OFoZlu.jpg" },
+      { actor: "Joel Michaely", role: "Porno Cashier", photoUrl: "https://image.tmdb.org/t/p/w185/1oLRaDw4evHk3SpyuXvmy9Esb1M.jpg" },
+      { actor: "Debi Derryberry", role: "Rude Coffee Customer", photoUrl: "https://image.tmdb.org/t/p/w185/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg" },
+      { actor: "Joseph Sikora", role: "Reggae Fan", photoUrl: "https://image.tmdb.org/t/p/w185/lCsWDvqKYz1UFGRYN5chg5izZAu.jpg" },
+      { actor: "Lauren Bowles", role: "Angry Garage Sale Woman", photoUrl: "https://image.tmdb.org/t/p/w185/44IKklmPoS73RBd0L07kZb2jKcY.jpg" },
+      { actor: "Lorna Scott", role: "Phyllis, the Art Show Curator", photoUrl: "https://image.tmdb.org/t/p/w185/cBlU9Pa9LWWPf2JRELGsY0PJ5Il.jpg" },
+      { actor: "Jerry Rector", role: "Dana\'s Co-Worker", photoUrl: "https://image.tmdb.org/t/p/w185/qJBLG8lGTfqXylibxx6g84MQfhi.jpg" },
+      { actor: "Diane Salinger", role: "Psychiatrist", photoUrl: "https://image.tmdb.org/t/p/w185/7lJocSxXknwdcA76dlrHwtE1eQC.jpg" },
+      { actor: "Anna Berger", role: "Seymour\'s Mother", photoUrl: "https://image.tmdb.org/t/p/w185/r9hukamoCTkuosl83xwBCnFYaEz.jpg" },
+      { actor: "Bruce Glover", role: "Feldman (Wheelchair Guy)", photoUrl: "https://image.tmdb.org/t/p/w185/xIaAA5KFhaB4Z5FmWd5Rd2KenVn.jpg" },
+      { actor: "Teri Garr", role: "Maxine", photoUrl: "https://image.tmdb.org/t/p/w185/iscVncnCVtM8Wl4FmcEkr6KDtRE.jpg" },
+      { actor: "Joan Blair", role: "Lady Slowly Crossing Street", photoUrl: "https://image.tmdb.org/t/p/w185/2xN0dnYYRa4QpnsFcAdJxvSUsk7.jpg" },
+      { actor: "Michelle McGinty", role: "Mom in Convenience Store", photoUrl: "https://image.tmdb.org/t/p/w185/dYvAeywfR6y9kPE6x9XLFltdLNV.jpg" },
+      { actor: "Will Forte", role: "(uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg" },
+      { actor: "Brian Jacobs", role: "Soda Customer", photoUrl: "https://image.tmdb.org/t/p/w185/crfVy2SvCO6QzpGKVyRO0ORfLeO.jpg" }
+    ],
+    languages: ["English"],
+    genres: ["Comedy", "Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "sustained cynical humor about sex, race, and class",
+        "brief visit to an adult entertainment store with explicit product packaging visible",
+        "moderate sexual dialogue and implied activity",
+        "depiction of a manipulative older man pursuing a much younger woman",
+        "alcohol consumption and implied alcoholism",
+        "moderate language throughout",
+        "a scene depicting racist performance art used as satire"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:51" }
+    ],
+    awards: [
+      { body: "Independent Spirit Awards (17th)", category: "Best Screenplay", result: "Won", year: 2002 },
+      { body: "BAFTA Film Awards (55th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2002 },
+      { body: "Independent Spirit Awards (17th)", category: "Best Feature", result: "Nominated", year: 2002 },
+      { body: "Independent Spirit Awards (17th)", category: "Best Director", result: "Nominated", year: 2002 },
+      { body: "Independent Spirit Awards (17th)", category: "Best Supporting Male (Steve Buscemi)", result: "Nominated", year: 2002 },
+      { body: "Writers Guild of America Awards (54th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2002 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["alienation", "authenticity", "nostalgia", "estrangement", "belonging", "obsession", "stagnation"],
+      mood: ["wry", "melancholic", "restless"],
+      fullReview: "Enid and Rebecca have just graduated high school and have absolutely no idea what to do next. They have strong opinions about everything — music, people, furniture, the precise species of loser inhabiting every corner of their unnamed American suburb — and no discernible plans whatsoever. When they pull a prank on Seymour, a fussy, middle-aged record collector they find through a personal ad, Enid becomes unexpectedly fascinated by him. Rebecca starts drifting toward an approximation of adulthood. The friendship, which has operated for years as a sealed unit against the world, begins to crack open.\n\nTerry Zwigoff and Daniel Clowes adapted Clowes\'s comic with a fidelity to its spirit that is rarer than it sounds. Comics adaptations tend to sand down their source material into something more palatable for a general audience; Ghost World sharpens it instead. The film is genuinely and specifically funny in ways that require the audience to share Enid\'s contempt for performative cool, hollow nostalgia, and the specific social theater of people who have curated their identities into corners they cannot escape. The Blueshammer scene — a bar band playing a grotesque, whitewashed version of Delta blues while an entirely white audience nods along approvingly — lands as the film\'s funniest and most pointed sequence, not because it is exaggerated but because it is not.\n\nThora Birch gives one of the more undervalued lead performances in American indie cinema of that decade. Enid is a character who could easily become insufferable in less careful hands — the precocious outsider whose contempt for conformity is itself a form of conformity. Birch plays her with enough genuine confusion and self-sabotage to make the irony honest rather than smug. The film understands that Enid\'s problem is not that she is smarter than everyone around her; it is that she has built her entire identity on a posture she has not figured out how to live inside. She keeps dismantling things because building anything would require her to commit.\n\nSteve Buscemi\'s Seymour is the film\'s emotional center and its most generous creation. He is pedantic, socially awkward, and entirely sincere — a man who has organized his life around a passionate niche interest and is both sustained and trapped by it. The film treats him with a respect it does not extend to anyone else in the story, and the dynamic between Seymour and Enid — two people whose outsider status rhymes but does not match — gives the second half its complicated warmth. Buscemi finds real specificity in a character type that usually exists only to be pitied or mocked.\n\nScarlett Johansson, in an early role that demonstrated range she would spend years not being allowed to use, plays Rebecca\'s growing pragmatism with a subtlety the film does not always reward with close attention. Rebecca\'s arc — toward an apartment, a job, something resembling a future — is treated not as maturity but as a kind of defeat, though the film is careful not to argue that Enid\'s resistance is any kind of victory either.\n\nThe screenplay\'s structural confidence is its strongest quality and its most honest one. Ghost World does not reach for a resolution that its material does not have available. The American suburb it depicts is so thoroughly hostile to interiority — so aggressively, cheerfully committed to the surface — that no comfortable ending is possible without lying. The film\'s third act, which some viewers have found unsatisfying, is actually the only ending the story earns: something between disappearance and transformation, ambiguous enough to resist being claimed by either optimism or despair.\n\nAffonso Beato\'s cinematography avoids the sun-bleached irony that independent American films of the period often defaulted to. The suburb looks neither beautiful nor terrible — just relentlessly, fluorescently itself. The visual palette matches Enid\'s relationship to her surroundings perfectly: she sees it clearly, cannot find a place in it, and cannot stop looking.\n\nGhost World is not a film for everyone, and it knows it. Viewers who want their alienated protagonists to find their people, or learn a lesson, or grow into the world as it actually is, will find the ending unsatisfying. For anyone who has spent significant time feeling like a ghost in their own surroundings, it will feel like something considerably more specific than a movie about teenagers."
+    }
+  },
+  {
+    id: "the-double-life-of-veronique-1991",
+    title: "The Double Life of Véronique",
+    originalTitle: "La Double Vie de Véronique",
+    romanization: null,
+    year: 1991,
+    tagline: "Each of us is matched somewhere in the world, by our exact double — someone who shares our thoughts and dreams.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/wpQo4hgZcib0BSczModi50PhW9y.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/vjsFyeCf5W5rxCFpS9MIAEZJkIG.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=_baGBH7_G4U",
+    director: [
+      {
+        name: "Krzysztof Kieślowski",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vOgq6ojWQturbj0XLL9ryBL0V4r.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Krzysztof Kieślowski",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vOgq6ojWQturbj0XLL9ryBL0V4r.jpg"
+      },
+      {
+        name: "Krzysztof Piesiewicz",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uFJXZtw0g9wzYmPfXMTYQ3vaT6k.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Irène Jacob", role: "Weronika / Véronique", photoUrl: "https://image.tmdb.org/t/p/w185/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg" },
+      { actor: "Halina Gryglaszewska", role: "Auntie", photoUrl: "https://image.tmdb.org/t/p/w185/sx6WP8WhHsiRJKBavxYSxiEgXz7.jpg" },
+      { actor: "Philippe Volter", role: "Alexandre Fabbri", photoUrl: "https://image.tmdb.org/t/p/w185/64YFCcB1D6FfPV7WE8OTEf2WP2V.jpg" },
+      { actor: "Guillaume de Tonquédec", role: "Serge", photoUrl: "https://image.tmdb.org/t/p/w185/mDPeqkKJgFMiH60gH32VTwgOHSp.jpg" },
+      { actor: "Kalina Jędrusik", role: "Crazy Woman", photoUrl: "https://image.tmdb.org/t/p/w185/kdBsBNm2hbzKnejkNfJ9spNyKUg.jpg" },
+      { actor: "Aleksander Bardini", role: "Conductor", photoUrl: "https://image.tmdb.org/t/p/w185/v816A7dBF8OFMyuofAYvBo9maZr.jpg" },
+      { actor: "Jerzy Gudejko", role: "Antek", photoUrl: "https://image.tmdb.org/t/p/w185/gRtUVcIuQOnngorj609shEBZosU.jpg" },
+      { actor: "Sandrine Dumas", role: "Catherine", photoUrl: "https://image.tmdb.org/t/p/w185/2zgcukScZ9jqtdHhdREf9PmPn08.jpg" },
+      { actor: "Louis Ducreux", role: "Professor", photoUrl: "https://image.tmdb.org/t/p/w185/rTgfxPZn9a2pPpXcP9PGeiPpMHB.jpg" },
+      { actor: "Claude Duneton", role: "Véronique\'s Father", photoUrl: "https://image.tmdb.org/t/p/w185/9rXxZtykBGKc7On67xkkxlFlLWf.jpg" },
+      { actor: "Lorraine Evanoff", role: "Claude", photoUrl: "https://image.tmdb.org/t/p/w185/yK6cfhLfvfemR0v0qvnrxezHB4U.jpg" },
+      { actor: "Gilles Gaston-Dreyfus", role: "Jean-Pierre", photoUrl: "https://image.tmdb.org/t/p/w185/gqXFUdM162eGPRz9zYbGSx6b1qv.jpg" },
+      { actor: "Alain Frérot", role: "Factor", photoUrl: "https://image.tmdb.org/t/p/w185/zVNKKRmaVWHOJmSpSm82HmF2IQP.jpg" },
+      { actor: "Youssef Hamid", role: "Cheminot", photoUrl: "https://image.tmdb.org/t/p/w185/8Vn1flCfZn8HFsrHEsvywanxSZa.jpg" },
+      { actor: "Thierry de Carbonnières", role: "Professor", photoUrl: "https://image.tmdb.org/t/p/w185/w98IdgknDBJOnSZpA3Q63FUDOrl.jpg" },
+      { actor: "Chantal Neuwirth", role: "Receptionist", photoUrl: "https://image.tmdb.org/t/p/w185/77sFWks8GXwZGNq2l8T7wFnVfOp.jpg" }
+    ],
+    languages: ["French", "Polish"],
+    genres: ["Drama", "Fantasy", "Romance"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "brief non-explicit nudity",
+        "mild sensual content",
+        "death depicted on screen without graphic detail",
+        "existential grief and unexplained emotional loss",
+        "psychological disorientation as a sustained narrative mode"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:38" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (44th)", category: "Best Actress (Irène Jacob)", result: "Won", year: 1991 },
+      { body: "Cannes Film Festival (44th)", category: "FIPRESCI Prize", result: "Won", year: 1991 },
+      { body: "Cannes Film Festival (44th)", category: "Prize of the Ecumenical Jury", result: "Won", year: 1991 },
+      { body: "César Awards (17th)", category: "Best Film", result: "Nominated", year: 1992 },
+      { body: "César Awards (17th)", category: "Best Director", result: "Nominated", year: 1992 },
+      { body: "César Awards (17th)", category: "Best Actress (Irène Jacob)", result: "Nominated", year: 1992 },
+      { body: "Cannes Film Festival (44th)", category: "Palme d\'Or", result: "Nominated", year: 1991 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["duality", "mortality", "intuition", "connection", "longing", "fate", "identity"],
+      mood: ["hypnotic", "elegiac", "dreamlike"],
+      fullReview: "Somewhere in Kraków, a young Polish woman named Weronika sings with a voice that seems to exceed her body\'s capacity to contain it. Across some uncrossable distance in France, a young woman named Véronique — who looks exactly like her, who has never met her, who does not know she exists — feels something shift inside her without being able to name it. Krzysztof Kieślowski\'s film is built on this premise and does absolutely nothing conventional with it. There is no mystery to solve, no explanation to be found, no thriller mechanism exploiting the coincidence of two identical faces. What the film wants instead is harder to describe and considerably more lasting: it wants to know what it feels like to sense, without evidence, that one is not entirely alone in the universe.\n\nThe structure divides neatly but not symmetrically. The Polish section comes first — vivid, brief, saturated with a particular kind of joy that the film treats from the outset as endangered. Weronika\'s story has the quality of something already passing. Then the film crosses into France, into Véronique\'s life, and stays there. The tonal shift is deliberate. Where Weronika lived in color and sensation, Véronique moves through something more muted — a life slightly too large for her, full of an inexplicable grief she cannot locate a source for. The genius of the structure is that the audience carries the knowledge of what Véronique does not know, and that asymmetry generates an ache that runs beneath everything the French section does.\n\nSławomir Idziak\'s cinematography deserves to be mentioned immediately because it is not merely beautiful — it is doing specific narrative work. The gold-green filtration that dominates both sections gives the film\'s world the quality of something seen through amber, as though the present were already being remembered. Kieślowski uses glass, reflections, lenses, and doubling not as visual tricks but as a persistent formal argument: the same thing seen from a different angle is still the same thing, and still a completely different thing. The camera\'s relationship to Irène Jacob\'s face is intimate to the point of being philosophical — it keeps returning to her as though the face itself were a question.\n\nIrène Jacob performs two roles that share a physicality but not an interiority. Weronika exists entirely in the present tense, radiant and unguarded. Véronique has a watchfulness to her, a hesitation at the edges of joy, as though she already knows that joy has a ceiling she cannot see but suspects is low. The double performance does not rely on contrasting mannerisms or costume to differentiate the two women — Jacob holds the distinction in the quality of her attention, in where the characters\' eyes go when they are alone. It is a performance of exceptional precision operating largely beneath the surface of the frame.\n\nZbigniew Preisner\'s score, built around Van den Budenmayer\'s fictional concerto, is inseparable from the film\'s emotional architecture. It does not comment on the action; it seems to generate it. The music that Weronika sings and that Véronique later hears emerging from a puppet theater is the film\'s single most powerful device — the idea that an artistic experience can produce recognition without memory, that the body can know things the mind has not been told. When Véronique weeps without knowing why, it is the audience\'s job to hold the reason for her, and the film trusts that they will.\n\nPhilippe Volter\'s Alexandre — the puppeteer who appears to be systematically dismantling Véronique\'s anonymity in order to understand her — functions as the film\'s most unsettling element, though not for the reasons a conventional thriller would use. His interest in Véronique is genuine and strange, the interest of an artist who has recognized something and cannot stop pulling at the thread. The romantic storyline between them is written and played with a reticence that refuses to provide comfort; the film does not guarantee that being known by another person leads anywhere safe.\n\nWhat Kieślowski and Piesiewicz are ultimately interested in is not the supernatural — the film never argues that any of this is impossible or miraculous, only that it is true in the way that feelings are true without being verifiable. The Double Life of Véronique is an experience that lodges itself somewhere below conscious interpretation and stays there. Viewers who need their metaphysics spelled out will find it evasive. Those willing to let a film mean more than it explains will find it haunts the way only the best films manage: not by what it shows, but by the quality of attention it teaches a person to bring to their own inexplicable inner life."
+    }
+  },
 ]; // ← paste movie objects here, one by one

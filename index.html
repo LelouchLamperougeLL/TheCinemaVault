@@ -142,10 +142,12 @@
       color: var(--text-secondary);
     }
 
-    [data-theme="light"] .tag-pill:hover {
-      border-color: var(--accent-dim);
-      color: var(--accent-dim);
-      background: rgba(212, 175, 55, 0.05);
+    @media (hover: hover) {
+      [data-theme="light"] .tag-pill:hover {
+        border-color: var(--accent-dim);
+        color: var(--accent-dim);
+        background: rgba(212, 175, 55, 0.05);
+      }
     }
 
     [data-theme="light"] .tag-pill.is-active {
@@ -905,7 +907,7 @@
     .tag-cloud--scroll {
       max-height: 220px;
       overflow-y: auto;
-      padding-right: 4px;
+      padding: 4px 4px 12px 4px;
       scrollbar-width: thin;
       scrollbar-color: var(--border) transparent;
     }
@@ -960,8 +962,8 @@
       box-shadow: 0 4px 12px rgba(212, 175, 55, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.1);
     }
 
-    /* Year pill grid scrollbar */
     .year-pill-grid {
+      padding: 4px 4px 12px 4px;
       scrollbar-width: thin;
       scrollbar-color: var(--border) transparent;
     }
@@ -3721,7 +3723,7 @@
           <div class="year-range" style="display:flex; flex-direction:column; gap:1rem;">
             <div>
               <label style="font-size:0.75rem; color:var(--text-secondary); display:block; margin-bottom:0.5rem; letter-spacing:0.05em; text-transform:uppercase;">Specific Year</label>
-              <div class="year-pill-grid" style="display:flex; flex-wrap:wrap; gap:6px; max-height:160px; overflow-y:auto; padding-right:4px;">
+              <div class="year-pill-grid" style="display:flex; flex-wrap:wrap; gap:6px; max-height:160px; overflow-y:auto;">
                 <button class="tag-pill yr-pill ${f.singleYear === null ? 'is-active' : ''}" data-yr="">Any</button>
                 ${meta.allYears.map(y => `<button class="tag-pill yr-pill ${f.singleYear === y ? 'is-active' : ''}" data-yr="${y}">${y}</button>`).join('')}
               </div>
@@ -4034,7 +4036,7 @@
 
       const clearSingleYearUI = () => {
         f.singleYear = null;
-        controls.querySelectorAll('.yr-pill').forEach(b => {
+        document.querySelectorAll('.yr-pill').forEach(b => {
           b.classList.toggle('is-active', b.dataset.yr === "");
         });
       };
@@ -4044,7 +4046,7 @@
         btn.addEventListener('click', () => {
           const val = btn.dataset.yr;
           f.singleYear = val ? parseInt(val, 10) : null;
-          controls.querySelectorAll('.yr-pill').forEach(b => b.classList.remove('is-active'));
+          document.querySelectorAll('.yr-pill').forEach(b => b.classList.remove('is-active'));
           btn.classList.add('is-active');
           
           // Reset range if a specific year is picked
