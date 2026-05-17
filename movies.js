@@ -56075,7 +56075,7 @@ const MOVIES = [
     year: 2006,
     tagline: null,
     titleLogoUrl: null,
-    posterUrl: "https://image.tmdb.org/t/p/original/7PHP13zg4Ym5kzTwts6WM2xovxn.jpg",
+    posterUrl: "https://image.tmdb.org/t/p/original/dB7VrkgwiDphRwRCo1rTw70ecMs.jpg",
     backdropUrl: "https://image.tmdb.org/t/p/original/mW1gMqO2pdAPDKPIFLEVDXdWFoJ.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=rvv67kVjKjE",
     director: [
@@ -56164,7 +56164,7 @@ const MOVIES = [
     year: 2011,
     tagline: "To sacrifice a whole life for one single touch...",
     titleLogoUrl: "https://image.tmdb.org/t/p/original/6pXbEVdAD6shh0hpXoEEBOW4Skn.png",
-    posterUrl: "https://image.tmdb.org/t/p/original/mDqzHV8UXWWNpZkoAbKmKX1ZxEE.jpg",
+    posterUrl: "https://image.tmdb.org/t/p/original/7ZTL7uAfqGygKM2gJGYm36y46NU.jpg",
     backdropUrl: "https://image.tmdb.org/t/p/original/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
     trailerUrl: "https://www.youtube.com/watch?v=qXLSRH31Yao",
     director: [
@@ -60272,6 +60272,755 @@ const MOVIES = [
       themes: ["belonging", "estrangement", "assimilation", "shame", "motherhood", "performance"],
       mood: ["tender", "bittersweet", "restless"],
       fullReview: "It is the last month of summer, 2008, somewhere in Fremont, California, and Chris Wang is thirteen years old and very busy being embarrassed. Embarrassed by his mother, who paints in the garage and talks too much at the wrong moments. Embarrassed by his grandmother, who speaks only Mandarin and doesn\'t seem to notice that she\'s in America. Embarrassed by his own face, his own voice, the whole accumulated catastrophe of being himself at this particular age in this particular body. Sean Wang\'s debut feature is, among other things, the most precise film about thirteen-year-old-ness made in recent American cinema.\n\nThe setting is critical. 2008 means AIM instant messages and early YouTube and a specific kind of teenage social ecosystem that existed before smartphones collapsed it all into a single screen. Wang and his cinematographer Sam A. Davis shoot on film — a choice that is not nostalgic posturing but the correct technical decision, because the slightly warm, slightly imperfect grain feels like the way actual memory looks. The year is rendered with such ease that anyone who lived through it will find themselves catching details they didn\'t know they remembered.\n\nIzaac Wang plays Chris, and it would be easy to frame this as remarkable-for-his-age — but that formula undersells what\'s actually happening. The performance is remarkable, full stop. The role requires Chris to be genuinely cruel, genuinely stupid, genuinely tender, sometimes all in the same scene, and Izaac Wang never plays any of it at an angle. Every choice reads as something a specific human being would actually do, including the choices that make the audience wince. There are moments where the character behaves in ways that are difficult to watch — not dramatically difficult, just quietly, accurately recognizable — and the film trusts those moments completely.\n\nJoan Chen as Chris\'s mother Chungsing is the film\'s quiet revelation. Chungsing is a woman who is somewhere between artist and untethered — she paints, she tries, she loves her kids in ways visible from every angle except the angle her son currently has access to. Chen plays her without any of the usual immigrant-mother shorthand: no martyrdom, no cultural archetype, no tidy characterization. She is just a woman doing her best in circumstances that include a thirteen-year-old who can barely look at her. The film\'s central argument — never stated, entirely felt — is that she deserves more than she is getting from her own children, and that her children are not yet capable of knowing this, and that this is precisely what being a parent involves.\n\nThe skateboarding sequences serve a function beyond atmosphere. They are the film\'s outward story of belonging: the multiethnic group of Fremont kids who form the loose social world Chris desperately wants to enter are connected through skating the way communities have always been connected through shared physical practice. They have their own language, hierarchy, and codes, and Chris\'s navigation of that world — the self-conscious attempts, the humiliations, the moments of genuine warmth — is what plays on the surface while the real film happens between Chris and his mother.\n\nChang Li Hua as Nǎi Nai, the grandmother, brings something the film needs: a character entirely present in her own world, untroubled by assimilation, whose inability to speak with her grandson represents not just cultural distance but a particular kind of love that operates without translation. The relationship between them is handled with restraint and genuine warmth, and it earns its payoff.\n\nAt 94 minutes the film is lean, and that is mostly a strength. A few of the supporting teen characters amount to single traits rather than people, and one or two scenes make their emotional point more than once. But Wang keeps the register consistent throughout — this is a film that can be funny and breaking the audience\'s heart in the same breath, without announcing the shift — and that tonal consistency is its own form of directorial control.\n\nDìdi is the kind of debut that makes a filmmaker\'s next film immediately exciting. Wang knows exactly what he is making, who it is about, and why it matters — and he has assembled two anchor performances that any film would be fortunate to have. That is rarer than it sounds."
+    }
+  },
+  {
+    id: "it-was-just-an-accident-2025",
+    title: "It Was Just an Accident",
+    originalTitle: "Un simple accident",
+    romanization: null,
+    year: 2025,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/y92wc0DGq4VgcqjFAE1qqBAR24C.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=nF04v-ze2Yc",
+    director: [
+      {
+        name: "Jafar Panahi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/viZZkkfcuWze68bvUiMZmYZe8Qg.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Jafar Panahi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/viZZkkfcuWze68bvUiMZmYZe8Qg.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Vahid Mobasseri",
+        role: "Vahid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xKi4iv6WdOhwBZvmG4gjyz4i2Bb.jpg"
+      },
+      {
+        actor: "Mariam Afshari",
+        role: "Shiva",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qVNOG4w5dzlKeFAF33ibR0slraK.jpg"
+      },
+      {
+        actor: "Ebrahim Azizi",
+        role: "Eghbal",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fEQbxXpEnJ7WMmQb0SWE2TqzFPl.jpg"
+      },
+      {
+        actor: "Hadis Pakbaten",
+        role: "Golrokh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ywC6mkpEjaqGmFtMnO4jh94tIq6.jpg"
+      },
+      {
+        actor: "Majid Panahi",
+        role: "Ali",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2BUiGI1c50NCBezUSXr3FWxYOQM.jpg"
+      },
+      {
+        actor: "Mohamad Ali Elyasmehr",
+        role: "Hamid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uNuEOVcIr5483Pmgjmdjgmmm5pk.jpg"
+      },
+      {
+        actor: "George Hashemzadeh",
+        role: "Salar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cZwuEyNoVwwYo03KULd3HfTmJZh.jpg"
+      }
+    ],
+    languages: ["Persian", "Azerbaijani"],
+    genres: ["Drama", "Thriller", "Political"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "references to prolonged torture and imprisonment under a repressive state",
+        "sustained psychological tension around vengeance and paralysis",
+        "brief physical confrontation and threat of violence",
+        "trauma responses including dissociation and emotional collapse",
+        "portrayal of state-sanctioned impunity and its effects on survivors"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:43" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (78th)", category: "Palme d\'Or", result: "Won", year: 2025 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["accountability", "impunity", "trauma", "complicity", "justice", "survival", "memory"],
+      mood: ["suffocating", "tense", "harrowing"],
+      fullReview: "A modest Iranian mechanic navigates ordinary life — a pregnant wife, a small garage, a tight circle of people he trusts — until a roadside encounter dismantles everything. He believes he recognizes the man in the car he has stopped to help: the prison guard who tortured him. What follows across 103 minutes is not a revenge thriller, not exactly, but something more unsettling and more honest — a film about the specific helplessness of knowing exactly who wronged you and having nowhere to take that knowledge.\n\nJafar Panahi made this film in defiance of a government decree banning him from directing, writing, or leaving Iran. He has been working under versions of this prohibition for over a decade, and by now the conditions of his filmmaking are not incidental to the work — they are part of its meaning. The guerrilla intimacy of the production, the reliance on actors who feel borrowed from real life, the tight spaces and unglamorous Tehran locations — none of this reads as limitation. It reads as the only honest way to make a film about what it costs to live inside a system that would prefer you silent.\n\nVahid Mobasseri, playing a character who shares his first name, carries the film with a stillness that is neither passive nor defeated but something harder to name — the controlled steadiness of a man who has learned to hold an enormous amount without letting it show. The performance works precisely because Mobasseri never pushes toward catharsis. Vahid does not act on what he knows, and the film refuses to punish or celebrate that inaction. It simply watches, carefully, as a human being tries to figure out what options actually exist within the architecture of injustice he inhabits. The answer the film arrives at — without spelling it out — is that the options are nearly none.\n\nThe group that eventually gathers around the situation gives the film its structural engine. These are people with their own histories, their own stakes, their own emotional positions on what should happen. There is something in the way Panahi stages these conversations — overlapping, fractured, nobody fully listening to the person speaking — that suggests deliberate chaos without actually being chaotic. Each character represents a different emotional response to the same impossible question, and watching them fail to reach consensus feels less like dramatic construction and more like documentary observation.\n\nMariam Afshari, who also served as script supervisor on the production, is quietly extraordinary as Shiva. She plays pragmatic fury and bone-deep exhaustion simultaneously, and the combination is completely convincing. Ebrahim Azizi as Eghbal brings the film\'s most morally complicated thread — a figure whose relationship to the suspected torturer is neither simple nor resolvable, and whose trajectory forces the audience into genuine discomfort rather than the easier discomfort of watching a villain.\n\nThe film is photographed in available light by Amin Jafari with no apparent interest in making anything beautiful. This is precisely correct. The camera stays close to faces and watches them think. It does not aestheticize the dilemma or the locations. It does not allow the audience the comfort of distance. Amir Etminan\'s editing is patient in a specific way — scenes are allowed to run past the moment where a conventional film would cut, into the silence where what has just been said actually lands.\n\nWhat Panahi is doing here, beneath the thriller scaffolding, is documenting what impunity does to people over time. Not in a schematic or didactic sense — the film never announces its thesis — but in the accumulated weight of its scenes. Survivors of state violence do not get closure. They get the knowledge of what happened and no legitimate avenue for addressing it. The film\'s final stretch does not resolve this into something bearable. It refuses the lie of resolution entirely.\n\nAnyone arriving for genre satisfaction will spend 103 minutes watching something more demanding than they signed up for. Anyone prepared to follow Panahi into genuinely uncomfortable moral territory will find one of the most precisely observed films about the aftermath of political violence in recent memory — made, impossibly, by a man the Iranian state insists has no right to make it. That the film exists at all is one kind of argument. That it is this good is another."
+    }
+  },
+  {
+    id: "left-handed-girl-2025",
+    title: "Left-Handed Girl",
+    originalTitle: "左撇子女孩",
+    romanization: "Zuǒ Piězi Nǚhái",
+    year: 2025,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/zWW7VLxSh2gmUOEPGW6hQwfI9vG.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/hfuxIKRCNsecLmoDdO0HJ1YUvv1.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/xqft4oJyMATznCFFLpTlQPiSr8N.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=0rXnpfzpk8s",
+    director: [
+      {
+        name: "Tsou Shih-ching",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zDNYNu267FUS2My56iV0ra1Qfdv.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Tsou Shih-ching",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zDNYNu267FUS2My56iV0ra1Qfdv.jpg"
+      },
+      {
+        name: "Sean Baker",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wKfNgfRvPhLHMrwuweSwLOmhRzT.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ma Shih-yuan",
+        role: "I-Ann",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bLCutiNPQUpb0R7xqnKntr1TWuc.jpg"
+      },
+      {
+        actor: "Janel Tsai",
+        role: "Shu-Fen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z1ealSZI0Efu1GRIRZKrLwFmceB.jpg"
+      },
+      {
+        actor: "Nina Ye",
+        role: "I-Jing",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rlfhMEoQXl3sLv1sFTpARma16B4.jpg"
+      },
+      {
+        actor: "Brando Huang",
+        role: "Johnny",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7FRImEjw1mmJX2XRUnSrE6JT5qx.jpg"
+      },
+      {
+        actor: "Akio Chen",
+        role: "Wen-Xong Cheng",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pVRNH2f1o03zg0zOjoGBq23gXyh.jpg"
+      },
+      {
+        actor: "Chao Xin-yan",
+        role: "Xue-Mei Wu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jGeBFoCGakc5lzPEwW5Yja5OPo5.jpg"
+      },
+      {
+        actor: "Hsia Teng-hung",
+        role: "A-Ming",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Vsp8xh5OP1IbBX9UsK8OzzkbPi.jpg"
+      },
+      {
+        actor: "Alvin Lin",
+        role: "Pei-Lan Chen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wsEPPg7wFFH2AAzbyW5oPRcfypY.jpg"
+      },
+      {
+        actor: "Blaire Chang",
+        role: "Xiao-Hong",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1e4qkjaGRF8YQcyEgWnwJYXURWZ.jpg"
+      },
+      {
+        actor: "Trần Thu Liễu",
+        role: "Ali",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nCOqbRYGcWXNVlF6Dh3y1CTBlo5.jpg"
+      },
+      {
+        actor: "Franco Chiang",
+        role: "Jiang-Qing Cheng",
+        photoUrl: "https://image.tmdb.org/t/p/w185/faCF8tJJLK1ZtXPvGaVcs263fyz.jpg"
+      },
+      {
+        actor: "Liz Chen",
+        role: "Xiao-Ping",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2vvqT5i0Q8sXPbeUsX2FTMqMc2V.jpg"
+      },
+      {
+        actor: "Tiffany Anais Lin",
+        role: "Mu-Xi Xie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e52ia37rpJvZsYx8rgkgTV9zgo4.jpg"
+      },
+      {
+        actor: "Han Ya-xi",
+        role: "Xiao-He",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nn1LauZVYKZiJowI6XZ0b6MLiHP.jpg"
+      },
+      {
+        actor: "Chen Yan-ru",
+        role: "Mei-Ling",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oIXjRtlJpxDtDfuXeEUnMPrhKVH.jpg"
+      },
+      {
+        actor: "Audrey Xie",
+        role: "Fei-Ling",
+        photoUrl: "https://image.tmdb.org/t/p/w185/47mePz3zOeolYfdFM3wzqy5TgIu.jpg"
+      },
+      {
+        actor: "Ark Zheng",
+        role: "Qing-Long",
+        photoUrl: "https://image.tmdb.org/t/p/w185/Gre50qVpcKw0MDQRXE3vLsjyRc.jpg"
+      },
+      {
+        actor: "Sean Liu",
+        role: "Young",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n8oUjLueGfks96l6bwWg8SEOn7W.jpg"
+      },
+      {
+        actor: "Chen Pao-ying",
+        role: "Night Market Customer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1cmizrp8ohTnWyvu5nKd4fsy1si.jpg"
+      }
+    ],
+    languages: ["Mandarin", "Hokkien"],
+    genres: ["Drama", "Family"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "brief non-explicit sexual content",
+        "strong coarse language throughout",
+        "frank depiction of family dysfunction and emotional confrontation",
+        "portrayals of deception and withheld family history",
+        "working-class financial precarity depicted without sentimentality"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:49" }
+    ],
+    awards: [],
+    criticRating: "Great",
+    review: {
+      themes: ["displacement", "secrecy", "inheritance", "tradition", "belonging", "estrangement", "resilience"],
+      mood: ["intimate", "tender", "wistful"],
+      fullReview: "A mother and her two daughters arrive in Taipei with a plan as humble and enormous as most plans made from desperation: open a noodle stand at the night market, start again, see what survives. What complicates the fresh start — what films like this always know and delay revealing — is the weight of what the family has been carrying before any of this begins. \"Left-Handed Girl\" is the story of that weight becoming visible, slowly, over the course of 109 minutes that move at the speed of real life rather than the speed of plot.\n\nTsou Shih-ching has spent years as a producer alongside Sean Baker — through \"The Florida Project,\" \"Red Rocket,\" \"Anora\" — and that proximity to a filmmaker of genuine specificity has clearly shaped her instincts. Her debut feature, co-written with Baker and edited by him, arrives with the sensibility their collaboration has refined: an attention to physical environment as emotional fact, a casting philosophy that prefers to find performance over construct it, and a refusal to tell the audience how to feel about what it is watching. The Taipei night market is not picturesque here. It is a workplace, with the sweat and logistics and interpersonal friction that workplaces generate.\n\nJanel Tsai, as the mother Shu-Fen, does something quietly difficult. She plays a woman who has made a decision — forward is the only direction — and holds that decision upright even as it starts to crack under pressure. The performance has almost no self-pity in it, which makes the moments when the facade shifts unexpectedly devastating. As the two daughters, Ma Shih-yuan and Nina Ye occupy different emotional registers with a completeness that suggests either substantial directorial patience or performers who arrived knowing exactly who they were playing, probably both. One daughter turns inward, one turns outward. Both are at the stage of figuring out who they are in relation to a mother they love and do not entirely know.\n\nThe film is most alive in the spaces between declared emotion. A conversation that seems to be about the cost of noodle ingredients turns out to be about something else entirely. A silence at a family dinner that lasts four seconds too long carries more information than any speech. Tsou and Baker trust the accumulation of small things to do the work that other films assign to confrontation scenes, and for the most part they are right to.\n\nWhere patience is required from the audience is the film\'s midsection, where the rhythms of the night market — the setting up, the customers, the late-night decompression — risk becoming the entire film rather than its container. This is not negligence on the part of the filmmakers. It is a conscious commitment to immersion, to making the environment as legible as the characters. But there are stretches where a viewer might sense that the drama is marking time while the atmosphere develops, and the balance tips slightly toward the atmospheric.\n\nThe cinematography works with available light and available chaos in a way that gives the film an unforced documentary texture. The night market scenes, in particular, have the genuine visual noise of a place that has not been cleared for filming — because it probably has not been. Baker\'s editing, as always, understands tempo as emotional argument: a cut that comes late, a scene allowed to end in the wrong register. These are small distinctions that add up to something that feels like life rather than an approximation of it.\n\nThis is a film for people who find sufficient meaning in a family situation observed with precision and care — who do not require momentum to feel that cinema is doing its job. Its pleasures are real and they belong to a specific kind of watching. Viewers who need a story to build toward something will find themselves checking the clock around the hour mark and questioning whether it is worth staying. It is. The ending earns what precedes it in a way that confirms everything the film has been doing was deliberate, even when it felt like drift."
+    }
+  },
+  {
+    id: "little-amelie-or-the-character-of-rain-2025",
+    title: "Little Amélie or the Character of Rain",
+    originalTitle: "Amélie et la métaphysique des tubes",
+    romanization: null,
+    year: 2025,
+    tagline: "When you\'re three years old, you see everything and understand nothing.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/nl7Q1fyT4kyrTkY4YJgz60Br2jm.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/mYUkEFycAeKoSak0HznCWkkjtz6.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=-k0jMFivyT8",
+    director: [
+      {
+        name: "Maïlys Vallade",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xC4edwPxc9n5TXjphTYWZngVfkl.jpg"
+      },
+      {
+        name: "Liane-cho Han",
+        photoUrl: "https://image.tmdb.org/t/p/w185/idRpge4Ymyh4eFeBVIBm9f1SgZY.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Maïlys Vallade",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xC4edwPxc9n5TXjphTYWZngVfkl.jpg"
+      },
+      {
+        name: "Liane-cho Han",
+        photoUrl: "https://image.tmdb.org/t/p/w185/idRpge4Ymyh4eFeBVIBm9f1SgZY.jpg"
+      },
+      {
+        name: "Aude Py",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cA6Szb8DnJxHnaRMU6GnLfA9RvA.jpg"
+      },
+      {
+        name: "Eddine Noel",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Yumi Fujimori",
+        role: "Kashima-San (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fwUEOkHYUujCYEh1T3ER1hupRNX.jpg"
+      },
+      {
+        actor: "Cathy Cerda",
+        role: "Claude the Grandmother (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jvk5jyUD7qAc893FeCHjSWJEgFK.jpg"
+      },
+      {
+        actor: "Marc Arnaud",
+        role: "Patrick the Father (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/71JGp0oxgQgsmKnQLdPi7RpjYBb.jpg"
+      },
+      {
+        actor: "François Raison",
+        role: "Doctor / Radio Voice (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o4n99SNAkhlSejN8awJklFwstkd.jpg"
+      },
+      {
+        actor: "Emmylou Homs",
+        role: "Amélie (additional voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aTyFBfFP1VBgaG4vrg3KW9ZHOoD.jpg"
+      }
+    ],
+    languages: ["French", "Japanese"],
+    genres: ["Animation", "Drama"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "brief depiction of the death of a pet fish",
+        "emotional weight around a child\'s deep attachment to a caregiver and separation from her",
+        "fleeting scenes of existential disorientation rendered visually that may unsettle very young children"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:18" }
+    ],
+    awards: [],
+    criticRating: "Great",
+    review: {
+      themes: ["wonder", "consciousness", "attachment", "displacement", "awakening", "nature", "loss"],
+      mood: ["dreamlike", "tender", "luminous"],
+      fullReview: "Something happens around the fifteen-minute mark that very few animated films manage. The protagonist — three years old, catatonic with contentment, operating at the outer edge of what it means to be a conscious creature — is handed a piece of white chocolate. And the film finds a way to render what that first experience of desire actually feels like from the inside: not as sensation, but as rupture. Before chocolate, the world simply existed. After chocolate, the world became something to want more of. This is either a very simple idea or a very profound one. The film takes it seriously either way.\n\nMaïlys Vallade and Liane-cho Han have adapted Amélie Nothomb\'s autobiographical novel — about the first three years of the author\'s life as a Belgian diplomat\'s daughter in post-war Japan — with a visual intelligence that refuses the noise and momentum that dominates so much contemporary animation. The color palette is saturated but controlled. The movement is unhurried. The landscapes of Japan are rendered with a precision that suggests the filmmakers have thought at length about what a garden, a lantern festival, a rainstorm looks like to someone encountering these things for the first time, without yet having words to organize them. The film is 78 minutes. This is exactly the right length.\n\nThe source material is genuinely strange. Nothomb\'s novel works through a philosophical conceit — the infant as a kind of tube, passing experience through itself without accumulating it, existing in a state of godlike passivity before desire awakens the self — that does not obviously lend itself to any medium other than prose. The four-person screenplay finds a partial solution by leaning into animation\'s capacity for the purely subjective: sequences that render a fish tank or a downpour as they exist in a consciousness that has not yet sorted experience into categories. These are the film\'s best moments. They achieve something close to what Nothomb describes in words but through a fundamentally different mechanism, one that depends entirely on the frame.\n\nBackground designer Rémi Chayé — himself a director of accomplished animation — gives the film a genuinely painterly quality in its depictions of the Japanese garden and the surrounding neighborhood. The compositions have depth without busyness, which is rarer than it sounds. The score by Mari Fukuhara draws on French and Japanese musical traditions in ways that feel integrated rather than diplomatically rotated, sustaining the film\'s hybrid sensibility without announcing it.\n\nThe emotional center is the relationship between young Amélie and Nishio-san, the Japanese housekeeper who tends to her. The film understands — without underlining it — that the people who shape a child\'s first years of consciousness leave marks that no later experience can fully overwrite. Nishio-san represents Japan to Amélie: its smells, its garden, its particular quality of attention to small things. The voice performances in this pairing are not about personality or distinctiveness; they are about texture and proximity. They work.\n\nWhere the film is less certain is in its second half, when the family\'s idyllic life in Japan begins to acquire shadows that the child perceives without comprehending. The adults around Amélie carry their own sorrows — expatriate displacement, the particular loneliness of educated people living temporarily outside their own culture, something happening between the parents that the film glimpses and does not pursue. These strands remain largely a weather system operating above the child\'s sight line. This is thematically accurate and occasionally dramatically unsatisfying.\n\nThe audience the film will find most completely is adults capable of receiving a 78-minute meditation on the origins of desire and the formation of a self, without needing narrative urgency to stay in the room. Children who are patient and genuinely curious will find it extraordinary. What the film offers, in the end, is something animation rarely attempts: the recreation of a state of being that every person on earth once inhabited and that almost no one can remember — the world as pure undifferentiated wonder, before the names arrived and sorted everything into what it was."
+    }
+  },
+  {
+    id: "sirat-2025",
+    title: "Sirāt",
+    originalTitle: null,
+    romanization: null,
+    year: 2025,
+    tagline: "This is the desert.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/d4N0v86o0pXxv1bxIZPafq2Omj6.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/kOUV5WbisWMg56d8eB45ZHEVxYq.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=_HvwhOY63Ig",
+    director: [
+      {
+        name: "Oliver Laxe",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oYV8ubezFXTEixsk4iGLEdFS7bF.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Oliver Laxe",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oYV8ubezFXTEixsk4iGLEdFS7bF.jpg"
+      },
+      {
+        name: "Santiago Fillol",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5ooGBRwGDFvKa0oki0i1kHeDzVu.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Sergi López",
+        role: "Luis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n3HcmUflYYaHUiQmzaayi0yqcRf.jpg"
+      },
+      {
+        actor: "Bruno Núñez",
+        role: "Esteban",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g8jn2IxoDJP7UctHnoxbO8hNsre.jpg"
+      },
+      {
+        actor: "Stefania Gadda",
+        role: "Steff",
+        photoUrl: "https://image.tmdb.org/t/p/w185/939QjJJZzlGOVDJsrC5D9RMxaBm.jpg"
+      },
+      {
+        actor: "Joshua Liam Henderson",
+        role: "Josh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jpijzr5w6WMFry6BTgGTWQ1TXz5.jpg"
+      },
+      {
+        actor: "Richard Bellamy",
+        role: "Bigui",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sGKh5mmADPWXMsCAVNpHHVHM5Ix.jpg"
+      },
+      {
+        actor: "Tonin Janvier",
+        role: "Tonin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hW5owhix70OBM7xFfnLRsFcAlly.jpg"
+      },
+      {
+        actor: "Jade Oukid",
+        role: "Jade",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lTpF2nyh7EEIUzyesSvobZagxRj.jpg"
+      }
+    ],
+    languages: ["Spanish", "Arabic", "French", "English"],
+    genres: ["Drama", "Mystery", "Thriller"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "implied and depicted drug use in rave settings",
+        "prolonged parental anguish over a missing child",
+        "mild physical violence and scenes of threat",
+        "coarse language throughout",
+        "scenes of sustained disorientation and sensory overload"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:55" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (78th)", category: "Palme d'Or", result: "Nominated", year: 2025 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "disappearance", "paternity", "ritual", "wilderness", "transformation", "alienation"],
+      mood: ["mournful", "hypnotic", "disquieting"],
+      fullReview: "Sirāt opens somewhere between a procedural and a prayer. Luis, a middle-aged Spaniard played by Sergi López with the kind of exhausted solidity that only comes from genuinely great screen presence, arrives at a rave in the Moroccan mountains with his teenage son Esteban. They are not there for the music. Marina — daughter, sister — has been missing for months, last seen at a rave not unlike this one. What follows is less a conventional search than a slow dissolution: father and son attaching themselves to a group of international travelers and following them deeper into the Saharan wilderness, chasing a rumor of one last party where Marina might finally appear.\n\nOliver Laxe has made three feature films before this one, each defined by a refusal to comfort the audience with the familiar tools of genre. Sirāt carries that refusal to its logical and perhaps most fully realized extreme. The Moroccan desert is not backdrop here — it is a presence with its own weight. Mauro Herce\'s cinematography transforms the landscape into something fundamentally indifferent to human urgency, and that indifference is the film\'s central emotional argument: grief does not change the world. The dunes do not care. The bass lines do not care. The ravers orbiting their speakers in altered states do not care. Only Luis and Esteban carry the weight of someone missing, and watching them navigate a space architecturally designed around forgetting is the film\'s entire engine.\n\nWhat Laxe does remarkably well is construct a world that feels genuinely inhabited. The cast is largely composed of non-actors — actual ravers, actual Moroccan locals — and the result is a social texture that almost no conventional production could manufacture. The rave sequences have a specificity that is neither glamorized nor condemned: they exist as a fact of the world, a temporary civilization with its own internal logic and hierarchy. What makes this work dramatically is Sergi López, whose performance is the film\'s one conventionally controlled element. He moves through this milieu as a fundamentally out-of-place figure — aging, purposeful, desperately rational in an irrational space — and the friction between him and everything surrounding him generates real dramatic heat without ever tipping into melodrama.\n\nEsteban, played by Bruno Núñez, operates on a different frequency entirely. Where the father remains fixed on retrieval, the son begins absorbing the rave world into himself. That widening distance between them — the parent who needs to recover something and the child who may be becoming something new — is the film\'s most delicate and rewarding throughline, and Laxe is wise enough to let it breathe without forcing resolution upon it.\n\nThe screenplay, co-written with Santiago Fillol, works almost entirely in suggestion. Backstory arrives sparingly. The mechanics of Marina\'s disappearance are never illuminated with any precision, and the film earns that ambiguity because it is genuinely interested in grief as an ongoing state rather than a problem awaiting a solution. Whether Marina is found matters far less than what the search costs and what it quietly transforms. This approach will not satisfy everyone. Viewers expecting momentum, revelation, or catharsis will find Sirāt a deliberately demanding experience. The pacing is patient to the point of ascetic, and there are extended passages where the film trusts the landscape more than the plot. Whether that constitutes artistic conviction or self-indulgence depends entirely on the particular sensibility watching it.\n\nThe sound design deserves sustained attention. David Kangding Ray\'s score bleeds into the diegetic music of the raves until the boundary between original composition and source audio dissolves entirely. It is a formally ambitious choice that pays off: the film develops a sonic coherence that reinforces its thematic slipperiness. Luis is trying to hear something specific — his daughter — inside a space designed to obliterate specificity. The sound makes that experience felt rather than explained.\n\nWhat Laxe appears to be reaching toward, and largely achieves, is a kind of desert-rave cinema that has no real antecedent. This is not a horror film about parties gone wrong, not a survival picture, not a grief drama in any recognizable mold. It borrows from all of these registers but declines the satisfactions of any. The closest cinematic relatives might sit somewhere in Bruno Dumont\'s more unhinged pastoral territory, or perhaps the mystical-wilderness register of Werner Herzog, but those comparisons only travel so far. Sirāt has a sensibility that feels genuinely arrived at rather than assembled from parts.\n\nThe film is not without its soft spots. The middle section occasionally loses its footing, and several of the supporting raver characters never quite solidify into more than atmospheric texture — faces in a crowd rather than presences in a story. There is a persistent question of whether the film\'s deliberate opacity functions as genuine depth or as productive evasion, and that question has no clean answer on a single viewing.\n\nWhat stays with anyone who gives Sirāt the attention it demands is the image of a father — aging, determined, perpetually wrong-footed — looking for someone in a place where looking is almost structurally meaningless. That image earns its place in the memory, and earning a place in the memory is not something most films manage at all."
+    }
+  },
+  {
+    id: "sore-a-wife-from-the-future-2025",
+    title: "Sore: A Wife from the Future",
+    originalTitle: "Sore: Istri Dari Masa Depan",
+    romanization: null,
+    year: 2025,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/slPbUWoZciFznczOo0mn0ZFxxXr.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/sDAvZaPFctekJhln1vXsy7X1BTr.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/sTNzZZdIm7csFdgnvP20XmSJRTx.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=HiVzpboRpR0",
+    director: [
+      {
+        name: "Yandy Laurens",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q6MnsAYXzOaIZUnqAyfYyiyECtK.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Yandy Laurens",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q6MnsAYXzOaIZUnqAyfYyiyECtK.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Sheila Dara Aisha",
+        role: "Sore",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bnCnmSsqW6nKz4LhoEKknQMJ52H.jpg"
+      },
+      {
+        actor: "Dion Wiyoko",
+        role: "Jonathan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xWz4rgxMGkuJAG9d2q0rp2XSQfD.jpg"
+      },
+      {
+        actor: "Goran Bogdan",
+        role: "Karlo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wXgePhVmM9xjuxepIGkpvz4mouT.jpg"
+      },
+      {
+        actor: "Lara Nekić",
+        role: "Elsa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m2sL751z2MqOXjIADnAiFDSnf6w.jpg"
+      },
+      {
+        actor: "Livio Badurina",
+        role: "Marko",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wTdMXndEgpMkz3uckcvmem9Djmk.jpg"
+      },
+      {
+        actor: "Mathias Muchus",
+        role: "Seno",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tSAe84NmlkCkoOnG6RfQ44iqPMe.jpg"
+      },
+      {
+        actor: "Maya Hasan",
+        role: "Maya",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yDc3vG8WCRSh5cnSQdFPQu2kySf.jpg"
+      },
+      {
+        actor: "Borko Perić",
+        role: "David",
+        photoUrl: "https://image.tmdb.org/t/p/w185/toSlLcgmwokgQJXYuvaCTntJJWT.jpg"
+      },
+      {
+        actor: "Sandra Lončarić",
+        role: "Leona",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A2a8jMV65vRHiZC0jHteSE4wJIz.jpg"
+      },
+      {
+        actor: "Slavica Knežević",
+        role: "Paula",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gBIHGhGkulHxXCk9rKEP4rgJLyU.jpg"
+      }
+    ],
+    languages: ["Indonesian", "Croatian", "English"],
+    genres: ["Romance", "Fantasy", "Drama"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "mild romantic and emotional intimacy",
+        "themes of personal failure and self-neglect",
+        "brief scenes of interpersonal conflict",
+        "occasional mild language"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:59" }
+    ],
+    awards: [],
+    criticRating: "Solid",
+    review: {
+      themes: ["fate", "betterment", "displacement", "secrecy", "anticipation", "worthiness", "time"],
+      mood: ["tender", "wistful", "warm"],
+      fullReview: "The premise arrives pre-wrapped in charm. Jonathan, a young Indonesian man living alone in Croatia, finds himself face to face with a woman named Sore who claims — with quiet certainty — to be his wife from some years ahead. She has been sent back on a specific task: correct his habits, straighten out his life, prepare him for a future he cannot yet picture. What she cannot do, under the terms of whatever temporal logic the film has established, is tell him they are destined for each other. She can only show him, one careful day at a time, who he might become.\n\nYandy Laurens, who wrote and directed, understands that a premise like this is essentially a delivery system for a single question the audience cannot stop asking: at what point does Jonathan figure it out, and what happens to both of them when he does. That dramatic engine runs cleanly through the film\'s middle sections, and when Sheila Dara Aisha and Dion Wiyoko find their rhythm together — which they do, more reliably than the screenplay perhaps deserves — the film generates a genuine warmth that earns its keep. Sheila Dara Aisha brings something specific to Sore: a woman who already knows the end of the story and must navigate every scene while carrying that knowledge alone. There is a quietly aching quality beneath her pragmatic surface, a private grief at having to pretend she is a stranger to someone she already loves. It gives the romance its emotional texture and elevates the film above the level of its genre obligations.\n\nCroatia does substantial work here. The Adriatic coast provides a visual elegance that lifts the material aesthetically even when the screenplay offers little that is unexpected. It is the right choice of setting — a place that feels both entirely real and faintly otherworldly, not quite moored to the ordinary — and cinematographer Dimas Bagus Triatma Yoga makes considered use of it. The light is functional rather than decorative, which keeps the film from curdling into a tourism advertisement.\n\nWhere the film is softer is in its handling of Jonathan\'s arc. The habit-correction premise — his gradual movement from careless living toward a version of himself worth the future he has been promised — is managed with more efficiency than depth. His specific failings are gestured at rather than inhabited, and the moments of change arrive without the accumulated weight that would make them feel genuinely costly. Audiences comfortable accepting this as genre shorthand will move through the film without friction. Those hoping for a more considered reckoning with what it actually takes a person to change will find the film eliding the question it raised.\n\nGoran Bogdan, a Croatian actor with real screen authority, integrates naturally into the Indonesian-led production and lends the supporting world a credibility that matters. The film is ultimately a two-person piece, however, and it knows this. When it stays with Sore and Jonathan in close quarters — navigating the peculiar intimacy of strangers who are not quite strangers — it achieves something worth the time spent with it.\n\nWhat Sore: A Wife from the Future delivers is precisely what its title promises: a romantic fantasy constructed around the idea that someone already loves a person even before that person has earned it. That is not a negligible thing to offer. The film is warm, competently assembled, and held together by a lead performance that quietly exceeds the structural support the screenplay provides. It finds its landing without finding greatness, and for the audience it is made for, that will be more than enough."
+    }
+  },
+  {
+    id: "bergman-island-2021",
+    title: "Bergman Island",
+    originalTitle: null,
+    romanization: null,
+    year: 2021,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/dX5b2UknpjBNAOX8xcryGPeuIwF.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/e1X1veoQ5Hs45KoOjr80QMwVSgg.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=nrlVHVid-20",
+    director: [
+      {
+        name: "Mia Hansen-Løve",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dRT40hNVUdWwjyIWK1GUQ7vTkMB.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Mia Hansen-Løve",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dRT40hNVUdWwjyIWK1GUQ7vTkMB.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Vicky Krieps",
+        role: "Chris",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9laK3w40qBnE5UY41wJfnUAYMmC.jpg"
+      },
+      {
+        actor: "Tim Roth",
+        role: "Tony",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+      },
+      {
+        actor: "Mia Wasikowska",
+        role: "Amy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xOYlAZsLwFZ0gNHLnt1Hzuo2yqN.jpg"
+      },
+      {
+        actor: "Anders Danielsen Lie",
+        role: "Joseph / Anders",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7qdJdzFFXhoSVvBCi53ryF1wkCn.jpg"
+      },
+      {
+        actor: "Hampus Nordenson",
+        role: "Hampus",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cU0ZzRC8luZumGTiou0VdIuQ9U7.jpg"
+      },
+      {
+        actor: "Anki Larsson",
+        role: "Ase",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3ITrigmi5RxDgbUzJI4uSzxtaGK.jpg"
+      },
+      {
+        actor: "Melinda Kinnaman",
+        role: "Berit",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7uRNBfnSGWbcHnY3H0B5mZfw3Vx.jpg"
+      },
+      {
+        actor: "Stig Björkman",
+        role: "Stig",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cc9rXzDu0MCIqWwJq90vlymwy1d.jpg"
+      },
+      {
+        actor: "Lily Taïeb",
+        role: "Tony\'s Film",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1HLJSP3xewf4M3l6Bpc1IliKRfN.jpg"
+      },
+      {
+        actor: "Wouter Hendrickx",
+        role: "Tony\'s Film",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pyBrunBUt4pIZrOvHuk49kmEygg.jpg"
+      },
+      {
+        actor: "Gabe Klinger",
+        role: "American Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jVh3e5fdaQa6i7ljYiYCxSdicLd.jpg"
+      },
+      {
+        actor: "Joel Spira",
+        role: "Jonas",
+        photoUrl: "https://image.tmdb.org/t/p/w185/81LRUaIhI2YopDaRkAVDxrfgt6p.jpg"
+      },
+      {
+        actor: "Ingmar Bergman Jr.",
+        role: "Man on the boat",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5OIfHWldlcqN0cWSrve3bgWxsXS.jpg"
+      }
+    ],
+    languages: ["English", "Swedish", "German"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "brief non-explicit sexual content",
+        "emotional depictions of marital tension and creative jealousy",
+        "themes of infidelity and romantic ambiguity",
+        "mild language"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:53" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (74th)", category: "Palme d\'Or", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["anxiety", "imbalance", "inheritance", "nostalgia", "estrangement", "creation", "complicity"],
+      mood: ["elegiac", "wistful", "restless"],
+      fullReview: "There are two films inside Bergman Island, and the more interesting question is not which one works better but what the act of nesting one inside the other actually reveals. The outer film follows Chris and Tony — an English-German filmmaker couple — who retreat to Fårö for the summer, the Swedish island where Ingmar Bergman lived and worked and made some of the most formally severe cinema of the twentieth century. They sleep in his bed. They visit the locations where he staged his emotional demolitions. They work on separate screenplays in separate rooms, and somewhere in the quiet between those rooms the film locates its true subject: the peculiar slow violence of creative imbalance between two people who are supposed to be equals. Chris, played by Vicky Krieps, has a film she cannot quite see through to completion. Tony, played by Tim Roth, appears to have no such difficulty. That asymmetry is the film\'s wound, and Hansen-Løve is careful not to make it a spectacle.\n\nMia Hansen-Løve is one of the most instinctively honest filmmakers working in European cinema, and Bergman Island is also one of her most nakedly personal. The parallels to her own years spent alongside Olivier Assayas — herself a filmmaker in a relationship with a more established one — are present for anyone who knows the biography, but the film earns its coherence without requiring that knowledge. What it requires is patience with a mode of storytelling that accumulates atmospheric detail rather than building toward resolution.\n\nThe film-within-the-film, which takes over the back half, dramatizes the screenplay Chris has been developing: a woman named Amy who returns to Fårö for a wedding and finds herself in proximity to an old love. Mia Wasikowska brings to Amy a precise quality of contained longing — the posture of someone who has not quite set something behind them — and Anders Danielsen Lie, as the former lover, is the kind of screen presence whose face does the work that dialogue cannot. This inner film runs at a different emotional temperature: warmer, more visually lush, more openly romantic. Whether that contrast enriches both halves or exposes a structural looseness between them depends on how much a viewer is willing to let the relationship between the two narratives remain suggestive rather than resolved.\n\nThe Bergman element is handled with more irony than reverence, which proves to be the right call. The film does not treat pilgrimage to a great predecessor\'s home as a path to creative clarity — it is, if anything, one more way for anxiety to disguise itself as productive ritual. The island is used with genuine intelligence by Hansen-Løve and cinematographer Denis Lenoir: all horizontal light and bare rock and the sea perpetually in frame, a landscape that offers no shelter and mirrors the emotional condition of people who have run out of private places.\n\nKrieps is one of the finest actors working anywhere right now, and her performance — intelligent, guarded, flickering between irony and pain — is among the most controlled of her career. She makes visible what the screenplay only implies: a woman quietly suffocating beneath her own stalled momentum, measuring herself against a partner whose confidence has become, without either of them quite naming it, a form of pressure. Roth is less well-served. Tony is conceived as a structural presence more than a fully inhabited person — the established partner, confident and occupied, against whom Chris\'s uncertainty is thrown into relief. The function is clear, but the film never gives Roth the scene that would make Tony feel real rather than representative.\n\nWhat Bergman Island finally offers is something closer to a poem than a plot: an arrangement of surfaces and reflections, questions about the cost of living inside art while living alongside someone who also lives inside art. It asks whether the creative life and the shared life can coexist without one quietly draining the other, and it is honest enough to leave that question genuinely unanswered. That it poses all of this in images this quietly beautiful — Fårö in summer light, the long evenings, the specific loneliness of proximity to greatness — makes the occasional structural irresolution feel forgivable rather than fatal."
+    }
+  },
+  {
+    id: "i-wish-2011",
+    title: "I Wish",
+    originalTitle: "奇跡",
+    romanization: "Kiseki",
+    year: 2011,
+    tagline: "They wished for a miracle.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/gSB1FQpKVASJ0WfTMqt89czcuJu.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/jLsUvhEgovME7dI283nnjqArmwI.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/oRqDdcxBvAWIBGq3z8wN6uOFNEZ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=M63wEJBzupE",
+    director: [
+      {
+        name: "Hirokazu Kore-eda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Quu2Jo5ItVgs8V1YPCaLEHc8y1.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Hirokazu Kore-eda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Quu2Jo5ItVgs8V1YPCaLEHc8y1.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Koki Maeda",
+        role: "Koichi Osako",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jiqc4FWVNu0R8U75ZxHCxteAOoP.jpg"
+      },
+      {
+        actor: "Oshirō Maeda",
+        role: "Ryunosuke Kinami",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cOWmkaKC848jIersVa18l1DYL54.jpg"
+      },
+      {
+        actor: "Nene Otsuka",
+        role: "Nozomi Osako",
+        photoUrl: "https://image.tmdb.org/t/p/w185/48TFOrOB7oZOJ0LXbYQb7p5PE1z.jpg"
+      },
+      {
+        actor: "Joe Odagiri",
+        role: "Kenji Kinami",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jjbwOodtQeVcTwO9oUbLOGjjHDP.jpg"
+      },
+      {
+        actor: "Kyara Uchida",
+        role: "Megumi Ariyoshi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ipnT5u5Z8GLbDSFgPWL2yUF3QuQ.jpg"
+      },
+      {
+        actor: "Kanna Hashimoto",
+        role: "Kanna",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fGYg7tuCMQrQvTEyuUsAbCil3s0.jpg"
+      },
+      {
+        actor: "Masami Nagasawa",
+        role: "Mimura",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
+      },
+      {
+        actor: "Hiroshi Abe",
+        role: "Mr. Sakagami",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lJODJCQHCUxLqZzqr3iBlTKO8Nx.jpg"
+      },
+      {
+        actor: "Yui Natsukawa",
+        role: "Kyoko Ariyoshi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iHyLA3cVmMecr6slSSeMoc2ISFg.jpg"
+      },
+      {
+        actor: "Yoshio Harada",
+        role: "Wataru",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e79l2T91aR0FtJX6LN0g33rBLBr.jpg"
+      },
+      {
+        actor: "Isao Hashizume",
+        role: "Shukichi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pM8AweTuMvGoWjxPgneHW7siYKy.jpg"
+      },
+      {
+        actor: "Kirin Kiki",
+        role: "Hideko",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7ndJHln7nWzrCMlSaBBAz9UjiuB.jpg"
+      },
+      {
+        actor: "Yuna Taira",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/98rGALQXTfFwvtNxIaQH3iQ1Rln.jpg"
+      },
+      {
+        actor: "Lily",
+        role: "Higashi\'s Wife",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2z4GplkhF0NgF548JQ90zt0E5bH.jpg"
+      },
+      {
+        actor: "Yuri Nakamura",
+        role: "Ms. Aoki - Nurse",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cb8sW4IeBjVf1CbZbPzIEqKgRgd.jpg"
+      },
+      {
+        actor: "Kazuaki Shimizu",
+        role: "Policeman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6bsftmYTwhLZxcKgcVZnpMdWUc2.jpg"
+      },
+      {
+        actor: "Choei Takahashi",
+        role: "Higashi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5JgmbDHVRnWw5pvsBuIeJvkGhJN.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Drama", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "emotional portrayal of family separation through children\'s perspectives",
+        "mild childhood anxiety and longing"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:07" }
+    ],
+    awards: [],
+    criticRating: "Great",
+    review: {
+      themes: ["separation", "longing", "acceptance", "impermanence", "hope", "resilience"],
+      mood: ["tender", "luminous", "wistful"],
+      fullReview: "The Kyushu bullet train system has been running for about a year when twelve-year-old Koichi hears the rumor: at the exact moment two Shinkansen trains pass each other at full speed, wishes are granted. His parents have separated. He lives with his mother and grandparents in Kagoshima, in the perpetual grey shadow of Sakurajima volcano. His younger brother Ryunosuke lives with their musician father in Fukuoka, some hours away by the train they cannot afford. What Koichi wants from his wish is specific and enormous — he wants the volcano to erupt badly enough to make the city uninhabitable, badly enough to force the family back together under one roof. His brother, when consulted by phone, would settle for something considerably simpler.\n\nHirokazu Kore-eda made I Wish with the Maeda brothers — Koki and Oshirō, real siblings — cast in roles that share their given names, a decision that dissolves the usual membrane between performance and presence. These children are not acting in any legible theatrical sense. They are being observed, and what Kore-eda observes in them is something that even the most careful adult actor rarely produces: the quality of thought actually happening in a face, unmonitored and unguarded. Koki Maeda\'s Koichi is purposeful, slightly wound-up, already practicing the habit of determination that will either serve him well or quietly ruin him. His younger brother\'s Ryunosuke has the opposite temperament — looser, more accepting, less certain that the world owes him a particular shape. Their contrasting responses to an identical family rupture constitute the film\'s central argument about childhood and loss: that people begin adjusting at different speeds, and that the speed of adjustment is itself a kind of character.\n\nThe adult world surrounding these two children is drawn with Kore-eda\'s characteristic refusal to assign blame. The parents\' marriage has failed, but neither parent is made villainous. Joe Odagiri\'s guitar-playing father has the pleasant uselessness of someone who has chosen art over responsibility and has not yet faced the full accounting of that choice; he is warm, distracted, and slightly guilty — not a bad man, just an insufficient one. Yoshio Harada and Kirin Kiki as the maternal grandparents bring to their scenes a comfortable physical specificity, people who have been alive long enough to have strong opinions about food and who are unimpressed by the drama of younger generations. Every scene they inhabit has an extra dimension of lived texture that the film is wise enough to leave unexplained.\n\nWhen the children\'s plan solidifies — travel together to witness the trains passing, assemble a small coalition of co-conspirators from their respective schools, each carrying a wish of their own — the film acquires the shape of a gentle adventure. What Kore-eda does with considerable skill is refuse the emotional payload the setup appears to be building toward. The passage of the trains, when it arrives, is something other than a climax. The film is not interested in whether wishes come true. It is interested in what a child learns in the moment of discovering the world does not pivot around their desires, and Koki Maeda plays that moment with a silence that lands harder than most film speeches.\n\nAt two hours and seven minutes, I Wish runs somewhat long for its register. A schoolteacher subplot involving Hiroshi Abe and a running joke about artisanal sweets take up screen time that the film might have spent going deeper rather than wider. This is a gentle complaint — Kore-eda\'s willingness to linger is also what produces the film\'s most unexpectedly moving moments, the ones that arrive without announcement and lodge in the memory without drama.\n\nThe volcano is present throughout the Kagoshima sections: visible from windows, rising in backgrounds, dropped into frame whenever the film wants to remind the audience what Koichi is living under. It is the film\'s most efficient image — something large and potentially destructive that one either makes peace with or spends a childhood waiting for it to detonate. The film\'s quiet wisdom is that it knows these are not the same choice, and that it takes a certain kind of growing up to understand the difference."
     }
   },
 ]; // ← paste movie objects here, one by one
