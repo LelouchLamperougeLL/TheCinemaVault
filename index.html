@@ -365,6 +365,23 @@
       background: linear-gradient(135deg, rgba(var(--verdict-color, 212 175 55) / 0.06) 0%, rgba(250, 247, 242, 0.0) 100%);
     }
 
+    [data-theme="light"] .modal__series-number {
+      color: rgba(26, 18, 8, 0.04);
+      text-shadow: 0 2px 8px rgba(255, 255, 255, 0.6);
+    }
+
+    [data-theme="light"] .modal__series-item.is-current-series .modal__series-number {
+      color: rgba(212, 175, 55, 0.15);
+    }
+
+    [data-theme="light"] .modal__series-item:hover .modal__series-number {
+      color: rgba(26, 18, 8, 0.08);
+    }
+
+    [data-theme="light"] .modal__series-item.is-current-series:hover .modal__series-number {
+      color: rgba(212, 175, 55, 0.3);
+    }
+
     /* ─── Reset & Base ──────────────────────────────────────── */
     *,
     *::before,
