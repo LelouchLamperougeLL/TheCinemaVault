@@ -83,8 +83,31 @@ self.addEventListener('fetch', event => {
         cache.match(request).then(cached => {
           // Fetch a fresh copy in the background regardless
           const networkFetch = fetch(request, { cache: 'no-store' })
-            .then(response => {
+            .then(async response => {
               if (response && response.status === 200) {
+                if (cached && (url.pathname.endsWith('movies.js') || url.pathname.endsWith('index.html'))) {
+                  const newEtag = response.headers.get('ETag');
+                  const oldEtag = cached.headers.get('ETag');
+                  const newModified = response.headers.get('Last-Modified');
+                  const oldModified = cached.headers.get('Last-Modified');
+                  
+                  let isDifferent = false;
+                  if (newEtag && oldEtag) {
+                    isDifferent = newEtag !== oldEtag;
+                  } else if (newModified && oldModified) {
+                    isDifferent = newModified !== oldModified;
+                  } else {
+                    const newText = await response.clone().text();
+                    const oldText = await cached.clone().text();
+                    isDifferent = newText !== oldText;
+                  }
+                  
+                  if (isDifferent) {
+                    self.clients.matchAll().then(clients => {
+                      clients.forEach(client => client.postMessage({ type: 'UPDATE_AVAILABLE' }));
+                    });
+                  }
+                }
                 cache.put(request, response.clone());
               }
               return response;

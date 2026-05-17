@@ -2566,8 +2566,12 @@
       }
 
       .header__brand {
-        justify-content: space-between;
+        justify-content: flex-start;
         width: 100%;
+      }
+
+      .header__divider {
+        margin-left: auto;
       }
 
       .header__title {
@@ -4713,6 +4717,17 @@
             });
           });
         }).catch(err => console.warn('[PWA] SW registration failed:', err));
+
+        navigator.serviceWorker.addEventListener('message', event => {
+          if (event.data && event.data.type === 'UPDATE_AVAILABLE') {
+            const updateBar = document.getElementById('pwa-update-bar');
+            if (updateBar) updateBar.classList.add('is-visible');
+            const updateBtn = document.getElementById('pwa-update-btn');
+            if (updateBtn) {
+              updateBtn.addEventListener('click', () => window.location.reload());
+            }
+          }
+        });
       });
     }
   </script>
