@@ -1,10 +1,12 @@
 /* ═══════════════════════════════════════════════════════════
    SERVICE WORKER — The Cinephile's Vault PWA
-   Strategy: Cache-first for static assets, network-first for
-   external resources (TMDB images, Google Fonts).
+   Strategy: Stale-While-Revalidate for local assets.
+   No manual version bumping needed — the SW auto-refreshes
+   the cache on every activation by re-fetching all static
+   assets from the network (bypassing browser cache).
    ═══════════════════════════════════════════════════════════ */
 
-const CACHE_NAME = 'cinevault-v18';
+const CACHE_NAME = 'cinevault-static';
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -21,32 +23,47 @@ self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(cache => {
       console.log('[SW] Pre-caching app shell');
-      return cache.addAll(STATIC_ASSETS);
+      // Use { cache: 'no-store' } so we always get fresh copies on install
+      return Promise.all(
+        STATIC_ASSETS.map(url =>
+          fetch(url, { cache: 'no-store' })
+            .then(response => {
+              if (response && response.status === 200) {
+                return cache.put(url, response);
+              }
+            })
+            .catch(err => console.warn('[SW] Failed to cache on install:', url, err))
+        )
+      );
     })
   );
   // Activate immediately instead of waiting for old tabs to close
   self.skipWaiting();
 });
 
-// ─── Activate: Clean up old caches ─────────────────────────
+// ─── Activate: Re-fetch all static assets to pick up any ───
+// ─── changes pushed to GitHub — no version bump needed.  ───
 self.addEventListener('activate', event => {
   event.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(
-        keys
-          .filter(key => key !== CACHE_NAME)
-          .map(key => {
-            console.log('[SW] Removing old cache:', key);
-            return caches.delete(key);
-          })
-      )
-    )
+    caches.open(CACHE_NAME).then(cache => {
+      console.log('[SW] Refreshing cache for all static assets');
+      return Promise.all(
+        STATIC_ASSETS.map(url =>
+          fetch(url, { cache: 'no-store' })
+            .then(response => {
+              if (response && response.status === 200) {
+                console.log('[SW] Updated cache for:', url);
+                return cache.put(url, response);
+              }
+            })
+            .catch(err => console.warn('[SW] Could not refresh (offline?):', url, err))
+        )
+      );
+    }).then(() => self.clients.claim())
   );
-  // Take control of all open clients immediately
-  self.clients.claim();
 });
 
-// ─── Fetch: Serve from cache, fall back to network ─────────
+// ─── Fetch: Stale-While-Revalidate for local assets ────────
 self.addEventListener('fetch', event => {
   const { request } = event;
   const url = new URL(request.url);
@@ -57,24 +74,27 @@ self.addEventListener('fetch', event => {
   // Skip chrome-extension and other non-http(s) requests
   if (!url.protocol.startsWith('http')) return;
 
-  // ── Strategy 1: Cache-first for local/static assets ──
+  // ── Strategy 1: Stale-While-Revalidate for local/static assets ──
+  // Serve from cache immediately for speed, then fetch fresh copy
+  // in the background and update cache for the NEXT visit.
   if (url.origin === self.location.origin) {
     event.respondWith(
-      caches.match(request).then(cached => {
-        if (cached) return cached;
-        return fetch(request).then(response => {
-          // Don't cache error responses
-          if (!response || response.status !== 200) return response;
-          const clone = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(request, clone));
-          return response;
-        });
-      }).catch(() => {
-        // Offline fallback for navigation requests
-        if (request.mode === 'navigate') {
-          return caches.match('./index.html');
-        }
-      })
+      caches.open(CACHE_NAME).then(cache =>
+        cache.match(request).then(cached => {
+          // Fetch a fresh copy in the background regardless
+          const networkFetch = fetch(request, { cache: 'no-store' })
+            .then(response => {
+              if (response && response.status === 200) {
+                cache.put(request, response.clone());
+              }
+              return response;
+            })
+            .catch(() => null);
+
+          // Return cached version instantly if available, otherwise wait for network
+          return cached || networkFetch.then(resp => resp || caches.match('./index.html'));
+        })
+      )
     );
     return;
   }

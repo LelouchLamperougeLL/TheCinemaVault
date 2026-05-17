@@ -3224,7 +3224,7 @@
        ═══════════════════════════════════════════════════════════ */
     let state = {
       search: '',
-      sort: 'rating-desc',
+      sort: 'added-desc',
       filterPanelOpen: false,
       filters: {
         decades: new Set(),
@@ -4153,7 +4153,7 @@
 
       const sortBtn = controls.querySelector('#dd-sort .dropdown-btn');
       if (sortBtn) {
-        if (state.sort !== 'rating-desc') {
+        if (state.sort !== 'added-desc') {
           sortBtn.classList.add('is-active');
         } else {
           sortBtn.classList.remove('is-active');
@@ -4492,7 +4492,7 @@
         const saved = JSON.parse(localStorage.getItem('cinephile-vault') || 'null');
         if (!saved) return;
         state.search = saved.search || '';
-        state.sort = saved.sort || 'rating-desc';
+        state.sort = saved.sort || 'added-desc';
         if (saved.dark !== undefined) {
           document.documentElement.setAttribute('data-theme', saved.dark ? 'dark' : 'light');
         }
