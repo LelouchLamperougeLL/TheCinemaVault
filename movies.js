@@ -63380,4 +63380,4053 @@ const MOVIES = [
       fullReview: "Every Monday morning, a small group of counselors arrive at a plain, slightly run-down building that exists somewhere between the living world and whatever comes next. Their job is to interview the newly dead — ordinary people, dozens of them, arriving quietly each week — and help them choose one memory to carry into eternity. The counselors have until Friday. On Saturday, a small film crew recreates the chosen moment. On Sunday, the dead watch it and pass on. What was the moment that made a life worth living? Everyone who has ever died must eventually answer.\n\nHirokazu Kore-eda was thirty-six when he made After Life, and the film has the assurance of someone who had been waiting to make exactly this work. Known in Japan by the title Wandafuru Raifu — a transliteration of Wonderful Life — it arrives from a specific tradition of Japanese humanism, but it belongs to no tradition entirely. What Kore-eda built here is something genuinely singular: a film that sits at the junction of documentary and fiction, of comedy and elegy, of the bureaucratic and the transcendent, and holds all of those registers simultaneously without strain.\n\nThe structural foundation that makes the film so unusual is this: Kore-eda conducted real interviews with elderly Japanese citizens, asking them about memories they treasured, and wove that actual footage into the fiction. The line between documentary subject and invented character becomes productively unstable. When an old woman describes watching snowfall through a window in her childhood, or when a man in his seventies recalls riding a particular train through a Tokyo that no longer exists, the camera is holding something that cannot be performed — the actual texture of a life being reviewed. The effect is quietly extraordinary, and no amount of formal description does justice to how it feels in the room.\n\nAgainst this documentary substrate, the counselors occupy a low-key workplace comedy of modest, deadpan warmth. The afterlife runs on bureaucracy: there are intake forms, limited resources, mild interdepartmental friction, and a film crew working with the kind of modest equipment that would embarrass a local television station. This gentle institutional absurdism keeps the film's emotional freight from becoming overwhelming. Arata Iura brings a quality of carefully maintained stillness to the lead counselor that slowly, and then suddenly, reveals itself to mean something very specific.\n\nThe newly arrived dead approach their assignment in ways that map onto real human temperaments with eerie precision. One elderly man cannot choose because every memory he examines contains sorrow alongside pleasure and he will not accept a partial truth. A young woman selects immediately and impulsively, then second-guesses herself. An old gentleman cannot remember anything he wants to keep, which turns out to be its own kind of revelation. Kore-eda gives each of these small cases enough space to breathe, trusting the accumulation of quiet moments to build something larger than any individual scene.\n\nKore-eda edits his own work, and in After Life the pacing is long and patient in a way that mirrors memory itself — the way genuinely important moments arrive slowly and without announcement. The film does not mark its emotional turning points with music swells or close-ups. It tends to hold back, to stay still, and to let the weight of things settle at whatever speed they actually settle. There is a sequence involving archival video footage and a staff member's private history that represents some of the finest filmmaking of the decade — not because anything dramatic occurs, but because everything that preceded it has been laid out with such quiet precision that the arrival is inevitable.\n\nThe film's final act — in which the counselors recreate the chosen memories on modest soundstages with minimal resources — has a deliberately imperfect quality. The clouds are obviously paper. The streetcars are clearly mockups. The imperfection is the argument: memory is always a reconstruction, always partial, always a small human gesture in the direction of something that cannot be fully recovered. That these low-budget recreations move an audience anyway is the proof of concept the whole film has been building toward.\n\nAfter Life does not pretend to answer what it asks. It has too much respect for the question. What it offers instead is rarer: two hours in which the question becomes available to hold, to turn over, to examine against whatever materials a particular life provides. Most people will leave the film thinking about a specific memory of their own. That is not a small thing for a film to accomplish."
     }
   },
+  {
+    id: "the-thin-red-line-1998",
+    title: "The Thin Red Line",
+    originalTitle: null,
+    romanization: null,
+    year: 1998,
+    tagline: "Every man fights his own war.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/cFx3zekiPi5DKdn8sDvTrifW8Ur.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ejm0XvT3rB8",
+    director: [
+      {
+        name: "Terrence Malick",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Terrence Malick",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6FSi5aeyCNxJp96gxOmX7R4hCFu.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Jim Caviezel", role: "Pvt. Robert Witt", photoUrl: "https://image.tmdb.org/t/p/w185/yGlRIu6aEbet2QnpKIESfD0zMGf.jpg" },
+      { actor: "Nick Nolte", role: "Lt. Col. Gordon Tall", photoUrl: "https://image.tmdb.org/t/p/w185/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg" },
+      { actor: "Sean Penn", role: "1st Sgt. Edward Welsh", photoUrl: "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg" },
+      { actor: "Ben Chaplin", role: "Pvt. Jack Bell", photoUrl: "https://image.tmdb.org/t/p/w185/oJc9gA7cRvRg1v4tgeAmpkaqFxO.jpg" },
+      { actor: "Elias Koteas", role: "Capt. James Staros", photoUrl: "https://image.tmdb.org/t/p/w185/luevjlGy0tYQbAbcz0mVxCYqegH.jpg" },
+      { actor: "John Cusack", role: "Capt. John Gaff", photoUrl: "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg" },
+      { actor: "Dash Mihok", role: "Pfc. Don Doll", photoUrl: "https://image.tmdb.org/t/p/w185/jnruNUJv57nNtO66SR3oJ5tQuM5.jpg" },
+      { actor: "John C. Reilly", role: "Sgt. Maynard Storm", photoUrl: "https://image.tmdb.org/t/p/w185/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg" },
+      { actor: "Woody Harrelson", role: "Sgt. William Keck", photoUrl: "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg" },
+      { actor: "Miranda Otto", role: "Marty Bell", photoUrl: "https://image.tmdb.org/t/p/w185/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg" },
+      { actor: "Arie Verveen", role: "Pfc. Charlie Dale", photoUrl: "https://image.tmdb.org/t/p/w185/ghYFpRtdYO7vY8FLTN9HAhrCxoO.jpg" },
+      { actor: "Kirk Acevedo", role: "Pvt. Alfredo Tella", photoUrl: "https://image.tmdb.org/t/p/w185/jFUHECwo7L3KOZ0HxCQytl90qed.jpg" },
+      { actor: "Nick Stahl", role: "Pfc. Edward Bead", photoUrl: "https://image.tmdb.org/t/p/w185/hV1Fs7LcYWBQ90hWYA3DrCh0rPV.jpg" },
+      { actor: "Thomas Jane", role: "Pvt. Ash", photoUrl: "https://image.tmdb.org/t/p/w185/9frnlc2zoDcoeqZALB6aeYSQddl.jpg" },
+      { actor: "Tim Blake Nelson", role: "Pvt. Brian Tills", photoUrl: "https://image.tmdb.org/t/p/w185/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg" },
+      { actor: "Adrien Brody", role: "Cpl. Geoffrey Fife", photoUrl: "https://image.tmdb.org/t/p/w185/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg" },
+      { actor: "George Clooney", role: "Capt. Charles Bosche", photoUrl: "https://image.tmdb.org/t/p/w185/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg" },
+      { actor: "Jared Leto", role: "2nd Lt. William Whyte", photoUrl: "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg" },
+      { actor: "John Travolta", role: "Brig. Gen. David Quintard", photoUrl: "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg" },
+      { actor: "John Savage", role: "Sgt. Jack McCron", photoUrl: "https://image.tmdb.org/t/p/w185/exzL5D7RSnIepF9FsFlzCs248he.jpg" },
+      { actor: "Mark Boone Junior", role: "Pvt. Christopher Peale", photoUrl: "https://image.tmdb.org/t/p/w185/rcncVr356hpfKX9qOrKL3SJlEO7.jpg" },
+      { actor: "Matt Doran", role: "Pvt. Howard Coombs", photoUrl: "https://image.tmdb.org/t/p/w185/4HtMShAbsZ2AyFtq5z3bOVrvw2s.jpg" },
+      { actor: "Don Harvey", role: "Sgt. Paul Becker", photoUrl: "https://image.tmdb.org/t/p/w185/dc10W0hRNxrO0IcwgKOcsUajtOG.jpg" },
+      { actor: "Donal Logue", role: "Marl", photoUrl: "https://image.tmdb.org/t/p/w185/5Rj850yVkIqsgCihtZLbkNSHbFb.jpg" },
+      { actor: "Larry Romano", role: "Pvt. Frank Mazzi", photoUrl: "https://image.tmdb.org/t/p/w185/ekhIH4yOvVGPTcb28EPwALBj5Hu.jpg" },
+      { actor: "Travis Fine", role: "Pvt. Weld", photoUrl: "https://image.tmdb.org/t/p/w185/gOWKnyzd44SY18hXPZVlp7y4kQe.jpg" },
+      { actor: "Michael McGrady", role: "Pvt. Floyd", photoUrl: "https://image.tmdb.org/t/p/w185/nLYC2BMns7lhF3zr5WDlI8a02Yd.jpg" },
+      { actor: "Stephen Spacek", role: "Cpl. Jenks", photoUrl: "https://image.tmdb.org/t/p/w185/1bvJkxPIzfbJAt7mCEM6900gWTw.jpg" },
+      { actor: "Steven Vidler", role: "2nd Lt. Gore", photoUrl: "https://image.tmdb.org/t/p/w185/1rpOAasgY5DEpVur3SjumIkyQ7S.jpg" },
+      { actor: "Will Wallace", role: "Pvt. Hoke", photoUrl: "https://image.tmdb.org/t/p/w185/n6AI0SA91DV2bubLxAtfKuSERRy.jpg" },
+      { actor: "Simon Westaway", role: "First Scout", photoUrl: "https://image.tmdb.org/t/p/w185/96iWKeDYTBjwK3IersYTfNRhcZe.jpg" },
+      { actor: "Dan Wyllie", role: "Medic #1", photoUrl: "https://image.tmdb.org/t/p/w185/87jbUjYxj1hoTAIZOLz0VpXs81A.jpg" },
+      { actor: "Kick Gurry", role: "(uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/veu7npyAf2hhkKb1KR9SsducGoq.jpg" },
+      { actor: "Randall Duk Kim", role: "Nisei Interpreter", photoUrl: "https://image.tmdb.org/t/p/w185/31T1gSUP67F2qPI3x6uLJn3Sat7.jpg" },
+      { actor: "Darrin Klimek", role: "(uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/fCQj1JKAnY8UZek1K052N9uppmg.jpg" },
+      { actor: "Felix Williamson", role: "Private Drake", photoUrl: "https://image.tmdb.org/t/p/w185/iFEwwh0zCHJ2e2eIAKiQ4QL0e65.jpg" }
+    ],
+    languages: ["English", "Japanese", "Greek"],
+    genres: ["Drama", "War"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "sustained combat violence with soldiers dying in visible distress",
+        "battlefield imagery including burned bodies and open wounds",
+        "depictions of psychological breakdown under prolonged combat",
+        "brief non-explicit sexuality in romantic flashback sequences",
+        "scenes of execution and close-quarters killing"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:51" }
+    ],
+    awards: [
+      { body: "Academy Awards (71st)", category: "Best Picture", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Director", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Adapted Screenplay", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Cinematography", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Film Editing", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Sound", result: "Nominated", year: 1999 },
+      { body: "Academy Awards (71st)", category: "Best Original Score", result: "Nominated", year: 1999 },
+      { body: "Berlin International Film Festival (49th)", category: "Golden Bear", result: "Nominated", year: 1999 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["mortality", "transcendence", "violence", "consciousness", "complicity", "brotherhood", "survival", "nature"],
+      mood: ["elegiac", "contemplative", "harrowing"],
+      fullReview: 'Terrence Malick returned to cinema after a twenty-year silence with a war film that refuses, at nearly every turn, to behave like one. Set during the 1942 Allied campaign to retake Guadalcanal from Japanese forces, The Thin Red Line follows C-for-Charlie Company through an assault on a heavily fortified ridge — but the battle is almost incidental to what Malick is actually doing, which is asking questions about the nature of existence with the full weight of cinema behind him. Where does evil come from? Is the world at war with itself, or is that war a strictly human invention? What is the self that a bullet destroys? These are not ornamental questions. They are the film\'s entire architecture.\n\nThe ensemble is staggering on paper and largely delivers on it. Jim Caviezel carries the film\'s spiritual center as Private Witt, a soldier who has gone absent without leave to live among Melanesian islanders and who seems constitutionally incapable of accepting cruelty as a permanent feature of the world. Malick is too careful a filmmaker to make him naive — Witt has seen enough to know better — but something in him reaches toward grace even amid slaughter, and Caviezel plays this not as saintliness but as a kind of unresolvable bewilderment. Nick Nolte is his perfect counterweight: a Lieutenant Colonel whose hunger for military glory has curdled into something almost feral, a man who measures his self-worth in casualties and yards of ground. Sean Penn, in a role that the marketing suggested would be larger than it is, gives the film\'s most earthbound performance — a sergeant who has built his entire self around numbness and who may be losing that construction. Ben Chaplin appears in heartbreaking flashes as a soldier whose inner life has collapsed into longing for the woman he left behind.\n\nWhat separates the film from every other major war picture of its era — and it arrived in the same year as Saving Private Ryan, which made the contrast unavoidable — is that Malick uses combat as pressure applied to questions he is genuinely and urgently interested in. The grass on Guadalcanal, impossibly green and swaying in ways that feel almost deliberate, is not backdrop. The light fracturing through jungle canopy, the birds and crocodiles and fireflies and torrential rain, all of it speaks to a world that continues entirely indifferent to the men bleeding into it. John Toll\'s cinematography is not beautiful in any decorative sense. It is precise and breathing in ways that make the human violence register as an aberration inside something much older and vaster.\n\nHans Zimmer\'s score works in registers that film music rarely attempts — long, searching, near-devotional passages that owe more to sacred choral music than to anything conventional action or war cinema would demand. The additional pieces by Arvo Part are woven in with restraint that prevents the film from tipping into the self-importance it occasionally flirts with.\n\nThe film has real difficulties, and pretending otherwise would be dishonest. At nearly three hours, it can feel genuinely shapeless — not because Malick has lost the thread but because his method requires a mode of attention that most viewers do not bring to a war film and that even sympathetic audiences must consciously shift into. The internal monologues, drawn from multiple characters and often deliberately indistinct from one another, can blur into an undifferentiated philosophical hum where individual voices stop mattering. The film\'s enormous celebrity cast — George Clooney, John Travolta, Jared Leto — appear so briefly that their presence reads less as casting and more as a series of contractual incidents. Adrien Brody shot considerably more footage than survived the edit, and what remains of his performance carries the ghostly quality of something systematically removed.\n\nWhat stays with a person afterward is less any specific scene than a residue — the sense of having sat inside a long and serious question about what human beings are and what they do to themselves and to each other. That the film declines to answer its own questions is not evasion. It is Malick\'s particular kind of honesty. He does not know why the world is built the way it is, and he does not pretend to. What he offers instead is the sharpest possible articulation of the question itself, in images and performances of genuine and lasting power.\n\nThis is not a film for viewers who require clean narrative momentum or emotional resolution of a conventional kind. It is a film for anyone willing to sit in uncertainty for 171 minutes — and to come out changed in some way they may not be able to immediately name.'
+    }
+  },
+  {
+    id: "happy-together-1997",
+    title: "Happy Together",
+    originalTitle: "春光乍洩",
+    romanization: "Cheun Gwong Ja Sit",
+    year: 1997,
+    tagline: "Lonely people are all the same.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/Ah7EwEsnVgRF0vyX6943WFKuHod.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/jIv3EiZIC2tkBmjQ747Lyf5c61b.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=5VPvFaAWX9U",
+    director: [
+      {
+        name: "Wong Kar-Wai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iI4IxsIA5DMhIFHcD6C2FyZGKwc.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Wong Kar-Wai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iI4IxsIA5DMhIFHcD6C2FyZGKwc.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Leslie Cheung", role: "Ho Po-wing", photoUrl: "https://image.tmdb.org/t/p/w185/xdSUevukGCrayOdLd4Kd6YSJnKR.jpg" },
+      { actor: "Tony Leung Chiu-wai", role: "Lai Yiu-fai", photoUrl: "https://image.tmdb.org/t/p/w185/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg" },
+      { actor: "Chang Chen", role: "Chang", photoUrl: "https://image.tmdb.org/t/p/w185/4BOQ5pJXdsArkMHvyVhrV8Ditnr.jpg" }
+    ],
+    languages: ["Cantonese", "Spanish", "English"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "non-explicit sexual scenes between men",
+        "physical violence within a romantic relationship",
+        "sustained emotional manipulation and psychological control",
+        "brief depictions of commercial sex work",
+        "scenes of emotional breakdown and prolonged grief"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:36" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (50th)", category: "Best Director", result: "Won", year: 1997 },
+      { body: "Hong Kong Film Awards (17th)", category: "Best Film", result: "Won", year: 1998 },
+      { body: "Hong Kong Film Awards (17th)", category: "Best Director", result: "Won", year: 1998 },
+      { body: "Hong Kong Film Awards (17th)", category: "Best Actor", result: "Won", year: 1998 },
+      { body: "Cannes Film Festival (50th)", category: "Palme d\'Or", result: "Nominated", year: 1997 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["desire", "codependency", "displacement", "longing", "repetition", "estrangement", "belonging", "queerness"],
+      mood: ["suffocating", "yearning", "mournful"],
+      fullReview: 'Wong Kar-Wai dropped two Hong Kong men into Buenos Aires — about as far as a person can travel from home without leaving the planet, which is entirely the point. Lai Yiu-fai (Tony Leung Chiu-wai) and Ho Po-wing (Leslie Cheung) arrive with a fraying promise: a fresh start, a chance to begin again. The city dismantles that promise within the film\'s first few minutes. By the time the Iguazu Falls materializes in the grainy black-and-white that Wong uses for the relationship\'s earlier register, the audience has already been placed inside the gravitational field of two people who are destroying each other and cannot stop.\n\nWhat separates Happy Together from other films about bad love is Wong\'s total refusal to assign moral positions. Ho Po-wing is manipulative, radiantly beautiful, and constitutionally incapable of keeping any promise he makes — and in Leslie Cheung\'s hands he is also devastating to watch, because Cheung makes the man\'s damage visible without ever asking for sympathy. This was one of Hong Kong cinema\'s great stars, and the performance confirms why: vain and wounded and seductive and suddenly, in certain moments, heartbreaking in a way the film has fully earned. Lai is the film\'s center of gravity, and Tony Leung plays him with an interiority so dense it generates its own pressure. He knows exactly what is happening to him. The knowledge changes nothing. Leung does not play this as weakness — he plays it as a kind of terrible lucidity, the specific pain of a person who sees clearly and stays anyway.\n\nChristopher Doyle\'s cinematography functions as the film\'s third lead. The work moves between grainy monochrome and deeply saturated color, between handheld urgency and sequences of near-abstract texture, and none of it reads as stylistic indulgence because every visual decision maps precisely onto the emotional state of the characters. The return of color is not relief — it announces danger. When the camera slows or the image blurs or time suddenly compresses, the effect is interiority made visible rather than directorial showmanship. This is one of the most precisely deployed visual languages in the decade\'s world cinema.\n\nThe Buenos Aires setting carries its own weight. Wong chose Argentina during the final years before Hong Kong\'s 1997 handover to China — a period of profound anxiety about belonging, erasure, and what it meant to be of a place — and that historical context charges every displaced frame. These men are estranged not only from each other but from any stable sense of where they belong. The city does not speak their language. The tango music that runs through the film is simultaneously theirs and not theirs, beautiful and appropriated and lonely. Chang Chen arrives midway as a Taiwanese traveler with an open road ahead of him — a ghost of possibility, an image of what it looks like to be unentangled — and his quiet friendship with Lai poses the film\'s central question without ever verbalizing it.\n\nAt ninety-six minutes, the film is compressed to the point of pressure. Every scene does more than one thing. The tango sequences — which carry an erotic charge few films have matched — are also arguments about power and surrender. The kitchen scenes, mundane and briefly tender and domestic, are almost harder to watch, because they show with absolute clarity what these two men could have been together under different conditions or different natures.\n\nThis is not a film for viewers who need narrative explanation or conventional emotional release. Wong Kar-Wai has never worked that way, and Happy Together is the fullest expression of his method: time fractured, feeling accumulated in layers, meaning arrived at sideways. For anyone who has lived inside a relationship that kept restarting despite all evidence against it — who recognizes the exhaustion of loving someone who unmakes you — the film lands with an accuracy that borders on the unsettling.\n\nThe ending withholds catharsis and verdict both. What it offers instead is a long, unblinking look at a particular kind of loneliness — the kind that comes not from being alone but from being with the wrong person in a city far from home, speaking into a silence that keeps answering back in someone else\'s voice.'
+    }
+  },
+  {
+    id: "infernal-affairs-2002",
+    title: "Infernal Affairs",
+    originalTitle: "無間道",
+    romanization: "Mou Gaan Dou",
+    year: 2002,
+    tagline: "Loyalty. Honor. Betrayal.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/tzxmGOCuI0TUvhYmHeeRrYZESbu.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/qdlwFWn2YdLzw5KHpMpzRY9BI7r.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/iiDGA97Kqt2dVU1deXQF06USBRu.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=GqdXakBnmsE",
+    director: [
+      {
+        name: "Andrew Lau Wai-Keung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dXAVfPlGYXpeZcXJU5uutFDSlQi.jpg"
+      },
+      {
+        name: "Alan Mak Siu-Fai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9iSljOXim6qWYEbX47NKtoVQ19r.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Felix Chong Man-Keung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wHj20vu9YyjirlfloBwOxWlTe1S.jpg"
+      },
+      {
+        name: "Alan Mak Siu-Fai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9iSljOXim6qWYEbX47NKtoVQ19r.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Andy Lau", role: "Inspector Lau Kin-ming", photoUrl: "https://image.tmdb.org/t/p/w185/z9R2yerjfgxwDWIH8sjiS0hhcre.jpg" },
+      { actor: "Tony Leung Chiu-wai", role: "Chan Wing-yan", photoUrl: "https://image.tmdb.org/t/p/w185/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg" },
+      { actor: "Anthony Wong Chau-Sang", role: "Superintendent Wong Chi-shing", photoUrl: "https://image.tmdb.org/t/p/w185/ijV0EFpwgWkRB7VRwKH7BpGkwTQ.jpg" },
+      { actor: "Eric Tsang Chi-Wai", role: "Hon Sam", photoUrl: "https://image.tmdb.org/t/p/w185/vrPBadugqlMkfNIYzLZbP4sEF1j.jpg" },
+      { actor: "Kelly Chen Hui-Lin", role: "Dr. Lee Sin-yee", photoUrl: "https://image.tmdb.org/t/p/w185/2m2mTNM8LxLPYyCQrgVZg93PR6j.jpg" },
+      { actor: "Sammi Cheng Sau-Man", role: "Mary", photoUrl: "https://image.tmdb.org/t/p/w185/fecOHFVJC0R16aSraJmULaHV6hx.jpg" },
+      { actor: "Elva Hsiao", role: "May", photoUrl: "https://image.tmdb.org/t/p/w185/1BEy7j0A1xu9aV33fsTfb53bA7V.jpg" },
+      { actor: "Chapman To Man-Chat", role: "Keung", photoUrl: "https://image.tmdb.org/t/p/w185/deb2iBGpzwvkEwlTvLA3rX2HOiY.jpg" },
+      { actor: "Gordon Lam Ka-Tung", role: "Dai B", photoUrl: "https://image.tmdb.org/t/p/w185/1IbIMJ4vfUgzlkiJcufNCyMWqSh.jpg" },
+      { actor: "Shawn Yue Man-Lok", role: "Young Chan Wing-yan", photoUrl: "https://image.tmdb.org/t/p/w185/yZWngh6eSSqZGWIEvGQ0VqW6OnG.jpg" },
+      { actor: "Edison Chen", role: "Young Lau Kin-ming", photoUrl: "https://image.tmdb.org/t/p/w185/9JsNQ3m7oZLfmnql5I8qP1RC3sd.jpg" },
+      { actor: "Berg Ng Ting-Yip", role: "Inspector Zhang", photoUrl: "https://image.tmdb.org/t/p/w185/m5xPhFT6li4ZasJzVAZAgBWnPw3.jpg" },
+      { actor: "Wan Chi-Keung", role: "Superintendent Leung", photoUrl: "https://image.tmdb.org/t/p/w185/8ECcEnUSyfcJ9NvAF9SpEWdOwLn.jpg" },
+      { actor: "Dion Lam", role: "Dibyaraj", photoUrl: "https://image.tmdb.org/t/p/w185/8J139Cfjqsqbop95v7BHhYFUy1I.jpg" },
+      { actor: "Tony Ho", role: "Suspect", photoUrl: "https://image.tmdb.org/t/p/w185/paQA7NquBfwRdGiCACSdzLPFvLG.jpg" },
+      { actor: "Courtney Wu", role: "Hi-Fi Shop Owner", photoUrl: "https://image.tmdb.org/t/p/w185/vyV6AQJB0DEuzOyljqswm0nkYfc.jpg" },
+      { actor: "Hui Kam Fung", role: "Police Academy Principal", photoUrl: "https://image.tmdb.org/t/p/w185/ySWUNu4hZpVsLcgct5jEOXTQKki.jpg" },
+      { actor: "Chaucharew Wichai", role: "Thai Drug Buyer", photoUrl: "https://image.tmdb.org/t/p/w185/wKP4llgU3LxABd8IaRxgGScYQrt.jpg" },
+      { actor: "Au Hin-Wai", role: "Elephant", photoUrl: "https://image.tmdb.org/t/p/w185/i0ix1VVsZW5ODSl1GyGadwGFb30.jpg" },
+      { actor: "Lee Tin-Cheung", role: "Ma Baat", photoUrl: "https://image.tmdb.org/t/p/w185/nqMqZzPimjPq9e7oBg9VcUXZJWj.jpg" },
+      { actor: "Victy Wong Yin-Keung", role: "CID Officer", photoUrl: "https://image.tmdb.org/t/p/w185/aBR8RRlVItwdRr1zb44Dhn7Xkbd.jpg" },
+      { actor: "Benjamin Yuen Wai-Ho", role: "CID Officer", photoUrl: "https://image.tmdb.org/t/p/w185/l2I4dLefQPTFZ0N2gkXm8KEgX1h.jpg" },
+      { actor: "Wong Chi-Wang", role: "CID Officer", photoUrl: "https://image.tmdb.org/t/p/w185/pstzGq63fyUMVgJUvfPY0xi9Vun.jpg" },
+      { actor: "Tam Kon-Chung", role: "CID Officer", photoUrl: "https://image.tmdb.org/t/p/w185/4HyoYwYOLeiOD2WHtFpz4nRpxQE.jpg" },
+      { actor: "Che Jan-Bong", role: "CID Officer", photoUrl: "https://image.tmdb.org/t/p/w185/qFruQZOHTT4nFwIATiH5DRE316k.jpg" },
+      { actor: "Chin Yiu-Wing", role: "CID Officer", photoUrl: "https://image.tmdb.org/t/p/w185/601CkfDa6oyH1CmswYd63bM6GAg.jpg" },
+      { actor: "Ho Chun-Hin", role: "Sam\'s Henchman", photoUrl: "https://image.tmdb.org/t/p/w185/p4uNnOm4T8u6qJvWxRkXzBLY8YF.jpg" },
+      { actor: "Simon Yu Sai-Tang", role: "Sam\'s Henchman", photoUrl: "https://image.tmdb.org/t/p/w185/uBPDShsEPK2t3smbMEfogxrAtgW.jpg" },
+      { actor: "So Wai-Nam", role: "Sam\'s Henchman", photoUrl: "https://image.tmdb.org/t/p/w185/qw7aaQL4DfLyoY6a3VADSYkQHvT.jpg" },
+      { actor: "Jerry Leung Ho-Kai", role: "Sam\'s Henchman", photoUrl: "https://image.tmdb.org/t/p/w185/ul8Pf1dyDYa8SrzFfvEt5Crd9bO.jpg" },
+      { actor: "Terry Lee Ji-Ming", role: "Sam\'s Henchman", photoUrl: "https://image.tmdb.org/t/p/w185/jBMRAt1EMnYiQ0PsFw7pe0Y2WlT.jpg" },
+      { actor: "Chow Pok-Foo", role: "Sam\'s Henchman", photoUrl: "https://image.tmdb.org/t/p/w185/3zhRYjNlbKxbEc9XcNDAe3D8lTb.jpg" },
+      { actor: "Simon Cheung Yuk-San", role: "Police Academy Instructor", photoUrl: "https://image.tmdb.org/t/p/w185/5cZJaEEvsJenrE0CLVWRoM2IxqH.jpg" },
+      { actor: "Chang Kin-Yung", role: "Policeman", photoUrl: "https://image.tmdb.org/t/p/w185/vnJvh8vSr7hdbvsanXwLYGG2tTw.jpg" }
+    ],
+    languages: ["Cantonese", "Mandarin", "Thai"],
+    genres: ["Crime", "Thriller", "Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "gunshot violence and deaths throughout",
+        "a person thrown from a building to their death",
+        "depictions of organized crime and sustained police corruption",
+        "scenes of physical interrogation and coercion",
+        "moderate blood in combat and shooting sequences"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:41" }
+    ],
+    awards: [
+      { body: "Hong Kong Film Awards (22nd)", category: "Best Film", result: "Won", year: 2003 },
+      { body: "Hong Kong Film Awards (22nd)", category: "Best Director", result: "Won", year: 2003 },
+      { body: "Hong Kong Film Awards (22nd)", category: "Best Screenplay", result: "Won", year: 2003 },
+      { body: "Hong Kong Film Awards (22nd)", category: "Best Actor", result: "Won", year: 2003 },
+      { body: "Hong Kong Film Awards (22nd)", category: "Best Film Editing", result: "Won", year: 2003 },
+      { body: "Hong Kong Film Awards (22nd)", category: "Best Supporting Actor", result: "Nominated", year: 2003 },
+      { body: "Hong Kong Film Awards (22nd)", category: "Best Cinematography", result: "Nominated", year: 2003 },
+      { body: "Golden Horse Awards (40th)", category: "Best Feature Film", result: "Nominated", year: 2003 },
+      { body: "Golden Horse Awards (40th)", category: "Best Director", result: "Nominated", year: 2003 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["identity", "betrayal", "duality", "complicity", "loyalty", "corruption", "impersonation", "entrapment"],
+      mood: ["tense", "elegiac", "disquieting"],
+      fullReview: 'The title reaches into Buddhist cosmology: Avici, the hell of uninterrupted suffering, where the condemned exist in a state of endless torment with no interval of relief. The film earns this reference without belaboring it. Two young men are sent to live inside other identities — one a police officer planted deep within a Hong Kong triad, the other a triad member groomed from adolescence for infiltration into the force. When the film advances a decade to find its older protagonists, Chen Wing Yan (Tony Leung Chiu-wai) and Inspector Lau Kin Ming (Andy Lau) have each lived their cover for so long that the question of what lies beneath has become genuinely difficult to answer. The double-mole hunt that drives the plot is, at its surface level, a precisely engineered procedural thriller. Beneath that surface it is a film about what sustained impersonation does to a person\'s relationship with their own existence.\n\nAndrew Lau and Alan Mak direct with a confidence that verges on classical. The editing is surgical — 101 minutes without a wasted frame — and the parallel structure that tracks both men as they hunt each other sustains momentum while continuously opening onto the moral and psychological dimensions underneath. Where lesser films of this kind would push their procedural mechanics to the front and handle everything else as texture, Infernal Affairs keeps stopping to look at Chen and Lau as people carrying enormous accumulated weight. The rooftop sequence in which they meet and speak candidly to each other is the film\'s emotional core, and what makes it work is not dialogue but what both actors communicate about a decade of fractured selfhood — the specific exhaustion of men who have spent their best years being someone else and are no longer entirely sure what they are being instead.\n\nTony Leung brings to Chen Wing Yan a quality that is difficult to isolate but unmistakable in practice: authentic feeling kept at arm\'s length, handled with caution, something the character cannot fully trust in himself. Leung has never been a demonstrative actor, and here that restraint becomes precisely the point — Chen is a man who has learned to be very careful about what shows. Andy Lau is his structural mirror: a man who may have come to genuinely prefer the police inspector he has constructed over whatever he actually is, and who must now decide whether to protect that construction or surrender it. Neither performance tilts toward sentiment. The film trusts both men completely.\n\nAnthony Wong as Chen\'s superior and Eric Tsang as the triad boss Sam occupy the surrounding space with the authority of actors who understand exactly what their roles require. The score by Chan Kwong Wing is one of the more quietly interesting creative choices: melancholic and faintly operatic, far more concerned with interior states than with action, it locates the film\'s real emotional register as tragedy wearing a thriller\'s clothing.\n\nThe shadow Infernal Affairs cast on global cinema is impossible to overstate. Scorsese remade it three years later as The Departed, which collected the Academy Award for Best Picture. The comparison is instructive. The Departed is louder, more operatic, and more concerned with escalation. The original is more compressed and more philosophically interested in what it costs a person to live inside a lie — not the external dangers but the internal erosion. The question the film keeps asking — whether a self dismantled across a decade of performance can be put back together, or whether there is anything beneath the performance worth recovering — is never resolved with comfort. The ending, one of the more remarked-upon conclusions in recent Hong Kong cinema, withholds easy consolation while delivering something that functions as a kind of cold, unexpected justice.\n\nThe romantic subplots involving both men\'s partners carry somewhat less conviction than the central tension and feel, in places, like structural obligations rather than dramatic necessities. This is a minor charge. Infernal Affairs does its essential work at a level of craft and seriousness that earns its reputation without needing to have solved every problem. Genre executed this well, with this much on its mind, is not common.'
+    }
+  },
+  {
+    id: "infernal-affairs-ii-2003",
+    title: "Infernal Affairs II",
+    originalTitle: "無間道II",
+    romanization: "Mou Gaan Dou II",
+    year: 2003,
+    tagline: "The Birth of a Legend.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/uWyh5LWd4Q5h03VKdFBPkpG4HMv.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/q9MCjc4CMXju59slJEzYEtr7F3W.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/j0bK5l5Wo4XvUUrKp1FckLvbse9.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=TaDUZskpMfM",
+    director: [
+      {
+        name: "Andrew Lau Wai-Keung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dXAVfPlGYXpeZcXJU5uutFDSlQi.jpg"
+      },
+      {
+        name: "Alan Mak Siu-Fai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9iSljOXim6qWYEbX47NKtoVQ19r.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Alan Mak Siu-Fai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9iSljOXim6qWYEbX47NKtoVQ19r.jpg"
+      },
+      {
+        name: "Felix Chong Man-Keung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wHj20vu9YyjirlfloBwOxWlTe1S.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Shawn Yue Man-Lok", role: "Young Chan Wing-yan", photoUrl: "https://image.tmdb.org/t/p/w185/yZWngh6eSSqZGWIEvGQ0VqW6OnG.jpg" },
+      { actor: "Edison Chen", role: "Young Lau Kin-ming", photoUrl: "https://image.tmdb.org/t/p/w185/9JsNQ3m7oZLfmnql5I8qP1RC3sd.jpg" },
+      { actor: "Francis Ng Chun-Yu", role: "Ngai Wing-hau", photoUrl: "https://image.tmdb.org/t/p/w185/AoIwNpo9wkDTWO86RusrAFG9hAt.jpg" },
+      { actor: "Eric Tsang Chi-Wai", role: "Hon Sam", photoUrl: "https://image.tmdb.org/t/p/w185/vrPBadugqlMkfNIYzLZbP4sEF1j.jpg" },
+      { actor: "Carina Lau", role: "Mary", photoUrl: "https://image.tmdb.org/t/p/w185/5Va4jk69gkdAcABtkTtcUz85RLA.jpg" },
+      { actor: "Anthony Wong Chau-Sang", role: "Superintendent Wong Chi-shing", photoUrl: "https://image.tmdb.org/t/p/w185/ijV0EFpwgWkRB7VRwKH7BpGkwTQ.jpg" },
+      { actor: "Hu Jun", role: "Luk Kai-cheong", photoUrl: "https://image.tmdb.org/t/p/w185/3RXwZKvACtHdnrmOvQbJWJa718W.jpg" },
+      { actor: "Andrew Lin Hoi", role: "Ngai Wing-chung", photoUrl: "https://image.tmdb.org/t/p/w185/nt1UAs1IY0WQlIeaHjbCfkY0XAR.jpg" },
+      { actor: "Roy Cheung Yiu-Yeung", role: "Lo Kwai-yin", photoUrl: "https://image.tmdb.org/t/p/w185/uxmSSLjeDW193jg7mkBjJKmzPPG.jpg" },
+      { actor: "Liu Kai-Chi", role: "Third Uncle", photoUrl: "https://image.tmdb.org/t/p/w185/tOqH5blJzabTfM9dk6EWQ6uIDz7.jpg" },
+      { actor: "Joe Cheung Tung-Cho", role: "Ngai Kwun", photoUrl: "https://image.tmdb.org/t/p/w185/4RJ9r6FP6kQUmEUWZylPByh7TtG.jpg" },
+      { actor: "Chapman To Man-Chat", role: "Keung", photoUrl: "https://image.tmdb.org/t/p/w185/deb2iBGpzwvkEwlTvLA3rX2HOiY.jpg" },
+      { actor: "Kelly Fu", role: "May", photoUrl: "https://image.tmdb.org/t/p/w185/7SQ9FDNGDUW98o7lIQ2zp4ADn4Z.jpg" },
+      { actor: "Henry Fong Ping", role: "Kam Ti", photoUrl: "https://image.tmdb.org/t/p/w185/s7lWQTLYbCVSYJEqVMHUSe49asL.jpg" },
+      { actor: "Peter Ngor Chi-Kwan", role: "Gwai", photoUrl: "https://image.tmdb.org/t/p/w185/9N1P9ldQP2F8TTsfk4sR04LSORO.jpg" },
+      { actor: "Teddy Chan", role: "Man Ching", photoUrl: "https://image.tmdb.org/t/p/w185/dSILKNd1loo4j0JSUBXbX0xwdLO.jpg" },
+      { actor: "Arthur Wong Ngok-Tai", role: "Kwok Wah", photoUrl: "https://image.tmdb.org/t/p/w185/lvl5vYoEbkguwaP3uuPdAD90UHa.jpg" },
+      { actor: "Ricardo Mamood-Vega", role: "Private Detective #1", photoUrl: "https://image.tmdb.org/t/p/w185/7gXFdXPO7R2c42jFoh87i0pvQLl.jpg" },
+      { actor: "Kara Hui Ying-Hung", role: "Second Sister", photoUrl: "https://image.tmdb.org/t/p/w185/usUroq18HASSFlTh9NFfdWqQmwn.jpg" },
+      { actor: "Bey Logan", role: "Superintendent #5", photoUrl: "https://image.tmdb.org/t/p/w185/rajFGd5NfwDSvcUvg85z4c2gsLs.jpg" },
+      { actor: "Wan Chi-Keung", role: "Superintendent Leung", photoUrl: "https://image.tmdb.org/t/p/w185/8ECcEnUSyfcJ9NvAF9SpEWdOwLn.jpg" },
+      { actor: "Alexander Chan Mong-Wah", role: "Ngai Wing-yi", photoUrl: "https://image.tmdb.org/t/p/w185/w64Tayt01sDJG8sc7RfzA63zVJ3.jpg" },
+      { actor: "Jonathan Cheung Wing-Hong", role: "Dai B", photoUrl: "https://image.tmdb.org/t/p/w185/vfKaCwPlmnupA8Y7yxDThpk681h.jpg" },
+      { actor: "Mang Hoi", role: "Mr. Cheung", photoUrl: "https://image.tmdb.org/t/p/w185/kAZwOfO1jEWUAFNv872H3mnHba1.jpg" },
+      { actor: "Buffalo Tang Tai-Wo", role: "Sam\'s Henchman", photoUrl: "https://image.tmdb.org/t/p/w185/jU6TPrDPUU8T33dcL9Ywv96bEPb.jpg" },
+      { actor: "Say Ping Yap", role: "Socialite", photoUrl: "https://image.tmdb.org/t/p/w185/i9bt0BoZdA4MIDDXGkou6PoyROM.jpg" },
+      { actor: "Tay Ping-Hui", role: "Lawyer Hong", photoUrl: "https://image.tmdb.org/t/p/w185/lYP6n73sOZtz00OUpMuv7bIlwLe.jpg" },
+      { actor: "Hui Kam Fung", role: "Police Academy Principal", photoUrl: "https://image.tmdb.org/t/p/w185/ySWUNu4hZpVsLcgct5jEOXTQKki.jpg" },
+      { actor: "Lam Foo-Wai", role: "Ngai Wing-hau\'s Henchman #1", photoUrl: "https://image.tmdb.org/t/p/w185/ivoZea3EUiZwHjsZg0Se7eUtL3h.jpg" },
+      { actor: "Wong Yui-Sang", role: "Ngai Wing-hau\'s Henchman #2", photoUrl: "https://image.tmdb.org/t/p/w185/21VHcHlbn086AA7ej5g4vdAoxUZ.jpg" },
+      { actor: "William Duen Wai-Lun", role: "Fat Chan", photoUrl: "https://image.tmdb.org/t/p/w185/hUgHLGnmzf5A5qVJJKY181154av.jpg" },
+      { actor: "Wong Man-Shing", role: "CID Officer #5", photoUrl: "https://image.tmdb.org/t/p/w185/49937ZKJwD0xwLUCCGsvmgNhlC7.jpg" },
+      { actor: "Chang Kin-Yung", role: "CID Officer #2", photoUrl: "https://image.tmdb.org/t/p/w185/vnJvh8vSr7hdbvsanXwLYGG2tTw.jpg" },
+      { actor: "Frank Liu Zong-Ji", role: "CID Officer #4", photoUrl: "https://image.tmdb.org/t/p/w185/qcKUMh2Rn7n9f2fBQ5ZsJNwi25s.jpg" },
+      { actor: "Simon Cheung Yuk-San", role: "CID Officer #6", photoUrl: "https://image.tmdb.org/t/p/w185/5cZJaEEvsJenrE0CLVWRoM2IxqH.jpg" },
+      { actor: "Brandon Rhea", role: "Private Detective #2", photoUrl: "https://image.tmdb.org/t/p/w185/eV2HOqq0AKYRsm6ErxM1ao6ZMN4.jpg" },
+      { actor: "Tiffany Cheung Pik-Shan", role: "Dancer Assassin", photoUrl: "https://image.tmdb.org/t/p/w185/fqrpdzzVQMJV6KXYfMUNveCiPj6.jpg" },
+      { actor: "Benjamin Chan Siu-Kwan", role: "Finance Company Assassin", photoUrl: "https://image.tmdb.org/t/p/w185/tYLxv5DO1xDniEAwZa3c6WcjpRr.jpg" },
+      { actor: "Lui Siu-Ming", role: "Kwok Wah\'s Henchman #1", photoUrl: "https://image.tmdb.org/t/p/w185/9SMpyEeVM6ytj2wgc2mhMQ6b1j3.jpg" },
+      { actor: "Kwok Yuk-Keung", role: "Superintendent #1", photoUrl: "https://image.tmdb.org/t/p/w185/yLv7fPdeLJvvpmeU2OKGrN3lui.jpg" },
+      { actor: "Yan Qingyu", role: "Kwok Wah\'s Wife", photoUrl: "https://image.tmdb.org/t/p/w185/3R104Mn6YaACEiepybKjtcZhVq6.jpg" },
+      { actor: "Lau Tung-Ching", role: "Gwai\'s Henchman #4", photoUrl: "https://image.tmdb.org/t/p/w185/hGjrXhCYlL8cIRIwS3npCHf7LAG.jpg" },
+      { actor: "Chaucharew Wichai", role: "Paul", photoUrl: "https://image.tmdb.org/t/p/w185/wKP4llgU3LxABd8IaRxgGScYQrt.jpg" }
+    ],
+    languages: ["Cantonese", "Mandarin", "English", "Thai"],
+    genres: ["Crime", "Drama", "Thriller"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "sustained triad gang violence including executions at close range",
+        "multiple gunshot deaths and scenes of prolonged physical assault",
+        "a character beaten to death on screen",
+        "depictions of organized crime hierarchy and political corruption",
+        "moderate blood in combat and assassination sequences"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:59" }
+    ],
+    awards: [
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Actor", result: "Won", year: 2004 },
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Film", result: "Nominated", year: 2004 },
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Director", result: "Nominated", year: 2004 },
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Supporting Actress", result: "Nominated", year: 2004 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["legacy", "succession", "loyalty", "complicity", "history", "power", "sacrifice", "betrayal"],
+      mood: ["operatic", "melancholic", "tense"],
+      fullReview: 'Set across the years preceding and passing through the 1997 handover of Hong Kong to China, Infernal Affairs II trades the original\'s compressed precision for something more broadly ambitious: a triad epic that treats the shift in sovereignty not as backdrop decoration but as structural engine. The loyalties being forged and broken in these years, the film argues, cannot be separated from what history is doing to the ground beneath everyone\'s feet. At the center of this wider canvas stands Francis Ng as Ngai Wing-hau, the eldest son of a triad patriarch caught between an internal succession war and the approaching obsolescence of everything his family built. Ng\'s performance is the reason the film holds.\n\nWhat Ng does here is exceptional in ways that are difficult to reduce to individual scenes. Ngai Wing-hau is highly intelligent, genuinely vicious, capable of tenderness and calculation in the same moment, and aware — with a clarity that amounts to a kind of tragedy — of exactly how his story will end. Ng plays all of this without a wasted gesture, creating a figure whose complexity earns every frame the film dedicates to him. The young Chan Wing-yan (Shawn Yue) and Lau Kin-ming (Edison Chen) reappear from the first film\'s timeline, but neither storyline achieves the taut geometry of the original\'s parallel structure. The film knows where its real weight lies, and it is here.\n\nCarina Lau, as Mary — Sam\'s companion and eventual confidante — is given considerably more room than the first film\'s version of the character allowed, and she takes it. The period setting opens the role, and Lau fills it with a performance that moves from decorative to genuinely complicated across the film\'s runtime. Eric Tsang\'s Sam operates in the earlier timeline with the same measured menace, and Anthony Wong appears as a younger Wong Chi-shing already carrying the compromises that define him in the first film.\n\nAndrew Lau and Alan Mak are more interested here in the mechanics of power and inheritance than in procedural tension, and the film is at its strongest in extended dramatic sequences — particularly those between Ng and Tsang, where every exchange redistributes the balance of authority and where nobody\'s survival can be assumed. The action sequences are competent but rarely the point. What the directors do better is the accumulation of dread, and the film earns its more operatic register in these scenes.\n\nAt 119 minutes the film is looser than its predecessor, and not all of it is earned. The parallel storylines involving the younger Lau and Chan never achieve their intended structural resonance with the main narrative, and there are passages where the film\'s historical and epic ambitions outrun what the execution can sustain. Prequel mechanics occasionally tether the drama — certain outcomes exist beyond possibility of change, and the film sometimes leans on that foreknowledge where it should be generating its own tension.\n\nWhat holds it together, beyond Ng, is the historical melancholy running under everything. The 1997 setting gives the film an elegiac undertow that the original — nominally present-tense and procedurally focused — did not have. These people are building structures and alliances that the next decade will make obsolete, and the film knows it even when the characters do not. The ending carries a weight slightly in excess of what the plotting generates, and that excess comes from this: the sense of a particular version of Hong Kong, with its particular arrangements of loyalty and criminality and power, passing into something it will not survive.\n\nAs a companion to Infernal Affairs, it is genuinely valuable. As a standalone film it is uneven — dependent on its predecessor for context, but also doing things the original was never trying to do. The ambition is real. So is the achievement, which is partial but considerable when Francis Ng is on screen, which is most of the time.'
+    }
+  },
+  {
+    id: "infernal-affairs-iii-2003",
+    title: "Infernal Affairs III",
+    originalTitle: "無間道III: 終極無間",
+    romanization: "Mou Gaan Dou III: Jung Gik Mou Gaan",
+    year: 2003,
+    tagline: "The Ultimate Showdown.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/Ag8ZSFzZPnRhCV5G0dV3vTwapca.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/kXTHj16K8Lr1EgwdzuzAB1j4Cy5.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/vsTHSW1j3FDx3JTsiIfPcuu9C6h.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=nyzwtsHhLTg",
+    director: [
+      {
+        name: "Alan Mak Siu-Fai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9iSljOXim6qWYEbX47NKtoVQ19r.jpg"
+      },
+      {
+        name: "Andrew Lau Wai-Keung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dXAVfPlGYXpeZcXJU5uutFDSlQi.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Felix Chong Man-Keung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wHj20vu9YyjirlfloBwOxWlTe1S.jpg"
+      },
+      {
+        name: "Alan Mak Siu-Fai",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9iSljOXim6qWYEbX47NKtoVQ19r.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Tony Leung Chiu-wai",
+        role: "Chan Wing Yan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg"
+      },
+      {
+        actor: "Andy Lau",
+        role: "Lau Kin Ming",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z9R2yerjfgxwDWIH8sjiS0hhcre.jpg"
+      },
+      {
+        actor: "Leon Lai Ming",
+        role: "Superintendent Yeung Kam Wing",
+        photoUrl: "https://image.tmdb.org/t/p/w185/muGAHc7aIQZQ5HwldoJElqz4dZx.jpg"
+      },
+      {
+        actor: "Chen Daoming",
+        role: "Shadow Shen Cheng",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xu5PRp6umslrXMvnq0pWsa5LnQh.jpg"
+      },
+      {
+        actor: "Anthony Wong Chau-Sang",
+        role: "Wong Chi Shing",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ijV0EFpwgWkRB7VRwKH7BpGkwTQ.jpg"
+      },
+      {
+        actor: "Eric Tsang Chi-Wai",
+        role: "Hon Sam",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vrPBadugqlMkfNIYzLZbP4sEF1j.jpg"
+      },
+      {
+        actor: "Kelly Chen Hui-Lin",
+        role: "Lee Sum Yee",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2m2mTNM8LxLPYyCQrgVZg93PR6j.jpg"
+      },
+      {
+        actor: "Sammi Cheng Sau-Man",
+        role: "Mary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fecOHFVJC0R16aSraJmULaHV6hx.jpg"
+      },
+      {
+        actor: "Carina Lau",
+        role: "Mary Hon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5Va4jk69gkdAcABtkTtcUz85RLA.jpg"
+      },
+      {
+        actor: "Edison Chen",
+        role: "Young Lau Kin Ming",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9JsNQ3m7oZLfmnql5I8qP1RC3sd.jpg"
+      },
+      {
+        actor: "Shawn Yue Man-Lok",
+        role: "Young Chan Wing Yan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yZWngh6eSSqZGWIEvGQ0VqW6OnG.jpg"
+      },
+      {
+        actor: "Eddie Li Yu-Yeung",
+        role: "Young Yeung Kam Wing",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bpWfitEbW8haXDU2a2eNWj1DjZ9.jpg"
+      },
+      {
+        actor: "Chapman To Man-Chat",
+        role: "Silly Keung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/deb2iBGpzwvkEwlTvLA3rX2HOiY.jpg"
+      },
+      {
+        actor: "Waise Lee Chi-Hung",
+        role: "Sergeant Chan Chun",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z8KzdPOVxNFvH7CkqwfMRPMmY1i.jpg"
+      },
+      {
+        actor: "Gordon Lam Ka-Tung",
+        role: "Inspector B",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1IbIMJ4vfUgzlkiJcufNCyMWqSh.jpg"
+      },
+      {
+        actor: "Berg Ng Ting-Yip",
+        role: "Inspector Cheung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m5xPhFT6li4ZasJzVAZAgBWnPw3.jpg"
+      },
+      {
+        actor: "Wan Chi-Keung",
+        role: "Officer Leung",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8ECcEnUSyfcJ9NvAF9SpEWdOwLn.jpg"
+      },
+      {
+        actor: "Vincent Wan Yeung-Ming",
+        role: "Nightclub Manager",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5MSGaHZ7mBCpX3YEajO7LG07IsT.jpg"
+      },
+      {
+        actor: "Au Hin-Wai",
+        role: "OCTB Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i0ix1VVsZW5ODSl1GyGadwGFb30.jpg"
+      },
+      {
+        actor: "Courtney Wu",
+        role: "Stereo Shop Owner",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vyV6AQJB0DEuzOyljqswm0nkYfc.jpg"
+      },
+      {
+        actor: "Mason Chiu",
+        role: "IA Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ofR1YhAt0AhCjNQ2HhtAiKp1jDh.jpg"
+      },
+      {
+        actor: "Benjamin Yuen Wai-Ho",
+        role: "CIB Officer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/l2I4dLefQPTFZ0N2gkXm8KEgX1h.jpg"
+      }
+    ],
+    languages: ["Cantonese", "Mandarin"],
+    genres: ["Crime", "Thriller", "Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "gun violence with moderate blood and injury detail",
+        "sustained psychological manipulation between characters",
+        "scenes depicting police corruption and criminal coercion",
+        "brief depictions of a violent death",
+        "moderate threat and intimidation throughout"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:58" }
+    ],
+    awards: [
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Film", result: "Nominated", year: 2004 },
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Director", result: "Nominated", year: 2004 },
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Actor", result: "Nominated", year: 2004 },
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Supporting Actor", result: "Nominated", year: 2004 },
+      { body: "Hong Kong Film Awards (23rd)", category: "Best Screenplay", result: "Nominated", year: 2004 },
+      { body: "Golden Horse Film Awards (41st)", category: "Best Feature Film", result: "Nominated", year: 2004 },
+      { body: "Golden Horse Film Awards (41st)", category: "Best Director", result: "Nominated", year: 2004 }
+    ],
+    criticRating: "Decent",
+    review: {
+      themes: ["duplicity", "guilt", "paranoia", "complicity", "surveillance", "identity", "accountability"],
+      mood: ["claustrophobic", "paranoid", "strained"],
+      fullReview: "With the first Infernal Affairs already regarded as a modern classic of Hong Kong cinema and its prequel having deepened the mythology with surprising coherence, the third entry arrives carrying an almost impossible structural obligation: it must simultaneously unfurl what was happening behind the scenes during the events of the original film and deliver a present-day reckoning for a man whose survival has become its own kind of trap. Lau Kin-ming — triad mole turned senior police officer, the man who got away — finds the walls closing in as Internal Affairs scrutinises his past and a mysterious mainland intelligence figure named Shen Cheng begins circling with knowledge that could destroy everything Lau has constructed.\n\nThe premise is genuinely promising. Following a compromised man who won is a different kind of thriller than following one trying to survive, and the film understands this on paper. Lau is no longer reactive — he is proactive, dangerous, desperately building a false past he can inhabit permanently. Andy Lau plays this corner with real conviction: there is something rat-like and watchful in his performance here, a man who has learned to read rooms faster than anyone else in them because his life has depended on it for years. When the paranoia starts eating through the professional composure, the performance finds gears that the earlier films never asked of it.\n\nThe problem is the scaffolding. The decision to split the film between a present-day narrative and extended sequences that run concurrent with the first film — filling in offscreen events, providing context for choices made in Part I — collapses under its own weight. What felt elegant in the original becomes bureaucratic here. The audience is made to do significant cognitive work tracking which timeline they are in, which version of these characters applies, and how the two strands are meant to reflect on each other. The film never quite pays off that investment with a proportional emotional return.\n\nChen Daoming enters the franchise as Shen Cheng, a shadowy figure from mainland security services, and his presence carries the film\'s most intriguing and most squandered idea. The suggestion that Hong Kong\'s institutional rot has deeper roots — that the corruption threading through the police force connects upward to something Beijing-adjacent — would be genuinely unsettling territory to map. But the screenplay keeps Shen Cheng at the level of thriller mechanism rather than developing him into the geopolitical reckoning he could have been. Chen brings considerable screen gravity to the role; the writing uses only a fraction of it.\n\nTony Leung appears primarily in the film\'s past-tense sequences, reprising Chan Wing-yan in scenes that run alongside the original rather than extending it. His work is, as always, immaculate, but there is something melancholy about watching a performance this precise applied to material that doesn\'t require it to go anywhere new. The character\'s arc was complete. These scenes exist to fill gaps, not to deepen what was already whole.\n\nLeon Lai as the superintendent positioned between competing loyalties offers the film\'s most grounded presence in the present-day thread. He functions less as a character than as a conscience — someone through whose eyes the audience can register what Lau has become — and Lai plays the role with a quiet steadiness that prevents the film from tipping entirely into baroque convolution.\n\nThere are individual sequences that work. A scene in which Lau must navigate an interrogation while simultaneously constructing a false narrative in real time has the kind of coiled tension the franchise earned its reputation on. The film\'s closing passages, stripped of the structural acrobatics, land with a weight that the preceding hour and a half had nearly exhausted the goodwill to deliver.\n\nBut too much of Infernal Affairs III feels like obligation dressed as ambition. The original worked because it had one clean, ruthless dramatic question at its centre and refused every detour. This film has several questions, answers them with varying success, and mistakes complexity for depth. Anyone arriving without having seen Parts I and II will be lost within twenty minutes; anyone who loved Part I will find this a serviceable but faintly dispiriting coda. The franchise deserved better than a conclusion that explains too much and earns too little."
+    }
+  },
+  {
+    id: "eyes-wide-shut-1999",
+    title: "Eyes Wide Shut",
+    originalTitle: null,
+    romanization: null,
+    year: 1999,
+    tagline: "Cruise. Kidman. Kubrick.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/rwUXccna9yw4ajcZChvCOHYB3E0.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/frGnCgP7AR7jM63IwxFlOlrP5G7.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=yxqrzWe0Ggc",
+    director: [
+      {
+        name: "Stanley Kubrick",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Stanley Kubrick",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+      },
+      {
+        name: "Frederic Raphael",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wpiJkwEnKlZWX3VYRAuoMCMlQee.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Tom Cruise",
+        role: "Dr. William Harford",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg"
+      },
+      {
+        actor: "Nicole Kidman",
+        role: "Alice Harford",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+      },
+      {
+        actor: "Sydney Pollack",
+        role: "Victor Ziegler",
+        photoUrl: "https://image.tmdb.org/t/p/w185/l6Sq7iEakN4eCeMXyZuloc5VIJO.jpg"
+      },
+      {
+        actor: "Marie Richardson",
+        role: "Marion",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y2zq5XV66m5IKGkPbT5VZ8n0s23.jpg"
+      },
+      {
+        actor: "Rade Šerbedžija",
+        role: "Milich",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1mJC5oD3pLH1vAS3wJ4sGNxYeqJ.jpg"
+      },
+      {
+        actor: "Todd Field",
+        role: "Nick Nightingale",
+        photoUrl: "https://image.tmdb.org/t/p/w185/KR12bc20pVnlTr0wir8XuxW3Pt.jpg"
+      },
+      {
+        actor: "Vinessa Shaw",
+        role: "Domino",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qqSpAMH1lYMNxnHkDHB1JpNa086.jpg"
+      },
+      {
+        actor: "Alan Cumming",
+        role: "Desk Clerk",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o1h2UWAWhHwnNJk5OVlYcU6lt0B.jpg"
+      },
+      {
+        actor: "Sky du Mont",
+        role: "Sandor Szavost",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qUXzjY4LllmhMadbdOhzvFtllhR.jpg"
+      },
+      {
+        actor: "Fay Masterson",
+        role: "Sally",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gKG30bketELJ7d22KIbX62djSKc.jpg"
+      },
+      {
+        actor: "Leelee Sobieski",
+        role: "Milich\'s Daughter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gec4o10UZZFCtTGAtebcNR4g0PF.jpg"
+      },
+      {
+        actor: "Thomas Gibson",
+        role: "Carl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cnTJvFNtQW3HqlBSwkXAgvjXDi2.jpg"
+      },
+      {
+        actor: "Madison Eginton",
+        role: "Helena Harford",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uQX2ORvD7uaItio39VA5pk3UFMA.jpg"
+      },
+      {
+        actor: "Julienne Davis",
+        role: "Mandy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uSrNrF12ppMjAWTcL2tiTXdlJAf.jpg"
+      },
+      {
+        actor: "Jackie Sawiris",
+        role: "Roz",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lJXphS0mYi0mLNawsiz5iqjQGjH.jpg"
+      },
+      {
+        actor: "Leslie Lowe",
+        role: "Illona",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A4hsiT4UjweIfzmjCHMclYs1p8n.jpg"
+      },
+      {
+        actor: "Peter Hans Benson",
+        role: "Bandleader",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oSHUozsEBg8Znp1sCAGlAKyKGyE.jpg"
+      },
+      {
+        actor: "Stewart Thorndike",
+        role: "Nuala",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iy892xXXe9qqT6nFYDwBS3eTpY6.jpg"
+      },
+      {
+        actor: "Lisa Leone",
+        role: "Lisa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nFjnu5dJxM2sgPgJRf4OufXillM.jpg"
+      },
+      {
+        actor: "Togo Igawa",
+        role: "Japanese Man #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ceEgj3Ezbf07xWvb8CWh0MEhpTg.jpg"
+      },
+      {
+        actor: "Eiji Kusuhara",
+        role: "Japanese Man #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gUM68DSObZYMI1zEEoZcOlbv7Cb.jpg"
+      },
+      {
+        actor: "Sam Douglas",
+        role: "Cab Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rN7OQSs4k8xMLNnkiJKFGVWdp8m.jpg"
+      },
+      {
+        actor: "Angus MacInnes",
+        role: "Gateman #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ylhpfXbXZ5Hr1qV3WhhbjJstgGh.jpg"
+      },
+      {
+        actor: "Leon Vitali",
+        role: "Red Cloak",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6YHGAjJI0ra7F74UUZeSf5Qtcdd.jpg"
+      },
+      {
+        actor: "Carmela Marner",
+        role: "Waitress at Gillespie\'s",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cIqHOUf2X80qREOsQVnK3sWgj8I.jpg"
+      },
+      {
+        actor: "Cindy Dolenc",
+        role: "Girl at Sharky\'s",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ms71YknNRhr1GyrKfGPI8NOcxzF.jpg"
+      },
+      {
+        actor: "Treva Etienne",
+        role: "Morgue Orderly",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4fbALszVEROvVmlg04Z0aqQwGn7.jpg"
+      },
+      {
+        actor: "Tony De Sergio",
+        role: "Masked Party Principal",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aAhCj3zyTKDwXJFbjyPMj2CLD1d.jpg"
+      },
+      {
+        actor: "Lee Henshaw",
+        role: "Masked Party Principal",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hF2SSoXHNp8aUcBF1rIa4zb3yGc.jpg"
+      },
+      {
+        actor: "Cate Blanchett",
+        role: "Mysterious Woman (voice, uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+      },
+      {
+        actor: "Christiane Kubrick",
+        role: "Woman Behind Dr. Harford at Café Sonata (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vAMX00LJH0B38o5mCNCKn6DDdEI.jpg"
+      },
+      {
+        actor: "Stanley Kubrick",
+        role: "Man at Café Sonata (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Mystery", "Psychological", "Thriller"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "pervasive full female nudity",
+        "non-graphic ritualistic sexual content involving multiple participants",
+        "frank verbal descriptions of sexual fantasy and desire",
+        "a minor depicted in a sexually suggestive context",
+        "brief depiction of a nude corpse in a morgue",
+        "implied cocaine use at a private party",
+        "scenes of psychological menace and coercion"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:40" }
+    ],
+    awards: [
+      { body: "Golden Globe Awards (57th)", category: "Best Performance by an Actress in a Motion Picture – Drama", result: "Nominated", year: 2000 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["desire", "transgression", "fidelity", "privilege", "performance", "surveillance", "marriage", "complicity"],
+      mood: ["hypnotic", "unsettling", "suffocating"],
+      fullReview: "Dr. Bill Harford is a prosperous Manhattan physician with a beautiful wife, a comfortable apartment, and the kind of social ease that comes from never having been genuinely tested. One night, his wife Alice confesses a long-suppressed fantasy — an intense, years-old desire for a stranger she never acted upon but that has been living inside her regardless. That confession, delivered with quiet devastation by Nicole Kidman, sends Bill on a nightlong odyssey through the city: a journey toward sexual transgression that keeps swerving away from its destination, circling its own desire without ever quite consummating it, until he stumbles into something far beyond his comprehension — a masked orgy of extraordinary wealth and secrecy, presided over by figures whose power makes his own look decorative.\n\nThis was Stanley Kubrick\'s final film, completed just days before his death in March 1999, and it carries the quality of a last word delivered with full deliberation. What exactly is being said remains something the film refuses to settle, and that refusal is central to its design — the quality that divided critics on release and continues to divide them a quarter century later.\n\nThe Cruise question should be addressed plainly. For much of the film, Bill Harford is less a character giving a performance than a surface being moved through space. Cruise drifts — through party halls, rain-slicked streets, the ritual corridors of a country estate — and his particular quality of watchedness, of being observed rather than observing, serves the film\'s purposes more precisely than the initial critical response acknowledged. This is a story about a man who cannot see clearly, who mistakes professional standing and marital comfort for immunity. The vacancy Cruise projects is doing real work, even if it does not read as conventional acting of the demonstrative kind. Kidman, given far less screen time, does what she has always done best: she makes feeling visible without explaining it. Her monologue about the naval officer is the moral detonation from which everything else radiates. The film is not primarily about Bill\'s nocturnal wandering. It is about what that monologue exposes: the existence of a private interior life within a marriage, a self that cannot be fully shared and that both partners have been quietly pretending does not exist.\n\nLarry Smith\'s cinematography wraps everything in amber Christmas light — New York in December, gilded and somehow threatening. The warmth of the palette operates as a trap; the film keeps looking like a beautiful place to inhabit while behaving like one that intends to harm its protagonist. Jocelyn Pook\'s score provides the other essential layer of unease: reversed choral chanting, a piano figure that hovers between menace and liturgy, music that suggests a ceremony being conducted somewhere just off screen. The film smells of incense and dread.\n\nThe orgy sequence at Somerton, which scandalized one portion of audiences and bored another, is the film\'s most consistently misread scene. It is not meant to be erotic. It is cold, choreographed, ceremonial in its precision, designed to make viewers feel alongside Bill the particular chill of encountering a world that does not need to explain itself. Kubrick is describing power — the kind that wears robes and masks, that operates in spaces no password can fully unlock, that absorbs transgressions and then neutralizes the people who witnessed them. The threat that closes around Bill afterward is not paranoid fantasy. It is class reality rendered in velvet and candlelight.\n\nThe film\'s third act is its weakest section, and it is worth saying so directly. Sydney Pollack\'s long expository exchange with Cruise, laying out what has happened and how much danger Bill was actually in, tips the film toward explanation it might have trusted the audience to carry on its own. The dreamlike sovereignty Kubrick has maintained for nearly two hours gets partly dissolved by the impulse to account for things. It is the one moment where the film appears to doubt its own intelligence, or the intelligence of the people watching.\n\nWhat redeems the ending entirely is the final scene: Cruise and Kidman in a toy store, their daughter somewhere in the aisles, the conversation they have been circling for the entire film finally finding its shape. What she says is simple. What it costs both of them is not. Kubrick spent roughly two years shooting this film, kept his leads on set long enough that the production reportedly placed real strain on their off-screen marriage, and what that extraordinary investment produced was this: a meditation on the unbridgeable distance between the life two people perform together and the life each carries privately inside. The film does not resolve that distance. It names it with terrible precision, and then it stops. That is not a flaw. That is the point."
+    }
+  },
+  {
+    id: "flowers-of-shanghai-1998",
+    title: "Flowers of Shanghai",
+    originalTitle: "海上花",
+    romanization: "Hǎishàng Huā",
+    year: 1998,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/2TNzjQolmVSE3oWPxmTfBByyy2N.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/9N3TdNbr5pyT69M5cHODmfc4zTs.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/Anxhh4DeakufTyCdjpuVGF08Gpq.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=E8LkUCujLX4",
+    director: [
+      {
+        name: "Hou Hsiao-hsien",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rqP4CEO6toAwGhsj8mmdu3Bta6I.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Chu Tien-Wen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2h5iQTWNWI2IIifyaVY3oP2NVr1.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Tony Leung Chiu-wai",
+        role: "Wang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg"
+      },
+      {
+        actor: "Michiko Hada",
+        role: "Crimson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yegfjrPmdGZmPwx6RbmQeXDSOUx.jpg"
+      },
+      {
+        actor: "Carina Lau",
+        role: "Pearl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5Va4jk69gkdAcABtkTtcUz85RLA.jpg"
+      },
+      {
+        actor: "Michele Reis",
+        role: "Emerald",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ex1uxa2LjAoTZbJPzvzyljZuR2M.jpg"
+      },
+      {
+        actor: "Jack Kao",
+        role: "Luo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/i8YxYsAxMKAq6xUgMLS6sAxMCaM.jpg"
+      },
+      {
+        actor: "Rebecca Pan",
+        role: "Huang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fbFl1uGb5Uo2FPA5S5jvgGevHYE.jpg"
+      },
+      {
+        actor: "Annie Shizuka Inoh",
+        role: "Golden Flower",
+        photoUrl: "https://image.tmdb.org/t/p/w185/38ONKnYl24JoBeUqffSFPOUyHWs.jpg"
+      },
+      {
+        actor: "Vicky Wei",
+        role: "Jasmin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ljU5G7E1Z2k65tQMParpGmdmrAG.jpg"
+      },
+      {
+        actor: "Hsu Ming",
+        role: "Tao",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n0IzMb2rCm5m0fnYEjYNSPnJnbE.jpg"
+      },
+      {
+        actor: "Moon Wang",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/srxxYIuYzNSh9luNsKJtlOoCP6L.jpg"
+      }
+    ],
+    languages: ["Shanghainese", "Cantonese", "Mandarin"],
+    genres: ["Drama", "Period", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "opium smoking depicted as routine throughout",
+        "implied sexual servitude and transactional intimacy",
+        "emotional coercion and manipulation within power imbalances",
+        "a woman\'s suicide conveyed off-screen",
+        "depictions of debt bondage and economic captivity"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:53" }
+    ],
+    awards: [
+      { body: "Golden Horse Awards (35th)", category: "Best Cinematography", result: "Won", year: 1998 },
+      { body: "Cannes Film Festival (51st)", category: "Palme d\'Or", result: "Nominated", year: 1998 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["captivity", "desire", "concealment", "transaction", "servitude", "longing", "performance", "decay"],
+      mood: ["elegiac", "airless", "languorous"],
+      fullReview: "Flowers of Shanghai takes place almost entirely within the shuttered, candlelit rooms of a handful of courtesans\' establishments in 1880s Shanghai — flower houses, as the film calls them — during the city\'s period of foreign concession. Men of standing arrive for dinner, for opium, for mahjong, and for the company of women who are simultaneously companions, creditors, and captives. The film follows several of these pairings across an indeterminate stretch of time, and what passes between the people in these rooms constitutes, without ever announcing itself as such, one of the most precise examinations of enclosed power ever put on screen.\n\nHou Hsiao-hsien built the entire film on a single soundstage in Taiwan. This is not a detail — it is the film\'s governing condition. The flower houses are a closed universe with their own protocols, their own currency of obligation, their own slow violence. Nobody escapes. The camera occupies a fixed position in each scene, breathing almost imperceptibly as time accumulates, and soft fade-outs divide the film into episodes like the quiet closing of lacquered doors. There is no exterior world in Flowers of Shanghai. The outside exists only as rumor.\n\nMark Lee Ping-Bing shot the film using practical oil lamps and candles as primary illumination, and the result is one of the most technically demanding and visually irreplaceable pieces of cinematography in world cinema. The amber warmth of the image is not beautiful in any decorative sense — it is the light of enclosure, the light of rooms that do not want to be seen from outside. To watch the film in its restored form is to feel that warmth as a kind of pressure on the chest.\n\nTony Leung Chiu-wai plays Wang, a habitual patron divided in his attachments between the courtesans Pearl and Crimson, and he gives the kind of performance that Hou consistently extracts from his actors: everything suppressed, the face a controlled surface through which meaning seeps at the edges. Carina Lau as Pearl delivers wounded pride and barbed elegance in roughly equal measure. Michiko Hada as Crimson is the film\'s most quietly devastating figure — a woman whose particular form of subjugation clarifies itself slowly over many scenes, never named, never announced, made visible only through accumulated detail.\n\nHou made the historically exact choice to shoot the film in Shanghainese dialect. Most of the cast, drawn from Hong Kong, Taiwan, and Japan, learned the dialogue phonetically. The effect is remarkable: even the intimacy in these rooms is constructed, performed, borrowed. The characters speak a language that is, for many of them, not quite their own, and this layer of displacement deepens every exchange. Nothing in the film is entirely natural. Everything is arrangement.\n\nWhat Hou is examining is not the fate of individual women but the self-sustaining logic of a system — how a world built on dependency and desire reproduces itself through ceremony and the slow accumulation of debts that can never be fully settled. No speech is given about exploitation. No character confides its injustice to another. The film simply watches, with the patience of someone who has lived inside these rooms long enough to understand how they work, and allows the structure of these lives to make its own case.\n\nThe rhythm will not accommodate viewers who arrive expecting conventional narrative motion. There is no plot as such — there are situations that deepen with the slowness of actual time. The film runs under two hours but has the texture of something much longer, which is precisely what it is going for. Anyone who surrenders to its terms will find, somewhere around the midpoint, that they have stopped watching a film and started breathing its air. That is a rare thing. Flowers of Shanghai achieves it with an ease that makes the achievement all the more difficult to explain."
+    }
+  },
+  {
+    id: "la-promesse-1996",
+    title: "La Promesse",
+    originalTitle: null,
+    romanization: null,
+    year: 1996,
+    tagline: null,
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/vQav1hJv54PXEAmQzFi32Za85DV.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/1B5aXOwtCGicwd2gEiH45flqtrW.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=OsOi17HJZ5k",
+    director: [
+      {
+        name: "Jean-Pierre Dardenne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n5BqsP6h3VtweQAFfQz2qtd5khq.jpg"
+      },
+      {
+        name: "Luc Dardenne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hfnvLjmLKQyx1ftkuC6hhHwoTtM.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Jean-Pierre Dardenne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n5BqsP6h3VtweQAFfQz2qtd5khq.jpg"
+      },
+      {
+        name: "Luc Dardenne",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hfnvLjmLKQyx1ftkuC6hhHwoTtM.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Jérémie Renier",
+        role: "Igor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3oBBshsyiBEh4PkR9YDMCl3iyp1.jpg"
+      },
+      {
+        actor: "Olivier Gourmet",
+        role: "Roger",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tmvSqnbTfyXyB3fgAAFLfEJDQql.jpg"
+      },
+      {
+        actor: "Florian Delain",
+        role: "Riri",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2d6MwQN2mLxbjLGYHOcXLGnrAGQ.jpg"
+      },
+      {
+        actor: "Rasmané Ouédraogo",
+        role: "Amidou",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ty3dpL5HsaFcWE1py8szIEXoL4A.jpg"
+      },
+      {
+        actor: "Jean-Michel Balthazar",
+        role: "The Labour Inspector",
+        photoUrl: "https://image.tmdb.org/t/p/w185/CqT2kvWG3vp3S1IpkQhbZemTV4.jpg"
+      },
+      {
+        actor: "Frédéric Bodson",
+        role: "The Garage Boss",
+        photoUrl: "https://image.tmdb.org/t/p/w185/w9WHYUYnoVgWmO3FDSAf7fugwqo.jpg"
+      },
+      {
+        actor: "Alain Holtgen",
+        role: "The Postman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rzDZGS2s7LmMQoVQirdcGgdxdpb.jpg"
+      },
+      {
+        actor: "Sophia Leboutte",
+        role: "Maria",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dS1m2PraxBExwGlfPVyOLx204O4.jpg"
+      },
+      {
+        actor: "Norbert Rutili",
+        role: "The Jeweler",
+        photoUrl: "https://image.tmdb.org/t/p/w185/enj8L8WI8z5s7zDBAeLAFXNdFB2.jpg"
+      }
+    ],
+    languages: ["French", "Romanian"],
+    genres: ["Drama", "Crime"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "a man falls from scaffolding and dies while a child watches",
+        "covert burial of a body to conceal a workplace death",
+        "systematic exploitation of undocumented migrant workers",
+        "alcohol and cigarette use by a fifteen-year-old",
+        "brief physical violence between adult and adolescent"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:34" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (49th)", category: "FIPRESCI Prize – Directors\' Fortnight", result: "Won", year: 1996 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["conscience", "complicity", "betrayal", "fatherhood", "exploitation", "loyalty", "awakening", "migration"],
+      mood: ["terse", "urgent", "bleak"],
+      fullReview: "Igor is fifteen. His father Roger runs a small criminal enterprise out of the working-class outskirts of Liège — smuggling undocumented migrants into Belgium, housing them in squalid conditions, skimming their wages, and charming the authorities when questions arise. Igor is being trained into this life with the practiced ease of a tradesman passing on craft. He lies fluently, spots opportunity instinctively, and loves his father the way boys love men who need them. Then a Burkinabé worker named Amidou falls from scaffolding on one of Roger\'s sites. As he dies, he asks Igor to promise to care for his wife Assita and their infant son. Igor promises. Roger wants to bury the body and move on. The film is what happens next.\n\nJean-Pierre and Luc Dardenne had spent years making documentaries before La Promesse. The skills they brought from that world — the handheld intimacy, the unadorned observation, the refusal of music and conventional dramatic signposting — shaped not just this film but everything that followed. The camera follows Igor at shoulder height through scrapyards, concrete stairwells, and foggy construction sites, keeping just close enough to prevent escape. There is nowhere to stand outside what is happening. The audience is placed where Igor is placed: inside the problem, without distance.\n\nJérémie Renier was sixteen during filming and gives a performance that is genuinely difficult to evaluate because it barely reads as performance at all. He is this boy — the small fluent deceits, the dawning private horror, the physical awkwardness of carrying a moral weight his body has not grown into yet. Olivier Gourmet as Roger is the film\'s most unsettling achievement. He is not monstrous. He is cheerful, practical, affectionate with his son, and entirely without visible remorse. He has found a logic for what he does and lives inside it the way a person lives inside a house — comfortably, without examining the foundations. The dynamic between father and son is what makes La Promesse devastating. This is a film about how a boy separates from the man who made him, and the cost of that separation is not presented as liberating or heroic. It is simply costly.\n\nAssita Ouedraogo, cast from outside the professional acting world, brings something irreplaceable to the film\'s center. She is not a figure of pathos installed for the audience to pity. She is a woman with her own suspicions, her own grief, her own standards for what counts as trustworthy. She does not make it easy for Igor, and the film refuses to make it easy for the viewer either. Her resistance to being saved — or to believing she is being saved — keeps the moral transaction between her and Igor genuinely uncomfortable.\n\nThe Dardennes do not make films about issues. They make films about specific acts: whether this particular boy keeps this particular promise, whether this particular man chooses concealment over what he knows is right. The exploitation of undocumented migrants saturates every scene but the film never stops to explain it, never frames it as backdrop for a message. The social reality is the water these characters swim in, and the camera simply records what people do when the water is this cold.\n\nAt ninety-four minutes, nothing is wasted. The editing is surgical — scenes cut at the moment of maximum pressure, not the moment of resolution. The ending arrives abruptly, as real moral decisions do, and the film stops rather than concludes. What Igor has done by the final frame is irrevocable, and the Dardennes trust the audience to understand what irreversibility means without assistance.\n\nRosetta would win the Palme d\'Or three years later and establish the brothers as the defining moral filmmakers of their generation. La Promesse is where they became themselves. Anyone encountering their work for the first time could start here and understand everything that followed."
+    }
+  },
+  {
+    id: "safe-1995",
+    title: "Safe",
+    originalTitle: null,
+    romanization: null,
+    year: 1995,
+    tagline: "In the 21st century nobody will be… Safe.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/rbcGXJ97oBQU09okbOChu3f8EE7.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/2O71QsBkbqdLqQdx2yuNpJ4pFPq.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/p8O3WhMWumLrLp21BRW80kBND4d.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Qe_UmLAFuHE",
+    director: [
+      {
+        name: "Todd Haynes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wBDazO2j49uoquoHTEDxcniyGGC.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Todd Haynes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wBDazO2j49uoquoHTEDxcniyGGC.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Julianne Moore",
+        role: "Carol",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
+      },
+      {
+        actor: "Xander Berkeley",
+        role: "Greg",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+      },
+      {
+        actor: "Peter Friedman",
+        role: "Peter Dunning",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3pyU0yQsRIqSZw1fYapFRXJ3EHp.jpg"
+      },
+      {
+        actor: "James Le Gros",
+        role: "Chris",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+      },
+      {
+        actor: "Dean Norris",
+        role: "Mover",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+      },
+      {
+        actor: "Ronnie Farer",
+        role: "Barbara",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7kCq14PdMitivVZH10yjF9Ipy5M.jpg"
+      },
+      {
+        actor: "Jodie Markell",
+        role: "Anita",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dY2wPQTp6w2uJi0gMbBtGUO5TAA.jpg"
+      },
+      {
+        actor: "Susan Norman",
+        role: "Linda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fVMUdfpvSyCBbI0i70ThoXkrYj2.jpg"
+      },
+      {
+        actor: "Jessica Harper",
+        role: "Joyce",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sSTbKuf4bY83cSRx9lmVdGobcsg.jpg"
+      },
+      {
+        actor: "Martha Velez",
+        role: "Fulvia",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zwKhBdFwIDYit90BEVyWCp3lHsQ.jpg"
+      },
+      {
+        actor: "Chauncey Leopardi",
+        role: "Rory",
+        photoUrl: "https://image.tmdb.org/t/p/w185/RgVx7mU1Kl8xl5TttQRC9E9Oui.jpg"
+      },
+      {
+        actor: "Allan Wasserman",
+        role: "Client",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fBSYfhUHNBA82GQICMj9iYwqdQ9.jpg"
+      },
+      {
+        actor: "Jean St. James",
+        role: "Client\'s Wife",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8af0uTJHkkVVC4oFC6bNZsxLgfO.jpg"
+      },
+      {
+        actor: "Janel Moloney",
+        role: "Hairdresser",
+        photoUrl: "https://image.tmdb.org/t/p/w185/buqdVJTYlomwaVxkTFev53DeV3D.jpg"
+      },
+      {
+        actor: "John Apicella",
+        role: "Psychiatrist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wd9kjtxZu1cP66bdEuAQPpfwX4M.jpg"
+      },
+      {
+        actor: "Peter Crombie",
+        role: "Dr. Reynolds",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pMvhE1wwQo3eTSp4vwq8Hb22CwN.jpg"
+      },
+      {
+        actor: "Sarah Scott Davis",
+        role: "Sarah",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jbGKqzAzgAhoXZfbhptt9bMrvDZ.jpg"
+      },
+      {
+        actor: "Beth Grant",
+        role: "Becky",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+      },
+      {
+        actor: "Edith Meeks",
+        role: "Patient No. 1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1NY8mJVwlIDUiEFWACcYGWPfAG5.jpg"
+      },
+      {
+        actor: "Francesca P. Roberts",
+        role: "Patient No. 2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qBTQkbpsfREZ4hsenhHh0ov2JcG.jpg"
+      },
+      {
+        actor: "Lorna Scott",
+        role: "Marilyn",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cBlU9Pa9LWWPf2JRELGsY0PJ5Il.jpg"
+      },
+      {
+        actor: "Kate McGregor-Stewart",
+        role: "Claire",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vsvdAmMZgX85AvnVFd4jigOUipZ.jpg"
+      },
+      {
+        actor: "James Lyons",
+        role: "Cab Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eYepgw281zZrf4OTOXdnMS8cabh.jpg"
+      },
+      {
+        actor: "Mary Carver",
+        role: "Nell",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fLZ3lQp7z5tQ67TJ4B2DQ9fcmMt.jpg"
+      },
+      {
+        actor: "April Grace",
+        role: "Susan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nV8nnymN0ClT3xppwhlAtUnjSxa.jpg"
+      },
+      {
+        actor: "Rio Hackford",
+        role: "Lester",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lzRk0FsLIJU8pNHhAlF5jijcdJr.jpg"
+      },
+      {
+        actor: "Brandon Cruz",
+        role: "Steve",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rGGeIk5JS0lAvdjPk3BVkXKeOfY.jpg"
+      }
+    ],
+    languages: ["English", "Spanish"],
+    genres: ["Drama", "Psychological", "Horror"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "clinical depictions of unexplained physical illness including respiratory distress and seizure",
+        "a person\'s sense of self visibly eroded over the course of the narrative",
+        "psychological manipulation within a wellness retreat depicted as normalized",
+        "scenes of prolonged physical deterioration and bodily vulnerability",
+        "mild language"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:59" }
+    ],
+    awards: [
+      { body: "Independent Spirit Awards (11th)", category: "Best Female Lead", result: "Nominated", year: 1996 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["alienation", "dissolution", "consumption", "conformity", "compliance", "selfhood", "environment", "illness"],
+      mood: ["disquieting", "clinical", "sparse"],
+      fullReview: "The opening scene of Safe is a lateral tracking shot of a car moving through a residential canyon in Los Angeles at night, headlights cutting through darkness, the interior visible but the occupants opaque. It runs considerably longer than it needs to if all it is doing is establishing location. It is not establishing location. It is establishing a principle: this film will observe, at distance, and it will not explain itself.\n\nCarol White (Julianne Moore) is a San Fernando Valley housewife in 1987 whose life has been assembled with the precision of a showroom. The colors coordinate. The furniture is appropriate. She attends aerobics, lunches with friends, oversees the redecoration of her living room. There is a husband, a stepson, a housekeeper, a social calendar. Then Carol starts getting sick. A coughing fit in a dry cleaning shop. A nosebleed. A seizure at a baby shower. The doctors find nothing. Eventually she encounters a pamphlet that names what she has: environmental illness, the body turning against the twentieth century. She finds her way to Wrenwood, a New Mexico wellness retreat whose guru speaks in the language of radical self-responsibility. The film watches what happens there.\n\nTodd Haynes shot Safe with a formal coldness that refuses the conventions of audience sympathy. The camera positions Carol repeatedly at the center of wide, static compositions — a small figure inside large, clean spaces, the décor pressing in from every angle. The distance is not aesthetic indifference. It is the film\'s argument made visual: Carol has been arranged within her environment the way the furniture has been arranged, and the camera treats her accordingly. Ed Tomney\'s near-absent score leaves long stretches of room tone and ambient sound, which turns the ordinary noises of domestic life — refrigerators, traffic, the murmur of a party — into something faintly threatening.\n\nJulianne Moore\'s performance is among the finest in American film of the past fifty years, and the reason it is so difficult to describe is that its method is subtraction. Carol begins the film with almost no legible interior — not because Moore is withholding, but because the character genuinely has very little of her own to offer. What she possesses has been furnished entirely by her surroundings. Watching Moore locate and then progressively remove even those borrowed qualities, scene by scene, until the final image of the film — which is the most precise closing statement Haynes could have written — constitutes an act of cinematic intelligence that cannot be reduced to technique.\n\nThe film works simultaneously on two frequencies, and neither cancels the other out. On one frequency it is social criticism: of the upper-middle-class Los Angeles lifestyle that has evacuated Carol\'s personhood before the illness arrives to finish the job; of the wellness retreat that promises liberation through self-blame; of the structural parallel between the marriage she retreats from and the community she retreats into, which turns out to require the same vacancy of self. On the other frequency it is genuinely a horror film — not in the genre-marketing sense, but in the oldest sense of the word. Carol\'s body is under attack by invisible forces. Her defenses keep failing. The sources of danger are environmental, systemic, impossible to escape because they are everywhere. Haynes never chooses between these readings. He builds a film that holds both without flinching.\n\nThere is no villain. This is the detail that makes Safe so resistant to comfort. Roger in La Promesse chose his corruption. Victor Ziegler made decisions. The forces that unmake Carol are diffuse, institutional, woven into the fabric of normal life. The aerobics class, the furniture delivery, the garden party — all of it participates. Because there is no one to confront and no confrontation to resolve, the film offers no catharsis. It simply watches Carol get smaller inside ever-larger frames until, at the end, she is almost not there at all.\n\nSafe was made for roughly one million dollars and has since been placed by serious critics on lists of the greatest American films ever made. That is the correct assessment."
+    }
+  },
+  {
+    id: "through-the-olive-trees-1994",
+    title: "Through the Olive Trees",
+    originalTitle: "زیر درختان زیتون",
+    romanization: "Zir-e Darakhtan-e Zeyton",
+    year: 1994,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/s0ZXdiKek9fCGQhe857voIUS8Gw.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/xcwCF0YTyAOMrVLgXHjvPP0gGbh.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/4BIIX7qiKYYJSm4cWTB2dHfCwZE.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=T4Ue-t2XKnU",
+    director: [
+      {
+        name: "Abbas Kiarostami",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Abbas Kiarostami",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg"
+      },
+      {
+        name: "Hengameh Panahi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eIhIl82BxkF76eNp7oDg8FTrVQt.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Mohammadali Keshavarz",
+        role: "Film Director",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3VVvMDNcu8iKonmvSWP4VV79qZh.jpg"
+      },
+      {
+        actor: "Kheda Barech Defai",
+        role: "Teacher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1aXIPt4h437zCfqjNHeKhDTuF8h.jpg"
+      },
+      {
+        actor: "Ahmed Ahmadpour",
+        role: "Self",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uxQwlReRXb6FoPpp6ZKT52bQ13E.jpg"
+      },
+      {
+        actor: "Babek Ahmadpour",
+        role: "Self",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pDFmXOc9JNco76HNnT9x3XiEzDL.jpg"
+      },
+      {
+        actor: "Jafar Panahi",
+        role: "Self",
+        photoUrl: "https://image.tmdb.org/t/p/w185/viZZkkfcuWze68bvUiMZmYZe8Qg.jpg"
+      },
+      {
+        actor: "Abbas Kiarostami",
+        role: "Self",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg"
+      }
+    ],
+    languages: ["Persian"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "references to mass casualties and community loss following natural disaster",
+        "emotionally persistent romantic pursuit met with sustained silence",
+        "mild class-based social tension"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:44" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (47th)", category: "Palme d'Or", result: "Nominated", year: 1994 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["persistence", "longing", "class", "reconstruction", "authenticity", "performance", "silence"],
+      mood: ["meditative", "tender", "wistful"],
+      fullReview: "The third film in Abbas Kiarostami\'s Koker Trilogy arrives wearing the clothes of documentary before quietly revealing itself as something stranger and more moving. Set in the earthquake-devastated villages of northern Iran, it follows a film crew — shooting scenes from the previous trilogy entry — as they navigate the complications of casting non-professional locals. When the planned actor withdraws, a young bricklayer named Hossein is given the part. His co-star is Tahereh, a woman from a more educated family who has refused his marriage proposals and refuses, still, to speak to him. The film shoot becomes the only arena in which he is permitted to be near her.\n\nWhat Kiarostami has constructed here is a set of nested realities so precisely calibrated that the seams between them generate their own meaning. A director plays a director. Actors play themselves playing fictional versions of real people the audience may have met in earlier films. Love scenes are rehearsed between two people whose actual relationship to each other charges every repeated take with something the scripted words could never contain. The meta-textual architecture is not a game or a provocation — it is Kiarostami\'s argument that this is simply how life operates. Fiction and reality do not sit apart from each other. They are always bleeding, always in each other\'s business.\n\nHossein Rezai carries the film on the back of his extraordinary ordinariness. There is nothing actorly about what he does. He talks — constantly, earnestly, sometimes clumsily — because talking is the only tool he has. He narrates his own situation with a kind of helpless self-awareness that makes him simultaneously hard to watch and impossible to look away from. His persistence is not romantic in the cinematic sense. It is something more uncomfortable than that: the behaviour of a man who has decided, rationally and without delusion, that this woman is the one he wants and that he will keep asking until she either agrees or explicitly closes the door. Against him, Tahereh\'s absolute silence is not passive. It is its own form of eloquence — a position held, a decision already made, communicated through the refusal to communicate.\n\nThe class dimension running beneath the love story is handled with the same restraint Kiarostami applies to everything. Tahereh\'s family will not consider Hossein because he is illiterate, because he has no house, because the earthquake levelled whatever standing he had. The film neither condemns this calculus nor endorses it. It simply shows how love and social reality occupy the same landscape and how rarely they are permitted to speak directly to each other.\n\nKiarostami shoots the terraced hills and olive groves of northern Iran with a patience that feels almost agricultural — as though the camera too is waiting for something to grow. Long takes, distant framings, the windshield of a moving car used as a kind of second proscenium. The landscape is neither backdrop nor metaphor. It is evidence. This is where people actually live, where the earthquake actually happened, where this particular longing has actually taken root.\n\nThe film closes on a sequence that has no dialogue, no close-ups, and no conventional dramatic punctuation — just distance and movement and a question the frame refuses to answer. It is not a trick ending. It is a refusal to pretend that Kiarostami, or anyone, knows what happens next when two people walk away from each other across a field. The audience does not know either. The uncertainty is the point.\n\nNot the most formally audacious film in the Koker trilogy — Close-Up, made between the first and second entries, remains the more startling achievement — but Through the Olive Trees may be the warmest. It is a film made by someone who genuinely likes people, even when they are stubborn and unrealistic and in love with entirely the wrong person at entirely the wrong time. Which, given the landscape and the circumstances, includes nearly everyone in it."
+    }
+  },
+  {
+    id: "naked-1993",
+    title: "Naked",
+    originalTitle: null,
+    romanization: null,
+    year: 1993,
+    tagline: "When unbalance leads to submission",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/zUCfhVDxLjF8xkMaaYpNfj9obTW.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/94hCsqoMbEyT1MBB98ChoSBF8pF.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/uIh3mW3AuSM7ww7NYtvSWDQ1zc7.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=TdKPbyvS0qc",
+    director: [
+      {
+        name: "Mike Leigh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vicxsud2ejTWcG8u5bU3aiX0ief.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Mike Leigh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vicxsud2ejTWcG8u5bU3aiX0ief.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "David Thewlis",
+        role: "Johnny",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sNuYyT8ocLlQr3TdAW9CoKVbCU8.jpg"
+      },
+      {
+        actor: "Lesley Sharp",
+        role: "Louise",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oujHtdmwMCyppe9b7QHWJeNFN7i.jpg"
+      },
+      {
+        actor: "Katrin Cartlidge",
+        role: "Sophie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cAG4WHKsLV2g08hnuZncy94HGOK.jpg"
+      },
+      {
+        actor: "Greg Cruttwell",
+        role: "Jeremy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qgoBvIrI0QdUa8fmC1LPNHUBkSh.jpg"
+      },
+      {
+        actor: "Claire Skinner",
+        role: "Sandra",
+        photoUrl: "https://image.tmdb.org/t/p/w185/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg"
+      },
+      {
+        actor: "Peter Wight",
+        role: "Brian",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wE77RhCuPoE45LrqEfZuAg0KIIp.jpg"
+      },
+      {
+        actor: "Ewen Bremner",
+        role: "Archie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+      },
+      {
+        actor: "Susan Vidler",
+        role: "Maggie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AhTD7RyJu7rA2pN0h5gMl7xp5CK.jpg"
+      },
+      {
+        actor: "Gina McKee",
+        role: "Cafe Girl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rHL7GGeFZ2x9PbFL2P3hVkLfvAS.jpg"
+      },
+      {
+        actor: "Elizabeth Berrington",
+        role: "Giselle",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wFz71bIKTlQoa8v1s243TIh5wUm.jpg"
+      },
+      {
+        actor: "Robert Putt",
+        role: "Chauffeur",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sfmTMHjjeRhgnOhSsN7mUiQWXWt.jpg"
+      },
+      {
+        actor: "Angela Curran",
+        role: "Car Owner",
+        photoUrl: "https://image.tmdb.org/t/p/w185/AqFDvbVtDQYojX0ndD7vHi1gql3.jpg"
+      },
+      {
+        actor: "Peter Whitman",
+        role: "Mr Halpern",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bRgbqjE8jhEpUCj2nW0nEXbbvyi.jpg"
+      },
+      {
+        actor: "Toby Jones",
+        role: "Man at Tea Bar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y6kLmjLgZ1sceaE4Zi1fwF0YsvZ.jpg"
+      },
+      {
+        actor: "Sandra Voe",
+        role: "Bag Lady",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pIHuQOcK7FjepXNGM4Ze49yuPAr.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Dark", "Psychological"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "sexual assault depicted with clear intent though without prolonged graphic detail",
+        "predatory sexual behaviour and verbal sexual intimidation directed at women",
+        "pervasive strong language throughout",
+        "non-consensual sexual encounter",
+        "physical violence including assault",
+        "depictions of rough sleeping and destitution",
+        "psychological self-destruction and nihilistic worldview",
+        "brief nudity"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:11" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (46th)", category: "Best Director", result: "Won", year: 1993 },
+      { body: "Cannes Film Festival (46th)", category: "Best Actor (David Thewlis)", result: "Won", year: 1993 },
+      { body: "Evening Standard British Film Awards", category: "Best Film", result: "Won", year: 1994 },
+      { body: "Evening Standard British Film Awards", category: "Best Actor (David Thewlis)", result: "Won", year: 1994 },
+      { body: "New York Film Critics Circle", category: "Best Actor (David Thewlis)", result: "Won", year: 1993 },
+      { body: "Los Angeles Film Critics Association", category: "Best Actor (David Thewlis)", result: "Won", year: 1993 },
+      { body: "National Society of Film Critics", category: "Best Film", result: "Won", year: 1994 },
+      { body: "National Society of Film Critics", category: "Best Actor (David Thewlis)", result: "Won", year: 1994 },
+      { body: "National Society of Film Critics", category: "Best Director", result: "Won", year: 1994 },
+      { body: "Cannes Film Festival (46th)", category: "Palme d\'Or", result: "Nominated", year: 1993 },
+      { body: "BAFTA Film Awards (47th)", category: "Best British Film", result: "Nominated", year: 1994 },
+      { body: "BAFTA Film Awards (47th)", category: "Best Actor in a Leading Role (David Thewlis)", result: "Nominated", year: 1994 },
+      { body: "BAFTA Film Awards (47th)", category: "Best Original Screenplay", result: "Nominated", year: 1994 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["alienation", "nihilism", "misogyny", "rage", "homelessness", "intellectualism", "predation", "displacement"],
+      mood: ["corrosive", "febrile", "unsettling"],
+      fullReview: "Naked announces itself in its opening thirty seconds with a scene of such unmediated ugliness that the audience immediately understands the contract being offered — and understands that declining it is an option. Johnny, an unemployed Mancunian played by David Thewlis in one of the most total screen performances the decade produced, arrives in London not as a man seeking redemption or even escape but as something closer to a weather system: destructive in its passage, impersonal in its damage, and possessed of a strange violent beauty when observed from the right distance. He shows up at the flat of a former girlfriend, Louise, who is out. Her flatmate Sophie lets him in. Neither of them will quite be the same afterward.\n\nMike Leigh built the film through his characteristic months-long workshop process, with Thewlis developing Johnny through sustained improvisation before any finished dialogue existed. The result does not feel crafted. It feels discovered — as though Leigh and his camera simply followed a man who was already living somewhere and filmed what he did. Johnny talks the way some people breathe: compulsively, without apparent destination, yet with an underlying pressure suggesting he is fleeing something he cannot identify and would not stop for even if he could. His monologues drift from apocalyptic scripture to thermodynamics to the granular sociology of Northern English masculinity, and the extraordinary quality of the performance is that every sentence sounds as though it arrived in the moment even though not a syllable of it did. The distance between character and actor has been closed so completely that looking for the seam becomes pointless.\n\nThe film operates as a nocturnal picaresque. Johnny drifts through London after dark, accumulating brief, intense encounters — a night security guard in an empty office building, a young Scottish woman living rough, a man obsessively flyposting the city at 3am — and Leigh films these collisions with a clinical patience that refuses to glamourise or aestheticise the poverty and wreckage on display. Dick Pope\'s cinematography keeps everything slightly too dim, slightly too close, so that the city feels less like a backdrop than a diagnosis.\n\nWhat gives Naked its genuine moral weight — and its genuine difficulty — is that Leigh refuses to separate Johnny\'s destructiveness from his intelligence. He treats women with a casual, sometimes brutal disregard that the film never endorses and never softens. He is also, at intervals, the most alive person in any room he occupies: funny with the precision of someone who has weaponised wit, perceptive in ways that cost him nothing to deploy, capable of unexpected tenderness that arrives and vanishes before the audience can process what just happened. The film will not let anyone settle into the comfort of a clean verdict on him, and that refusal to adjudicate is its central and most uncomfortable act.\n\nRunning parallel is the Jeremy subplot — a wealthy predator who moves through the same flat and the same women with a different register of cruelty. Jeremy functions as a class counterpoint, demonstrating that the violence Johnny embodies is not a pathology of the dispossessed alone. But Jeremy is a more broadly drawn creation, operating at a satirical temperature that sits slightly uneasily against the rawer texture of the main film. The tonal gap is real and worth noting, even if the thematic logic holds.\n\nLesley Sharp and Katrin Cartlidge, as Louise and Sophie, are not given easy or sympathetic roles. They are drawn with the same unflinching attention Leigh brings to Johnny, and what both actors find inside these women — their accommodation of behaviour that should be intolerable, their capacity to be genuinely interested in a man who treats them badly — is not weakness and not stupidity. It is something the film declines to name neatly, which is the correct decision.\n\nAt 131 minutes, the film earns its length in a way that fewer long films do. The wandering is the structure, because Johnny has no destination and cannot be made to have one without betraying everything the film understands about him. The ending does not resolve anything. It offers instead a final image — a man moving, or not moving, against a specific piece of grey English geography — that has stayed with viewers for thirty years precisely because the question it asks has no answer the film is willing to provide.\n\nNaked is not watchable in the sense of comfortable or pleasurable. It is watchable in the only sense that finally matters: once started, it is almost impossible to stop, and once finished, it is almost impossible to dismiss. Anyone who comes out of it unchanged either was not paying attention or recognised something in it that was too close for comfort and chose, reasonably, to look away."
+    }
+  },
+  {
+    id: "my-own-private-idaho-1991",
+    title: "My Own Private Idaho",
+    originalTitle: null,
+    romanization: null,
+    year: 1991,
+    tagline: "Wherever, whatever, have a nice day.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/49C04gZRDNooTi88EfCZaHC9vnt.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/p9E6Wp6RaqxH1ORy4mNL9Jgas48.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/stSaFz5CtMXwIj3r4MDjqxqWRot.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=t2Xnv2nV0lI",
+    director: [
+      {
+        name: "Gus Van Sant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Gus Van Sant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "River Phoenix",
+        role: "Mike Waters",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m6fAk9U6ws76aWCBanu2cj2Lgh0.jpg"
+      },
+      {
+        actor: "Keanu Reeves",
+        role: "Scott Favor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kEoUZKEG7dzbCESDjd0CKAN1r0n.jpg"
+      },
+      {
+        actor: "James Russo",
+        role: "Richard Waters",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nubhNb5OUkzsrndD1BNqzp7MGyo.jpg"
+      },
+      {
+        actor: "William Richert",
+        role: "Bob Pigeon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c7OLmySPTx7UO17ua1upOMnhbeN.jpg"
+      },
+      {
+        actor: "Rodney Harvey",
+        role: "Gary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yrWpKvK2DuyUFfw7brQgMz3W0Aj.jpg"
+      },
+      {
+        actor: "Chiara Caselli",
+        role: "Carmella",
+        photoUrl: "https://image.tmdb.org/t/p/w185/c3W1yk9YtYgVQtsPYQKPWvz5sIs.jpg"
+      },
+      {
+        actor: "Jessica Makinson",
+        role: "Denise",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zX9ptpDjuBmG4Q2eALUxbabqbTa.jpg"
+      },
+      {
+        actor: "Flea",
+        role: "Budd",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nGQE7xf4YJeqO0a4lpFebhwI7R9.jpg"
+      },
+      {
+        actor: "Grace Zabriskie",
+        role: "Alena",
+        photoUrl: "https://image.tmdb.org/t/p/w185/19tr5IbzCmv4x5B3WFlG1RQPwXu.jpg"
+      },
+      {
+        actor: "Tom Troupe",
+        role: "Jack Favor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/duvwKJO6nwRwFdAZpY9kMBdlFvN.jpg"
+      },
+      {
+        actor: "Udo Kier",
+        role: "Hans",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+      },
+      {
+        actor: "Mickey Cottrell",
+        role: "Daddy Carroll",
+        photoUrl: "https://image.tmdb.org/t/p/w185/p9qp6XcXXCgidPxI5tr7T3wANEH.jpg"
+      },
+      {
+        actor: "Scott Patrick Green",
+        role: "Coverboy / Cafe Kid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fcJMNiv7cu5AcI8Gl3JCODlj7CC.jpg"
+      },
+      {
+        actor: "Vana O\'Brien",
+        role: "Sharon Waters",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qoHOtecdpGcP4o4V9DJP2RCW3Jq.jpg"
+      },
+      {
+        actor: "Shaun Jordan",
+        role: "Cafe Kid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nhFq1WzZdZRODgBemM7VBoWSNaW.jpg"
+      },
+      {
+        actor: "Jim Caviezel",
+        role: "Airline Clerk",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yGlRIu6aEbet2QnpKIESfD0zMGf.jpg"
+      },
+      {
+        actor: "Pao Pei Andreoli",
+        role: "Italian Street Boy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jT8q6FYM1wxfbgNP829hd1oo1dR.jpg"
+      },
+      {
+        actor: "Eric Hull",
+        role: "Mayor\'s Aid",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yz6Y98Vc2SuZAUwjh6CMi70PIpw.jpg"
+      },
+      {
+        actor: "Gus Van Sant",
+        role: "Man Behind Hotel Counter",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kICHgrSh4eiICjz8piy9fTXIgph.jpg"
+      }
+    ],
+    languages: ["English", "Italian", "German"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "male sex work depicted matter-of-factly throughout",
+        "drug use including heroin and recreational substances",
+        "brief non-explicit sexual content",
+        "homelessness and destitution portrayed unflinchingly",
+        "parental abandonment and childhood trauma",
+        "strong language"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:44" }
+    ],
+    awards: [
+      { body: "Venice Film Festival (48th)", category: "Volpi Cup for Best Actor (River Phoenix)", result: "Won", year: 1991 },
+      { body: "Independent Spirit Awards (7th)", category: "Best Male Lead (River Phoenix)", result: "Won", year: 1992 },
+      { body: "National Society of Film Critics", category: "Best Actor (River Phoenix)", result: "Won", year: 1992 },
+      { body: "Los Angeles Film Critics Association", category: "Best Actor (River Phoenix)", result: "Won", year: 1991 },
+      { body: "Independent Spirit Awards (7th)", category: "Best Director", result: "Nominated", year: 1992 },
+      { body: "Independent Spirit Awards (7th)", category: "Best Film", result: "Nominated", year: 1992 },
+      { body: "Independent Spirit Awards (7th)", category: "Best Screenplay", result: "Nominated", year: 1992 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["abandonment", "longing", "belonging", "betrayal", "desire", "class", "homelessness", "inheritance"],
+      mood: ["dreamlike", "melancholic", "restless"],
+      fullReview: "Mike Waters falls asleep in the middle of sentences. He drops without warning — standing on a highway in Idaho, mid-conversation, mid-crisis — and wakes up somewhere else, the gap between consciousness filled with nothing he can account for. He is a narcoleptic male hustler from Portland, and the narcolepsy is not a medical footnote but the organizing metaphor of everything Gus Van Sant is doing here: a life lived in discontinuous fragments, consciousness as something that abandons you, home as a place that keeps receding every time you get close. He has been looking for his mother for most of his life. He suspects she is somewhere in Idaho. He is not sure this search will fix anything.\n\nMy Own Private Idaho proceeds less like a conventional film than like a dream someone is having about one, structured around association and mood rather than cause and effect. Van Sant braids the Shakespeare — a loose transposition of Henry IV set among Portland street kids, with William Richert\'s Bob Pigeon doing magnificent, dissolute work as a Falstaff figure in a derelict squat — with a genuine road movie and a love story that the film is too honest to let resolve cleanly. The Shakespeare sections have divided audiences since 1991, and the division is legitimate: the Elizabethan dialogue arrives abruptly, sits in the film like a deliberate provocation, and then recedes. Whether this reads as audacious formal risk or distracting indulgence depends almost entirely on what a viewer is willing to extend to Van Sant\'s obvious sincerity about the parallel. The thematic logic is sound — both stories concern a prince who will eventually abandon the companions of his reckless youth — but the tonal gap between the two registers never fully closes.\n\nNone of that matters much when River Phoenix is on screen, which is most of the time. His performance as Mike is one of those rare things that cannot be analysed into components without destroying what makes it work. He carries a quality of exposure so complete that watching him feels like an intrusion. Mike wants Scott Favor — wants him with the steady, undemanding permanence of someone who has decided this is where his feeling lives and has nowhere else to put it. Keanu Reeves, playing Scott, is doing something more controlled and arguably more difficult: a young man performing disaffection so thoroughly that neither the audience nor possibly Scott himself can locate where the performance ends. The two performances are perfectly mismatched, which is exactly right.\n\nEric Alan Edwards and John J. Campbell share the cinematography, and what they give the film is a Pacific Northwest rendered as a place of tremendous, indifferent beauty — wide roads, flat skies, the kind of landscape that makes human figures look small without making them feel unimportant. The Italian sequences shift the palette and the pace deliberately, pulling Mike into someone else\'s story for a stretch before the road reasserts itself.\n\nThe film\'s greatest sequence requires no Shakespeare, no surrealism, no stylistic intervention. Two people sit by a fire on an empty highway at night. One of them says something true. The other responds with a gentleness that is also a refusal. The scene takes perhaps four minutes and contains more honest feeling than most films manage across their entire runtime. Van Sant shoots it simply, lets it breathe, and leaves it alone.\n\nWhat My Own Private Idaho understands, and what gives it its peculiar staying power, is that some people are simply not going to get what they need from the people they need it from — not because of cruelty, not because of malice, but because of the enormous, ordinary asymmetry of human want. Mike already knows this. The film\'s heartbreak lies in watching him go looking anyway.\n\nThirty years on, the rough edges and structural gambles feel less like failures than evidence of a film made by someone genuinely reaching for something. Not everything lands. The things that do are indelible."
+    }
+  },
+  {
+    id: "millers-crossing-1990",
+    title: "Miller\'s Crossing",
+    originalTitle: null,
+    romanization: null,
+    year: 1990,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/1jlkRaa24LNShC2QeQmhdgzbZf1.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/1Ww44JvMIPgBg2tysPO9hcuU7vN.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=R1kRUyVeEOg",
+    director: [
+      {
+        name: "Joel Coen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Joel Coen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rgVaJNkZCgMarUcZuUAsVfXMWk3.jpg"
+      },
+      {
+        name: "Ethan Coen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lbL8LEcvuxNrzda37g3mysOS2qS.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Gabriel Byrne",
+        role: "Tom Reagan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9r9oDGENg92VYYFMkV4C09IUlrb.jpg"
+      },
+      {
+        actor: "Marcia Gay Harden",
+        role: "Verna",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg"
+      },
+      {
+        actor: "John Turturro",
+        role: "Bernie Bernbaum",
+        photoUrl: "https://image.tmdb.org/t/p/w185/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
+      },
+      {
+        actor: "Jon Polito",
+        role: "Johnny Caspar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4HjxMy4Ir2dWz7ycX5l3sgxOY4g.jpg"
+      },
+      {
+        actor: "J.E. Freeman",
+        role: "Eddie Dane",
+        photoUrl: "https://image.tmdb.org/t/p/w185/75VHiPXkan70jXZF247yOCdCROV.jpg"
+      },
+      {
+        actor: "Albert Finney",
+        role: "Leo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a2qJxu55s97ySRdjsy2ywIXJvhf.jpg"
+      },
+      {
+        actor: "Mike Starr",
+        role: "Frankie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+      },
+      {
+        actor: "Al Mancini",
+        role: "Tic-Tac",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n0qbIl2T4O6fGT1l97sqqucZoun.jpg"
+      },
+      {
+        actor: "Steve Buscemi",
+        role: "Mink",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+      },
+      {
+        actor: "Richard Woods",
+        role: "Mayor Dale Levander",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fppW4NSl5krl8DONopfO6YTnf9j.jpg"
+      },
+      {
+        actor: "Olek Krupa",
+        role: "Tad",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kI2cpoiHeJbmGOfc9lkhNQXrNFd.jpg"
+      },
+      {
+        actor: "Michael Jeter",
+        role: "Adolph",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+      },
+      {
+        actor: "Lanny Flaherty",
+        role: "Terry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jZV9UdctUwZOsdZ4OH3wxj4Bvop.jpg"
+      },
+      {
+        actor: "John McConnell",
+        role: "Cop - Brian",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gAHxNx9PhT2xVqct6ac61tKFabT.jpg"
+      },
+      {
+        actor: "Danny Aiello III",
+        role: "Cop - Delahanty",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4uDaf7ne7XJHL3AonRzW1FkXqWO.jpg"
+      },
+      {
+        actor: "Michael Badalucco",
+        role: "Caspar\'s Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ntqAjxrBsyXbRzAaln4ynSBTE1r.jpg"
+      },
+      {
+        actor: "Charles Gunning",
+        role: "Hitman at Verna\'s",
+        photoUrl: "https://image.tmdb.org/t/p/w185/s5SpJFyoufazTE7hQ8bCDGwFUwm.jpg"
+      },
+      {
+        actor: "David Darlow",
+        role: "Lazarre\'s Messenger",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iEz1jid6Iut3FJ2BMUgR79GQaAU.jpg"
+      },
+      {
+        actor: "Jery Hewitt",
+        role: "Son of Erin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nBvx1K916G5A4flbmWbpEeMc8lF.jpg"
+      },
+      {
+        actor: "Sam Raimi",
+        role: "Snickering Gunman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg"
+      },
+      {
+        actor: "William Preston Robertson",
+        role: "Voice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ky7pilIb95STEPjQn1vK4z8CKVa.jpg"
+      },
+      {
+        actor: "Frances McDormand",
+        role: "Mayor\'s Secretary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gBkoteKZshmQXEyEoyT6WE7N0tF.jpg"
+      }
+    ],
+    languages: ["English", "Italian", "Irish", "Yiddish"],
+    genres: ["Crime", "Drama", "Noir", "Period"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "multiple point-blank executions and gangland killings",
+        "extended home invasion and assassination sequence",
+        "sustained physical beatings with visible injury",
+        "a killing in woodland depicted with prolonged psychological menace",
+        "strong language throughout",
+        "corruption and organized crime as systemic backdrop"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:55" }
+    ],
+    awards: [],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["loyalty", "ethics", "manipulation", "power", "betrayal", "survival", "complicity"],
+      mood: ["tense", "bitter", "hypnotic"],
+      fullReview: "Tom Reagan wears his hat pulled low and his intentions lower still. He is the advisor to Leo, the Irish boss who runs an unnamed American city in 1929, and when the film opens he is already several moves deep into a game whose full shape the audience — and possibly Tom himself — cannot yet see. A rival Italian outfit, led by the operatic Johnny Caspar, wants a small-time bookie named Bernie Bernbaum killed for reasons involving fixed fights and violated trust. Leo says no. Tom says Leo is wrong. Underneath all of it, the same woman: Verna, Bernie\'s sister, who has Leo wrapped around her and something rather different going on with Tom. The political is personal. The personal is a liability. In this city, everything is both at once.\n\nMiller\'s Crossing is the Coen Brothers at their most architecturally precise — a machine built with the tolerances of a Swiss watch, every line of dialogue load-bearing, every character positioned to reveal something about every other character the moment they leave a room. The screenplay is a sustained feat of construction that rewards close attention without ever demanding it, because the surface pleasure — the period vernacular, the elaborate double-crosses, the sheer musicality of how these people talk — carries even a viewer who misses a layer. The Coens were working through Dashiell Hammett\'s moral universe here, specifically Red Harvest and The Glass Key, and what they understood about that source material was not just the genre furniture but the underlying question: what does a man have when he strips away sentiment, sentimentality, and self-interest one by one? What is left when there is nothing left to trade?\n\nGabriel Byrne builds Tom from the outside in. The performance withholds almost everything — no confessional close-ups, no speeches about what he really feels — and finds its meaning instead in posture, in the particular way Tom absorbs punishment without registering surprise, in the pauses before he speaks that suggest continuous calculation. It is the kind of acting that only reveals itself fully on a second viewing, when the audience can watch it knowing where it goes. Against him, John Turturro\'s Bernie Bernbaum is a blazing counterweight: a coward in full, desperate and resourceful and willing to say absolutely anything to anyone who holds his life in their hands. The scene between them in the woods has no equivalent in the Coens\' filmography for sheer sustained dread.\n\nBarry Sonnenfeld\'s cinematography moves through this world as though the camera itself is complicit — low angles that make the wrong people look powerful, compositions that place characters in frames within frames, a visual grammar of containment and surveillance. Carter Burwell\'s score uses an Irish theme that turns up at the most precisely unexpected moments, undercutting what ought to be triumph and finding something elegiac in what ought to be violence. The famous opening sequence — a hit squad working through Leo\'s home to the swelling sound of Danny Boy while he fights back alone — is cinema operating at the level of pure formal confidence, and it has nothing to do with how anything in this genre is supposed to work.\n\nThe film\'s one consistent friction point is Marcia Gay Harden\'s Verna, not because of anything in the performance — she is doing exactly what is asked of her — but because the script keeps the character\'s interiority more sealed than the narrative weight placed on her requires. What Verna actually wants, beyond what she says she wants, remains opaque in a way that feels less like deliberate withholding and more like the Coens\' characteristic difficulty with female characters as agents rather than catalysts.\n\nNone of that undoes what Miller\'s Crossing is. It is a film about the ethics of a world with no ethics — about whether a man who makes his living in moral flexibility retains any principle at all, or whether the appearance of principle is itself just another play. Tom never answers this question outright. The film is content to leave it in the air, which is the correct instinct, and the right kind of unsatisfying ending for a story that was never really about resolution."
+    }
+  },
+  {
+    id: "all-of-us-strangers-2023",
+    title: "All of Us Strangers",
+    originalTitle: null,
+    romanization: null,
+    year: 2023,
+    tagline: "All of us hurt. All of us hope. All of us love.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/q3EdCOG99ejxlQGt5XZrH5vh3jQ.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/zShZtXl2sMMCEodueSJM3cENNR8.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/8yjHiSuSEhzR916LcIecuQ8tETG.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ZrBil0GrNig",
+    director: [
+      {
+        name: "Andrew Haigh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pJAv105SAZiQ3lGY2wGURz4bENp.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Andrew Haigh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pJAv105SAZiQ3lGY2wGURz4bENp.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Andrew Scott",
+        role: "Adam",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+      },
+      {
+        actor: "Paul Mescal",
+        role: "Harry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+      },
+      {
+        actor: "Jamie Bell",
+        role: "Dad",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xAfNYOJYOy5ee9PHbBF8Y6xzZ9I.jpg"
+      },
+      {
+        actor: "Claire Foy",
+        role: "Mum",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ypQrZFp3UPS6VE4TwGibgG2VB0n.jpg"
+      },
+      {
+        actor: "Ami Tredrea",
+        role: "Waitress",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2Y8ufhllVSbwLguMk3nYQJ0hvgb.jpg"
+      },
+      {
+        actor: "Sean Tizzard",
+        role: "Dad on train",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7be7obnCkZrEtRLQQwwq3abhOyd.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Romance", "Fantasy"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "prolonged grief and bereavement depicted with sustained emotional intensity",
+        "explicit male nudity and sexual content between men",
+        "recreational drug use including cocaine and alcohol",
+        "parental loss revisited through supernatural encounters",
+        "loneliness and social isolation as a sustained psychological state",
+        "brief depictions of homophobic hostility"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:45" }
+    ],
+    awards: [
+      { body: "London Film Critics' Circle (44th)", category: "Film of the Year", result: "Won", year: 2024 },
+      { body: "London Film Critics' Circle (44th)", category: "Actor of the Year (Andrew Scott)", result: "Won", year: 2024 },
+      { body: "London Film Critics' Circle (44th)", category: "Director of the Year (Andrew Haigh)", result: "Won", year: 2024 },
+      { body: "London Film Critics' Circle (44th)", category: "British/Irish Film of the Year", result: "Won", year: 2024 },
+      { body: "Gotham Awards (33rd)", category: "Best International Feature", result: "Won", year: 2023 },
+      { body: "BAFTA Film Awards (77th)", category: "Best British Film", result: "Nominated", year: 2024 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Actor in a Leading Role (Andrew Scott)", result: "Nominated", year: 2024 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2024 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Original Score", result: "Nominated", year: 2024 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Editing", result: "Nominated", year: 2024 },
+      { body: "BAFTA Film Awards (77th)", category: "Best Casting", result: "Nominated", year: 2024 },
+      { body: "Golden Globe Awards (81st)", category: "Best Motion Picture - Drama", result: "Nominated", year: 2024 },
+      { body: "Golden Globe Awards (81st)", category: "Best Actor in a Motion Picture - Drama (Andrew Scott)", result: "Nominated", year: 2024 },
+      { body: "Screen Actors Guild Awards (30th)", category: "Outstanding Performance by a Male Actor in a Leading Role (Andrew Scott)", result: "Nominated", year: 2024 },
+      { body: "Academy Awards (96th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2024 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "memory", "belonging", "desire", "parenthood", "solitude", "loss"],
+      mood: ["intimate", "elegiac", "dreamlike"],
+      fullReview: "Adam lives alone in a nearly empty tower block in contemporary London, writing screenplays about a childhood he can\'t quite leave behind. One night a stranger knocks on his door — Harry, drunk and tentative, from a few floors below. Around the same time, Adam begins travelling back to the suburb where he grew up, where his parents are waiting for him in the house they died in forty years ago, unchanged, unbothered by the logistics of this. All of Us Strangers holds both of these storylines at once, and its particular quality is that it never explains how they relate, never resolves the tension between them into something manageable. The film simply insists that grief and desire and the need to be known occupy the same emotional space, and that most people spend their lives navigating that overlap without maps.\n\nAndrew Haigh adapted the screenplay from a 1987 Japanese novel by Taichi Yamada, relocating it to London and reframing its central consciousness as a gay man of a particular generation — old enough to have grown up in a Britain that treated his identity as a problem, young enough to have survived that framing without quite recovering from it. The specificity is not decorative. Everything in the film — Adam\'s isolation, the particular way he reaches for Harry, the conversations he has with his parents about who he turned out to be — is inflected by the knowledge of what it costs to grow up invisible, and what it means to finally be seen.\n\nAndrew Scott carries the film in a performance of almost frightening openness. There are no protective layers anywhere. The character sits completely still in scenes that would destroy most people, and Scott finds, in that stillness, something that registers not as detachment but as a man who has simply run out of ways to protect himself from feeling. The scenes with Jamie Bell and Claire Foy — who play the parents with a tenderness that is also shot through with the awkwardness of parents who did not know how to ask the right questions — are among the most affecting sequences recent British cinema has produced. They are funny and terrible in equal measure, and the film holds both without choosing.\n\nPaul Mescal\'s Harry operates at a different frequency: warmer, more reckless, less guarded. The chemistry between the two leads is genuine and specific. What they have together does not feel like the generic heat of a romance but like two people who have been lonely long enough that actual connection arrives with something close to shock.\n\nJamie D. Ramsay\'s cinematography leans hard into the film\'s division between worlds — the harsh vertical geometry of the tower block, the soft suburban darkness of the house from the past. Emilie Levienaise-Farrouch\'s score is built from restraint and patience, accumulating meaning through repetition rather than declaration. The needle-drops, mostly 1980s pop, do not function as ironic counterpoint but as something closer to direct address — these are songs that meant something to a particular kind of lonely person at a particular moment, and the film knows it.\n\nAt 105 minutes, nothing outstays its welcome, and yet the film is not brisk — it is dense, packed with silence and suggestion, asking viewers to do interpretive work that pays off differently on subsequent viewings. Haigh trusts the audience to keep up, which is both the film\'s greatest strength and the reason some people will find it cold. It is not cold. It is simply a film that believes the audience has feelings sophisticated enough to meet it.\n\nWhat lingers afterward is not any single scene but the accumulation of a mood: the particular ache of understanding, too late or almost too late, what was always available if the right door had been knocked on. Some films are about survival. This one is about what happens to the people who survived but were not sure they wanted to."
+    }
+  },
+  {
+    id: "petite-maman-2021",
+    title: "Petite Maman",
+    originalTitle: null,
+    romanization: null,
+    year: 2021,
+    tagline: "Experience a fairytale of wonder and innocence.",
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/pTXtwlqQTVfcHJq0hyI9d1ytcor.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/yuXZXuS4RCTnCYScrRWBCNz2ywB.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=mdORAHCydyY",
+    director: [
+      {
+        name: "Céline Sciamma",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4B5Bt47HYTObsde1einBDha03ka.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Céline Sciamma",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4B5Bt47HYTObsde1einBDha03ka.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Joséphine Sanz",
+        role: "Nelly",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4vpeQ5rn6G5EyWbrnAarTQROQPF.jpg"
+      },
+      {
+        actor: "Gabrielle Sanz",
+        role: "Marion",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7L3118UJuHT1c1JZR5T9TytWCs2.jpg"
+      },
+      {
+        actor: "Nina Meurisse",
+        role: "Mother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kLxpJGq269KEktzFh6DXoK2PsjR.jpg"
+      },
+      {
+        actor: "Stéphane Varupenne",
+        role: "Father",
+        photoUrl: "https://image.tmdb.org/t/p/w185/njRd1n3QR1yaFAIYeVzkXJ84WjT.jpg"
+      },
+      {
+        actor: "Margot Abascal",
+        role: "Grandmother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qeoiUAZOnSFR3NRYqYFaHThoaQ.jpg"
+      },
+      {
+        actor: "Guylène Péan",
+        role: "Dame maison de retraite",
+        photoUrl: "https://image.tmdb.org/t/p/w185/htIhqd7m8Uvq9W3AlzF1vROjkkS.jpg"
+      }
+    ],
+    languages: ["French"],
+    genres: ["Drama", "Fantasy", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "death of a grandparent and a child\'s encounter with grief",
+        "mild portrayal of parental emotional withdrawal following bereavement",
+        "gently melancholic tone that young children may find quietly affecting"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:12" }
+    ],
+    awards: [
+      { body: "César Awards (47th)", category: "Best Film", result: "Nominated", year: 2022 },
+      { body: "César Awards (47th)", category: "Best Director (Céline Sciamma)", result: "Nominated", year: 2022 },
+      { body: "César Awards (47th)", category: "Best Original Screenplay", result: "Nominated", year: 2022 },
+      { body: "Berlin International Film Festival (71st)", category: "Golden Bear", result: "Nominated", year: 2021 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["grief", "motherhood", "childhood", "time", "memory", "friendship", "loss"],
+      mood: ["tender", "dreamlike", "warm"],
+      fullReview: "Eight-year-old Nelly has just lost her grandmother. She and her parents are clearing out the old woman\'s childhood home — a house in the woods her mother grew up in and has never quite emotionally left — when her mother slips away, overwhelmed by something she cannot hold in front of her daughter. Alone in the forest, Nelly meets a girl her own age building a hut from branches. The girl\'s name is Marion. Marion is also eight. The hut is exactly where Nelly\'s mother always said she used to build one. Petite Maman proceeds from this discovery with the calm confidence of a film that knows precisely what it is doing and needs no more than 72 minutes to do it.\n\nCéline Sciamma cast real-life twin sisters Joséphine and Gabrielle Sanz in the two central roles, and the decision is the film\'s structural foundation rather than a casting curiosity. The physical similarity between the girls creates something no performance could manufacture — the sense that these two children genuinely belong to the same continuum, that the boundary between them is more porous than it ought to be. There is no uncanny valley here. Their ease together reads as natural because, at some level, it is.\n\nWhat the film understands about grief — and specifically about a child\'s relationship to parental grief — is that children are often excluded from the emotional reality of loss happening around them. Adults disappear. They go quiet. They handle things. Nelly watches her mother withdraw and has no language for what is happening and no means to reach her across it. The fantasy the film offers is not escapism but a kind of imagined reparation: what would it mean to meet the person your parent was before life happened to them? To be their friend rather than their child, if only briefly, if only in the woods behind the house?\n\nSciamma keeps the film stripped of everything inessential. Claire Mathon\'s cinematography gives the forest a cool, particular light — not magical in the storybook sense, but precise and still in the way that places from childhood actually lodge in memory. The house interiors are ordinary. The children\'s conversations are ordinary. A game of cards. A pot of hot chocolate. Making crêpes. The film builds its emotional architecture from activities so mundane they become almost unbearable, because the audience knows what these moments are standing in for before either child does.\n\nThe dialogue between the two girls is among the most delicately written of any film in recent French cinema. Nelly asks Marion if she is afraid of dying. Marion asks Nelly if her mother is sad often. The answers come without drama and settle into the film like stones into water — small disturbances, long ripples. Sciamma never editorializes and never explains. She simply records two children being honest with each other in the way children are when adults are not listening, and trusts that honesty to carry the film\'s full emotional weight.\n\nThe film has no villain, no antagonist, no mechanism of threat. Its sadness is the kind that comes from loving people who are finite and complicated and sometimes unreachable. At 72 minutes, it neither outstays its welcome nor feels truncated — it ends when it has said what it needs to say, at the precise moment when anything further would dilute rather than deepen.\n\nPetite Maman is the kind of film that arrives without noise and stays without permission. A week after watching it, something small — a particular quality of afternoon light, the sight of a child playing alone in a garden — will bring it back whole."
+    }
+  },
+  {
+    id: "guillermo-del-toros-pinocchio-2022",
+    title: "Guillermo del Toro's Pinocchio",
+    originalTitle: null,
+    romanization: null,
+    year: 2022,
+    tagline: "Love will give you life.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/iOtp8eYJG3e18rqLEaUF8Hnf741.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/dxDuGl6afTMi9Fxwp1AA0N9EfAo.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/qXOxYzPSPY9viZTgs7O6vNBOB7Y.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Tbl5Lbi4xEs",
+    director: [
+      {
+        name: "Guillermo del Toro",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
+      },
+      {
+        name: "Mark Gustafson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/84ASwEwmYzbV6Yqp8Y539G16tif.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Guillermo del Toro",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
+      },
+      {
+        name: "Patrick McHale",
+        photoUrl: "https://image.tmdb.org/t/p/w185/LI52FbJ23GnsPz6NExUJmSi0XS.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Ewan McGregor",
+        role: "Cricket (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+      },
+      {
+        actor: "David Bradley",
+        role: "Geppetto (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/znpkwHitb3pcaJbUmgDqG0YenYp.jpg"
+      },
+      {
+        actor: "Gregory Mann",
+        role: "Pinocchio / Carlo (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j2CUCIhS3N7JsVHOUXVxPQT0kxC.jpg"
+      },
+      {
+        actor: "Burn Gorman",
+        role: "Priest (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+      },
+      {
+        actor: "Ron Perlman",
+        role: "Podesta (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg"
+      },
+      {
+        actor: "John Turturro",
+        role: "Dottore (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
+      },
+      {
+        actor: "Finn Wolfhard",
+        role: "Candlewick (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3lJmesUtNURlKu2wvS2YbVYTEiw.jpg"
+      },
+      {
+        actor: "Cate Blanchett",
+        role: "Spazzatura (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+      },
+      {
+        actor: "Tim Blake Nelson",
+        role: "Black Rabbits (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+      },
+      {
+        actor: "Christoph Waltz",
+        role: "Count Volpe (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+      },
+      {
+        actor: "Tilda Swinton",
+        role: "Wood Sprite / Death (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+      },
+      {
+        actor: "Tom Kenny",
+        role: "Mussolini / Right Hand Man / Sea Captain (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+      },
+      {
+        actor: "Alfie Tempest",
+        role: "Carlo / Pinocchio Additional Voices (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4nkoNuusnc5cIwxlPnEQ9WmIYZZ.jpg"
+      },
+      {
+        actor: "Anthea Greco",
+        role: "Podesta\'s Wife / Twin Daughter 1 / Parishioner Woman (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/auBdznWStcdZwv7vNIstHduTzKf.jpg"
+      },
+      {
+        actor: "Francesca Fanti",
+        role: "Twin Daughter 2 / Old Woman / Street Sweep (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8Kti1mECLgP1QYmkSiDl3EOsCxE.jpg"
+      },
+      {
+        actor: "Rio Mangini",
+        role: "Milliner / Soldier / Carnival Worker (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qDW77edoCKRBzM3hH111RneRYB4.jpg"
+      },
+      {
+        actor: "Benjamin Valic",
+        role: "Confident Boy / Laughing Boy (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vpedWcdmhA9Fa6SiRDD7IKwgDey.jpg"
+      },
+      {
+        actor: "Sky Alexis",
+        role: "Young Girl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/huHnMGTD3KbYQjttAcagko2CQE4.jpg"
+      },
+      {
+        actor: "Ariana Molkara",
+        role: "Older Girl (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4UdZyMzs9XFh9a1aRmV81zGnCZL.jpg"
+      },
+      {
+        actor: "Peter Arpesella",
+        role: "Carnival Worker (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7GuaSB2xa6m0DpBtaO6uGSlnZBh.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Animation", "Drama", "Fantasy", "Dark"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "depiction of a child\'s death and prolonged parental grief",
+        "child conscription into military service under fascist rule",
+        "mild war combat including explosions and gunfire",
+        "a villain who emotionally exploits and manipulates children",
+        "existential confrontations with mortality and the afterlife",
+        "frightening fantastical imagery including a death deity"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:57" }
+    ],
+    awards: [
+      { body: "Academy Awards (95th)", category: "Best Animated Feature Film", result: "Won", year: 2023 },
+      { body: "Golden Globe Awards (80th)", category: "Best Animated Motion Picture", result: "Won", year: 2023 },
+      { body: "BAFTA Film Awards (76th)", category: "Best Animated Film", result: "Won", year: 2023 },
+      { body: "Annie Awards (50th)", category: "Outstanding Achievement for Animated Feature", result: "Won", year: 2023 },
+      { body: "Annie Awards (50th)", category: "Outstanding Achievement for Directing in an Animated Feature Production", result: "Won", year: 2023 },
+      { body: "Annie Awards (50th)", category: "Outstanding Achievement for Production Design in an Animated Feature Production", result: "Won", year: 2023 },
+      { body: "Annie Awards (50th)", category: "Outstanding Achievement for Character Design in an Animated Feature Production", result: "Won", year: 2023 },
+      { body: "Critics\' Choice Movie Awards (28th)", category: "Best Animated Feature", result: "Won", year: 2023 },
+      { body: "National Board of Review (2022)", category: "Best Animated Film", result: "Won", year: 2022 },
+      { body: "New York Film Critics Circle (2022)", category: "Best Animated Film", result: "Won", year: 2022 },
+      { body: "Los Angeles Film Critics Association (2022)", category: "Best Animation", result: "Won", year: 2022 },
+      { body: "Academy Awards (95th)", category: "Best Original Score", result: "Nominated", year: 2023 },
+      { body: "Academy Awards (95th)", category: "Best Original Song (\"Ciao Papa\")", result: "Nominated", year: 2023 },
+      { body: "BAFTA Film Awards (76th)", category: "Best Original Score", result: "Nominated", year: 2023 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "obedience", "mortality", "conformity", "legacy", "rebellion", "sacrifice", "complicity"],
+      mood: ["elegiac", "tender", "melancholic"],
+      fullReview: "In 1930s Italy, under the shadow of Mussolini\'s rising fascism, a grief-destroyed woodcarver named Geppetto carves a boy out of pine and desperation. Through an act of quiet magic, the wooden boy comes to life — raucous, curious, and entirely unlike what Geppetto was hoping for. What follows is a journey through carnival stages, military camps, and the space between life and death itself, as Pinocchio tries to understand what it means to be real, to be good, and to be loved by someone who isn\'t sure he wants him.\n\nThe most quietly devastating thing about this film is what it says about Geppetto before it says anything about Pinocchio. Del Toro and co-writer Patrick McHale don\'t sand the character into the gentle, long-suffering craftsman of a hundred earlier adaptations. This Geppetto is a man ruined by loss, and when he drinks himself into the act of carving his wooden son, what arrives isn\'t a dream — it\'s a reminder. Pinocchio is not the child Geppetto lost. He is louder, stranger, impossible to control, and constitutionally incapable of understanding why his very existence might be painful. The film\'s central tension isn\'t between obedience and freedom — it\'s between a father learning to love who his child actually is, and a child desperate to earn a love that keeps arriving in the wrong shape.\n\nSet against fascist Italy, the political context earns its place rather than simply providing period texture. The regime exists in this story as the institutional expression of what the film is arguing against at every level: the demand for compliance dressed up as virtue. Every figure of authority Pinocchio encounters — the exploitative showman Count Volpe, the militarist Podesta, the carnival world at large — wants the same thing from him that Geppetto initially wants: not Pinocchio as he is, but Pinocchio shaped into something more useful. The film keeps asking, without ever quite stating it out loud, what separates genuine goodness from the performance of obedience, and the answer it arrives at is both simple and hard.\n\nGregory Mann\'s voice work as Pinocchio is a genuine surprise. The character reads as neither naively innocent nor strategically dim — there\'s real impulsiveness in him, real confusion, a quality of someone experiencing the world for the first time without the buffer of learned behavior. David Bradley carries Geppetto\'s damage with quiet specificity; the grief isn\'t performed, it sits behind every line reading. Christoph Waltz does exactly what the role requires as Count Volpe — precise, charming, dangerous — though the character is among the film\'s more conventional pleasures. Tilda Swinton, voicing both a wood sprite and the figure of Death herself, brings the kind of unhurried authority that makes every scene she inhabits feel slightly outside normal time.\n\nThe stop-motion animation, produced across studios in multiple countries, is extraordinary in a way that goes beyond technical admiration. Each puppet carries visible weight, visible handwork, visible decision-making — the film communicates through texture in ways digital animation rarely manages. Cinematographer Frank Passingham\'s lighting gives the frames a warmth that never tips toward sentimentality. The sequences set in the underworld, a waiting room between one life and the next, draw from European surrealism with genuine conviction rather than borrowed atmosphere.\n\nAlexandre Desplat\'s score is largely excellent, particularly in the film\'s quieter, more intimate passages. The original songs are more uneven — \"Ciao Papa\" is precisely calibrated and emotionally devastating, but a few of the other numbers sit awkwardly against the film\'s darker register, interrupting momentum at points where the drama has earned sustained silence instead.\n\nAt 117 minutes, the film earns most of its running time. The middle section, where Pinocchio moves through the carnival world, occasionally lets the episodic architecture of the original fable show its seams — a structural looseness rather than a failure of imagination. But del Toro and Mark Gustafson pull the film back together with enough force that the detours register as accumulated texture rather than wasted time.\n\nThis is not, regardless of format or familiar title, a film for young children. Death is not softened. Grief is not resolved tidily. A child dies early in the story and the wound never fully closes; that wound is the engine of everything that follows. What older viewers — adults, older teenagers, anyone willing to sit with something genuinely sad — will find is a film that treats its source material not as a property to be adapted but as a question to be taken seriously. The question is an old one: what does it mean to be a real boy? Del Toro\'s answer has very little to do with noses."
+    }
+  },
+  {
+    id: "godland-2022",
+    title: "Godland",
+    originalTitle: "Vanskabte land",
+    romanization: null,
+    year: 2022,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/zWp03r0OMLEdlSRSw5jfHQXNt5J.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/s0cWPhzpKJ4kspaleMcOduHBFBw.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/y9XGT0srZNW1oUIGU0lDTmfmd8m.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=ABOyY8LzT3w",
+    director: [
+      {
+        name: "Hlynur Pálmason",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y6QNxWW8Z7DBr0hBOeqeCxJ2khc.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Hlynur Pálmason",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y6QNxWW8Z7DBr0hBOeqeCxJ2khc.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Elliott Crosset Hove",
+        role: "Lucas",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dGBMaetF0JeyXpyp3cleyCgN46M.jpg"
+      },
+      {
+        actor: "Vic Carmen Sonne",
+        role: "Anna",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2ROtesSqxXDT9IszpKkspsHp42O.jpg"
+      },
+      {
+        actor: "Ingvar E. Sigurðsson",
+        role: "Ragnar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m7pllSNc0HRorwZmT6flaR3LdRE.jpg"
+      },
+      {
+        actor: "Jacob Lohmann",
+        role: "Carl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/g4uWdGKfR5TkuyCNLvdiFqmzg1C.jpg"
+      },
+      {
+        actor: "Ída Mekkín Hlynsdóttir",
+        role: "Ida",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6M8Ozk9o2aTjGLyxjMUCkEBlLIf.jpg"
+      },
+      {
+        actor: "Waage Sandø",
+        role: "Vincent",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4w1Nl9IOutnNLxs3dr7sD078hHo.jpg"
+      },
+      {
+        actor: "Hilmar Guðjónsson",
+        role: "Translator",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xH4faMkjs1pNg568NwHhuT8axhV.jpg"
+      },
+      {
+        actor: "Gunnar Bragi Þorsteinsson",
+        role: "Gunnar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/v8rQaw4nx0v6YrjYf6mv6OH2Mq9.jpg"
+      }
+    ],
+    languages: ["Danish", "Icelandic"],
+    genres: ["Drama", "Psychological", "Period"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "animal death shown on screen",
+        "a character death depicted with visual directness",
+        "severe physical hardship and prolonged exposure to the elements",
+        "psychological deterioration and moral dissolution",
+        "spiritual crisis and collapse of faith"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:23" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (75th)", category: "FIPRESCI Prize – Un Certain Regard", result: "Won", year: 2022 },
+      { body: "Cannes Film Festival (75th)", category: "Un Certain Regard – Special Jury Prize", result: "Nominated", year: 2022 }
+    ],
+    criticRating: "Great",
+    review: {
+      themes: ["colonialism", "hubris", "displacement", "obsession", "faith", "alienation", "mortality", "accountability"],
+      mood: ["austere", "hypnotic", "bleak"],
+      fullReview: "In the late nineteenth century, a young Danish priest named Lucas travels to a remote corner of Iceland with a camera, a mandate from the church, and an authority that no one on the receiving end has agreed to recognise. He has been sent to build a church and document the local population — to make the place legible, manageable, useful to the institution that dispatched him. The land is volcanic, indifferent, and staggering to look at. The people are not waiting to be saved. Somewhere in the friction between those two facts, something in Lucas begins to come undone.\n\nHlynur Pálmason shot Godland in the square Academy ratio on 35mm film, and the choice is not decorative. The format compresses the frame, limiting peripheral vision, pressing the viewer into the same confined and strangely suffocating relationship with Iceland\'s immense terrain that Lucas himself cannot escape. Maria von Hausswolff\'s cinematography turns geothermal plains and perpetually overcast skies into something that belongs in a Flemish painting — heavy, static, indifferent to human drama. The images hold. They ask the audience to hold with them.\n\nElliott Crosset Hove plays Lucas with a precision that is unnerving precisely because it never tips into caricature. The character carries an entitlement so deep and so thoroughly unexamined that it does not read as villainy — it reads as a man who has simply never had reason to question what he believes he deserves. Watching that belief make contact with Ingvar E. Sigurðsson\'s Ragnar — a local farmer who has survived in this place for decades and has absolutely no use for what Lucas is offering — is the engine the film runs on. Their conflict is rarely direct. It lives in silences, in small slights absorbed and filed away, in the grinding friction of a man asserting dominance over another who does not recognise the hierarchy being claimed.\n\nThe colonial critique is embedded in the situation rather than announced through dialogue. Pálmason trusts the architecture of what he has built. A Danish priest, despatched by a Danish church, to photograph and categorise and ultimately civilise a territory that has its own language, its own knowledge, its own deep relationship with difficulty — the film simply presents this arrangement and waits to see what the waiting reveals. What it reveals is not comfortable.\n\nAlex Zhang Hungtai\'s score arrives less often than silence. When it does appear, it has the quality of sound heard through stone — present enough to register, too muffled to decode. The effect is of meaning that refuses to resolve itself into clarity, which feels exactly right for a film doing what this one is doing.\n\nThe supporting work is quietly strong across the board. Jacob Lohmann and Vic Carmen Sonne occupy the emotional space that Lucas is constitutionally unable to enter, and they do it without drawing attention to the fact. Ída Mekkín Hlynsdóttir, as young Ida, functions as a kind of moral register — her scenes ask questions that the film never answers directly, and the restraint is deliberate and effective.\n\nThe significant weakness sits in the middle act. At 143 minutes, the film asks for a patience that it does not entirely earn at every point. There are stretches where the glacial rhythm tips from meditative into genuinely inert — scenes that serve the thematic structure without quite serving the experience of sitting through them. The film recovers. Its final passages are genuinely arresting, and what Pálmason builds toward earns its weight. But the detour through certain slack sequences is real, and viewers without a prior appetite for this register of filmmaking may not survive to the other side.\n\nWhat Pálmason does with extraordinary control is refuse the consolations of resolution. This is not a film about a man who is tested and changed by the encounter. It is a film about a man who is given every available opportunity to see himself clearly and declines it — repeatedly, almost systematically. The tragedy is presented with the same neutral attention as everything else on screen. There is no music cue designed to harvest sympathy. The camera watches with the patience of the landscape itself: without judgment, without mercy, without particular interest in whether the audience approves of what it sees.\n\nGodland is not a film that wants to be loved. It wants to be endured, and then sat with afterward. For the audience that can meet it on those terms, it offers something rare — a portrait of institutional arrogance filmed against terrain so vast and so fundamentally uncaring that the arrogance looks, by the end, like a very small and very temporary thing."
+    }
+  },
+  {
+    id: "the-power-of-the-dog-2021",
+    title: "The Power of the Dog",
+    originalTitle: null,
+    romanization: null,
+    year: 2021,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/l4SoGq4WvirOb7DnfFvbwmZedbv.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/epb8WAquLI1S38HWLaHwSdKvxHm.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=LRDPo0CHrko",
+    director: [
+      {
+        name: "Jane Campion",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zAkrfMl6m940Ja46ofWaM94gTNj.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Jane Campion",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zAkrfMl6m940Ja46ofWaM94gTNj.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Benedict Cumberbatch",
+        role: "Phil Burbank",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+      },
+      {
+        actor: "Kodi Smit-McPhee",
+        role: "Peter Gordon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sesCWba9NwPDYDZzbVLs7OgLOti.jpg"
+      },
+      {
+        actor: "Kirsten Dunst",
+        role: "Rose Gordon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+      },
+      {
+        actor: "Jesse Plemons",
+        role: "George Burbank",
+        photoUrl: "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+      },
+      {
+        actor: "Thomasin McKenzie",
+        role: "Lola",
+        photoUrl: "https://image.tmdb.org/t/p/w185/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
+      },
+      {
+        actor: "Geneviève Lemon",
+        role: "Mrs. Lewis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x3manbCDNOrp0dE3iEbWAu5N3dA.jpg"
+      },
+      {
+        actor: "Keith Carradine",
+        role: "The Governor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5gayZWGqjTAVJXr1bXovk3oqOxW.jpg"
+      },
+      {
+        actor: "Frances Conroy",
+        role: "Old Lady",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+      },
+      {
+        actor: "Kenneth Radley",
+        role: "Barkeep",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jqiM2DbXtNRF3yxRaU2nkYzewEJ.jpg"
+      },
+      {
+        actor: "Sean Keenan",
+        role: "Sven",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wMkbij8W5rjaQ4cgP5bfJN2qIGP.jpg"
+      },
+      {
+        actor: "George Mason",
+        role: "Cricket",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fLUXBgeSwXFG5GRveROIniYXIpk.jpg"
+      },
+      {
+        actor: "Cohen Holloway",
+        role: "Bobby",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7qWqBZk4arFgx7TJpi7uXe6eH2z.jpg"
+      },
+      {
+        actor: "Alistair Sewell",
+        role: "Jock",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bE5tjZAC3BBoP0Mh1WgT00e6zfT.jpg"
+      },
+      {
+        actor: "Alice Englert",
+        role: "Buster",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lEXLJpH29u2fTTqOIEsxEtSQP8C.jpg"
+      },
+      {
+        actor: "Bryony Skillington",
+        role: "Queenie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bMKSZXdKe3GlL8w6Ebi28eiTJ6z.jpg"
+      },
+      {
+        actor: "Jacque Drew",
+        role: "Jeanie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Vw1fwfEtmWBUFfhm8FjdMmyqkS.jpg"
+      },
+      {
+        actor: "Yvette Parsons",
+        role: "Hettie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rviTXu0eq0OJDWQ8hVxLCEyYUPQ.jpg"
+      },
+      {
+        actor: "Daniel Cleary",
+        role: "Jeanie\'s Friend",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kvEB9Yq0gpxubYuruk5TQ9l6CPA.jpg"
+      },
+      {
+        actor: "Yvette Reid",
+        role: "Clementine",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xvOQGmSbdtDqfjooe0J4TCAE1db.jpg"
+      },
+      {
+        actor: "Alice May Connolly",
+        role: "Pearl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nGZLHw788qEiX1G0ogY1kTNsgRp.jpg"
+      },
+      {
+        actor: "Stephen Lovatt",
+        role: "Doctor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+      },
+      {
+        actor: "Vadim Ledogorov",
+        role: "Older Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wgLcf6RCZeU3iB0PvUdqUxiViKC.jpg"
+      },
+      {
+        actor: "Peter Carroll",
+        role: "Old Gent",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jVb7YfltTVdFZvF0ySsymZc0m9X.jpg"
+      },
+      {
+        actor: "Alison Bruce",
+        role: "The Governor\'s Wife",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e4ZZDK9lObXflkOPDHTp84OKM3y.jpg"
+      },
+      {
+        actor: "Karl Willetts",
+        role: "Bill",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dkWglXQZAug9g8VVDtvonZO9nrO.jpg"
+      },
+      {
+        actor: "David T. Lim",
+        role: "Cook",
+        photoUrl: "https://image.tmdb.org/t/p/w185/avkdW9kdSMxMsCPAJOM87qkXeSA.jpg"
+      },
+      {
+        actor: "Adam Beach",
+        role: "Edward Nappo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3ZMGfnRc7dYnAPl6ZSbGhqj6LHx.jpg"
+      },
+      {
+        actor: "Ian Harcourt",
+        role: "Undertaker Assistant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cusbc5RNGmY2bFeSeA3mUsjQIQs.jpg"
+      },
+      {
+        actor: "Ella Hope-Higginson",
+        role: "Consuela",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hZRpGVczt2lVLdoyKMpJM5qJRsP.jpg"
+      },
+      {
+        actor: "Edith Poor",
+        role: "Tanya",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ef2Mg5seu2xD3ilT2XBrWnSL0Gy.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Western", "Psychological"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "sustained psychological intimidation and deliberate emotional cruelty",
+        "covert homoeroticism and scenes of repressed sexual longing",
+        "animal slaughter depicted with unflinching directness",
+        "alcoholism and its physical and social deterioration",
+        "implied childhood trauma referenced in dialogue",
+        "deliberate poisoning with a non-graphic but disturbing outcome"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:07" }
+    ],
+    awards: [
+      { body: "Academy Awards (94th)", category: "Best Directing", result: "Won", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Film", result: "Won", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Direction", result: "Won", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Supporting Actor (Kodi Smit-McPhee)", result: "Won", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Cinematography", result: "Won", year: 2022 },
+      { body: "Golden Globe Awards (79th)", category: "Best Motion Picture – Drama", result: "Won", year: 2022 },
+      { body: "Golden Globe Awards (79th)", category: "Best Director – Motion Picture", result: "Won", year: 2022 },
+      { body: "Venice Film Festival (78th)", category: "Silver Lion for Best Director", result: "Won", year: 2021 },
+      { body: "Critics Choice Awards (27th)", category: "Best Director", result: "Won", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Picture", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Actor in a Leading Role (Benedict Cumberbatch)", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Actor in a Supporting Role (Kodi Smit-McPhee)", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Actress in a Supporting Role (Kirsten Dunst)", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Cinematography", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Film Editing", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Original Score", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Sound", result: "Nominated", year: 2022 },
+      { body: "Academy Awards (94th)", category: "Best Production Design", result: "Nominated", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Leading Actor (Benedict Cumberbatch)", result: "Nominated", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Supporting Actress (Kirsten Dunst)", result: "Nominated", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Editing", result: "Nominated", year: 2022 },
+      { body: "BAFTA Film Awards (75th)", category: "Best Original Score", result: "Nominated", year: 2022 },
+      { body: "Golden Globe Awards (79th)", category: "Best Actor – Motion Picture Drama (Benedict Cumberbatch)", result: "Nominated", year: 2022 },
+      { body: "Golden Globe Awards (79th)", category: "Best Supporting Actor (Kodi Smit-McPhee)", result: "Nominated", year: 2022 },
+      { body: "Golden Globe Awards (79th)", category: "Best Supporting Actress (Kirsten Dunst)", result: "Nominated", year: 2022 },
+      { body: "Golden Globe Awards (79th)", category: "Best Screenplay – Motion Picture", result: "Nominated", year: 2022 },
+      { body: "Screen Actors Guild Awards (28th)", category: "Outstanding Performance by a Cast in a Motion Picture", result: "Nominated", year: 2022 },
+      { body: "Screen Actors Guild Awards (28th)", category: "Outstanding Performance by a Male Actor in a Leading Role (Benedict Cumberbatch)", result: "Nominated", year: 2022 },
+      { body: "Screen Actors Guild Awards (28th)", category: "Outstanding Performance by a Male Actor in a Supporting Role (Kodi Smit-McPhee)", result: "Nominated", year: 2022 },
+      { body: "Screen Actors Guild Awards (28th)", category: "Outstanding Performance by a Female Actor in a Supporting Role (Kirsten Dunst)", result: "Nominated", year: 2022 },
+      { body: "Critics Choice Awards (27th)", category: "Best Picture", result: "Nominated", year: 2022 },
+      { body: "Critics Choice Awards (27th)", category: "Best Actor (Benedict Cumberbatch)", result: "Nominated", year: 2022 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["repression", "masculinity", "predation", "vulnerability", "complicity", "performance", "inheritance", "manipulation"],
+      mood: ["suffocating", "menacing", "elegiac"],
+      fullReview: "Set against the grasslands of 1920s Montana, The Power of the Dog follows two bachelor brothers who share a prosperous cattle ranch. When the gentle, accommodating George quietly marries a widowed innkeeper named Rose, his more volatile brother Phil — brilliant, crude, and radiating contempt the way some men radiate warmth — begins a patient, systematic campaign of psychological torment against her and her slender, quietly peculiar teenage son Peter. What announces itself as the portrait of a bully slowly discloses, with extraordinary care, that it is something far stranger and more devastating than that.\n\nJane Campion had not made a feature in twelve years when this arrived, and the return produces work of almost disconcerting assurance. The screenplay, adapted from Thomas Savage\'s long-overlooked 1967 novel, operates on two frequencies at once: the audible story of cruelty and social hierarchy, and a covert story about desire and self-destruction that only becomes fully legible in the film\'s final minutes. Campion does not tip her hand. She waits. She has built a film that must be lived through before it can be understood, and she trusts her audience to stay.\n\nBenedict Cumberbatch constructs Phil Burbank from the outside in. The physical performance — the loose, dangerous gait, the hands that are always occupied, the contempt dispensed through half-finished sentences — establishes a man who has armored himself so thoroughly against tenderness that he appears to have forgotten what the armor was originally built to protect. This is not a performance about villainy. It is a performance about a particular species of damage, and about the way that damage, unconfronted and unacknowledged, becomes a weapon aimed at everyone within reach. It is the best work Cumberbatch has placed on film.\n\nKirsten Dunst plays Rose with a quietness that turns progressively harrowing. Her decline — from guarded optimism toward something approaching dissolution — is rendered without theatrical escalation, which makes it cut deeper. Jesse Plemons, as George, carries the entire reserve of uncomplicated decency the film permits itself, and the way that decency is positioned against Phil\'s corrosive intelligence says something true about how goodness tends to lose arguments it should win by existing. Kodi Smit-McPhee as Peter is the film\'s most surprising instrument: a performance of deliberate economy that conceals more than it discloses, which turns out to be exactly the architecture the film requires.\n\nAri Wegner\'s cinematography reframes New Zealand mountains as a landscape of psychological weight — pale, vast, wholly indifferent to the humans negotiating within it. Campion frames Phil in wide shots more frequently than comfort allows, forcing the audience to watch him watching others from a distance, aware of an attention whose precise nature remains unnameable for most of the runtime. Jonny Greenwood\'s score begins in banjo-and-folk territory that feels appropriate to the setting and gradually introduces dissonances the ear cannot easily locate — the sonic equivalent of something working inward without the wound showing on the surface.\n\nThe film moves slowly by the standards of almost anything released alongside it. The 127 minutes ask for sustained patience, and Campion earns the majority of it. A handful of scenes in the central section extend beyond their immediate dramatic content, and viewers without prior appetite for this cadence of filmmaking may find themselves at the outer edge of tolerance. The accumulated detail is the point, though — the way characters orbit each other, the charged texture of the household, the specific quality of Phil\'s contempt, the things nobody says — because it is this accumulation that makes the ending operative rather than merely surprising.\n\nWhat The Power of the Dog leaves behind is an uncomfortable admixture of formal admiration and moral disquiet. The film earns its refusal to distribute comfort in any direction — not to Phil, not to those he harms, not to the audience hoping for resolution of a familiar kind. Anyone arriving with Western genre expectations will find themselves stranded in terrain those expectations were not built for. The film does not apologize for this. It simply waits to see who is still present when the landscape finally gives up what it has been holding."
+    }
+  },
+  {
+    "id": "marriage-story-2019",
+    "title": "Marriage Story",
+    "originalTitle": null,
+    "romanization": null,
+    "year": 2019,
+    "tagline": "Where there's a love, there's a way.",
+    "titleLogoUrl": "https://image.tmdb.org/t/p/original/9jqMHHph7PCca30w0SQtR3yReJZ.png",
+    "posterUrl": "https://image.tmdb.org/t/p/original/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=n59tgVPvhW4",
+    "director": [
+      {
+        "name": "Noah Baumbach",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/pNCt2m8jfiX3YOiCdnJT3OPxNvm.jpg"
+      }
+    ],
+    "screenplay": [
+      {
+        "name": "Noah Baumbach",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/pNCt2m8jfiX3YOiCdnJT3OPxNvm.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "actor": "Adam Driver",
+        "role": "Charlie Barber",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/b5w381C8Z33D1iF30KT4k8tJNsk.jpg"
+      },
+      {
+        "actor": "Scarlett Johansson",
+        "role": "Nicole Barber",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+      },
+      {
+        "actor": "Laura Dern",
+        "role": "Nora Fanshaw",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        "actor": "Alan Alda",
+        "role": "Bert Spitz",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/6ccCKFhXiMmjLoiFDyJaU4eJaQO.jpg"
+      },
+      {
+        "actor": "Ray Liotta",
+        "role": "Jay Marotta",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+      },
+      {
+        "actor": "Julie Hagerty",
+        "role": "Sandra",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/bQZ0bcFNyE4a3GDNfYMmfO7eWMl.jpg"
+      },
+      {
+        "actor": "Merritt Wever",
+        "role": "Cassie",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+      },
+      {
+        "actor": "Azhy Robertson",
+        "role": "Henry Barber",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/eTTpOO97m9JLwKjWD2ByjKJPDPr.jpg"
+      },
+      {
+        "actor": "Wallace Shawn",
+        "role": "Frank",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+      },
+      {
+        "actor": "Martha Kelly",
+        "role": "The Evaluator",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+      },
+      {
+        "actor": "Mark O'Brien",
+        "role": "Carter Mitchum",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/8ckgltvlife4BBJcBpHEQWXfQ9p.jpg"
+      },
+      {
+        "actor": "Julia Greer",
+        "role": "Street Solicitor #1",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/41E8iSP0fqqwoDmsPMUWnEtPME2.jpg"
+      },
+      {
+        "actor": "Matthew Maher",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+      },
+      {
+        "actor": "Eric Berryman",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/jLAMItci2V87HpdX3fTGS9ZY72I.jpg"
+      },
+      {
+        "actor": "Mickey Sumner",
+        "role": "Beth - Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/cJzv6ClDQFUWu8QVsszbfVOqLE1.jpg"
+      },
+      {
+        "actor": "Jasmine Cephas Jones",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/rf4BnsNkCSUNyDnEEr1YmCxzEzB.jpg"
+      },
+      {
+        "actor": "Gideon Glick",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/3nf1wh0bG5KoInS26FBtsIoRa6A.jpg"
+      },
+      {
+        "actor": "Motell Gyn Foster",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/sengnyU1k3Jf0lShQz8m4X8oo8Z.jpg"
+      },
+      {
+        "actor": "David Turner",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/gvzLxV9j0SCxLOUjvy2iU9G9yhn.jpg"
+      },
+      {
+        "actor": "Raymond J. Lee",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/7WDM4RpmUudmbslxHe4F2SeMB1Q.jpg"
+      },
+      {
+        "actor": "Mary Wiseman",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/85uKEsrzJ0pWMDKKwAQtYdMbnq4.jpg"
+      },
+      {
+        "actor": "Pete Simpson",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/xwPLHCwbqRSsltLrfxYCnSfkoME.jpg"
+      },
+      {
+        "actor": "Irene Choi",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/qR14WRAlwp63z6gLGCNBSG5bf8Q.jpg"
+      },
+      {
+        "actor": "Matthew Shear",
+        "role": "Terry - Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/7BsnupbG1Bjj4w3N3Qhyci1TfAk.jpg"
+      },
+      {
+        "actor": "Becca Blackwell",
+        "role": "Theater Actor",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/uieDJ7TSYgAZsXdUH4ZR5kzUaKW.jpg"
+      },
+      {
+        "actor": "Brooke Bloom",
+        "role": "Mary Ann",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/1MQEhhWgEfJ2Fqgw7uSGu0OA9Bj.jpg"
+      },
+      {
+        "actor": "Hannah Dunne",
+        "role": "Agnes - Set Designer",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/moc83r7ZkviwYqJXeIE84YvKsUR.jpg"
+      },
+      {
+        "actor": "McKinley Belcher III",
+        "role": "Lighting Designer",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/yoglJWyhgA1tnqQS9T3MQPPEsRc.jpg"
+      },
+      {
+        "actor": "Roslyn Ruff",
+        "role": "Donna - Costume Designer",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/rcUCq1uCy7QjpGrcYtdR7kyTpvJ.jpg"
+      },
+      {
+        "actor": "Robert Smigel",
+        "role": "Mediator",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/xGlGVcLhiZ4a7GIGlLzGmZtbvUF.jpg"
+      },
+      {
+        "actor": "Amanda Rovner",
+        "role": "Babysitter",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/aOGyomNd10uojcMYVEofgTE7mgZ.jpg"
+      },
+      {
+        "actor": "Carlos Jacott",
+        "role": "Producer",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/jtZ0Eh0nS0qHUEP20iT02LTYoX2.jpg"
+      },
+      {
+        "actor": "Sarah Jones",
+        "role": "Carol - Producer",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/lEiWsl1GSgM0jcfN0jMbmXv48E2.jpg"
+      },
+      {
+        "actor": "Dean Wareham",
+        "role": "Cinematographer",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/CxEjU0p84lIWkSy591Nl8LoUWn.jpg"
+      },
+      {
+        "actor": "Bashir Salahuddin",
+        "role": "Director",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/ZL5MRzjd6kWkvQXqh5mgPY1CKP.jpg"
+      },
+      {
+        "actor": "Vinny Chhibber",
+        "role": "Visual Effects Guy",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/ocJlNtK8xigpdJmcpWO10j4Szxe.jpg"
+      },
+      {
+        "actor": "Ayden Mayeri",
+        "role": "Makeup Artist",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/5SG2Glmd6n44m1NAOHfyM3Ke0qr.jpg"
+      },
+      {
+        "actor": "Erin Evans",
+        "role": "Wardrobe Assistant",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/eu1Ilfd5zwF0bjnQoE1xnvpYzdv.jpg"
+      },
+      {
+        "actor": "Lucas Neff",
+        "role": "Pablo (Grip)",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/9LxSvAJVPnxbQ0z5gJhYUfvFm9v.jpg"
+      },
+      {
+        "actor": "Annie Hamilton",
+        "role": "Becca - Nora's Assistant",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/8Sn1IGVkL22pFiGcKF0bsbb0CH2.jpg"
+      },
+      {
+        "actor": "Tunde Adebimpe",
+        "role": "Sam",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/k40ggj14fUjSipf1muSenSjWzWp.jpg"
+      },
+      {
+        "actor": "Jordyn Curet",
+        "role": "Molly",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/sUGk173dPdlR6OXQEape7EW2XT1.jpg"
+      },
+      {
+        "actor": "Justin Claiborne",
+        "role": "Jules",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/75KIWiorc1kbjPBL1DY3myeLtmq.jpg"
+      },
+      {
+        "actor": "Kyle Bornheimer",
+        "role": "Ted",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/79KUwXqB2FdKqxsAMppkJ8Aa78e.jpg"
+      },
+      {
+        "actor": "Pilar Holland",
+        "role": "Law Receptionist",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/k3aLuByd8CUsf7FPRXqF3h6kk4B.jpg"
+      },
+      {
+        "actor": "Emily Cass McDonnell",
+        "role": "Nell (Bert's Associate)",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/uPdn2JEaaQPiwAR6wEMUkrnHPbg.jpg"
+      },
+      {
+        "actor": "Andrew Steven Hernandez",
+        "role": "Pink Dot Clerk",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/yYgL8keSJaU3H9Psco5YvfG5rmZ.jpg"
+      },
+      {
+        "actor": "Amir Talai",
+        "role": "Amir",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/zg5o41YaOESJF5ExZxsOKLefDFI.jpg"
+      },
+      {
+        "actor": "Juan Alfonso",
+        "role": "Arguing Man",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/a6CDu3qjXzbG7N7GiKEwEXGhII6.jpg"
+      },
+      {
+        "actor": "Rich Fulcher",
+        "role": "Judge",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/kL4mcqgTrysG9VzzaAZO7UFdrdd.jpg"
+      },
+      {
+        "actor": "Mary Hollis Inboden",
+        "role": "Nora's Associate",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/kASjJtV38sh40dOWiL3S5YzJZPv.jpg"
+      },
+      {
+        "actor": "Peter Oliver",
+        "role": "Street Solicitor #2",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/n0ROdVjKTnFbSnisYoGAUHjjrpV.jpg"
+      },
+      {
+        "actor": "Bill Blair",
+        "role": "Party Robot Alien",
+        "photoUrl": "https://image.tmdb.org/t/p/w185/zTInottwIUbxP089eLjH0edKzmM.jpg"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "viewerRating": {
+      "rating": "M-16",
+      "descriptors": [
+        "one extended scene of mutual screaming and verbal cruelty between partners",
+        "strong language throughout including repeated profanity during arguments",
+        "alcoholism shown as a coping mechanism under emotional distress",
+        "depiction of parental estrangement and a child caught between feuding adults",
+        "brief but frank discussion of an extramarital affair"
+      ]
+    },
+    "runtime": [
+      {
+        "version": "Theatrical Cut",
+        "duration": "2:17"
+      }
+    ],
+    "awards": [
+      {
+        "body": "Academy Awards (92nd)",
+        "category": "Best Supporting Actress (Laura Dern)",
+        "result": "Won",
+        "year": 2020
+      },
+      {
+        "body": "Golden Globe Awards (77th)",
+        "category": "Best Supporting Actress – Motion Picture (Laura Dern)",
+        "result": "Won",
+        "year": 2020
+      },
+      {
+        "body": "Critics Choice Awards (25th)",
+        "category": "Best Supporting Actress (Laura Dern)",
+        "result": "Won",
+        "year": 2020
+      },
+      {
+        "body": "Screen Actors Guild Awards (26th)",
+        "category": "Outstanding Performance by a Female Actor in a Supporting Role (Laura Dern)",
+        "result": "Won",
+        "year": 2020
+      },
+      {
+        "body": "Academy Awards (92nd)",
+        "category": "Best Picture",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Academy Awards (92nd)",
+        "category": "Best Director",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Academy Awards (92nd)",
+        "category": "Best Actor in a Leading Role (Adam Driver)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Academy Awards (92nd)",
+        "category": "Best Actress in a Leading Role (Scarlett Johansson)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Academy Awards (92nd)",
+        "category": "Best Original Screenplay",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Academy Awards (92nd)",
+        "category": "Best Original Score",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "BAFTA Film Awards (73rd)",
+        "category": "Best Film",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "BAFTA Film Awards (73rd)",
+        "category": "Best Direction",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "BAFTA Film Awards (73rd)",
+        "category": "Best Leading Actor (Adam Driver)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "BAFTA Film Awards (73rd)",
+        "category": "Best Leading Actress (Scarlett Johansson)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "BAFTA Film Awards (73rd)",
+        "category": "Best Supporting Actress (Laura Dern)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "BAFTA Film Awards (73rd)",
+        "category": "Best Original Screenplay",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Golden Globe Awards (77th)",
+        "category": "Best Motion Picture – Drama",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Golden Globe Awards (77th)",
+        "category": "Best Director – Motion Picture",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Golden Globe Awards (77th)",
+        "category": "Best Actor – Motion Picture Drama (Adam Driver)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Golden Globe Awards (77th)",
+        "category": "Best Actress – Motion Picture Drama (Scarlett Johansson)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Golden Globe Awards (77th)",
+        "category": "Best Screenplay – Motion Picture",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Screen Actors Guild Awards (26th)",
+        "category": "Outstanding Performance by a Cast in a Motion Picture",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Screen Actors Guild Awards (26th)",
+        "category": "Outstanding Performance by a Male Actor in a Leading Role (Adam Driver)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Screen Actors Guild Awards (26th)",
+        "category": "Outstanding Performance by a Female Actor in a Leading Role (Scarlett Johansson)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Critics Choice Awards (25th)",
+        "category": "Best Picture",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Critics Choice Awards (25th)",
+        "category": "Best Director",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Critics Choice Awards (25th)",
+        "category": "Best Actor (Adam Driver)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Critics Choice Awards (25th)",
+        "category": "Best Actress (Scarlett Johansson)",
+        "result": "Nominated",
+        "year": 2020
+      },
+      {
+        "body": "Critics Choice Awards (25th)",
+        "category": "Best Original Screenplay",
+        "result": "Nominated",
+        "year": 2020
+      }
+    ],
+    "criticRating": "Exceptional",
+    "review": {
+      "themes": [
+        "dissolution",
+        "selfishness",
+        "negotiation",
+        "geography",
+        "parenthood",
+        "resentment",
+        "compromise",
+        "identity"
+      ],
+      "mood": [
+        "tender",
+        "raw",
+        "bittersweet"
+      ],
+      "fullReview": "Charlie and Nicole Barber are separating. He is a theater director, Brooklyn-based and self-certain. She is the actress who built her career inside his company, and who has quietly outgrown the arrangement without either of them fully registering when it happened. The film opens with each of them reciting what they love about the other — a montage of small specifics, particular and warm and clearly true — and then reveals this as a failed mediation exercise, a list of affections that neither could bring themselves to read aloud in the room where they were meant to reconcile. Noah Baumbach sets his film's entire emotional logic in those first five minutes.\n\nWhat follows is 132 minutes of two people who genuinely love each other making each other miserable through an institution — the American divorce proceeding — specifically designed to transform conflict into warfare. The genius of the screenplay is that Baumbach never assigns the blame symmetrically or asymmetrically. Charlie is oblivious to Nicole's accumulating dissatisfaction in ways that feel real and specific rather than dramatic. Nicole's move to Los Angeles, wrapped in a television opportunity, is also a geographic escape that drags their son across a continent. The lawyers who enter the film's second half — Laura Dern's ferociously confident Nora, Ray Liotta's expensive aggressor, Alan Alda's gentle but ultimately useless mediator — are not villains. They are a system, and the system eats what it is given.\n\nAdam Driver carries the weight of a man perpetually certain that the next moment is under his control even as that certainty is demonstrably the problem. It is a performance that does something rare with masculinity: it makes the obliviousness sympathetic without excusing it. The scene in which he sings Stephen Sondheim's \"Being Alive\" in a Los Angeles bar — alone, not performing, reaching for something the song articulates that he cannot — is one of the most quietly devastating things in recent American cinema. Scarlett Johansson matches him with an interiority that has more edges than audiences expecting a certain kind of performance from her might anticipate. The moment Nicole articulates, to her new lawyer, everything she has absorbed and never said — resentments compressed over years into a single clinical inventory — arrives with the force of something long overdue.\n\nThe film's centerpiece, a sustained argument between the two in Charlie's rented apartment, is a case study in how fights between people who know each other completely become targeted dismantling. Baumbach lets it run past the point of comfort, past the point of obvious dramatic climax, into a register where both parties have gone somewhere they cannot entirely come back from. The scene is unforgettable not because it is vicious — though it is — but because the viciousness is so fluent, so clearly drawn from a deep reservoir of accumulated specific knowledge. Only people who have loved each other this long know precisely where to cut.\n\nRandy Newman's score deserves mention because it does something unusual: it refuses to sentimentalize what is already sentimental. The music stays close to the emotional temperature of each scene rather than instructing the audience how to feel about it. Similarly, Robbie Ryan's cinematography keeps the frame intimate without becoming claustrophobic — New York and Los Angeles are used as opposing emotional landscapes, the city of Charlie's ambition and the city of Nicole's escape, each rendered with the specificity of a film that was clearly made by someone who knows both places through their nerve endings rather than through a location scout.\n\nThe film's only significant limitation is that it has limited interest in Nicole's internal world relative to Charlie's. Johansson's performance compensates for this imbalance more than the screenplay does, but the asymmetry is real — this is, at its center, a film about a man discovering that the people closest to him had lives he was not attending to. That framing is the point, and Baumbach is honest about it, but viewers arriving hoping for equal weight may find it slightly lopsided.\n\nMarriage Story is not a film about the failure of love. It is more uncomfortable than that: a film about love's survival into the very process designed to neutralize it. That both people still feel what they felt, even as lawyers exchange documents and custody schedules calcify, is the thing Baumbach is unwilling to let the audience look away from. Whether that reads as tragic or as something stranger and more human depends entirely on the viewer's own history with the subject."
+    }
+  },
+  {
+    id: "this-is-not-a-burial-its-a-resurrection-2019",
+    title: "This Is Not a Burial, It\'s a Resurrection",
+    originalTitle: null,
+    romanization: null,
+    year: 2019,
+    tagline: null,
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/9crWLzqUrFEoJHj8kbrUaRulKM.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/oTriUKBP348iFQ6wHAoxL2A4HcQ.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=IZcr2T-eNPE",
+    director: [
+      {
+        name: "Lemohang Jeremiah Mosese",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a2LAIzQFMiqF6L5FFHdtVHLTNbt.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Lemohang Jeremiah Mosese",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a2LAIzQFMiqF6L5FFHdtVHLTNbt.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Mary Twala",
+        role: "Mantoa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rE6SVkkrkmGUr6yVmBNg7ZOGP6a.jpg"
+      },
+      {
+        actor: "Jerry Mofokeng",
+        role: "Lesiba Player",
+        photoUrl: "https://image.tmdb.org/t/p/w185/fa4r7m3cQopZR4oNHds8XyJCIJy.jpg"
+      },
+      {
+        actor: "Makhaola Ndebele",
+        role: "Priest",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4o37GivkVIJdaNWD0BsWXzYGcVc.jpg"
+      },
+      {
+        actor: "Thabiso Makoto",
+        role: "Lasaro",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4r2xg11aSfNIYgPWq5l82Li4IgA.jpg"
+      }
+    ],
+    languages: ["Sesotho"],
+    genres: ["Drama", "Political"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "prolonged engagement with death, burial preparation, and grief",
+        "depiction of forced community displacement and cultural erasure",
+        "an elderly character\'s sustained preoccupation with dying",
+        "brief scenes of communal mourning and funeral ritual"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:00" }
+    ],
+    awards: [
+      { body: "Venice Film Festival (76th)", category: "Orizzonti Special Jury Prize", result: "Won", year: 2019 },
+      { body: "Venice Film Festival (76th)", category: "Orizzonti Award – Best Film", result: "Nominated", year: 2019 },
+      { body: "Sundance Film Festival (2020)", category: "World Cinema Grand Jury Prize – Dramatic", result: "Nominated", year: 2020 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["mortality", "resistance", "displacement", "land", "memory", "community", "grief", "legacy"],
+      mood: ["elegiac", "defiant", "hypnotic"],
+      fullReview: "In the mountain kingdom of Lesotho, an eighty-year-old widow named Mantoa has outlived everyone she loves. Her husband is gone, her children are gone, her grandchildren have left for the city. She has begun settling her affairs, chosen the plot where she will be buried beside her family, and is waiting, not with despair but with a kind of exhausted readiness, for the end. And then she is told the end will come in a different form: a government reservoir project will submerge the entire valley, her village will be resettled, and her family\'s graves will be lost beneath the water forever. It is the prospect of this erasure — not her death but the death of everything she has known — that gives Mantoa a reason to keep living.\n\nLemohang Jeremiah Mosese made this film on what appears to be almost nothing, in a country rarely seen in international cinema, with a cast of non-professional locals and one towering central performance. The result is one of the most formally confident debut features to emerge from the African continent in decades. That confidence is not in any way the forced boldness of a young filmmaker overextending — it is the confidence of someone who has found the exact cinematic language for exactly the story they need to tell, and had the discipline to use nothing else.\n\nPierre de Villiers shot the film in the Academy ratio, which means the landscape fills the frame like a painting and the mountains press down on the people with the patient permanence of things that outlast civilizations. Mosese and de Villiers use color as emotional temperature: the deep ochres and rusted reds of the Lesotho highlands, the blankets the villagers wear, the flickering candlelight inside mud-brick rooms — all of it feels lived-in rather than composed, which is the harder trick to pull off. There is a sequence early in the film involving a funeral procession moving across an enormous hillside that establishes in about ninety seconds what kind of cinema this is going to be. It is cinema that understands the relationship between human smallness and geographical scale without making the humans feel irrelevant.\n\nMary Twala, who died in 2020 at the age of eighty, carries the film on a performance of extraordinary restraint. The camera looks at her face the way it looks at the mountains: with the conviction that what is there runs deep and does not need explaining. Mantoa is not a hero in any conventional sense — she is not charismatic or strategic, she does not deliver speeches. She simply refuses. The film understands that this refusal, performed by a woman this old, this tired, and this clear-eyed about what she stands to lose, is the most radical act it can depict. Her stubbornness catalyzes something in the village around her, but Mosese is careful not to make this a triumphalist community-rallying story. The shadow of loss never lifts.\n\nThe film draws on Basotho oral tradition — a griot-style narrator, choral singing, a sense that the story is being passed down rather than simply told — without ever treating these elements as decoration or exoticism. They are structural. The narration gives the film the quality of a myth being formed in real time, which is precisely what Mosese seems to be after: the idea that the act of remembering and bearing witness is itself a form of survival, a burial that is also a resurrection. The title is not a paradox. It is the thesis.\n\nYu Miyashita\'s score weaves beneath the Sesotho choral music without overwhelming it, knowing when to yield to silence, which the film deploys with more skill than most. The editing, also by Mosese himself, has a rhythm that feels less like cutting and more like breathing — unhurried, internally consistent, willing to sit in a moment until the moment gives up what it contains.\n\nThe political critique is inseparable from the spiritual one. Large infrastructure projects displacing rural communities in the name of progress is not a problem unique to Lesotho, and Mosese does not argue the point so much as make it felt in the body. The reservoir that will swallow Mantoa\'s village is never shown as malevolent. It is simply indifferent, which is worse. Bureaucracies that erase what they cannot value have no need for malevolence.\n\nThis is not a film that will satisfy viewers wanting conventional dramatic payoff. Its pleasures are the pleasures of sustained attention: the reward of sitting with a place and a person long enough that the rhythms of the film become the rhythms of something true. For those who can meet it there, it leaves a mark that ordinary cinema does not."
+    }
+  },
+  {
+    id: "like-someone-in-love-2012",
+    title: "Like Someone in Love",
+    originalTitle: null,
+    romanization: null,
+    year: 2012,
+    tagline: null,
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/g28JeY54PspCF9w0kdgwRhK1Qtu.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/9CIG8zW5iyxjSjNDF7hK74rsky8.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=A0cykyKMvE0",
+    director: [
+      {
+        name: "Abbas Kiarostami",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Abbas Kiarostami",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rTlz5ciu41FxyVuXA82a3tSYVZ8.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Rin Takanashi",
+        role: "Akiko",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7V60jrzDrF6vRm2Q9MElTbVY1mW.jpg"
+      },
+      {
+        actor: "Tadashi Okuno",
+        role: "Takashi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1dUKkLS4ITAwjDs8PCw0AThifat.jpg"
+      },
+      {
+        actor: "Ryo Kase",
+        role: "Noriaki",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9Iq3R0mnMUDMyG6LyfTZfKr3nS5.jpg"
+      },
+      {
+        actor: "Denden",
+        role: "Hiroshi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eC7mmWy83TlWJ0RYr4yCWAqycC5.jpg"
+      },
+      {
+        actor: "Ryota Nakanishi",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jibdyC9IDxprL1EhdgaoxTg3tR1.jpg"
+      },
+      {
+        actor: "Hiroyuki Kishi",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kRWAVSNMp5XyHAlUlaiVT5AIKfa.jpg"
+      },
+      {
+        actor: "Koichi Ohori",
+        role: "The Taxi Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iPtHJNsqHVa9Vic59Naa8DvSivX.jpg"
+      },
+      {
+        actor: "Tomoaki Tatsumi",
+        role: "The Mechanic",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hNMLiqNIz6yuNx1wpynQTgkYxCp.jpg"
+      },
+      {
+        actor: "Seina Kasugai",
+        role: "Nagisa\'s Friend",
+        photoUrl: "https://image.tmdb.org/t/p/w185/elcYANzA1YMvvW9T0X58ylfApNG.jpg"
+      }
+    ],
+    languages: ["Japanese"],
+    genres: ["Drama", "Mystery"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "implied sex work and off-screen commercial sexual transaction",
+        "brief non-explicit sexual content",
+        "possessive jealousy and controlling relationship behaviour",
+        "implied violence in the final scene"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:49" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (65th)", category: "Palme d\'Or", result: "Nominated", year: 2012 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["misidentification", "performance", "loneliness", "possession", "complicity", "displacement", "desire"],
+      mood: ["contemplative", "melancholic", "unsettling"],
+      fullReview: "Abbas Kiarostami spent the final phase of his career fascinated by the charged distance between two people who cannot — or will not — see each other clearly. \"Like Someone in Love\" is perhaps the purest expression of that obsession. Set in Tokyo over roughly twenty-four hours, the film follows Akiko, a young woman working as an escort while quietly drowning in competing obligations: a client who has booked her for the evening, a fiancé whose jealousy is barely distinguishable from menace, and a grandmother she has not visited in years, whose increasingly plaintive voicemails fill an answerphone Akiko cannot bring herself to return. When she arrives at the apartment of Takashi — an elderly retired professor surrounded by books and a soup that feeds only one — what unfolds is not seduction or transaction so much as a collision of projections. He sees in her something she is not. She performs something she cannot sustain indefinitely. And when the fiancé enters the picture the next morning and mistakes the old man for her grandfather, the misidentification multiplies and the film shifts into something more precarious.\n\nKiarostami operates almost entirely in compression. Scenes do not build toward revelation — they withhold it. The opening sequence, a long and seemingly static take in a busy bar, is almost perverse in its refusal: the camera holds on one face while another voice speaks just outside the frame, and the audience is left to triangulate meaning from partial information. This is not a stylistic affectation. It is the film\'s central argument made structural: reality, in Kiarostami\'s world, is always arriving from just off-screen.\n\nRin Takanashi carries a tremendous amount of the film on a performance that initially reads as flat before revealing itself as deeply interior. Akiko is not passive — she is calculating with every measured silence, every half-answered question, every decision about what not to correct. The film never condescends to explain her, which is both its most respectful and most demanding quality. Tadashi Okuno as Takashi offers warmth that has calcified slightly at its edges: a man who has spent enough years alone with his books and his habits that he cannot entirely distinguish genuine feeling from the comfort of a new role to play. Ryo Kase\'s Noriaki is coiled energy barely contained — the kind of possessive devotion that functions as a slow enclosure, and Kase plays it without tipping into villain, which makes him considerably more frightening.\n\nWhat the film is examining — and this is where revisitation rewards — is the infrastructure of human misidentification. Not deception in any schematic sense, but the way people assemble each other from available materials and then behave as though the assembly were real. The title, drawn from the Ella Fitzgerald standard, is not decorative. It is the thesis. Everyone here is performing love. Whether anyone is actually feeling it — or whether, at some point, the performance and the feeling became the same thing — is the question Kiarostami leaves open with characteristic precision.\n\nKatsumi Yanagijima\'s cinematography refuses to make a subject of Tokyo in the way that so many foreign directors cannot resist. The city exists as ambient pressure rather than backdrop — surfaces and interiors, light through glass, a taxi moving through wet streets at night. For a filmmaker working in his second consecutive country outside Iran, the restraint with which Kiarostami treats his location is admirable and deliberate. He is interested in faces and rooms, not in cultural tourism.\n\nThe film is not without its friction points. A sustained driving sequence in the middle section — which is meant to hold in tension, and sometimes does — occasionally tips from deliberate stillness into something closer to inertia. Kiarostami trusts his audience with a generosity that borders on severity, and the film\'s unwillingness to modulate its pace across nearly two hours demands a viewer who is genuinely willing to meet it on its terms. Those who require narrative momentum will find the ground unsteady beneath them.\n\nThe final moment — arriving without warning, cutting to black before any settling — functions as either an act of profound formal courage or a withheld conclusion, depending on how far inside the film a viewer has managed to travel. It does not resolve. It stops. And what stays afterward is not the plot but the architecture of mutual incomprehension that Kiarostami has been quietly constructing all along: the grandmother\'s unanswered messages, the old man\'s careful soup, the fiancé\'s clenched certainty. A film about people who are standing close enough to touch while looking at entirely different things."
+    }
+  },
+  {
+    id: "carlos-2010",
+    title: "Carlos",
+    originalTitle: null,
+    romanization: null,
+    year: 2010,
+    tagline: "The man who hijacked the world",
+    titleLogoUrl: null,
+    posterUrl: "https://image.tmdb.org/t/p/original/ee6EiUOXdvr7DvnBBEG691TNSKh.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/bYCj7U89sVREvaxFKpnk2kbnxnF.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=kLrzMibJWuk",
+    director: [
+      {
+        name: "Olivier Assayas",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yNhxilJd1QPGf1snqLtesAD7Z6M.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Olivier Assayas",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yNhxilJd1QPGf1snqLtesAD7Z6M.jpg"
+      },
+      {
+        name: "Dan Franck",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tBWcQpKcRaVBufYmPXqgeGMYZQl.jpg"
+      },
+      {
+        name: "Daniel LeConte",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Edgar Ramírez",
+        role: "Ilich Ramírez Sánchez (\'Carlos\')",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7VZnIAI7Yye0rfs7fPM5wI2CI6N.jpg"
+      },
+      {
+        actor: "Nora Waldstätten",
+        role: "Magdalena Kopp",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8TkA3ds9QUtCKIDinTGIJRDJ6iU.jpg"
+      },
+      {
+        actor: "Talal Jurdi",
+        role: "Kamal al-Issawi (\'Ali\')",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cHt27qVfJMMNLrC9nq5cbNQRfuh.jpg"
+      },
+      {
+        actor: "Christoph Bach",
+        role: "Hans-Joachim Klein (\'Angie\')",
+        photoUrl: "https://image.tmdb.org/t/p/w185/DjyM6g981W3qiHQZl4PUvjM2OJ.jpg"
+      },
+      {
+        actor: "Julia Hummer",
+        role: "Gabriele Kröcher-Tiedemann (\'Nada\')",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vzV6zj3vcFFbrPhrHWAOy9FYx9N.jpg"
+      },
+      {
+        actor: "Ahmad Kaabour",
+        role: "Wadie Haddad",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iABNumYtNAkoiDuqXBuXXZPYZjF.jpg"
+      },
+      {
+        actor: "Fadi Abi Samra",
+        role: "Michel Moukharbel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ttYU20sBXUYimLVFPmfVpjRc4o9.jpg"
+      },
+      {
+        actor: "Rodney El Haddad",
+        role: "Anis Naccache (\'Khalid\')",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vt3z6C443AeV9rp1i5F5uzhhPnr.jpg"
+      },
+      {
+        actor: "Rami Farah",
+        role: "\'Joseph\'",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yhyx4c7Rs80NWxa1J9lMXLERKyw.jpg"
+      },
+      {
+        actor: "Aljoscha Stadelmann",
+        role: "Wilfred Böse (\'Boni\')",
+        photoUrl: "https://image.tmdb.org/t/p/w185/s5R3CCFFfjHBZ5N2uUVpfMWvBHY.jpg"
+      },
+      {
+        actor: "Katharina Schüttler",
+        role: "Brigitte Kuhlmann",
+        photoUrl: "https://image.tmdb.org/t/p/w185/flIGG4GZ1r8IsrpvsuVV0LegK59.jpg"
+      },
+      {
+        actor: "Alejandro Arroyo",
+        role: "Dr. Valentín Hernández",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yal9qdrx5AKEQ61aBaajIGN6Q7d.jpg"
+      },
+      {
+        actor: "Susanne Wuest",
+        role: "Edith Heller",
+        photoUrl: "https://image.tmdb.org/t/p/w185/digwuYrLyKVJVTW8BAgGCFduRta.jpg"
+      },
+      {
+        actor: "Anna Thalbach",
+        role: "Inge Viett",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iDO5j72dsEYrLFfSYhQpUSzOYMd.jpg"
+      },
+      {
+        actor: "Udo Samel",
+        role: "Bruno Kreisky",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9l15dhFSnE6i9hqplfECsJiomUl.jpg"
+      },
+      {
+        actor: "Juana Acosta",
+        role: "Amie de Carlos",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r1Zcu20O9b0R7OYfeVjZVbtk4Vb.jpg"
+      },
+      {
+        actor: "Emmanuelle Bercot",
+        role: "",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xywoj2EBThgQE8izX7979MmrlOd.jpg"
+      },
+      {
+        actor: "Patrick Rameau",
+        role: "Agent de la CIA",
+        photoUrl: "https://image.tmdb.org/t/p/w185/teHAw5JgyYewrFExd083ZXyf8M7.jpg"
+      },
+      {
+        actor: "Kida Khodr Ramadan",
+        role: "Attaché irakien",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uAUTW5TGcOoNlpGbciEzEAMb8CH.jpg"
+      },
+      {
+        actor: "Ériq Ebouaney",
+        role: "Hassan al-Tourabi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7x8P4IL9DnVlsAB5KFmMB9gfzLX.jpg"
+      },
+      {
+        actor: "Laurens Walter",
+        role: "Policier Suisse",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6zXoerkELByHCUtY1tqQdRBCiXf.jpg"
+      },
+      {
+        actor: "Timo Jacobs",
+        role: "Ami de \'Nada\'",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ey4gm3oGAgStmCpMRdqXbUmbrVq.jpg"
+      },
+      {
+        actor: "Robert Gallinowski",
+        role: "Major Helmut Voigt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a4AmEQzbIq2orcFou6AO0g3jlzm.jpg"
+      },
+      {
+        actor: "Karl Fischer",
+        role: "Colonel Harry Dahl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qoJYuCv9SNNUiPGYtD14SZirHBV.jpg"
+      },
+      {
+        actor: "Vincent Jouan",
+        role: "Commissaire Broussard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gOaoAYO3LpBpz9iw2OTJsikgIlG.jpg"
+      },
+      {
+        actor: "Yuka Hirata",
+        role: "\'Mademoiselle pleine lune\'",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nuuMoU44wARNdhuQbYS9WJKLN68.jpg"
+      },
+      {
+        actor: "Johann von Bülow",
+        role: "Pilote DC9",
+        photoUrl: "https://image.tmdb.org/t/p/w185/woQtH2CnnpzAwHMaJOTxxyT9P0b.jpg"
+      },
+      {
+        actor: "Laëtitia Spigarelli",
+        role: "Marie-Caroline Cavallo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xe1aUplohFhg3xWtbn9I7TqWRFP.jpg"
+      },
+      {
+        actor: "Samuel Achache",
+        role: "Guy Cavallo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dAtdK0Y9iKoHsn0bvjeJ5OATDnQ.jpg"
+      },
+      {
+        actor: "Olivia Ross",
+        role: "Amie de Bruno Bréguet",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5CSTFYU5WrhTqhN9ewN6NWDxOcc.jpg"
+      },
+      {
+        actor: "Mohamed Ourdache",
+        role: "Belaid Abdessalam",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nVAto7DtEldLalvRdKhdlKapqOo.jpg"
+      },
+      {
+        actor: "Guillaume Saurrel",
+        role: "Bruno Bréguet",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wPjIT44uudGLlgxMUOYM1q7zok6.jpg"
+      },
+      {
+        actor: "Abbes Zahmani",
+        role: "Abdelaziz Bouteflika",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hMhnkowqeIXu1De3pjIvAIFlorY.jpg"
+      },
+      {
+        actor: "Jule Böwe",
+        role: "Militante allemande",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a3u5r6hnDiFESbxL7s3jWROuf9m.jpg"
+      },
+      {
+        actor: "Jean-Baptiste Montagut",
+        role: "\'Erik\'",
+        photoUrl: "https://image.tmdb.org/t/p/w185/f8swUXvDbAuXfFmhGQs6RADnF9H.jpg"
+      },
+      {
+        actor: "Simon-Pierre Boireau",
+        role: "Inspecteur Donatini",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xXDcUA0vovDKouZ1YmGWVN2JVdL.jpg"
+      },
+      {
+        actor: "Pierre-François Dumeniaud",
+        role: "Inspecteur Dous",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sp8OvIQXGL6k0WumA0P1BBtb4pf.jpg"
+      },
+      {
+        actor: "Olivier Cruveiller",
+        role: "Commissaire Herranz",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pOVfqyR6yUM3o9jZcSXEoG19D9T.jpg"
+      },
+      {
+        actor: "Nicolas Briançon",
+        role: "Me Jacques Vergès",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bRsZARYU7IlXrXwDQX443VQT351.jpg"
+      },
+      {
+        actor: "André Marcon",
+        role: "Général Philippe Rondot",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tQFEk49npJO1XHh4OfSAjCfQTIz.jpg"
+      },
+      {
+        actor: "Martha Higareda",
+        role: "Amparo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kEj8kOEcJhY2lBjOwZ0TkTyalsG.jpg"
+      },
+      {
+        actor: "Razane Jammal",
+        role: "Lana Jarrar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nFFZGLhGera8UHImoKNMU63tSDP.jpg"
+      },
+      {
+        actor: "Badih Abou Chakra",
+        role: "Cheikh Yamani",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ai5tAdwWACErYx2d80jXySgW613.jpg"
+      }
+    ],
+    languages: ["French", "Arabic", "German", "Spanish", "English", "Russian", "Hungarian", "Japanese"],
+    genres: ["Drama", "Crime", "History", "Political"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "close-range assassinations and graphic gunshot wounds",
+        "brief non-explicit sexual content and partial nudity",
+        "mass hostage-taking and political terrorism depicted in procedural detail",
+        "strong language throughout in multiple languages"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "5:39" }
+    ],
+    awards: [
+      { body: "Golden Globe Awards (68th)", category: "Best Miniseries or Motion Picture Made for Television", result: "Nominated", year: 2011 },
+      { body: "Golden Globe Awards (68th)", category: "Best Actor in a Miniseries or Motion Picture Made for Television", result: "Nominated", year: 2011 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["narcissism", "ideology", "decline", "obsolescence", "betrayal", "violence", "complicity", "revolution"],
+      mood: ["electric", "corrosive", "relentless"],
+      fullReview: "Carlos arrives with the weight of its own ambition already pressing down on it. At nearly five and a half hours, Olivier Assayas\'s portrait of Ilich Ramírez Sánchez — the Venezuelan-born militant who operated as a freelance terrorist for hire across three decades of global upheaval — is one of the most audacious works of European cinema in the twenty-first century. It begins in the early 1970s with a young man of grandiose self-regard joining the Popular Front for the Liberation of Palestine, and it ends many years later in a Sudanese safe house where the same man waits for an ending, bloated, forgotten, and marooned in his own legend. Everything that happens between those two points — the Vienna OPEC siege, the Rue Toullier killings in Paris, the hijackings, the arms dealings, the shifting allegiances between client states and liberation fronts — is rendered with the obsessive density of serious historical fiction.\n\nThe opening third of the film is also its finest. Carlos in his prime is a genuinely frightening figure: charming, violent, ideologically pliable, sexually insatiable, and possessed of the specific narcissism that passes for charisma in radical political circles. Edgar Ramírez inhabits this man so completely that the performance stops reading as inhabitation at all. Ramírez does not seem to be playing Carlos so much as to have become someone capable of becoming him. The body changes across the film\'s timeline with an almost clinical faithfulness, and so does something subtler — the eyes, bright with appetite in the early sequences, gradually filming over with something between calculation and vacancy as the defeats accumulate and the years harden.\n\nAssayas works in a register that is almost deliberately unglamorous. Violence, when it comes, arrives quickly and without choreographic grace. Guns are loud. Bodies fall badly. The planning that precedes action is tedious and contingent and full of petty disagreement. There is a kind of seriousness in this — an insistence on the actual texture of political violence, its banality alongside its horror. The Vienna OPEC sequence, which forms the film\'s kinetic centrepiece, is riveting precisely because Assayas refuses to aestheticize it. It is exhausting to watch in the way that a real hostage crisis would be exhausting to endure.\n\nThe multilingual fabric of the film earns recognition beyond mere production achievement. Arabic gives way to French gives way to German gives way to Spanish with an ease that reflects not cosmopolitanism but the actual working conditions of a man who operated across borders as a kind of mercenary. The languages are not flattened into atmosphere — they carry information, establish hierarchy, signal trust and its absence. Assayas trusts his audience to keep pace, and the subtitled experience rewards that trust with a sense of genuine immersion in a world where the wrong word in the wrong tongue could cost lives.\n\nWhere the film encounters its limits is in the second and third acts, as Carlos the mythic figure gives way to Carlos the client and then to Carlos the liability. This is historically accurate — his relevance did erode, his alliances did corrode, his legend did curdle into embarrassment — but dramatically it creates a challenge the film meets only partially. Assayas remains committed to granularity even when the story has stopped generating momentum, and across the final hour, rigour begins to feel closer to duty than discovery. The audience has been asked to sustain enormous attention across an enormous duration, and what it receives in the final movement is completion rather than catharsis.\n\nThis is a film for viewers willing to sit with the full complexity of political violence — its self-justifying ideology, its operational logistics, its human costs distributed unequally across everyone it touches. Anyone who requires their epics to maintain velocity or their protagonists to court sympathy will find the runtime punishing. But for those who meet it on its own demanding terms, Carlos is an extraordinary piece of work: a genuine attempt to hold a historical life to the light and turn it slowly, examining not what a man claimed to believe but what he actually was — and what it cost to find that out."
+    }
+  },
+  {
+    id: "fish-tank-2009",
+    title: "Fish Tank",
+    originalTitle: null,
+    romanization: null,
+    year: 2009,
+    tagline: "Live, love and give as good as you get.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/r5QlA3LecUlSVnHH8GpSJCWWMyZ.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/4VgiVdd2I3AktHkOpCeSjtP4t8b.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=xf5VOvB5MHA",
+    director: [
+      {
+        name: "Andrea Arnold",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ol6skeUdmRIB2eZDq3YJpJjY4P3.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Andrea Arnold",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ol6skeUdmRIB2eZDq3YJpJjY4P3.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Katie Jarvis",
+        role: "Mia Williams",
+        photoUrl: "https://image.tmdb.org/t/p/w185/afll1BEx7eGFt1LqLYhxs2gnTbp.jpg"
+      },
+      {
+        actor: "Michael Fassbender",
+        role: "Connor O\'Reily",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+      },
+      {
+        actor: "Kierston Wareing",
+        role: "Joanne Williams",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lcPlix0o1cQxOWG0YbeshdvGzfj.jpg"
+      },
+      {
+        actor: "Rebecca Griffiths",
+        role: "Tyler Williams",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sMV2xYF2iiHUiWCu2bs5FcL7Z77.jpg"
+      },
+      {
+        actor: "Harry Treadaway",
+        role: "Billy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sPHrK9AvAYJY3udd9DcdPIyQZaE.jpg"
+      },
+      {
+        actor: "Jason Maza",
+        role: "Billy\'s Brother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/soSTKd44Gj1SrKVrsZHGXhnsWLF.jpg"
+      },
+      {
+        actor: "Jack Gordon",
+        role: "Billy\'s Brother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1skyaFtWdXkQqiG164kbQEBKmuW.jpg"
+      },
+      {
+        actor: "Anthony Geary",
+        role: "Van Man",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2flkox1NV28l7N6qRwSfxKRczMO.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "statutory sexual relationship between an adult man and a 15-year-old girl, depicted without graphic nudity",
+        "child neglect and sustained parental emotional abandonment",
+        "strong language throughout",
+        "heavy parental alcohol consumption",
+        "brief scene of animal harm",
+        "physical altercations involving a minor"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:03" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (62nd)", category: "Jury Prize", result: "Won", year: 2009 },
+      { body: "BAFTA Film Awards (63rd)", category: "Outstanding British Film", result: "Nominated", year: 2010 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["exploitation", "girlhood", "aspiration", "escape", "abandonment", "class", "complicity"],
+      mood: ["raw", "tender", "suffocating"],
+      fullReview: "Fifteen-year-old Mia Williams lives in a flat on a council estate in Essex that feels, by degrees, like a container she is slowly outgrowing. She fights with everyone and apologises to no one. She practises hip-hop dance moves alone in an empty flat in her building, reaching toward something she cannot quite name, in a neighbourhood where aspiration tends to get laughed back into its box. When her mother brings home Connor — charming, attentive, dangerous in the particular way that charm often is — Mia finds, for the first time, something that feels like being genuinely seen. What follows is Andrea Arnold\'s finest achievement: a film that refuses to look away from what that kind of attention costs a girl who has received so little of it.\n\nArnold shot the film with cinematographer Robbie Ryan in the Academy ratio — a squarish frame that holds Mia close and cuts her off from the world around her, as if the very shape of the image understands her situation. It is a formally considered decision that never announces itself. The camera follows Katie Jarvis with the fidgety intimacy of a documentary, and Jarvis, who had never acted before and was discovered by Arnold in a train station mid-argument with her boyfriend, gives one of the most astonishing debut performances in the history of British cinema. There is not a calculated moment in her body. She moves through every scene with a teenager\'s particular combination of bravado and raw exposure — daring the camera to look, and also hoping it will stop.\n\nMichael Fassbender as Connor understands something essential that keeps the film from becoming a simple morality play: he is not constructed as a villain. He is drawn to Mia in ways that he allows himself not to fully examine, and Fassbender plays this willed ambiguity with nerve. The audience is left tracking the slow calculus of what is happening slightly ahead of where the film allows Mia to track it, which is precisely the correct arrangement. The discomfort of knowing more than she does is the film\'s central mechanism, and it never resolves into the comfort of clear condemnation.\n\nWhat the film understands about class is as sharp as anything in the British social realist tradition. Arnold grew up on a council estate not far from where she shot, and the specificity shows — not exhibitionistically, but in the texture of details: the mother who drinks and dances and refuses to be a good parent in any way the world would recognise; the younger sister Tyler already performing a slightly smaller version of the same survival strategies; the particular geography of an estate where boredom, aggression, and occasional tenderness occupy the same cramped corridor. The film does not sentimentalise any of this, and it does not condescend to it either — which is rarer than it sounds.\n\nThe dance sequences are crucial to how the film works emotionally. Mia\'s relationship with hip-hop — her commitment to it, the way the body becomes somewhere else when she is moving — is neither romanticised as pure escape nor dismissed as naive ambition. It is simply hers, and Arnold treats it with the seriousness it deserves, which in Mia\'s world is more than most things receive.\n\nRunning at just over two hours, the film earns its length without straining for it. The pacing is slow in the way that actual lives are slow — accumulated detail rather than managed incident — and Arnold trusts viewers to stay present. What stays with anyone who sees it is harder to describe than to feel: something about watching a young woman in a situation she cannot fully name, making choices she cannot fully evaluate, inside a world that has never offered her anything better to choose from. The film does not tell anyone how to feel about Mia. It simply insists that she be looked at, fully and without flinching, and then lets that be enough."
+    }
+  },
+  {
+    id: "amores-perros-2000",
+    title: "Amores Perros",
+    originalTitle: null,
+    romanization: null,
+    year: 2000,
+    tagline: "Love. Betrayal. Death.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/nzZoRyKUa6kxAxhIj8eRjx6Pup0.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/A4lH22nlFF7MdalGfcvSrlC1ttt.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/tJTRLtdKPeVT8HORSbeHpdb8BKg.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=_P29GF_NbDc",
+    director: [
+      {
+        name: "Alejandro G. Iñárritu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5Mx0RilUcVjXzmeKYAZJJ0WXZMQ.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Guillermo Arriaga",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uwaWs4X3lm0KlM64pEAcOtyP6y4.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Emilio Echevarría",
+        role: "El Chivo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dd97sd38NhiXlvfrL4ZpLi138Dk.jpg"
+      },
+      {
+        actor: "Gael García Bernal",
+        role: "Octavio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
+      },
+      {
+        actor: "Vanessa Bauche",
+        role: "Susana",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1WQaHygZ1AsRxDBcPmxL0fSLNri.jpg"
+      },
+      {
+        actor: "Goya Toledo",
+        role: "Valeria",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ygZpmXYB1fDSnpeJx1PadEQLgA5.jpg"
+      },
+      {
+        actor: "Álvaro Guerrero",
+        role: "Daniel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gqo0QF9a3MQpRI2o7GVl0c8gZdu.jpg"
+      },
+      {
+        actor: "Jorge Salinas",
+        role: "Luis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pS5Pc6jHnHG1lYo1mLOvM4Otuku.jpg"
+      },
+      {
+        actor: "Marco Pérez",
+        role: "Ramiro",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y8Jbxd6qrHQ1ovj5RgeTjxR6xnU.jpg"
+      },
+      {
+        actor: "Rodrigo Murray",
+        role: "Gustavo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pmf9FobTQyWxTxoqizSW8RzrD6K.jpg"
+      },
+      {
+        actor: "Humberto Busto",
+        role: "Jorge",
+        photoUrl: "https://image.tmdb.org/t/p/w185/uFFwrUoVjd2jpcx0Wu4CP1xy5fu.jpg"
+      },
+      {
+        actor: "Gerardo Campbell",
+        role: "Mauricio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/iRQdFVRSkt3hgXiu1KDr9yu6tdi.jpg"
+      },
+      {
+        actor: "Adriana Barraza",
+        role: "Mama Octavio",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kfww4YbO9J2HpCldEqyyhQugwy5.jpg"
+      },
+      {
+        actor: "José Sefami",
+        role: "Leonardo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/e1ZXLb0kXNJt3rmHsi8ttck4WKF.jpg"
+      },
+      {
+        actor: "Laura Almela",
+        role: "Julieta",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wI6irlFuGgKiox9G9jQUqVFvq2F.jpg"
+      },
+      {
+        actor: "Dagoberto Gama",
+        role: "Alvaro",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gVobDr7rVx58LHnB5WVyExiTUjS.jpg"
+      },
+      {
+        actor: "Rodrigo Ostap",
+        role: "El jaibo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nJSc5QsQ1CsRbmrMReud66Ib2E6.jpg"
+      },
+      {
+        actor: "Patricio Castillo",
+        role: "Doctor",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oQ1z6jkhmXzRWwKRznTdqBFqHru.jpg"
+      },
+      {
+        actor: "Roberto Medina",
+        role: "Conductor de T.V.",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lRJQrbL02GuH9JPoerx9kFuE4Sv.jpg"
+      },
+      {
+        actor: "Carlos Samperio",
+        role: "Hombre deshuesadero",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4jsMBNR882XyauEsPywLrA2U27V.jpg"
+      }
+    ],
+    languages: ["Spanish"],
+    genres: ["Drama", "Crime", "Thriller"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "graphic depictions of dogfighting and severe animal injury",
+        "sustained domestic violence including repeated physical assault",
+        "a graphic fatal car accident with injury detail",
+        "murder depicted on-screen",
+        "brief non-explicit sexual content",
+        "strong language throughout"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:34" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (53rd) – International Critics Week", category: "Grand Prize", result: "Won", year: 2000 },
+      { body: "Academy Awards (73rd)", category: "Best International Feature Film", result: "Nominated", year: 2001 },
+      { body: "BAFTA Film Awards (54th)", category: "Best Film Not in the English Language", result: "Nominated", year: 2001 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["fate", "guilt", "redemption", "desire", "betrayal", "violence", "class", "mortality"],
+      mood: ["kinetic", "harrowing", "feverish"],
+      fullReview: "The opening minutes of Amores Perros are among the most viscerally effective in the history of debut features. A car is being pursued through Mexico City at speed. Inside, a young man presses a wounded dog against his chest as blood soaks through his shirt. The energy is controlled panic. When the car tears through an intersection and time stops — for the film and for everyone in it — Alejandro González Iñárritu announces himself with the confidence of someone who has nothing to prove and everything to say.\n\nThe film unfolds across three stories braided together by the crash at its centre. First: Octavio, a young man from a poor neighbourhood, discovers that his brother\'s fighting dog is exceptional, and begins working the underground circuit with dreams of escape and a longing for his brother\'s wife. Second: a model and her partner, newly moved into a shared apartment, discover what happens when the life one imagines collides with the life one actually inhabits. Third: a vagrant assassin, surrounded by stray dogs, receives a contract that forces him to confront what he has spent years running from. Three Mexico Cities. One point of rupture.\n\nThat Iñárritu was making his first feature is extraordinary. The film moves with the assurance of a director who has absorbed twenty years of global cinema and metabolised it into something wholly his own. The influence of Scorsese is audible in the cutting. The shadow of Buñuel falls across the structural cruelty. But the voice is Mexican, working-class, furious, and compassionate in equal measure, and entirely specific to a city where the brutality of the very poor and the insulation of the newly comfortable share the same geography and occasionally the same catastrophe.\n\nGuillermo Arriaga\'s screenplay is the architecture that holds everything together, and it is a more precise instrument than it is usually credited for being. The three-story structure sounds schematic described on paper, but in practice it operates more like a piece of music — themes introduced in the first movement reappear transformed in the second and third, and the full weight of what has happened only registers once all three are complete. Where the structure stumbles, and it does stumble, is in the middle segment. The Valeria-and-Daniel story is deliberately quieter and more claustrophobic, and it requires extended time with a relationship that has less oxygen than the stories surrounding it. The drama is genuine but the emotional stakes feel managed compared to what comes before and after.\n\nEmilio Echevarría, in the final and longest movement, gives the film\'s most remarkable performance — a man who has shed so many identities that what remains is not quite a person but a set of habits, a collection of dogs, and a conscience that refuses to stay buried. The character could tip easily into symbol, but Echevarría keeps him unnervingly particular. Gael García Bernal, barely twenty years old, commands the first segment with the natural authority of someone born knowing how to fill a frame.\n\nGustavo Santaolalla\'s score — spare, stringed, unhurried — creates an emotional frequency the images can vibrate against without being told what to feel. Rodrigo Prieto\'s cinematography embraces a particular kind of beautiful ugliness: overexposed, grain-heavy, honest about location without either sentimentalising poverty or aestheticising it.\n\nThis is a film about what people are willing to destroy in the service of wanting something. It does not judge its characters for wanting — it examines, sometimes without mercy, what wanting costs and who ends up paying. Twenty-five years since it detonated Mexican cinema back into international consciousness, Amores Perros has not aged into a period piece. It still cuts."
+    }
+  },
+  {
+    id: "you-can-count-on-me-2000",
+    title: "You Can Count on Me",
+    originalTitle: null,
+    romanization: null,
+    year: 2000,
+    tagline: "Family first. Love always.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/57MRTLXf65WZFKx8AcJLf67AuuZ.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/1amaZ57eFbLQDWCcKvBJYitOGE3.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/gNBZDvCZRSunLBIFehwf6QQkBwi.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=55MVAFsS7iM",
+    director: [
+      {
+        name: "Kenneth Lonergan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4eIorZhYSIAnGUCOjRv45nB08FG.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Kenneth Lonergan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4eIorZhYSIAnGUCOjRv45nB08FG.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Laura Linney",
+        role: "Sammy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
+      },
+      {
+        actor: "Mark Ruffalo",
+        role: "Terry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      },
+      {
+        actor: "Matthew Broderick",
+        role: "Brian",
+        photoUrl: "https://image.tmdb.org/t/p/w185/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
+      },
+      {
+        actor: "Jon Tenney",
+        role: "Bob",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ktb1RA23pHJKMdcFenQ2cosnCkp.jpg"
+      },
+      {
+        actor: "Rory Culkin",
+        role: "Rudy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6SkUiLHFlPEEFtKpLc7VrczaqDx.jpg"
+      },
+      {
+        actor: "J. Smith-Cameron",
+        role: "Mabel",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7MBc2xJA3BpW3SnDQsww87IA0Tr.jpg"
+      },
+      {
+        actor: "Josh Lucas",
+        role: "Rudy Sr.",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+      },
+      {
+        actor: "Gaby Hoffmann",
+        role: "Sheila",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bMdxuHqCJkf4dAFKleYRs2GXDN9.jpg"
+      },
+      {
+        actor: "Adam LeFevre",
+        role: "Sheriff Darryl",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5PHvUM9YwGbwAZIxNHBeSadesnL.jpg"
+      },
+      {
+        actor: "Amy Ryan",
+        role: "Mrs. Prescott",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bItqd1QUNpdegjBXNaVuFFPEZU4.jpg"
+      },
+      {
+        actor: "Michael Countryman",
+        role: "Mr. Prescott",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dbvj30rW9U71JphQbFT3hriBQIi.jpg"
+      },
+      {
+        actor: "Kenneth Lonergan",
+        role: "Ron",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4eIorZhYSIAnGUCOjRv45nB08FG.jpg"
+      },
+      {
+        actor: "Halley Feiffer",
+        role: "Amy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dfiugl9mWHXhZDEbxamjDSEpxf7.jpg"
+      },
+      {
+        actor: "Whitney Vance",
+        role: "Young Sammy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/whZcHM90c2EtrncdrUYZXdH7nfB.jpg"
+      },
+      {
+        actor: "Betsy Aidem",
+        role: "Minister",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2zlXAbS1OXNDwIywItmsHC3B7MX.jpg"
+      },
+      {
+        actor: "Nina Garbiras",
+        role: "Nancy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zdSLDCqhvLsk40plGJfoNMjofS1.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "parental death depicted in childhood context",
+        "moderate profanity throughout",
+        "brief non-explicit sexual content and workplace infidelity",
+        "implied casual drug and alcohol use",
+        "emotional instability and erratic behavior in an adult character"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:51" }
+    ],
+    awards: [
+      { body: "Sundance Film Festival (2000)", category: "Audience Award, Dramatic Competition", result: "Won", year: 2000 },
+      { body: "New York Film Critics Circle (2000)", category: "Best Film", result: "Won", year: 2000 },
+      { body: "New York Film Critics Circle (2000)", category: "Best Actress (Laura Linney)", result: "Won", year: 2000 },
+      { body: "New York Film Critics Circle (2000)", category: "Best Director (Kenneth Lonergan)", result: "Won", year: 2000 },
+      { body: "National Board of Review (2000)", category: "Best Film", result: "Won", year: 2000 },
+      { body: "National Board of Review (2000)", category: "Best Actress (Laura Linney)", result: "Won", year: 2000 },
+      { body: "Los Angeles Film Critics Association (2000)", category: "Best Film", result: "Won", year: 2000 },
+      { body: "Los Angeles Film Critics Association (2000)", category: "Best Actress (Laura Linney)", result: "Won", year: 2000 },
+      { body: "Los Angeles Film Critics Association (2000)", category: "Best Director (Kenneth Lonergan)", result: "Won", year: 2000 },
+      { body: "Los Angeles Film Critics Association (2000)", category: "Best Screenplay (Kenneth Lonergan)", result: "Won", year: 2000 },
+      { body: "Independent Spirit Awards (16th)", category: "Best Female Lead (Laura Linney)", result: "Won", year: 2001 },
+      { body: "Independent Spirit Awards (16th)", category: "Best Screenplay (Kenneth Lonergan)", result: "Won", year: 2001 },
+      { body: "Academy Awards (73rd)", category: "Best Actress in a Leading Role (Laura Linney)", result: "Nominated", year: 2001 },
+      { body: "Academy Awards (73rd)", category: "Best Writing, Original Screenplay (Kenneth Lonergan)", result: "Nominated", year: 2001 },
+      { body: "Golden Globe Awards (58th)", category: "Best Actress in a Motion Picture Drama (Laura Linney)", result: "Nominated", year: 2001 },
+      { body: "Screen Actors Guild Awards (7th)", category: "Outstanding Performance by a Female Actor in a Leading Role (Laura Linney)", result: "Nominated", year: 2001 },
+      { body: "Writers Guild of America Awards (53rd)", category: "Best Original Screenplay (Kenneth Lonergan)", result: "Nominated", year: 2001 },
+      { body: "Independent Spirit Awards (16th)", category: "Best Feature", result: "Nominated", year: 2001 },
+      { body: "Independent Spirit Awards (16th)", category: "Best Director (Kenneth Lonergan)", result: "Nominated", year: 2001 },
+      { body: "Independent Spirit Awards (16th)", category: "Best Male Lead (Mark Ruffalo)", result: "Nominated", year: 2001 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["grief", "abandonment", "rootedness", "estrangement", "accountability", "responsibility", "restlessness"],
+      mood: ["tender", "melancholic", "warm"],
+      fullReview: "You Can Count on Me follows Sammy Prescott, a single mother living a quietly managed life in the small upstate New York town where she grew up. When her younger brother Terry — restless, broke, and indefinitely between places — shows up after a long absence, whatever equilibrium she has assembled starts to shift. The film takes no interest in dramatic incident. What it wants to examine is the specific grammar of how two people who came from the same catastrophic loss have grown into entirely different kinds of damage.\n\nKenneth Lonergan wrote and directed the film as his debut feature, and the script carries the hallmarks of someone who has spent serious time listening to how people actually speak — not the way dialogue is usually constructed in films, where sentences complete themselves and meaning arrives on time, but the messy, half-finished, sideways manner of real conversation. Characters in this film talk around the things that matter most to them. They reach for the wrong words. They say things they immediately want to take back. Lonergan loves them all without protecting any of them from scrutiny.\n\nLaura Linney plays Sammy with the kind of precision that doesn\'t look like precision at all — it just looks like a person. Sammy has organized her world tightly. She has a job she\'s good at, a son she loves, a church she attends, and a life that makes sense from the outside. Linney communicates, without ever announcing it, that the order is defensive. That the church visits are a kind of coping mechanism. That the competence has a cost. When Terry\'s return starts pulling at the fabric of what she\'s built, Linney makes the unraveling gradual and plausible, never melodramatic.\n\nMark Ruffalo\'s Terry is not a villain. That matters enormously. He\'s charming and genuinely funny and capable of real warmth; he\'s also unreliable, slightly self-destructive, and unable to sit still long enough to let anything in his life take root. Ruffalo had done film work before this, but nothing that announced the particular thing he can do — this quality of making a flawed, even frustrating character feel entirely deserving of an audience\'s affection. Terry is the person at a party everyone gravitates toward who is also the person most likely to disappear before the night is out.\n\nThe relationship between Sammy and Terry is the film\'s entire reason for existing. They bicker with the casually cruel fluency of siblings. They\'re tender with each other in ways they can barely acknowledge. Their dynamic is built on love that has never adequately processed grief — neither of them, the film quietly implies, has ever fully sat with the fact of their parents\' death when they were children, and this unexamined wound shapes everything. Sammy controlled it. Terry ran from it. The film watches what happens when the running stops, at least briefly.\n\nMatthew Broderick appears as Brian, Sammy\'s bank-manager boss, in what amounts to a supporting role that could have been a sketch and is instead a fully realized character with his own peculiar dignity. Rory Culkin, as Sammy\'s young son Rudy, delivers one of those child performances where every scene feels entirely unconstructed — he simply exists in the movie, curious and watchful, quietly doing more work than his screen time suggests.\n\nLonergan shoots the film through cinematographer Stephen Kazmierski with a functional plainness that suits the material completely. This is not a film of visual showmanship. The camera goes where it needs to go. The editing follows emotional logic rather than genre mechanics. Lesley Barber\'s score is spare and used with genuine restraint. The result is a film that never aestheticizes its sadness, which is precisely why the sadness lands so hard.\n\nWhat keeps You Can Count on Me from tipping into the merely pleasant is Lonergan\'s refusal to reward viewers with resolution. Terry does not transform. Sammy does not break free. The ending does not tie things up so much as it pauses at a moment that feels true — a moment of something unfinished, something that will continue after the credits roll. The film argues, with great conviction and without a trace of sentimentality, that love between people who are fundamentally different is not a problem to be solved. It is simply a condition to be lived with.\n\nAnyone drawn to American independent cinema of the post-Cassavetes kind — patient, character-driven, interested in behavior over plot — will find something here that genuinely stays. This is a quiet film about people who never quite figure each other out, made by a filmmaker who clearly figured both of them out completely."
+    }
+  },
+  {
+    id: "being-john-malkovich-1999",
+    title: "Being John Malkovich",
+    originalTitle: null,
+    romanization: null,
+    year: 1999,
+    tagline: "Ever wanted to be someone else? Now you can.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/r22q04YEo6Yiakzjayr8IbDFkRF.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/2duvg8bPkSKq5pekqzBgwyCYAxI.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=LEtlqumjXLw",
+    director: [
+      {
+        name: "Spike Jonze",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x2QeqEXvi3QjgTybvZ4mmqUf4qO.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Charlie Kaufman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/75aOpLBpvdtQM3BkWGFUvMs6LvH.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "John Cusack",
+        role: "Craig Schwartz",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+      },
+      {
+        actor: "Cameron Diaz",
+        role: "Lotte Schwartz",
+        photoUrl: "https://image.tmdb.org/t/p/w185/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
+      },
+      {
+        actor: "John Malkovich",
+        role: "John Horatio Malkovich",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7GoOdGNc4ra1L0F5nJTkmIB37iu.jpg"
+      },
+      {
+        actor: "Catherine Keener",
+        role: "Maxine Lund",
+        photoUrl: "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+      },
+      {
+        actor: "Orson Bean",
+        role: "Dr. Lester",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2iz769YdycczgnGPZyXNsaN3TGR.jpg"
+      },
+      {
+        actor: "Mary Kay Place",
+        role: "Floris",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zj5ClXZyXrlEUXODXi7Sabsj1DX.jpg"
+      },
+      {
+        actor: "W. Earl Brown",
+        role: "First J.M. Inc. Customer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oBHcJc65nUmopx6lVc9ZvYYARZz.jpg"
+      },
+      {
+        actor: "Carlos Jacott",
+        role: "Larry the Agent",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jtZ0Eh0nS0qHUEP20iT02LTYoX2.jpg"
+      },
+      {
+        actor: "Willie Garson",
+        role: "Guy in Restaurant",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8M3aV0mys2MMFtsLag0Vjox9dzc.jpg"
+      },
+      {
+        actor: "Byrne Piven",
+        role: "Captain Mertin",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9N30a5ul9KofbabWDHgmqf3nZYP.jpg"
+      },
+      {
+        actor: "Gregory Sporleder",
+        role: "Drunk at Bar",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qcCA7hMP8rEEGQDfNCKKl3XZrHn.jpg"
+      },
+      {
+        actor: "Charlie Sheen",
+        role: "Charlie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/48GB5aISoibd9IYXBO40jrSgFRl.jpg"
+      },
+      {
+        actor: "Reggie Hayes",
+        role: "Don",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2DrcyfJ9ZIHEdPVl7IiIfRBVxTD.jpg"
+      },
+      {
+        actor: "K.K. Dodds",
+        role: "Wendy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nGou7wXgXAKr5oJEyUIuX9RCgFl.jpg"
+      },
+      {
+        actor: "Judith Wetzell",
+        role: "Tiny Woman",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sJKAk33MvZ9cSV4aSjWCzUnEH4H.jpg"
+      },
+      {
+        actor: "Octavia Spencer",
+        role: "Woman in Elevator",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+      },
+      {
+        actor: "Ned Bellamy",
+        role: "Derek Mantini",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9qj6thu0g6iUc2hvfoEYlO4GSbY.jpg"
+      },
+      {
+        actor: "Eric Weinstein",
+        role: "Father at Puppet Show",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yPYIjSrc1SLiVHAsBaB5RAOhINh.jpg"
+      },
+      {
+        actor: "Kevin Carroll",
+        role: "Cab Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8G4rrDJfwurNWv4BJY7PlPXqIiK.jpg"
+      },
+      {
+        actor: "Gerald Emerick",
+        role: "Sad Man in Line",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kv4mgJeEzxm7FREHQ2RF8aYm1QN.jpg"
+      },
+      {
+        actor: "Richard Fancy",
+        role: "Johnson Heyward",
+        photoUrl: "https://image.tmdb.org/t/p/w185/x99fMibFGHfXe3L6FD5cHWXDhU2.jpg"
+      },
+      {
+        actor: "Patti Tippo",
+        role: "Malkovich\'s Mother",
+        photoUrl: "https://image.tmdb.org/t/p/w185/68mCQgI46gAO4YdVnbaZGnXW8gZ.jpg"
+      },
+      {
+        actor: "Daniel Hansen",
+        role: "Boy Malkovich",
+        photoUrl: "https://image.tmdb.org/t/p/w185/b1Ysm57lDb6ittujrmorrhoGuhN.jpg"
+      },
+      {
+        actor: "Mariah O\'Brien",
+        role: "Girl Creeped Out by Malkovich",
+        photoUrl: "https://image.tmdb.org/t/p/w185/caScJZPCb9yoxiRY9sQiNzZynI0.jpg"
+      },
+      {
+        actor: "Kristin Condon",
+        role: "Ballet Dancer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k8oqXey7mSB4WTIQqSeHhLePJFh.jpg"
+      },
+      {
+        actor: "Pamela Hayden",
+        role: "Featured Character Voice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mPMtuVB6AEulRhlfn69y5RvgmNT.jpg"
+      },
+      {
+        actor: "Neil Ross",
+        role: "Featured Character Voice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pNgkQKw5k6z9kscDnOAwstcmNnt.jpg"
+      },
+      {
+        actor: "David Fincher",
+        role: "Christopher Bing (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tpEczFclQZeKAiCeKZZ0adRvtfz.jpg"
+      },
+      {
+        actor: "Sean Penn",
+        role: "Sean Penn (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+      },
+      {
+        actor: "Brad Pitt",
+        role: "Brad Pitt (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg"
+      },
+      {
+        actor: "James Murray",
+        role: "Student Puppeteer (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zzftfhnwepDC0y4HIOxmPap3Znh.jpg"
+      }
+    ],
+    languages: ["English", "French"],
+    genres: ["Comedy", "Fantasy", "Drama"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "themes of non-consensual psychological possession and bodily autonomy violation",
+        "brief non-explicit sexual content including same-sex intimacy",
+        "moderate profanity and crude language",
+        "depictions of emotional manipulation and marital infidelity",
+        "mild fantasy violence"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:53" }
+    ],
+    awards: [
+      { body: "New York Film Critics Circle (1999)", category: "Best Director (Spike Jonze)", result: "Won", year: 1999 },
+      { body: "New York Film Critics Circle (1999)", category: "Best Screenplay (Charlie Kaufman)", result: "Won", year: 1999 },
+      { body: "Independent Spirit Awards (15th)", category: "Best Screenplay (Charlie Kaufman)", result: "Won", year: 2000 },
+      { body: "Independent Spirit Awards (15th)", category: "Best Supporting Female (Catherine Keener)", result: "Won", year: 2000 },
+      { body: "Academy Awards (72nd)", category: "Best Director (Spike Jonze)", result: "Nominated", year: 2000 },
+      { body: "Academy Awards (72nd)", category: "Best Supporting Actress (Catherine Keener)", result: "Nominated", year: 2000 },
+      { body: "Academy Awards (72nd)", category: "Best Writing, Original Screenplay (Charlie Kaufman)", result: "Nominated", year: 2000 },
+      { body: "Golden Globe Awards (57th)", category: "Best Actor in a Motion Picture Comedy or Musical (John Cusack)", result: "Nominated", year: 2000 },
+      { body: "BAFTA Film Awards (53rd)", category: "Best Original Screenplay (Charlie Kaufman)", result: "Nominated", year: 2000 },
+      { body: "Writers Guild of America Awards (52nd)", category: "Best Original Screenplay (Charlie Kaufman)", result: "Nominated", year: 2000 },
+      { body: "Independent Spirit Awards (15th)", category: "Best Feature", result: "Nominated", year: 2000 },
+      { body: "Independent Spirit Awards (15th)", category: "Best Director (Spike Jonze)", result: "Nominated", year: 2000 }
+    ],
+    criticRating: "Masterpiece",
+    review: {
+      themes: ["identity", "consciousness", "desire", "control", "performance", "obsession", "possession"],
+      mood: ["surreal", "wry", "disquieting"],
+      fullReview: "On the 7½th floor of a Manhattan office building — accessible only by jamming the elevator between floors and prying the doors apart — sits a low-ceilinged rabbit warren of a workspace where failing puppeteer Craig Schwartz has taken a filing job. Behind a cabinet in that office is a small door. That door leads directly into the mind of actor John Malkovich. Craig can ride Malkovich\'s consciousness like an uninvited passenger — see through his eyes, inhabit his assurance, briefly be someone genuinely famous — for exactly fifteen minutes before being deposited, without ceremony, into a ditch beside the New Jersey Turnpike.\n\nThis is the premise. It is presented with complete deadpan seriousness, and that seriousness is everything.\n\nCharlie Kaufman\'s screenplay — his first produced work, and one of the most original American scripts in decades — functions because it never once blinks. The absurdity is structural, load-bearing. Strip away the portal, the floor-and-a-half, the pet chimpanzee nursing its own psychic wounds, and what remains is a film about people who find their own lives intolerable and will do genuinely terrible things to escape them. Kaufman understood, from the very first draft, that the most surreal premise can excavate the most ordinary human desperation. The 7½th floor is not a joke. It is an accurate address for where these characters actually live.\n\nSpike Jonze directs with a precision that the film\'s reputation for anarchic strangeness tends to obscure. He treats every scene as if it belongs to the same realistic register — no concession to the ludicrous, no winking at the audience. That commitment is what allows the film to remain genuinely unsettling even when it is very funny, which it frequently is. The humor emerges from the characters\' total earnestness. Craig does not find his situation strange. He finds it useful.\n\nJohn Cusack plays Craig as a specific species of miserable: convinced of his unrecognized genius, devoted to his art in a way that coexists seamlessly with his comprehensive self-absorption. Cameron Diaz, nearly unrecognizable under unglamorous hair and costuming, plays Craig\'s wife Lotte with a buried restlessness that the portal releases in directions neither she nor Craig could have mapped. Diaz was never adequately credited for this performance at the time. She is doing something genuinely difficult and doing it without a safety net.\n\nThe film belongs, ultimately, to Catherine Keener. As Maxine — the cool, casually devastating object of both Craig\'s and Lotte\'s desire — Keener projects a quality that resists clean description. Maxine knows exactly what she wants, feels nothing resembling guilt about pursuing it, and regards other people\'s needs as resources to be efficiently deployed. She is the coldest character in the film and its most magnetic. Every scene she enters changes temperature. The Academy\'s nomination was entirely deserved; that she did not win remains one of those small historical grievances that film conversations still occasionally rehearse.\n\nWhat Being John Malkovich is genuinely about — beneath the comedy, beneath the metaphysics — is control. Craig is a puppeteer, and the film\'s opening sequence establishes puppeteering not as a hobby but as a philosophy: the puppet master does not perform alongside but dictates entirely. The portal transforms this into something literal and grotesque. The question the film keeps raising, with real philosophical seriousness, is whether any consciousness can ever fully belong to itself, or whether interiority is always something that can be colonized. John Malkovich, the actual person who agreed to have his psyche used as a commercial venue, is both the film\'s central joke and its most quietly devastating figure.\n\nCarter Burwell\'s score is spare and strange in exactly the right proportions. Lance Acord\'s cinematography makes the 7½th floor feel simultaneously mundane and deeply wrong, which is precisely the tonal register the whole enterprise requires to work. It does work — completely, repeatedly, across every viewing.\n\nThe film earned three Academy Award nominations and deserved all of them. A quarter century on, it has lost none of its strangeness and none of its sting. What stays with a viewer afterward is not any single image or line but a general unease — the suspicion that Craig was not entirely wrong to want what he wanted, that the film knows this about him, and that this is the most disturbing thing it chooses to say."
+    }
+  },
+  {
+    id: "rushmore-1998",
+    title: "Rushmore",
+    originalTitle: null,
+    romanization: null,
+    year: 1998,
+    tagline: "Love. Expulsion. Revolution.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/qJN68kGAW0YOtTpMPR4gRDxrZDT.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/5BpHFugpgiNg68FXSqc4EJRfOuE.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/asC4h9U7pD72bkYcqzgTB7VJYLy.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=846UzdeHI1g",
+    director: [
+      {
+        name: "Wes Anderson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Wes Anderson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/s03CeUeC5yAXyB1acqP0zGNo2SC.jpg"
+      },
+      {
+        name: "Owen Wilson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lFxHIlcywMlYpe6wkW39sfBrqag.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Jason Schwartzman",
+        role: "Max Fischer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+      },
+      {
+        actor: "Bill Murray",
+        role: "Herman Blume",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+      },
+      {
+        actor: "Olivia Williams",
+        role: "Rosemary Cross",
+        photoUrl: "https://image.tmdb.org/t/p/w185/94bnuQXo3LoxNvcFXeAoVvIIm3N.jpg"
+      },
+      {
+        actor: "Seymour Cassel",
+        role: "Bert Fischer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nOSNFa4Cgs6Dm00cpDGyGiBIzJ6.jpg"
+      },
+      {
+        actor: "Brian Cox",
+        role: "Dr. Nelson Guggenheim",
+        photoUrl: "https://image.tmdb.org/t/p/w185/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+      },
+      {
+        actor: "Mason Gamble",
+        role: "Dirk Calloway",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sKsfz1K5HDBoMr4sxekuvtenQNo.jpg"
+      },
+      {
+        actor: "Sara Tanaka",
+        role: "Margaret Yang",
+        photoUrl: "https://image.tmdb.org/t/p/w185/h7EtC4J0o0q25txQMAygqL6XsIH.jpg"
+      },
+      {
+        actor: "Stephen McCole",
+        role: "Magnus Buchan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y3IuUJVnfXwdKILa7O4LmMdQr01.jpg"
+      },
+      {
+        actor: "Luke Wilson",
+        role: "Dr. Peter Flynn",
+        photoUrl: "https://image.tmdb.org/t/p/w185/nH1h9dZGSBuWIOyX27HpYyYykvr.jpg"
+      },
+      {
+        actor: "Andrew Wilson",
+        role: "Coach Beck",
+        photoUrl: "https://image.tmdb.org/t/p/w185/z5e7BqvOaMUzBPDep3bb2Bwv2mB.jpg"
+      },
+      {
+        actor: "Connie Nielsen",
+        role: "Mrs. Calloway",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+      },
+      {
+        actor: "Wallace Wolodarsky",
+        role: "Referee",
+        photoUrl: "https://image.tmdb.org/t/p/w185/a6npTg5wUQIHkyH17m5FPc9hJPV.jpg"
+      },
+      {
+        actor: "Michael Maggart",
+        role: "Concierge",
+        photoUrl: "https://image.tmdb.org/t/p/w185/l2hQrk0rZm0YAVfaV7OLKe85lVh.jpg"
+      },
+      {
+        actor: "Ed Geldart",
+        role: "Security Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/33DCRR7cDnpFCAdluQITixrc2Rz.jpg"
+      },
+      {
+        actor: "Eric Chase Anderson",
+        role: "Architect",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3psJnbzOwtu5itoManI0OS72RI8.jpg"
+      },
+      {
+        actor: "Kumar Pallana",
+        role: "Mr. LittleJeans",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xmwvYrmg2DDvUH79Be54V7r905J.jpg"
+      },
+      {
+        actor: "Stephen Dignan",
+        role: "Reuben",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zgfsOl533j3XhTHSFdUZkSW4vDf.jpg"
+      },
+      {
+        actor: "Alexis Bledel",
+        role: "Student (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1aa3qnQNMxflBuQZD7F09qFXxKN.jpg"
+      },
+      {
+        actor: "Brandon Trost",
+        role: "Vietnamese Soldier with Rocket Launcher (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ojlCBUXBaueoNV0dFUWspVSkKLL.jpg"
+      },
+      {
+        actor: "Jason Trost",
+        role: "Party Kid (uncredited)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/176pSrFZSCqLMM7wyZ4KpaazW1Y.jpg"
+      }
+    ],
+    languages: ["English", "Latin", "French", "Spanish"],
+    genres: ["Comedy", "Drama", "Romance"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "mild profanity and occasional crude language",
+        "obsessive teenage behavior and jealousy",
+        "brief mild violence and staged physical conflict",
+        "adult themes of romantic rivalry between an adult and a teenager",
+        "cigarette smoking throughout",
+        "depictions of marital breakdown and infidelity"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:33" }
+    ],
+    awards: [
+      { body: "New York Film Critics Circle (1998)", category: "Best Supporting Actor (Bill Murray)", result: "Won", year: 1998 },
+      { body: "Independent Spirit Awards (14th)", category: "Best Supporting Male (Bill Murray)", result: "Won", year: 1999 },
+      { body: "BAFTA Film Awards (52nd)", category: "Best Original Screenplay (Wes Anderson, Owen Wilson)", result: "Nominated", year: 1999 },
+      { body: "Writers Guild of America Awards (51st)", category: "Best Original Screenplay (Wes Anderson, Owen Wilson)", result: "Nominated", year: 1999 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["obsession", "ambition", "loneliness", "performance", "class", "rivalry"],
+      mood: ["wry", "melancholic", "tender"],
+      fullReview: "Max Fischer is fifteen, a scholarship student at the elite Rushmore Academy, and the founder-president of exactly eleven extracurricular clubs. He stages elaborate theatrical productions. He wears his school blazer at all times, even when no one requires it. He is failing every class. When he discovers Rosemary Cross — a first-grade teacher newly arrived on campus — he falls into the kind of catastrophic, entirely serious love that only someone who has never actually experienced love can sustain.\n\nWes Anderson\'s second feature is the film where everything locked into place. The flat compositions, the deadpan performances, the intricate production design turned inward on itself like a dollhouse — all of it was present in Bottle Rocket but somehow underpowered. In Rushmore it arrives fully formed, and the aesthetic is inseparable from the comedy, which is inseparable from the sadness, which is what makes the film something more than a very well-executed quirk delivery system.\n\nJason Schwartzman — in his film debut — plays Max with total, dangerous sincerity. He never winks at the camera, never acknowledges that Max is absurd, never lets the performance tip into parody. This is the correct choice and also the harder one. Playing a character who is genuinely embarrassing requires a kind of courage that trained film actors sometimes lack. Schwartzman doesn\'t flinch. Max\'s humiliations land because Schwartzman makes them matter.\n\nThe film belongs, though, to Bill Murray. As Herman Blume — the industrialist father of two Rushmore students who becomes Max\'s unlikely mentor, rival, and closest friend — Murray delivers one of the quietly great performances of American comedy. Blume is wealthy and deeply unhappy in ways he can only express obliquely. His marriage is failing. His sons are mediocre and he knows it. He sees in Max — in the boy\'s unearned, slightly deranged confidence — something he cannot bring himself to dismiss. Murray plays all of this in the margins: a look across a swimming pool, a pause before a sentence resolves. The Academy\'s failure to nominate him is one of the more perplexing oversights of the decade.\n\nThe screenplay — by Anderson and Owen Wilson — is looser and more generous than Anderson\'s later work. The jokes arrive in a different rhythm: less architectural, more spontaneous. There is a scene involving Max, a beehive, and a window that earns its place among the decade\'s great set-pieces. The theatrical productions staged within the film — particularly an elaborate Vietnam war drama mounted on Rushmore\'s actual grounds — function simultaneously as satire and as genuine expression of Max\'s inner life. He is making art about things he does not yet understand, which is to say he is doing exactly what artists do.\n\nOlivia Williams brings quiet dignity to Rosemary Cross, who is less developed on the page than either Max or Blume — she is, at some level, the MacGuffin — but Williams refuses to let her function as merely a prize. Mark Mothersbaugh\'s score is nimble and slightly wistful, and the film\'s eclectic rock soundtrack — the Kinks, Cat Stevens, the Who — anchors it in an emotional register that transcends any single era.\n\nWhat Rushmore is actually about, underneath the extracurriculars and the lovesick schemes, is the terror of being ordinary. Max Fischer cannot tolerate the possibility that he might not matter. Blume has lived long enough to discover that he doesn\'t, not in any way that counts, and he is still not at peace with it. The film takes both of their yearnings entirely seriously, which is the kindest thing it could do.\n\nIt is not Anderson\'s most formally accomplished work — that came later, in more controlled directions. But it may be his most human film: the one where the architecture exists to serve the people inside it rather than the other way around. Anyone who has ever wanted to matter more than the world was prepared to let them will recognize something real in it."
+    }
+  },
+
 ]; // ← paste movie objects here, one by one
