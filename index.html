@@ -21,7 +21,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="theme-gallery.css">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400;1,9..40,600&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300..800;1,300..800&family=Syne:wght@400..800&display=swap');
 
     /* ═══════════════════════════════════════════════════════════
        CSS VARIABLES
@@ -1369,7 +1369,7 @@
     .film-grid {
       display: grid;
       grid-template-columns: repeat(6, 1fr);
-      gap: 1rem;
+      gap: 2rem 1rem;
     }
 
     @media (max-width: 1399px) {
@@ -1449,7 +1449,7 @@
       justify-content: center;
       background: linear-gradient(145deg, #080E1C 0%, #0D1628 40%, #050A14 70%, #04080F 100%);
       font-family: var(--font-serif);
-      font-size: clamp(2.5rem, 6vw, 5rem);
+      font-size: clamp(2rem, 5vw, 4rem);
       font-weight: 600;
       color: rgba(100, 130, 180, 0.15);
       letter-spacing: -0.02em;
@@ -1499,12 +1499,19 @@
     }
 
     .film-card__title {
-      font-family: var(--font-serif);
-      font-size: clamp(0.72rem, 1.2vw, 0.95rem);
-      font-weight: 600;
+      font-family: var(--font-sans);
+      font-size: clamp(0.65rem, 1.2vw, 0.95rem);
+      font-weight: 700;
       color: #F8FAFC;
       line-height: 1.3;
-      margin-bottom: 0.2rem;
+      margin-bottom: 0.3rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      letter-spacing: 0.01em;
     }
 
     .film-card__title mark {
@@ -2820,7 +2827,7 @@
       }
 
       .film-grid {
-        gap: 0.4rem;
+        gap: 1.5rem 0.4rem;
       }
 
       .film-card__overlay {
@@ -3380,7 +3387,20 @@
           <input type="search" class="search-input" id="search-input" placeholder="Search films, directors, cast…"
             aria-label="Search the collection" autocomplete="off" spellcheck="false">
         </div>
-        <button class="btn-icon" id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle theme">☾</button>
+        <div class="appearance-wrapper" style="position: relative;">
+          <button class="btn-icon" id="appearance-btn" aria-haspopup="true" aria-expanded="false" title="Appearance">☾</button>
+          <div class="dropdown-menu appearance-menu" id="appearance-menu" style="right: 0; left: auto; top: calc(100% + 12px);">
+            <div class="theme-row">
+              Theme
+              <button class="theme-switch-btn" id="theme-switch-btn" aria-label="Toggle dark/light theme">
+                <span id="theme-switch-icon">☾</span> <span id="theme-switch-text">Dark</span>
+              </button>
+            </div>
+            <div class="accent-row" id="accent-swatches">
+              <!-- JS populated -->
+            </div>
+          </div>
+        </div>
       </div>
     </header>
 
@@ -4819,6 +4839,7 @@
           search: state.search,
           sort: state.sort,
           dark: document.documentElement.getAttribute('data-theme') === 'dark',
+          accent: document.documentElement.getAttribute('data-accent'),
           filters: {
             decades: [...f.decades],
             yearMin: f.yearMin,
@@ -4843,6 +4864,9 @@
         state.sort = saved.sort || 'added-desc';
         if (saved.dark !== undefined) {
           document.documentElement.setAttribute('data-theme', saved.dark ? 'dark' : 'light');
+        }
+        if (saved.accent) {
+          document.documentElement.setAttribute('data-accent', saved.accent);
         }
         const sf = saved.filters || {};
         state.filters.decades = new Set((sf.decades || []).map(Number));
@@ -4874,15 +4898,81 @@
       document.getElementById('collection-title').textContent = COLLECTION_TITLE;
       document.title = COLLECTION_TITLE;
 
-      // Theme toggle icon
-      const themeBtn = document.getElementById('theme-toggle');
-      themeBtn.textContent = document.documentElement.getAttribute('data-theme') === 'dark' ? '☾' : '☀';
-      themeBtn.addEventListener('click', () => {
+      // Appearance Menu
+      const appBtn = document.getElementById('appearance-btn');
+      const appMenu = document.getElementById('appearance-menu');
+      const themeSwitchBtn = document.getElementById('theme-switch-btn');
+      const themeSwitchIcon = document.getElementById('theme-switch-icon');
+      const themeSwitchText = document.getElementById('theme-switch-text');
+      const swatchesContainer = document.getElementById('accent-swatches');
+
+      const palettes = {
+        dark: ['cyan', 'magenta', 'emerald'],
+        light: ['violet', 'rose', 'gold']
+      };
+      const swatchColors = {
+        cyan: '#00E5FF', magenta: '#FF007F', emerald: '#10B981',
+        violet: '#8B5CF6', rose: '#F43F5E', gold: '#D4AF37'
+      };
+
+      function updateAppearanceUI() {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        const currentAccent = document.documentElement.getAttribute('data-accent') || (isDark ? 'cyan' : 'violet');
+        
+        appBtn.textContent = isDark ? '☾' : '☀';
+        themeSwitchIcon.textContent = isDark ? '☀' : '☾';
+        themeSwitchText.textContent = isDark ? 'Light' : 'Dark';
+        
+        const available = isDark ? palettes.dark : palettes.light;
+        swatchesContainer.innerHTML = available.map(c => 
+          '<div class="color-swatch ' + (c === currentAccent ? 'is-active' : '') + '" ' +
+               'data-color="' + c + '" ' +
+               'style="background-color: ' + swatchColors[c] + '" ' +
+               'aria-label="' + c + ' accent" ' +
+               'role="button" tabindex="0"></div>'
+        ).join('');
+
+        if (!available.includes(currentAccent)) {
+          document.documentElement.setAttribute('data-accent', available[0]);
+          updateAppearanceUI();
+        }
+      }
+
+      appBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        document.querySelectorAll('.dropdown-menu').forEach(m => {
+          if (m !== appMenu) m.classList.remove('is-open');
+        });
+        appMenu.classList.toggle('is-open');
+        appBtn.setAttribute('aria-expanded', appMenu.classList.contains('is-open'));
+      });
+
+      themeSwitchBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
         const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
         document.documentElement.setAttribute('data-theme', isDark ? 'light' : 'dark');
-        themeBtn.textContent = isDark ? '☀' : '☾';
+        updateAppearanceUI();
         saveState();
       });
+
+      swatchesContainer.addEventListener('click', e => {
+        e.stopPropagation();
+        if (e.target.classList.contains('color-swatch')) {
+          document.documentElement.setAttribute('data-accent', e.target.getAttribute('data-color'));
+          updateAppearanceUI();
+          saveState();
+        }
+      });
+      
+      document.addEventListener('click', (e) => {
+        if (!e.target.closest('.appearance-wrapper')) {
+          appMenu.classList.remove('is-open');
+          appBtn.setAttribute('aria-expanded', 'false');
+        }
+      });
+      appMenu.addEventListener('click', e => e.stopPropagation());
+
+      updateAppearanceUI();
 
       // Search
       const searchEl = document.getElementById('search-input');
