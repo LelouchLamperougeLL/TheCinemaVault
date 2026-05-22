@@ -2310,7 +2310,7 @@
       transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
       transform: translateY(-5px);
       line-height: 0.8;
-      text-shadow: 0 4px 12px rgba(0,0,0,0.5);
+      text-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
     }
 
     .modal__series-item.is-current-series .modal__series-number {
@@ -2346,7 +2346,7 @@
 
     .modal__series-item .film-card__overlay {
       opacity: 0;
-      background: linear-gradient(to top, rgba(0,0,0,0.98) 0%, rgba(0,0,0,0.8) 40%, rgba(0,0,0,0.4) 70%, transparent 100%);
+      background: linear-gradient(to top, rgba(0, 0, 0, 0.98) 0%, rgba(0, 0, 0, 0.8) 40%, rgba(0, 0, 0, 0.4) 70%, transparent 100%);
       padding: 16px 12px 12px 12px;
       transition: opacity 0.4s ease;
     }
@@ -2359,7 +2359,7 @@
       font-size: 0.75rem;
       line-height: 1.3;
       margin-bottom: 4px;
-      text-shadow: 0 2px 4px rgba(0,0,0,0.9);
+      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9);
       font-weight: 500;
       letter-spacing: 0.02em;
       /* Full title shown beautifully without clamp */
@@ -2393,13 +2393,16 @@
       .modal__series {
         padding: 1.25rem 1.25rem 0;
       }
+
       .modal__series-grid {
         gap: 1.5rem;
       }
+
       .modal__series-item .film-card {
         flex: 0 0 110px;
         width: 110px;
       }
+
       .modal__series-number {
         font-size: 5rem;
         margin-right: -1rem;
@@ -3356,321 +3359,8 @@
         height: 42px;
       }
     }
-/* =========================================================
-   BRUTALIST NOIR ARCHIVE OVERRIDES
-   ========================================================= */
-
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-:root, [data-theme="light"], [data-theme="dark"] {
-  --bg: #030303 !important;
-  --surface: #0a0a0a !important;
-  --elevated: #111111 !important;
-  --bg-elevated: #111111 !important;
-  
-  --border: #333333 !important;
-  --border-glow: transparent !important;
-  
-  --accent: #FF1E1E !important;
-  --accent-dim: #CC0000 !important;
-  --accent-glow: rgba(255, 30, 30, 0.2) !important;
-  
-  --text-primary: #F0F0F0 !important;
-  --text-secondary: #999999 !important;
-  --text-tertiary: #555555 !important;
-  
-  --overlay: rgba(3, 3, 3, 0.95) !important;
-  --modal-overlay: rgba(3, 3, 3, 0.98) !important;
-  --card-hover-overlay: linear-gradient(to top, #030303 0%, rgba(3,3,3,0.8) 50%, transparent 100%) !important;
-  
-  --shadow-card: 4px 4px 0px #FF1E1E !important;
-  --shadow-modal: 8px 8px 0px #FF1E1E !important;
-  
-  --radius: 0px !important;
-  --radius-lg: 0px !important;
-  
-  --font-serif: 'Bebas Neue', sans-serif !important;
-  --font-sans: 'Space Mono', monospace !important;
-  
-  --transition: 0.1s steps(2, end) !important;
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: 9999;
-  pointer-events: none;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
-  opacity: 0.05;
-  mix-blend-mode: overlay;
-}
-
-* {
-  border-radius: 0 !important;
-  box-shadow: none !important;
-}
-
-.header {
-  background: var(--bg) !important;
-  border-bottom: 2px solid var(--border) !important;
-  border-top: none !important;
-  border-left: none !important;
-  border-right: none !important;
-  padding: 1rem 2rem !important;
-  box-shadow: none !important;
-}
-.header::after { display: none !important; }
-.header__title {
-  font-family: var(--font-serif) !important;
-  font-size: 3rem !important;
-  letter-spacing: 2px !important;
-  text-transform: uppercase !important;
-  text-shadow: 2px 2px 0px var(--accent) !important;
-  color: var(--text-primary) !important;
-}
-.header__count {
-  font-family: var(--font-sans) !important;
-  background: var(--surface) !important;
-  border: 1px solid var(--border) !important;
-  color: var(--text-secondary) !important;
-}
-.search-input {
-  background: var(--surface) !important;
-  border: 1px solid var(--border) !important;
-  color: var(--text-primary) !important;
-  font-family: var(--font-sans) !important;
-  text-transform: uppercase !important;
-}
-.search-input:focus {
-  border-color: var(--accent) !important;
-  box-shadow: 4px 4px 0px var(--accent) !important;
-  outline: none !important;
-}
-.btn-icon {
-  border: 1px solid var(--border) !important;
-  background: var(--surface) !important;
-  color: var(--text-primary) !important;
-}
-.btn-icon:hover {
-  background: var(--accent) !important;
-  color: #000 !important;
-  border-color: var(--accent) !important;
-  box-shadow: 2px 2px 0px var(--text-primary) !important;
-}
-
-#theme-toggle { display: none !important; }
-
-.controls {
-  background: var(--surface) !important;
-  border-bottom: 2px solid var(--border) !important;
-  border-left: none !important;
-  border-right: none !important;
-  border-top: none !important;
-  box-shadow: none !important;
-}
-.dropdown-btn {
-  font-family: var(--font-sans) !important;
-  border: 1px solid var(--border) !important;
-  background: var(--bg) !important;
-  color: var(--text-secondary) !important;
-  text-transform: uppercase !important;
-  font-weight: 700 !important;
-  letter-spacing: 1px !important;
-}
-.dropdown-btn.is-active, .dropdown-btn:hover {
-  border-color: var(--accent) !important;
-  background: var(--accent) !important;
-  color: #000 !important;
-  box-shadow: 2px 2px 0px var(--text-primary) !important;
-}
-.dropdown-menu {
-  background: var(--bg) !important;
-  border: 2px solid var(--border) !important;
-  box-shadow: 6px 6px 0px var(--accent) !important;
-}
-
-.film-card {
-  border: 1px solid var(--border) !important;
-  background: var(--surface) !important;
-  overflow: visible !important;
-}
-.film-card:hover {
-  transform: translate(-4px, -4px) !important;
-  box-shadow: 8px 8px 0px var(--accent) !important;
-  border-color: var(--accent) !important;
-}
-.film-card__overlay {
-  background: rgba(0,0,0,0.85) !important;
-  border-top: 1px solid var(--border) !important;
-}
-.film-card__title {
-  font-family: var(--font-serif) !important;
-  font-size: 1.5rem !important;
-  color: var(--text-primary) !important;
-  text-transform: uppercase !important;
-  letter-spacing: 1px !important;
-  line-height: 1 !important;
-}
-.film-card__year {
-  font-family: var(--font-sans) !important;
-  color: var(--accent) !important;
-  font-weight: bold !important;
-}
-.film-card__badge {
-  font-family: var(--font-sans) !important;
-  background: var(--bg) !important;
-  border: 1px solid var(--border) !important;
-  color: var(--accent) !important;
-  font-weight: bold !important;
-}
-
-.modal-overlay {
-  background: var(--overlay) !important;
-  backdrop-filter: blur(10px) grayscale(100%) !important;
-}
-.modal-content {
-  background: var(--bg) !important;
-  border: 2px solid var(--border) !important;
-  box-shadow: 12px 12px 0px var(--accent) !important;
-}
-.modal__close {
-  background: var(--accent) !important;
-  color: #000 !important;
-  border: 2px solid #000 !important;
-  font-weight: 900 !important;
-  box-shadow: 2px 2px 0px var(--text-primary) !important;
-  right: 1rem !important;
-  top: 1rem !important;
-}
-.modal__close:hover {
-  background: var(--text-primary) !important;
-  box-shadow: 2px 2px 0px var(--accent) !important;
-}
-.modal__hero-bg {
-  filter: grayscale(100%) contrast(150%) brightness(30%) !important;
-}
-.modal__hero::after {
-  background: linear-gradient(to bottom, transparent, var(--bg)) !important;
-}
-.modal__poster {
-  border: 1px solid var(--border) !important;
-  box-shadow: 8px 8px 0px var(--accent) !important;
-}
-.modal__title-text {
-  font-family: var(--font-serif) !important;
-  font-size: 5rem !important;
-  line-height: 0.9 !important;
-  text-transform: uppercase !important;
-  color: var(--text-primary) !important;
-  text-shadow: 4px 4px 0px var(--accent) !important;
-}
-@media(max-width: 768px) {
-  .modal__title-text { font-size: 3rem !important; }
-  .header__title { font-size: 2rem !important; }
-}
-.modal__tagline {
-  font-family: var(--font-sans) !important;
-  color: var(--accent) !important;
-  text-transform: uppercase !important;
-  font-weight: bold !important;
-  border-left: 4px solid var(--accent) !important;
-  padding-left: 1rem !important;
-  font-size: 0.9rem !important;
-}
-.modal__meta-row {
-  font-family: var(--font-sans) !important;
-  color: var(--text-secondary) !important;
-}
-.pill {
-  font-family: var(--font-sans) !important;
-  background: var(--surface) !important;
-  border: 1px solid var(--border) !important;
-  color: var(--text-secondary) !important;
-  text-transform: uppercase !important;
-  font-weight: bold !important;
-}
-.viewer-badge {
-  font-family: var(--font-sans) !important;
-  background: var(--accent) !important;
-  color: #000 !important;
-  border: none !important;
-  font-weight: 900 !important;
-}
-
-.modal__section-title {
-  font-family: var(--font-sans) !important;
-  color: var(--text-secondary) !important;
-  text-transform: uppercase !important;
-  border-bottom: 2px solid var(--border) !important;
-  padding-bottom: 0.5rem !important;
-  margin-bottom: 1rem !important;
-  font-weight: 700 !important;
-  letter-spacing: 2px !important;
-}
-.person-card__photo-wrap {
-  border: 1px solid var(--border) !important;
-  box-shadow: 4px 4px 0px var(--border) !important;
-}
-.person-card:hover .person-card__photo-wrap {
-  border-color: var(--accent) !important;
-  box-shadow: 4px 4px 0px var(--accent) !important;
-  transform: translate(-2px, -2px) !important;
-}
-.person-card__name {
-  font-family: var(--font-sans) !important;
-  text-transform: uppercase !important;
-  font-weight: bold !important;
-}
-
-.modal__verdict {
-  background: var(--surface) !important;
-  border: 1px solid var(--border) !important;
-  border-left: 8px solid var(--accent) !important;
-}
-.modal__verdict-badge {
-  font-family: var(--font-sans) !important;
-  background: var(--accent) !important;
-  color: #000 !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-.modal__review {
-  font-family: var(--font-sans) !important;
-  font-size: 0.95rem !important;
-  color: var(--text-primary) !important;
-}
-.modal__review p:first-child::first-letter {
-  font-family: var(--font-serif) !important;
-  color: var(--accent) !important;
-}
-
-.tag-pill {
-  font-family: var(--font-sans) !important;
-  border: 1px solid var(--border) !important;
-  background: var(--surface) !important;
-  text-transform: uppercase !important;
-}
-.tag-pill.is-active, .tag-pill:hover {
-  background: var(--accent) !important;
-  color: #000 !important;
-  border-color: var(--accent) !important;
-  box-shadow: 2px 2px 0px var(--text-primary) !important;
-}
-.count-bubble {
-  background: var(--bg) !important;
-  border: 1px solid var(--border) !important;
-}
-.filter-badge {
-  background: var(--text-primary) !important;
-  color: #000 !important;
-}
-
-::-webkit-scrollbar { width: 12px; height: 12px; }
-::-webkit-scrollbar-track { background: var(--bg); border-left: 1px solid var(--border); }
-::-webkit-scrollbar-thumb { background: var(--border); }
-::-webkit-scrollbar-thumb:hover { background: var(--accent); }
   </style>
+  <link rel="stylesheet" href="theme-gallery.css">
 </head>
 
 <body>
@@ -4901,15 +4591,15 @@ body::before {
       let seriesHtml = '';
       if (film.series && film.series.name) {
         const seriesFilms = MOVIES.filter(m => m.series && m.series.name === film.series.name)
-                                  .sort((a, b) => a.series.order - b.series.order);
-        
+          .sort((a, b) => a.series.order - b.series.order);
+
         if (seriesFilms.length > 1) {
           const cardsHtml = seriesFilms.map(m => {
             const isCurrent = m.id === film.id;
             const badgeColor = BADGE_COLORS[m.criticRating] || '#8a8680';
             const weight = RATING_WEIGHTS[m.criticRating];
             const ratingDisp = weight ? `${m.criticRating} ✦ ${weight}/10` : m.criticRating;
-            
+
             let pHtml;
             if (isSafeUrl(m.posterUrl)) {
               const fid = `s-pf-${m.id}`;
