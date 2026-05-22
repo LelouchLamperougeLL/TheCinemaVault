@@ -1669,9 +1669,9 @@
       position: absolute;
       inset: -12%;
       background-image: var(--hero-bg);
-      background-size: cover;
+      background-size: var(--hero-bg-size, cover);
       background-position: center 20%;
-      filter: blur(10px) brightness(0.28) saturate(1.4);
+      filter: blur(var(--hero-blur, 8px)) brightness(var(--hero-brightness, 0.4)) saturate(1.2);
       transform: scale(1.15);
     }
 
@@ -3360,7 +3360,6 @@
       }
     }
   </style>
-  <link rel="stylesheet" href="theme-gallery.css">
 </head>
 
 <body>
@@ -4492,10 +4491,13 @@
       const rc = RATING_COLORS[film.criticRating] || RATING_COLORS['Decent'];
 
       // Hero background
-      const bgUrl = isSafeUrl(film.backdropUrl) ? film.backdropUrl
+      const hasBackdrop = isSafeUrl(film.backdropUrl);
+      const bgUrl = hasBackdrop ? film.backdropUrl
         : isSafeUrl(film.posterUrl) ? film.posterUrl
           : null;
       const heroBg = bgUrl ? `url('${escHtml(bgUrl)}')` : 'none';
+      const heroBlur = hasBackdrop ? '4px' : '8px';
+      const heroBrightness = hasBackdrop ? '0.5' : '0.35';
 
       // Title treatment
       let titleHtml;
@@ -4652,7 +4654,7 @@
       return `
         <button class="modal__close" aria-label="Close — ${escHtml(film.title)}">✕</button>
 
-        <div class="modal__hero" style="--hero-bg:${heroBg}">
+        <div class="modal__hero" style="--hero-bg:${heroBg}; --hero-blur:${heroBlur}; --hero-brightness:${heroBrightness}">
           <div class="modal__hero-bg" aria-hidden="true"></div>
           <div class="modal__hero-inner">
             <div class="modal__poster-col">${posterHtml}</div>
