@@ -921,24 +921,53 @@ body::before {
 @media (max-width: 768px) {
   .header {
     height: auto !important;
-    padding: 1rem 1.5rem !important;
+    padding: 0.8rem 1rem !important;
     flex-wrap: wrap !important;
-    border-radius: 24px !important;
-    gap: 1rem !important;
+    border-radius: 20px !important;
+    gap: 0.8rem !important;
+    margin: 0.5rem auto !important;
   }
   
   .header__title {
     font-size: 1.5rem !important;
   }
+
+  .appearance-menu {
+    left: 0 !important;
+    right: auto !important;
+  }
   
   .controls {
-    padding: 1rem !important;
-    border-radius: 20px !important;
+    padding: 0.8rem !important;
+    border-radius: 16px !important;
   }
   
   .search-wrap {
     width: 100% !important;
     order: 3;
+  }
+
+  .film-card {
+    border-radius: 12px !important;
+  }
+
+  .film-card__overlay {
+    padding: 0.75rem !important;
+  }
+
+  .film-card__title {
+    font-size: 0.75rem !important;
+    line-height: 1.2 !important;
+    margin-bottom: 0.1rem !important;
+  }
+
+  .film-card__year {
+    font-size: 0.65rem !important;
+  }
+
+  .film-card__badge {
+    font-size: 0.6rem !important;
+    padding: 2px 6px !important;
   }
 
   .gallery-grid {
