@@ -131,8 +131,8 @@
 
     [data-theme="light"] .dropdown-menu {
       background: rgba(252, 250, 245, 0.98);
-      backdrop-filter: blur(20px) saturate(150%);
-      -webkit-backdrop-filter: blur(20px) saturate(150%);
+      backdrop-filter: blur(24px) saturate(180%);
+      -webkit-backdrop-filter: blur(24px) saturate(180%);
       border: 1px solid var(--border);
       border-top: 1px solid rgba(212, 175, 55, 0.18);
       box-shadow: 0 12px 40px rgba(80, 55, 15, 0.15), 0 0 0 1px rgba(180, 140, 60, 0.06);
@@ -456,8 +456,8 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      backdrop-filter: blur(24px) saturate(150%);
-      -webkit-backdrop-filter: blur(24px) saturate(150%);
+      backdrop-filter: blur(24px) saturate(180%);
+      -webkit-backdrop-filter: blur(24px) saturate(180%);
       border: 1px solid rgba(255, 255, 255, 0.08);
       border-bottom: none;
       box-shadow: 0 12px 32px rgba(0, 0, 0, 0.5);
@@ -624,8 +624,8 @@
       align-items: center;
       gap: 0.8rem;
       flex-wrap: wrap;
-      backdrop-filter: blur(24px) saturate(150%);
-      -webkit-backdrop-filter: blur(24px) saturate(150%);
+      backdrop-filter: blur(24px) saturate(180%);
+      -webkit-backdrop-filter: blur(24px) saturate(180%);
       box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4);
     }
 
@@ -1031,8 +1031,8 @@
       top: -6px;
       right: -6px;
       background: rgba(17, 26, 48, 0.85);
-      backdrop-filter: blur(8px);
-      -webkit-backdrop-filter: blur(8px);
+      backdrop-filter: blur(24px) saturate(180%);
+      -webkit-backdrop-filter: blur(24px) saturate(180%);
       border: 1px solid rgba(255, 255, 255, 0.08);
       color: var(--text-secondary);
       font-family: var(--font-sans);
@@ -1475,18 +1475,44 @@
       position: absolute;
       top: 0.6rem;
       right: 0.6rem;
-      font-size: 0.6rem;
-      font-weight: 700;
-      letter-spacing: 0.10em;
-      text-transform: uppercase;
-      color: var(--badge-color, var(--accent));
-      background: rgba(0, 0, 0, 0.75);
-      backdrop-filter: blur(4px);
-      padding: 3px 7px;
-      border-radius: 3px;
-      border: 1px solid currentColor;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
       opacity: 0;
       transition: opacity var(--transition);
+      z-index: 2;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, rgba(20,20,20,0.5), rgba(0,0,0,0.8));
+      backdrop-filter: blur(12px) saturate(200%);
+      -webkit-backdrop-filter: blur(12px) saturate(200%);
+      animation: breathe-glow 4s ease-in-out infinite;
+    }
+
+    .film-card__badge::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      padding: 3px;
+      background: conic-gradient(from 0deg, var(--g2) 0%, var(--g1) calc(var(--score) * 100%), color-mix(in srgb, var(--g1) 15%, transparent) 0);
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+              mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+              mask-composite: exclude;
+      pointer-events: none;
+    }
+
+    .film-card__badge span {
+      position: relative;
+      z-index: 1;
+      font-size: 0.75rem;
+      font-family: 'Inter', system-ui, sans-serif;
+      font-weight: 900;
+      letter-spacing: -0.03em;
+      color: var(--g1);
+      text-shadow: 0 0 8px color-mix(in srgb, var(--g1) 60%, transparent);
     }
 
     .film-card:hover .film-card__badge {
@@ -1592,8 +1618,8 @@
       position: fixed;
       inset: 0;
       background: rgba(2, 4, 10, 0.88);
-      backdrop-filter: blur(24px) saturate(120%);
-      -webkit-backdrop-filter: blur(24px) saturate(120%);
+      backdrop-filter: blur(24px) saturate(180%);
+      -webkit-backdrop-filter: blur(24px) saturate(180%);
       z-index: 1000;
       display: flex;
       align-items: flex-start;
@@ -1650,7 +1676,7 @@
       align-items: center;
       justify-content: center;
       transition: var(--transition);
-      backdrop-filter: blur(8px);
+      backdrop-filter: blur(24px) saturate(180%);
     }
 
     .modal__close:hover {
@@ -1773,7 +1799,55 @@
     }
 
     .modal__title-wrap {
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
       margin-bottom: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .modal__hero-badge {
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      flex-shrink: 0;
+      background: linear-gradient(135deg, rgba(30,30,30,0.5), rgba(0,0,0,0.8));
+      backdrop-filter: blur(16px) saturate(200%);
+      -webkit-backdrop-filter: blur(16px) saturate(200%);
+      animation: breathe-glow 4s ease-in-out infinite;
+      transition: transform 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
+    }
+    .modal__hero-badge:hover {
+      transform: scale(1.05);
+    }
+
+    .modal__hero-badge::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      padding: 5px;
+      background: conic-gradient(from 0deg, var(--g2) 0%, var(--g1) calc(var(--score) * 100%), color-mix(in srgb, var(--g1) 12%, transparent) 0);
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+              mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+              mask-composite: exclude;
+      pointer-events: none;
+    }
+
+    .modal__hero-badge span {
+      position: relative;
+      z-index: 1;
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 1.4rem;
+      font-weight: 900;
+      letter-spacing: -0.04em;
+      color: #ffffff;
+      text-shadow: 0 0 16px color-mix(in srgb, var(--g1) 100%, transparent);
     }
 
     .modal__title-logo {
@@ -1859,14 +1933,14 @@
       background: rgba(248, 250, 252, 0.1);
       color: rgba(248, 250, 252, 0.75);
       border: 1px solid rgba(248, 250, 252, 0.15);
-      backdrop-filter: blur(4px);
+      backdrop-filter: blur(24px) saturate(180%);
     }
 
     .pill--genre {
       background: rgba(212, 175, 55, 0.15);
       color: #D4AF37;
       border: 1px solid rgba(212, 175, 55, 0.25);
-      backdrop-filter: blur(4px);
+      backdrop-filter: blur(24px) saturate(180%);
     }
 
     .modal__viewer-rating {
@@ -2354,27 +2428,45 @@
       bottom: 100%;
       left: 50%;
       transform: translateX(-50%) translateY(10px) scale(0.95);
-      margin-bottom: 15px; /* Base distance from poster */
+      margin-bottom: 15px;
       opacity: 0;
-      transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1); /* Syncs perfectly with poster animation */
-      white-space: nowrap;
+      transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
       z-index: 1;
-      
-      font-family: var(--font-sans);
-      color: rgba(255, 255, 255, 0.95);
-      font-size: 0.55rem;
-      padding: 5px 12px;
-      font-weight: 500;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      
-      background: rgba(0, 0, 0, 0.4);
-      backdrop-filter: blur(8px);
-      -webkit-backdrop-filter: blur(8px);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-top: 1px solid rgba(255, 255, 255, 0.2); /* Subtle top edge highlight */
-      border-radius: 4px; /* Elegant slight rounding */
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, rgba(30,30,30,0.5), rgba(0,0,0,0.8));
+      backdrop-filter: blur(12px) saturate(180%);
+      -webkit-backdrop-filter: blur(12px) saturate(180%);
+      animation: breathe-glow 4s ease-in-out infinite;
+    }
+
+    .modal__series-badge::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      padding: 4px;
+      background: conic-gradient(from 0deg, var(--g2) 0%, var(--g1) calc(var(--score) * 100%), color-mix(in srgb, var(--g1) 15%, transparent) 0);
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+              mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+              mask-composite: exclude;
+      pointer-events: none;
+    }
+
+    .modal__series-badge span {
+      position: relative;
+      z-index: 1;
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 0.85rem;
+      font-weight: 900;
+      letter-spacing: -0.03em;
+      color: #ffffff;
+      text-shadow: 0 0 14px color-mix(in srgb, var(--g1) 100%, transparent);
     }
 
     .modal__series-info {
@@ -2479,28 +2571,58 @@
 
     /* ─── Critic Verdict ────────────────────────────────────── */
     .modal__verdict {
-      background: linear-gradient(135deg,
-          rgba(var(--verdict-color, 212 175 55) / 0.06) 0%,
-          rgba(7, 12, 26, 0.0) 100%);
+      background: linear-gradient(135deg, color-mix(in srgb, var(--g1) 6%, transparent) 0%, transparent 100%);
       border-top: 1px solid rgba(255, 255, 255, 0.05);
-      border-left: 3px solid var(--verdict-border, var(--accent));
+      border-left: 3px solid var(--g1);
       padding: 2rem 2.5rem 2rem calc(2.5rem - 3px);
     }
 
     .modal__verdict-badge {
       display: inline-flex;
       align-items: center;
+      position: relative;
       font-size: 0.65rem;
       font-weight: 700;
       letter-spacing: 0.2em;
       text-transform: uppercase;
-      color: var(--verdict-color, var(--accent));
-      background: var(--verdict-bg, rgba(212, 175, 55, 0.1));
-      border: 1.5px solid var(--verdict-border, var(--accent));
       padding: 6px 16px;
-      border-radius: 24px;
       margin-bottom: 1.5rem;
-      box-shadow: 0 0 20px var(--verdict-bg, rgba(212, 175, 55, 0.1));
+      border-radius: 24px;
+      /* Typography */
+      background: linear-gradient(90deg, var(--g1), var(--g2));
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: var(--g1);
+      background-clip: padding-box;
+      box-shadow: 0 4px 16px 0 color-mix(in srgb, var(--g1) 20%, transparent);
+      z-index: 1;
+    }
+
+    .modal__verdict-badge::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      background: color-mix(in srgb, var(--g1) 10%, transparent);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      z-index: -1;
+    }
+
+    .modal__verdict-badge::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      padding: 1.5px;
+      background: linear-gradient(135deg, var(--g1), var(--g2));
+      -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
+      mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+      mask-composite: exclude;
+      z-index: -1;
+      opacity: 0.9;
     }
 
     .modal__review {
@@ -2653,8 +2775,7 @@
 
       .film-card__badge {
         opacity: 1;
-        font-size: 0.5rem;
-        padding: 2px 5px;
+        transform: scale(0.9);
       }
 
       .film-card__title {
@@ -2903,10 +3024,7 @@
       }
 
       .film-card__badge {
-        font-size: 0.45rem;
-        padding: 1px 4px;
-        top: 0.35rem;
-        right: 0.35rem;
+        transform: scale(0.85); top: 0.35rem; right: 0.35rem;
       }
 
       /* ── Modal ── */
@@ -3347,7 +3465,7 @@
       right: 0;
       z-index: 2500;
       background: linear-gradient(135deg, rgba(13, 22, 40, 0.98) 0%, rgba(4, 8, 15, 0.99) 100%);
-      backdrop-filter: blur(16px);
+      backdrop-filter: blur(24px) saturate(180%);
       border-top: 1px solid rgba(74, 222, 128, 0.3);
       padding: 12px 1.5rem;
       padding-bottom: max(12px, env(safe-area-inset-bottom));
@@ -3427,7 +3545,16 @@
         height: 42px;
       }
     }
-  </style>
+  
+    @keyframes breathe-glow {
+      0%, 100% {
+        box-shadow: 0 4px 16px 0 color-mix(in srgb, var(--g1) 30%, transparent), inset 0 0 10px rgba(255,255,255,0.02);
+      }
+      50% {
+        box-shadow: 0 8px 28px 0 color-mix(in srgb, var(--g1) 55%, transparent), inset 0 0 15px rgba(255,255,255,0.05);
+      }
+    }
+    </style>
 </head>
 
 <body>
@@ -3556,30 +3683,17 @@
       'Mediocre': 5, 'Flawed': 4, 'Poor': 3, 'Awful': 2, 'Abysmal': 1
     };
 
-    const RATING_COLORS = {
-      'Masterpiece': { text: '#D4AF37', bg: 'rgba(212,175,55,0.12)', border: '#D4AF37' },
-      'Exceptional': { text: '#4ADE80', bg: 'rgba(74,222,128,0.10)', border: '#4ADE80' },
-      'Great': { text: '#22C55E', bg: 'rgba(34,197,94,0.10)', border: '#22C55E' },
-      'Solid': { text: '#059669', bg: 'rgba(5,150,105,0.10)', border: '#059669' },
-      'Decent': { text: '#38BDF8', bg: 'rgba(56,189,248,0.10)', border: '#38BDF8' },
-      'Mediocre': { text: '#94A3B8', bg: 'rgba(148,163,184,0.10)', border: '#94A3B8' },
-      'Flawed': { text: '#F97316', bg: 'rgba(249,115,22,0.10)', border: '#F97316' },
-      'Poor': { text: '#EF4444', bg: 'rgba(239,68,68,0.10)', border: '#EF4444' },
-      'Awful': { text: '#DC2626', bg: 'rgba(220,38,38,0.10)', border: '#DC2626' },
-      'Abysmal': { text: '#991B1B', bg: 'rgba(153,27,27,0.10)', border: '#991B1B' }
-    };
-
-    const BADGE_COLORS = {
-      'Masterpiece': '#D4AF37',
-      'Exceptional': '#4ADE80',
-      'Great': '#22C55E',
-      'Solid': '#059669',
-      'Decent': '#38BDF8',
-      'Mediocre': '#94A3B8',
-      'Flawed': '#F97316',
-      'Poor': '#EF4444',
-      'Awful': '#DC2626',
-      'Abysmal': '#991B1B'
+    const RATING_GRADIENTS = {
+      'Masterpiece': ['#F9D423', '#FF4E50'],
+      'Exceptional': ['#00E5FF', '#FF007F'],
+      'Great':       ['#10B981', '#06B6D4'],
+      'Solid':       ['#3B82F6', '#06B6D4'],
+      'Decent':      ['#7DD3FC', '#818CF8'],
+      'Mediocre':    ['#9CA3AF', '#6B7280'],
+      'Flawed':      ['#F97316', '#E11D48'],
+      'Poor':        ['#EF4444', '#991B1B'],
+      'Awful':       ['#84CC16', '#4D7C0F'],
+      'Abysmal':     ['#7F1D1D', '#4C1D95']
     };
 
     /* ═══════════════════════════════════════════════════════════
@@ -3948,27 +4062,37 @@
       return markedText;
     }
 
-    function buildCard(film, q, index = 0) {
-      const card = document.createElement('article');
-      card.className = 'film-card';
-      card.style.animationDelay = `${index * 0.04}s`;
-      card.setAttribute('role', 'listitem');
-      card.setAttribute('tabindex', '0');
-      card.setAttribute('aria-label', `${film.title} (${film.year}), ${film.criticRating}`);
+    let lazyObserver = null;
+    function initObserver() {
+      if (!lazyObserver) {
+        lazyObserver = new IntersectionObserver((entries, observer) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              const card = entry.target;
+              const id = card.dataset.id;
+              const q = card.dataset.q || '';
+              const film = MOVIES.find(m => m.id === id);
+              if (film && card.classList.contains('skeleton-card')) {
+                hydrateCard(card, film, q);
+                observer.unobserve(card);
+              }
+            }
+          });
+        }, { rootMargin: '400px' });
+      }
+    }
 
-      const badgeColor = BADGE_COLORS[film.criticRating] || '#8a8680';
-      const weight = RATING_WEIGHTS[film.criticRating];
-      const ratingDisp = weight ? `${film.criticRating} ✦ ${weight}/10` : film.criticRating;
+    function hydrateCard(card, film, q) {
+      const gradients = RATING_GRADIENTS[film.criticRating] || ['#8a8680', '#5c5a56'];
+      const weight = RATING_WEIGHTS[film.criticRating] || 5;
+      const score = weight.toFixed(1);
 
       let posterHtml;
       if (isSafeUrl(film.posterUrl)) {
-        const fid = `pf-${film.id}`;
         posterHtml = `
-          <img class="film-card__poster" src="${escHtml(film.posterUrl)}"
-               alt="${escHtml(film.title)} poster" loading="lazy"
-               onerror="this.style.display='none';document.getElementById('${fid}').style.display='flex'">
-          <div class="film-card__fallback" id="${fid}" style="display:none">${escHtml(initial(film.title))}</div>
-        `;
+          <img class="film-card__poster" src="${escHtml(film.posterUrl)}" alt="${escHtml(film.title)} poster" loading="lazy"
+               onerror="this.style.display='none';document.getElementById('fb-${escHtml(film.id)}').style.display='flex'">
+          <div class="film-card__fallback" id="fb-${escHtml(film.id)}" style="display:none">${escHtml(initial(film.title))}</div>`;
       } else {
         posterHtml = `<div class="film-card__fallback">${escHtml(initial(film.title))}</div>`;
       }
@@ -3976,20 +4100,57 @@
       const titleHtml = q ? highlightMatch(film.title, q) : escHtml(film.title);
 
       card.innerHTML = `
-        ${posterHtml}
-        <div class="film-card__overlay" aria-hidden="true">
-          <div class="film-card__badge" style="--badge-color:${escHtml(badgeColor)}">${escHtml(ratingDisp || '')}</div>
-          <div class="film-card__info">
-            <h3 class="film-card__title">${titleHtml}</h3>
-            <span class="film-card__year">${escHtml(String(film.year || ''))}</span>
+        <div class="film-card__reveal" style="width: 100%; height: 100%; position: relative; opacity: 0; transform: scale(0.92); filter: blur(4px); transition: all 0.7s cubic-bezier(0.2, 0.8, 0.2, 1);">
+          ${posterHtml}
+          <div class="film-card__overlay" aria-hidden="true">
+            <div class="film-card__badge" style="--g1:${gradients[0]}; --g2:${gradients[1]}; --score:${weight / 10};">
+              <span>${score}</span>
+            </div>
+            <div class="film-card__info">
+              <h3 class="film-card__title">${titleHtml}</h3>
+              <div class="film-card__year">${escHtml(String(film.year || ''))}</div>
+            </div>
           </div>
         </div>
       `;
+      
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          const reveal = card.querySelector('.film-card__reveal');
+          if (reveal) {
+            reveal.style.opacity = '1';
+            reveal.style.transform = 'scale(1)';
+            reveal.style.filter = 'blur(0px)';
+          }
+        });
+      });
 
       card.addEventListener('click', () => openModal(film.id));
       card.addEventListener('keydown', e => {
         if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openModal(film.id); }
       });
+      card.classList.remove('skeleton-card');
+    }
+
+    function buildCard(film, q, index = 0) {
+      const card = document.createElement('article');
+      card.className = 'film-card';
+      card.style.animationDelay = `${(index % 20) * 0.04}s`;
+      card.setAttribute('role', 'listitem');
+      card.setAttribute('tabindex', '0');
+      card.setAttribute('aria-label', `${film.title} (${film.year}), ${film.criticRating}`);
+
+      if (index < 20) {
+        // Hydrate immediately for first viewport load
+        hydrateCard(card, film, q);
+      } else {
+        // Output skeleton shell
+        card.classList.add('skeleton-card');
+        card.dataset.id = film.id;
+        card.dataset.q = q;
+        initObserver();
+        lazyObserver.observe(card);
+      }
 
       return card;
     }
@@ -4123,9 +4284,9 @@
       const crHtml = `
         <div class="filter-checks">
           ${CRITIC_RATINGS.map(r => {
-        const w = RATING_WEIGHTS[r];
-        const dispRating = w ? `<span class="critic-score-badge">✦ ${w}/10</span>` : '';
-        const color = (RATING_COLORS[r] || {}).text || 'inherit';
+        const w = RATING_WEIGHTS[r] || 5;
+        const dispRating = `<span class="critic-score-badge">✦ ${w}/10</span>`;
+        const color = (RATING_GRADIENTS[r] || [])[0] || 'inherit';
         return `
               <label class="filter-row-toggle" style="width: 100%;">
                 <input type="checkbox" value="${r}" ${f.criticRatings.has(r) ? 'checked' : ''} data-filter="criticRating" class="sr-only">
@@ -4569,8 +4730,7 @@
     }
 
     function buildModalHTML(film) {
-      const rc = RATING_COLORS[film.criticRating] || RATING_COLORS['Decent'];
-
+      const gradients = RATING_GRADIENTS[film.criticRating] || ['#8a8680', '#5c5a56'];
       // Hero background
       const hasBackdrop = isSafeUrl(film.backdropUrl);
       const bgUrl = hasBackdrop ? film.backdropUrl
@@ -4679,9 +4839,10 @@
         if (seriesFilms.length > 1) {
           const cardsHtml = seriesFilms.map(m => {
             const isCurrent = m.id === film.id;
-            const badgeColor = BADGE_COLORS[m.criticRating] || '#8a8680';
-            const weight = RATING_WEIGHTS[m.criticRating];
-            const ratingDisp = weight ? `${m.criticRating} ✦ ${weight}/10` : m.criticRating;
+            const sGradients = RATING_GRADIENTS[m.criticRating] || ['#8a8680', '#5c5a56'];
+            const weight = RATING_WEIGHTS[m.criticRating] || 5;
+            const score = weight.toFixed(1);
+            const ratingDisp = m.criticRating;
 
             let pHtml;
             if (isSafeUrl(m.posterUrl)) {
@@ -4700,11 +4861,9 @@
               <div class="modal__series-item ${isCurrent ? 'is-current-series' : ''}">
                 <div class="modal__series-number">${m.series.order}</div>
                 <div class="modal__series-card-wrapper">
-                  ${ratingDisp ? `
-                  <div class="modal__series-badge" style="--badge-color:${escHtml(badgeColor)}">
-                    ${escHtml(ratingDisp)}
+                  <div class="modal__series-badge" style="--g1:${sGradients[0]}; --g2:${sGradients[1]}; --score:${weight / 10};">
+                    <span>${score}</span>
                   </div>
-                  ` : ''}
                   <article class="film-card" tabindex="0" role="button" aria-label="${escHtml(m.title)}" onclick="openModal('${escHtml(m.id)}')">
                     ${pHtml}
                   </article>
@@ -4739,14 +4898,20 @@
       const ratingDisp = weight ? `${film.criticRating} ✦ ${weight}/10` : film.criticRating;
 
       return `
-        <button class="modal__close" aria-label="Close — ${escHtml(film.title)}">✕</button>
+        <button class="modal__close" aria-label="Close - ${escHtml(film.title)}">✕</button>
 
         <div class="modal__hero" style="--hero-bg:${heroBg}; --hero-blur:${heroBlur}; --hero-brightness:${heroBrightness}">
           <div class="modal__hero-bg" aria-hidden="true"></div>
           <div class="modal__hero-inner">
             <div class="modal__poster-col">${posterHtml}</div>
             <div class="modal__info-col">
-              <div class="modal__title-wrap">${titleHtml}</div>
+              <div class="modal__title-wrap">
+                ${titleHtml}
+                ${(RATING_WEIGHTS[film.criticRating] !== undefined) ? `
+                <div class="modal__hero-badge" style="--g1:${(RATING_GRADIENTS[film.criticRating]||['#8a8680', '#5c5a56'])[0]}; --g2:${(RATING_GRADIENTS[film.criticRating]||['#8a8680', '#5c5a56'])[1]}; --score:${(RATING_WEIGHTS[film.criticRating]||5) / 10};" aria-label="Critic Rating">
+                  <span>${(RATING_WEIGHTS[film.criticRating]||5).toFixed(1)}</span>
+                </div>` : ''}
+              </div>
               ${origHtml}
               ${taglineHtml}
               <div class="modal__meta-row">
@@ -4787,7 +4952,7 @@
         ${seriesHtml}
 
         <section class="modal__verdict"
-                 style="--verdict-color:${rc.text};--verdict-bg:${rc.bg};--verdict-border:${rc.border}"
+                 style="--g1:${gradients[0]};--g2:${gradients[1]};"
                  aria-label="Critical verdict">
           <div class="modal__verdict-badge">${escHtml(ratingDisp || '')}</div>
           ${reviewHtml}

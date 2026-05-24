@@ -189,8 +189,8 @@ body::before {
 /* ─── Header Redesign (Floating Glass Pill) ────────────────────────────────── */
 .header {
   background: var(--surface) !important;
-  backdrop-filter: blur(20px) saturate(150%) !important;
-  -webkit-backdrop-filter: blur(20px) saturate(150%) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
   border: 1px solid var(--border) !important;
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2) !important;
   height: 64px !important;
@@ -230,7 +230,7 @@ body::before {
   font-size: 0.75rem !important;
   padding: 6px 16px !important;
   border-radius: 20px !important;
-  backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
   white-space: nowrap !important;
 }
 
@@ -247,7 +247,7 @@ body::before {
   font-size: 0.9rem !important;
   padding: 8px 16px 8px 36px !important;
   color: var(--text-primary) !important;
-  backdrop-filter: blur(10px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
   transition: all 0.3s ease !important;
 }
 
@@ -270,7 +270,7 @@ body::before {
   border: 1px solid var(--border) !important;
   background: rgba(255, 255, 255, 0.05) !important;
   color: var(--text-primary) !important;
-  backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
 }
 
 [data-theme="light"] .btn-icon {
@@ -302,8 +302,8 @@ body::before {
   border: 1px solid var(--border) !important;
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1) !important;
   padding: 0.75rem 1.5rem !important;
-  backdrop-filter: blur(15px) saturate(120%) !important;
-  -webkit-backdrop-filter: blur(15px) saturate(120%) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
   display: flex !important;
   flex-wrap: wrap !important;
   gap: 0.75rem !important;
@@ -325,7 +325,7 @@ body::before {
   letter-spacing: 0.05em !important;
   font-size: 0.8rem !important;
   padding: 6px 14px !important;
-  backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
   transition: all 0.3s ease !important;
 }
 
@@ -351,8 +351,8 @@ body::before {
   background: linear-gradient(160deg, rgba(10, 8, 30, 0.95), color-mix(in srgb, var(--accent) 15%, rgba(10, 8, 30, 0.98))) !important;
   box-shadow: 0 16px 40px 0 rgba(0, 0, 0, 0.5), 0 0 20px var(--accent-glow), inset 0 1px 0 rgba(255, 255, 255, 0.1) !important;
   padding: 1.5rem !important;
-  backdrop-filter: blur(25px) saturate(200%) !important;
-  -webkit-backdrop-filter: blur(25px) saturate(200%) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
 }
 
 [data-theme="light"] .dropdown-menu {
@@ -402,7 +402,7 @@ body::before {
   font-family: var(--font-sans) !important;
   color: var(--accent) !important;
   padding: 8px 20px !important;
-  backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
   transition: all 0.3s ease !important;
 }
 
@@ -468,8 +468,8 @@ body::before {
   overflow: hidden !important;
   position: relative;
   background: var(--surface) !important;
-  backdrop-filter: blur(10px) !important;
-  -webkit-backdrop-filter: blur(10px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
 }
 
 [data-theme="light"] .film-card {
@@ -526,22 +526,9 @@ body::before {
   color: var(--accent) !important;
 }
 
-.film-card__badge {
-  border-radius: 12px !important;
-  font-family: var(--font-sans) !important;
-  border: 1px solid var(--badge-color) !important;
-  background: rgba(0, 0, 0, 0.6) !important;
-  color: var(--badge-color) !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.05em !important;
-  padding: 4px 10px !important;
-  backdrop-filter: blur(4px) !important;
-  box-shadow: 0 0 10px var(--badge-color) !important;
-}
 
-[data-theme="light"] .film-card__badge {
-  background: rgba(255, 255, 255, 0.8) !important;
-}
+
+[data-theme="light"] 
 
 .film-card__fallback {
   background: radial-gradient(circle at top left, var(--surface), var(--elevated)) !important;
@@ -552,8 +539,8 @@ body::before {
 
 /* ─── Modal (Ethereal Hologram Panel) ───────────────────────────────────── */
 .modal-overlay {
-  backdrop-filter: blur(30px) saturate(120%) !important;
-  -webkit-backdrop-filter: blur(30px) saturate(120%) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
   background: var(--modal-overlay) !important;
 }
 
@@ -565,8 +552,8 @@ body::before {
   max-width: 1200px !important;
   width: 95vw !important;
   margin: 2vh auto !important;
-  backdrop-filter: blur(40px) saturate(150%) !important;
-  -webkit-backdrop-filter: blur(40px) saturate(150%) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(24px) saturate(180%) !important;
 }
 
 [data-theme="light"] .modal-content {
@@ -581,7 +568,7 @@ body::before {
   color: var(--text-primary) !important;
   width: 44px !important;
   height: 44px !important;
-  backdrop-filter: blur(10px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
   transition: all 0.3s ease !important;
   z-index: 100 !important;
   top: 1.5rem !important;
@@ -683,7 +670,7 @@ body::before {
   font-family: var(--font-sans) !important;
   font-size: 0.8rem !important;
   font-weight: 600 !important;
-  backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
 }
 
 [data-theme="light"] .pill {
@@ -758,7 +745,7 @@ body::before {
   box-shadow: 0 0 10px var(--verdict-color) !important;
   font-family: var(--font-sans) !important;
   font-weight: 700 !important;
-  backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
 }
 
 [data-theme="light"] .modal__verdict-badge {
@@ -857,7 +844,7 @@ body::before {
   box-shadow: 0 0 15px var(--accent-glow) !important;
   font-weight: 700 !important;
   padding: 10px 24px !important;
-  backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
 }
 
 [data-theme="light"] .modal__trailer-btn {
@@ -887,7 +874,7 @@ body::before {
   border-top: 1px solid rgba(255, 255, 255, 0.05) !important;
   background: var(--surface) !important;
   padding: 3rem 2rem !important;
-  backdrop-filter: blur(10px) !important;
+  backdrop-filter: blur(24px) saturate(180%) !important;
 }
 
 [data-theme="light"] .footer {
@@ -968,10 +955,7 @@ body::before {
     font-size: 0.65rem !important;
   }
 
-  .film-card__badge {
-    font-size: 0.6rem !important;
-    padding: 2px 6px !important;
-  }
+  
 
   .gallery-grid {
     padding: 1rem !important;
@@ -1004,4 +988,51 @@ body::before {
   .modal__section-title {
     font-size: 1.1rem !important;
   }
+}
+
+/* -----------------------------------------------------------
+   NEON GLOWING SCROLLBARS
+   ----------------------------------------------------------- */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 8px;
+  box-shadow: 0 0 12px var(--accent);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #fff;
+  box-shadow: 0 0 15px #fff, 0 0 20px var(--accent);
+}
+
+/* -----------------------------------------------------------
+   HOLOGRAPHIC SKELETON LOADERS
+   ----------------------------------------------------------- */
+.skeleton-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  background: rgba(20, 15, 45, 0.4);
+  border: 1px solid rgba(0, 229, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(0, 229, 255, 0.05);
+  width: 100%;
+  aspect-ratio: 2/3;
+}
+
+.skeleton-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: -150%; width: 150%; height: 100%;
+  background: linear-gradient(90deg, transparent 0%, rgba(255, 255, 255, 0.02) 40%, rgba(0, 229, 255, 0.15) 50%, rgba(255, 255, 255, 0.02) 60%, transparent 100%);
+  animation: skeleton-shimmer 2s infinite ease-in-out;
+}
+
+@keyframes skeleton-shimmer {
+  0% { left: -150%; }
+  100% { left: 100%; }
 }
