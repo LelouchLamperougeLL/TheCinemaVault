@@ -67428,5 +67428,1321 @@ const MOVIES = [
       fullReview: "Max Fischer is fifteen, a scholarship student at the elite Rushmore Academy, and the founder-president of exactly eleven extracurricular clubs. He stages elaborate theatrical productions. He wears his school blazer at all times, even when no one requires it. He is failing every class. When he discovers Rosemary Cross — a first-grade teacher newly arrived on campus — he falls into the kind of catastrophic, entirely serious love that only someone who has never actually experienced love can sustain.\n\nWes Anderson\'s second feature is the film where everything locked into place. The flat compositions, the deadpan performances, the intricate production design turned inward on itself like a dollhouse — all of it was present in Bottle Rocket but somehow underpowered. In Rushmore it arrives fully formed, and the aesthetic is inseparable from the comedy, which is inseparable from the sadness, which is what makes the film something more than a very well-executed quirk delivery system.\n\nJason Schwartzman — in his film debut — plays Max with total, dangerous sincerity. He never winks at the camera, never acknowledges that Max is absurd, never lets the performance tip into parody. This is the correct choice and also the harder one. Playing a character who is genuinely embarrassing requires a kind of courage that trained film actors sometimes lack. Schwartzman doesn\'t flinch. Max\'s humiliations land because Schwartzman makes them matter.\n\nThe film belongs, though, to Bill Murray. As Herman Blume — the industrialist father of two Rushmore students who becomes Max\'s unlikely mentor, rival, and closest friend — Murray delivers one of the quietly great performances of American comedy. Blume is wealthy and deeply unhappy in ways he can only express obliquely. His marriage is failing. His sons are mediocre and he knows it. He sees in Max — in the boy\'s unearned, slightly deranged confidence — something he cannot bring himself to dismiss. Murray plays all of this in the margins: a look across a swimming pool, a pause before a sentence resolves. The Academy\'s failure to nominate him is one of the more perplexing oversights of the decade.\n\nThe screenplay — by Anderson and Owen Wilson — is looser and more generous than Anderson\'s later work. The jokes arrive in a different rhythm: less architectural, more spontaneous. There is a scene involving Max, a beehive, and a window that earns its place among the decade\'s great set-pieces. The theatrical productions staged within the film — particularly an elaborate Vietnam war drama mounted on Rushmore\'s actual grounds — function simultaneously as satire and as genuine expression of Max\'s inner life. He is making art about things he does not yet understand, which is to say he is doing exactly what artists do.\n\nOlivia Williams brings quiet dignity to Rosemary Cross, who is less developed on the page than either Max or Blume — she is, at some level, the MacGuffin — but Williams refuses to let her function as merely a prize. Mark Mothersbaugh\'s score is nimble and slightly wistful, and the film\'s eclectic rock soundtrack — the Kinks, Cat Stevens, the Who — anchors it in an emotional register that transcends any single era.\n\nWhat Rushmore is actually about, underneath the extracurriculars and the lovesick schemes, is the terror of being ordinary. Max Fischer cannot tolerate the possibility that he might not matter. Blume has lived long enough to discover that he doesn\'t, not in any way that counts, and he is still not at peace with it. The film takes both of their yearnings entirely seriously, which is the kindest thing it could do.\n\nIt is not Anderson\'s most formally accomplished work — that came later, in more controlled directions. But it may be his most human film: the one where the architecture exists to serve the people inside it rather than the other way around. Anyone who has ever wanted to matter more than the world was prepared to let them will recognize something real in it."
     }
   },
-
+  {
+    id: "beyond-the-hills-2012",
+    title: "Beyond the Hills",
+    originalTitle: "După dealuri",
+    romanization: null,
+    year: 2012,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/nXqPulgIgA2rB0om1jLhebzPozB.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/zV2v5jFXlN2We3GS2IkGQ6e2Bmm.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/kC7YmW69fEdM0cazeVIVdmj7644.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=R0X6wxxDAEs",
+    director: [
+      {
+        name: "Cristian Mungiu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zqw1IxK1L62GaQgot1HymcVOaug.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Cristian Mungiu",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zqw1IxK1L62GaQgot1HymcVOaug.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Cosmina Stratan", role: "Voichita", photoUrl: "https://image.tmdb.org/t/p/w185/1KyB6jnyjBjySzxL2Ew0zOE1LRU.jpg" },
+      { actor: "Cristina Flutur", role: "Alina", photoUrl: "https://image.tmdb.org/t/p/w185/yg6zdfnl4MigKjpzLGSzedONxp3.jpg" },
+      { actor: "Valeriu Andriuță", role: "Priest", photoUrl: "https://image.tmdb.org/t/p/w185/lASuGh1msogVRs5jUmELugBFPAu.jpg" },
+      { actor: "Dana Tapalagă", role: "Mother Superior", photoUrl: "https://image.tmdb.org/t/p/w185/hc95m7XiRGDVF0wkoNTvA1hd1pl.jpg" },
+      { actor: "Luminița Gheorghiu", role: "Schoolteacher", photoUrl: "https://image.tmdb.org/t/p/w185/2DdsK4FFtw869rMjcnhlFSwddwx.jpg" },
+      { actor: "Dionisie Vitcu", role: "Mr. Valerica", photoUrl: "https://image.tmdb.org/t/p/w185/b81ZhZBcXVnmCleSikcTroq4qGv.jpg" },
+      { actor: "Liliana Mocanu", role: "Mother Elena", photoUrl: "https://image.tmdb.org/t/p/w185/uDBjCneWrRBl6ZPL0ykeeH8Pn0P.jpg" },
+      { actor: "Doru Ana", role: "Father Nusu", photoUrl: "https://image.tmdb.org/t/p/w185/q9zQiZb7WQljtIyPAptA4E0SRT2.jpg" },
+      { actor: "Alina Berzunțeanu", role: "Doctor Radu", photoUrl: "https://image.tmdb.org/t/p/w185/wqaKL4iRmU1zbg1Z7ap0lif5xZi.jpg" },
+      { actor: "Teodor Corban", role: "Police Inspector", photoUrl: "https://image.tmdb.org/t/p/w185/2gaP2oMPWLDlwNUiI1kwYjE0vbP.jpg" },
+      { actor: "Tania Popa", role: "Female Parishioner", photoUrl: "https://image.tmdb.org/t/p/w185/wqyahqSo86qI2tjebgF467YpAG8.jpg" },
+      { actor: "Katia Pascariu", role: "Nun Sevastiana", photoUrl: "https://image.tmdb.org/t/p/w185/dBZbp65TeVikic7eBKQjMpXNT6X.jpg" },
+      { actor: "Cristina Mihailescu", role: "Pharmacist", photoUrl: "https://image.tmdb.org/t/p/w185/tFC711I9jfbczwFkKGBZR2Ujb1P.jpg" },
+      { actor: "Ion Sapdaru", role: "Captain", photoUrl: "https://image.tmdb.org/t/p/w185/9oNro0nKkYmOGOjQDKXtDbNJO9m.jpg" },
+      { actor: "Gheorghe Ifrim", role: "Ambulance Assistant", photoUrl: "https://image.tmdb.org/t/p/w185/1b1eVjvOrOHiPjtbXZsGsZWdSOQ.jpg" },
+      { actor: "Marian Adochitei", role: "Gabi", photoUrl: "https://image.tmdb.org/t/p/w185/tSSmiYnyk1Y2RRM2wYfnoMOUwoV.jpg" },
+      { actor: "Nicoleta Lefter", role: "A Patient", photoUrl: "https://image.tmdb.org/t/p/w185/khbGLYPz1H0T3E3up8YnoGLPBHr.jpg" },
+      { actor: "Andreea Bosneag", role: "Georgiana", photoUrl: "https://image.tmdb.org/t/p/w185/tx4mXVV7PIE1I5Eb9DG2sHkbxc8.jpg" }
+    ],
+    languages: ["Romanian"],
+    genres: ["Drama", "Psychological"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "prolonged physical restraint and forced immobilization",
+        "religious exorcism rituals with escalating distress",
+        "suicidal behavior and self-harm attempts",
+        "severe psychological breakdown depicted at length",
+        "institutional neglect of a person in acute crisis"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:30" }
+    ],
+    awards: [
+      { body: "Cannes Film Festival (65th)", category: "Best Actress", result: "Won", year: 2012 },
+      { body: "Cannes Film Festival (65th)", category: "Best Screenplay", result: "Won", year: 2012 },
+      { body: "César Awards (38th)", category: "Best Foreign Film", result: "Nominated", year: 2013 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["devotion", "institutionalism", "complicity", "faith", "isolation", "sacrifice", "possession", "estrangement"],
+      mood: ["suffocating", "harrowing", "austere"],
+      fullReview: "Alina (Cristina Flutur) has come back from working in Germany with a single purpose: to collect Voichita (Cosmina Stratan), the only person she has ever genuinely belonged to, and take her somewhere that might finally resemble a life. But Voichita has found God, and the Orthodox monastery nested in the hills of northeastern Romania is not about to release her. What follows across two and a half hours is one of the most quietly devastating films to emerge from European cinema in recent decades — a slow-burn collision between desperate secular love and the immovable machinery of institutional faith.\n\nCristian Mungiu, working from Tatiana Niculescu-Bran\'s nonfiction accounts of a real 2005 tragedy, constructs the film with the same unblinking restraint he brought to 4 Months, 3 Weeks and 2 Days. The camera almost never moves. Scenes play out in long, uninterrupted takes where actors inhabit space rather than perform across cuts. The monastery itself — cold stone walls, narrow corridors, communal sleeping quarters — functions less as backdrop than as enclosure. Mungiu\'s refusal to aestheticize the setting is its own form of argument: this is a place where beauty is withheld by design.\n\nThe two lead performances are extraordinary in a way that resists easy description. Flutur\'s Alina is raw need given a body — a young woman whose love has nowhere to go except forward, whose desperation reads simultaneously as devotion and unraveling. Stratan\'s Voichita is harder to read, and that is exactly the point. Her quiet is not peace; it might be its opposite. The tension between these two registers — between Alina\'s visible disintegration and Voichita\'s learned stillness — drives the film with more force than any plot mechanism. Both actresses shared the Best Actress prize at Cannes, and it is impossible to watch the film and argue the award went to the wrong place.\n\nWhat makes the film genuinely uncomfortable to sit with is not any single event but the accumulation of small institutional failures that build around Alina like sediment. The priest, the mother superior, the doctors, the police — each of these figures is drawn with enough humanity that none of them can be cleanly cast as villain. The priest is a man of genuine faith who believes he is helping. The medical establishment processes without seeing. The police fill out forms. Every institution the film passes through is technically functioning, and Alina falls through the gaps between them. Mungiu does not frame this as conspiracy or negligence. He frames it as the ordinary operation of systems designed around categories — and a person who does not fit the categories.\n\nThe film also refuses to settle the question of what is actually happening to Alina. Whether what she experiences is spiritual crisis, psychological breakdown, or both simultaneously is left deliberately open. The monastery\'s community is neither monstrous nor enlightened — these are people who have organized their lives around an explanatory framework, and when reality presents them with something their framework cannot process, they reach for older tools. The horror, when it arrives, is mundane. That is what stays.\n\nOleg Mutu\'s cinematography deserves mention not for flash but for its commitment to functional ugliness. The interiors are lit as they would actually be — practically, dimly, without the warmth that lesser films use to signal that a space is sacred. Winter light comes through windows like an accusation. There is no musical score. The film\'s sound design fills that silence with ambient noise — boots on gravel, the creak of wooden floors, wind against stone — and the absence of music means that every moment is unescorted. The audience must sit in it without a soundtrack signaling how to feel.\n\nAt two and a half hours, the film tests the patience of anyone expecting it to accelerate. It does not. Mungiu believes that time spent inside these spaces, watching small repetitive acts — eating, praying, sleeping in rows — is the only honest way to make the ending mean what it means. He is right, though that does not make the extended middle section any less demanding. There are passages where the film appears to have stopped advancing, and the decision to hold on scenes long past the point of dramatic resolution is sometimes an act of discipline and sometimes something closer to self-indulgence. It is a minor complaint against a major film.\n\nThis is not a film about religious evil. It is not an anti-church polemic. Its argument is subtler and more troubling than either: that good people, operating sincerely within coherent belief systems, can collectively produce outcomes that no single person among them would have chosen or endorsed. The moral weight of that observation does not lift when the credits roll."
+    }
+  },
+  {
+    id: "weekend-2011",
+    title: "Weekend",
+    originalTitle: null,
+    romanization: null,
+    year: 2011,
+    tagline: "A (sort of) love story between two guys over a cold weekend in October.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/vipc98rU2x55XJwILQHmc8EisIO.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/s52Q4kifhz1nKlgaHGee74KzZw9.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/ebPtSNrQ92Cgwje29WjvXKQbl9m.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=EmlNgKlHViY",
+    director: [
+      {
+        name: "Andrew Haigh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pJAv105SAZiQ3lGY2wGURz4bENp.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Andrew Haigh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pJAv105SAZiQ3lGY2wGURz4bENp.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Tom Cullen",
+        role: "Russell",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rELdKWWjX4l2r0Eoqdxtu2Hs4J0.jpg"
+      },
+      {
+        actor: "Chris New",
+        role: "Glen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2maQpMIsd5cDncWDWOc8BJtPp4X.jpg"
+      },
+      {
+        actor: "Jonathan Race",
+        role: "Jamie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xPlggzUykeoUZoyJWkjhG39Gclz.jpg"
+      },
+      {
+        actor: "Laura Freeman",
+        role: "Jill",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eF5d9hEI0XYcx1BHy4pXYcKXrXH.jpg"
+      },
+      {
+        actor: "Sarah Churm",
+        role: "Helen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1PzPhklk24FiaukdssXIMWJoIY8.jpg"
+      },
+      {
+        actor: "Jermaine Liburd",
+        role: "Damien",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xQVmTIChYL3QYNfK5xpESEj1Qrw.jpg"
+      },
+      {
+        actor: "Kieran Hardcastle",
+        role: "Sam",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3jhU9bDcVfk39sK5X5Pfz5u6dpV.jpg"
+      },
+      {
+        actor: "Julius Metson Scott",
+        role: "Paul",
+        photoUrl: "https://image.tmdb.org/t/p/w185/txMCS42CS9uF7u2drBWs6rYZoyb.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Romance"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "brief sexual content with partial nudity",
+        "recreational drug use including cocaine and ecstasy",
+        "strong language throughout",
+        "frank verbal depictions of sexual encounters",
+        "emotional portrayal of loneliness and social isolation",
+        "discussions of homophobia and internalised shame"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:36" }
+    ],
+    awards: [
+      { body: "South by Southwest Film Festival (2011)", category: "Audience Award, Narrative Competition", result: "Won", year: 2011 },
+      { body: "British Independent Film Awards (2011)", category: "Best British Independent Film", result: "Nominated", year: 2011 },
+      { body: "British Independent Film Awards (2011)", category: "Most Promising Newcomer (Tom Cullen)", result: "Nominated", year: 2011 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["loneliness", "visibility", "vulnerability", "temporality", "performance", "belonging", "intimacy"],
+      mood: ["tender", "melancholic", "intimate"],
+      fullReview: "Russell is a lifeguard in Nottingham who lives alone in a council flat and moves through his days with the subdued ease of someone who has long since made peace with invisibility. After a house party with his straight friends, he drifts to a gay bar near closing time and takes home Glen, a sharp-tongued artist who records men talking about their sexual experiences as the raw material for an art project. What begins as a one-night arrangement stretches into the weekend — two days in which both men are gradually, reluctantly forced to reckon with each other, and with themselves, in ways neither had planned.\n\nAndrew Haigh shot this film for £120,000 in Nottingham, and the budget shows in the best possible sense. The city is unglamorous. Grey skies, concrete walkways, a flat that looks actually lived-in rather than dressed for camera. Haigh insists on this grounding — refuses to romanticise the setting — and the effect is to locate this love story in an unglamorous reality that most romantic films spend enormous effort avoiding. This is not the London of Richard Curtis, not the gay bars of American prestige television. This is working-class England on a cold October weekend, and the film\\'s emotional honesty gains rather than loses by that specificity.\n\nTom Cullen and Chris New give performances of such molecular naturalism that watching them becomes disorienting in the best way — the mind keeps losing track of the fiction. Their conversations spiral across subjects without warning, from gay identity politics to childhood abandonment to whether a particular sexual encounter actually meant anything, and the dialogue has the texture of real speech: interrupted, looping, occasionally fumbling toward something it cannot quite name. Russell\\'s quietness and Glen\\'s practiced defensiveness are established early and eroded across the two days with such patience and precision that the audience registers the change before either character does.\n\nWhat the film is actually about, beneath the obvious romantic architecture, is the distance between private experience and public legibility. Glen\\'s art project sits at the thematic center: he wants gay men to speak plainly about sex and desire, to drag into language something that still carries for many people the residue of shame. Russell resists this instinctively. Glen is almost compulsively drawn to it. That tension — between visibility and concealment, between the claim of self-declaration and the right to remain private — runs underneath every scene, and Haigh is disciplined enough never to resolve it cleanly. The film does not lecture. It does not explain what it means. It watches.\n\nUrszula Pontikos\\'s cinematography earns its mention: there is something specific about the way she holds these two men in small spaces — a flat, a bar, a swimming pool at dawn — that feels simultaneously claustrophobic and vast. The frame keeps them together and apart at the same time, which is exactly what the film requires.\n\nThe limitations are real, if minor. The world beyond Russell and Glen is thin. The supporting characters — friends, acquaintances glimpsed at the house party — exist to establish context rather than as fully inhabited people. And Nottingham\\'s relentlessly grey visual palette, while thematically apt, can leach energy across the second act. A film this intimate asks a lot of its two leads to sustain momentum through 96 minutes of mostly conversation, and there are stretches where the pacing loosens without quite going slack.\n\nNone of this seriously diminishes what the film achieves. Weekend is not a film about being gay — or not only that. It is a film about the specific terror of wanting connection and the involuntary openness that comes with it, about what happens when two people who have separately mastered the art of not needing anyone find themselves, briefly, needing someone. That it accomplishes this with such economy, such emotional precision, and at a budget that most studio productions spend on catering, is genuinely remarkable.\n\nThe ending does not resolve so much as it settles, the way real endings do. What stays afterward is not a plot point but a feeling — the particular ache of something that mattered being over. That is not a small thing for a film to leave behind."
+    }
+  },
+  {
+    id: "the-devils-backbone-2001",
+    title: "The Devil's Backbone",
+    originalTitle: "El espinazo del diablo",
+    romanization: null,
+    year: 2001,
+    tagline: "What is a ghost?",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/sftTEmCpwN2iB9CxTkUmdU6bBHF.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/lzQndT3Gv8O3EOMle0LO4koAPyl.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/iUFylO8khUHGiSJanUZQfzZYyXI.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=RZi4geYuSNE",
+    director: [
+      {
+        name: "Guillermo del Toro",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Guillermo del Toro",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg"
+      },
+      {
+        name: "Antonio Trashorras",
+        photoUrl: null
+      },
+      {
+        name: "David Muñoz",
+        photoUrl: null
+      }
+    ],
+    cast: [
+      {
+        actor: "Marisa Paredes",
+        role: "Carmen",
+        photoUrl: "https://image.tmdb.org/t/p/w185/71esuRUCyeSyib35mTFPkR24zH7.jpg"
+      },
+      {
+        actor: "Eduardo Noriega",
+        role: "Jacinto",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+      },
+      {
+        actor: "Federico Luppi",
+        role: "Dr. Casares",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jBzJ3t4kRssFbEuZxSnHxACe6oC.jpg"
+      },
+      {
+        actor: "Fernando Tielve",
+        role: "Carlos",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oG5ans5tCzzIjvK3GjP5w8hFDpn.jpg"
+      },
+      {
+        actor: "Íñigo Garcés",
+        role: "Jaime",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jjex5kccGUauEFF3XL8Dveazjek.jpg"
+      },
+      {
+        actor: "Irene Visedo",
+        role: "Conchita",
+        photoUrl: "https://image.tmdb.org/t/p/w185/obR1RzKgdtmw57TXjNBfQRiDevd.jpg"
+      },
+      {
+        actor: "José Manuel Lorenzo",
+        role: "Marcelo",
+        photoUrl: "https://image.tmdb.org/t/p/w185/riS54oAzMhaNguIAemHkfidZuQp.jpg"
+      },
+      {
+        actor: "Francisco Maestre",
+        role: "El Puerco",
+        photoUrl: "https://image.tmdb.org/t/p/w185/85TN6exRLcWzZhyGYMyOB6V7A5r.jpg"
+      },
+      {
+        actor: "Junio Valverde",
+        role: "Santi",
+        photoUrl: "https://image.tmdb.org/t/p/w185/l9luOGVrT6WlPtr2nC3srcsr0C5.jpg"
+      },
+      {
+        actor: "Berta Ojea",
+        role: "Alma",
+        photoUrl: "https://image.tmdb.org/t/p/w185/17xf2N1tQna78BmZyWe3524TxSz.jpg"
+      },
+      {
+        actor: "Adrián Lamana",
+        role: "Gálvez",
+        photoUrl: "https://image.tmdb.org/t/p/w185/utHdmCZUpR5jWcHUmVaB7cUzKvu.jpg"
+      },
+      {
+        actor: "Miguel Ortiz",
+        role: "Domínguez",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8B2AvriSkq0WPXulz6wLNWvbYRL.jpg"
+      },
+      {
+        actor: "Juan Carlos Vellido",
+        role: "Ayala",
+        photoUrl: "https://image.tmdb.org/t/p/w185/m1GEfFgcDNPTCTGUhrita7d5ec1.jpg"
+      },
+      {
+        actor: "Javier Bódalo",
+        role: "Búho",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hhVW64PgvE7XuxYekzMhiT2gxPB.jpg"
+      },
+      {
+        actor: "Víctor Elías",
+        role: "Orphan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aDbeGx5UYciWgSxrytnK9oQ35zA.jpg"
+      }
+    ],
+    languages: ["Spanish"],
+    genres: ["Drama", "Horror", "Fantasy"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "murder of a child depicted without graphic detail but with emotional weight",
+        "a ghost portrayed with visible wound and decomposed physical appearance",
+        "violence against children including physical abuse by an adult",
+        "war-time killings shown with moderate blood and injury detail",
+        "sustained atmosphere of dread and psychological menace",
+        "depictions of adult cruelty, greed, and moral abandonment",
+        "a large unexploded bomb as an ever-present threat to children"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:48" }
+    ],
+    awards: [
+      { body: "Goya Awards (16th)", category: "Best Special Effects", result: "Won", year: 2002 },
+      { body: "Fantasporto (22nd)", category: "Best Film", result: "Won", year: 2002 },
+      { body: "Fantasporto (22nd)", category: "Best Director", result: "Won", year: 2002 },
+      { body: "Goya Awards (16th)", category: "Best Director", result: "Nominated", year: 2002 },
+      { body: "Goya Awards (16th)", category: "Best Supporting Actor (Eduardo Noriega)", result: "Nominated", year: 2002 },
+      { body: "Goya Awards (16th)", category: "Best Editing", result: "Nominated", year: 2002 },
+      { body: "Goya Awards (16th)", category: "Best Sound", result: "Nominated", year: 2002 },
+      { body: "Saturn Awards (29th)", category: "Best International Film", result: "Nominated", year: 2003 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["innocence", "complicity", "haunting", "revenge", "abandonment", "war", "greed", "loss"],
+      mood: ["elegiac", "mournful", "haunting"],
+      fullReview: "Spain, 1939. The Civil War is grinding toward its Francoist conclusion, and a young boy named Carlos arrives at the Santa Lucía orphanage — a crumbling institution stranded in the desert, run by a one-legged Republican loyalist named Carmen and an aging doctor named Casares who preserves unborn fetuses in jars of rum and pines quietly for a woman who will never love him. The building houses orphans, a brooding and volatile young man named Jacinto who resents his own origins there, and something else: the ghost of a child called Santi, pale and trailing blood, who drifts through the corridors with the slow insistence of a question that demands to be answered.\n\nGuillermo del Toro has described this film as his most personal work, and it is easy to believe him. Where his Hollywood productions deploy spectacle with professional precision, The Devil\'s Backbone feels inhabited — the orphanage exists with the density of a place that has its own history before the camera arrived. Guillermo Navarro\'s cinematography soaks everything in amber and dust, a palette that makes the past feel physically present, the light of a world already dying. The bomb that sits unexploded in the courtyard — dropped from a Nationalist plane, never detonated — becomes one of the great sustained metaphors in modern Spanish cinema: the war that hasn\'t gone off yet, the violence that all these people are already living inside.\n\nThe ghost of Santi is a remarkable creation. Del Toro refuses to make him simply frightening, though there are moments of genuine dread. The wounds, the stillness, the trail of blood moving upward in the water — these are images from nightmare. But Santi is also pitiable, even tender in his mute urgency. Del Toro poses the question that the film\'s opening lines ask directly: what is a ghost? His answer accumulates across 108 minutes rather than arriving as a statement, and the answer has more to do with history\'s refusal to let the dead stay silent than with any traditional horror machinery.\n\nThe film works on three registers simultaneously. As a ghost story, it is atmospherically rich and carefully paced, building dread through accumulation rather than shock. As a coming-of-age narrative — Carlos learning the rules of the orphanage, forming alliances, confronting a world organized by adult cruelties he cannot yet fully comprehend — it is quietly devastating. And as political allegory, it is among the most economical ever made: every character embodies a posture toward the Republic\'s collapse, from Carmen\'s exhausted idealism to Jacinto\'s savage opportunism to the gold he hoards like a man who believes that survival is the only value left.\n\nFederico Luppi gives the film\'s most affecting performance as Dr. Casares — a man of science and sentiment who has spent his life watching from the edges of things he wanted but couldn\'t grasp. His relationship with the rum-soaked fetuses, which he sells as a cure for impotence, carries a mordant irony that the script handles with uncommon delicacy. Eduardo Noriega\'s Jacinto is the film\'s engine of violence, but del Toro and his co-writers resist making him a simple villain. There is a particular cruelty to the way the film traces what the orphanage made of him.\n\nThe children are handled with unusual care. Fernando Tielve as Carlos and Íñigo Garcés as the initially hostile Jaime form one of the more honest depictions of childhood male friendship in Spanish cinema — competitive, provisional, deepening under pressure into something real.\n\nIf there are weaknesses, they are minor. The middle section occasionally loses momentum as it juggles its competing threads, and some of the supporting orphans remain underwritten. These are the kinds of imperfections that remind a viewer they are watching a film made under real constraints — a budget of $4.5 million, a Spanish-Mexican co-production with no major star power — rather than a work that has been smoothed into false perfection.\n\nWhat del Toro accomplishes here is the thing that the best ghost stories have always done: he uses the supernatural not to escape from history but to press into it, to make the past\'s unfinished business visible and embodied. The orphanage, the desert, the unexploded bomb, the child in the water — these images do not leave easily. They settle in the way that genuine grief settles, which is to say they do not entirely go."
+    }
+  },
+  {
+    id: "certain-women-2016",
+    title: "Certain Women",
+    originalTitle: null,
+    romanization: null,
+    year: 2016,
+    tagline: null,
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/l2BwJJJ988tPqH83eHvrESLAHPE.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/fA7pDT9HccEN68VQzxuVcoKKmOg.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/9LCawRttI7Klb0XY58ZoX5Yfz2l.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=TU0caOeu_Ag",
+    director: [
+      {
+        name: "Kelly Reichardt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j97hMhlRhcaHWgn9MQ78E0ft57U.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Kelly Reichardt",
+        photoUrl: "https://image.tmdb.org/t/p/w185/j97hMhlRhcaHWgn9MQ78E0ft57U.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Laura Dern",
+        role: "Laura",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+      },
+      {
+        actor: "Kristen Stewart",
+        role: "Elizabeth Travis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
+      },
+      {
+        actor: "Michelle Williams",
+        role: "Gina",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+      },
+      {
+        actor: "Lily Gladstone",
+        role: "The Rancher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg"
+      },
+      {
+        actor: "James Le Gros",
+        role: "Ryan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+      },
+      {
+        actor: "Jared Harris",
+        role: "Fuller",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+      },
+      {
+        actor: "René Auberjonois",
+        role: "Albert",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1EZ6FnJGzwRl7XndkX8fBo8Tej3.jpg"
+      },
+      {
+        actor: "John Getz",
+        role: "Sheriff Rowles",
+        photoUrl: "https://image.tmdb.org/t/p/w185/NL52y1nH5SZMlJKfKpPBnofoJk.jpg"
+      },
+      {
+        actor: "Sara Rodier",
+        role: "Guthrie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pWPWLLsRrZEZWQql0sVg6RK4WtY.jpg"
+      },
+      {
+        actor: "Ashlie Atkinson",
+        role: "Secretary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hM5baaucl7UzeRozzTlTr4fPkw5.jpg"
+      },
+      {
+        actor: "Guy Boyd",
+        role: "Personal Injury Lawyer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/naVCBAb6GRUmYCXVreEECUetHYv.jpg"
+      },
+      {
+        actor: "Edelen McWilliams",
+        role: "Fuller\'s Wife",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4MgCKnwNKMaDarXgtpb18ToOC4x.jpg"
+      },
+      {
+        actor: "James Jordan",
+        role: "Hostage Specialist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+      },
+      {
+        actor: "Matt McTighe",
+        role: "Officer Tommy Carroll",
+        photoUrl: "https://image.tmdb.org/t/p/w185/laf80rjFM7HuWspzs6cTGcLx6f5.jpg"
+      },
+      {
+        actor: "Joshua T. Fonokalafi",
+        role: "Amituana",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4nb4Q0VVCpd2QCcuRIKflxUcdKU.jpg"
+      },
+      {
+        actor: "Zena Dell Lowe",
+        role: "Diner Waitress",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vu8p8kSN0Tr0iRLZ4gyRaH8tfho.jpg"
+      },
+      {
+        actor: "Marceline Hugot",
+        role: "Teacher 3",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sgMqp6wANDPpnpu11VALilQUOlP.jpg"
+      },
+      {
+        actor: "Gabriel Clark",
+        role: "Replacement Teacher",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sNV4sueIdOA64aDCKWKTOcgtQZS.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama"],
+    viewerRating: {
+      rating: "T-13",
+      descriptors: [
+        "sustained portrayal of emotional isolation and loneliness",
+        "low-level hostage standoff with no graphic violence",
+        "unrequited longing and unexpressed romantic attachment",
+        "mild infrequent language"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:47" }
+    ],
+    awards: [
+      { body: "Film Independent Spirit Awards (32nd)", category: "Best Supporting Female", result: "Won", year: 2017 },
+      { body: "Gotham Awards (26th)", category: "Breakthrough Actor", result: "Won", year: 2016 },
+      { body: "Film Independent Spirit Awards (32nd)", category: "Best Feature", result: "Nominated", year: 2017 },
+      { body: "Film Independent Spirit Awards (32nd)", category: "Best Director", result: "Nominated", year: 2017 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["loneliness", "longing", "invisibility", "endurance", "desire", "domesticity", "labor"],
+      mood: ["elegiac", "sparse", "tender"],
+      fullReview: "Three women, three separate lives, one stretch of Montana so wide and cold it seems to absorb ambition before it can travel anywhere. Kelly Reichardt\'s fifth feature, adapted from short stories by Maile Meloy, follows a lawyer worn thin by a client who refuses to hear reason; a determined wife trying to extract what she wants from an unwilling neighbor and an inattentive husband; and a young ranch hand who wanders into an evening law class and quietly, irrevocably falls for the instructor who teaches it. None of these stories connect in any meaningful plot sense. The film asks whether they need to.\n\nReichardt is the most patient filmmaker working in American independent cinema, and Certain Women may be the purest expression of what that patience can build. She shoots Montana the way another director might approach a landscape painting — not as backdrop but as presence, something the characters push against rather than move through. Christopher Blauvelt\'s cinematography keeps everything at a slight remove, as if the camera understands it is not entirely welcome in these private moments. Compositions breathe without grandstanding. There is no score nudging the audience toward a feeling it hasn\'t yet arrived at on its own.\n\nThe three segments are not equal, and the film does not pretend otherwise. Laura Dern\'s lawyer, grinding through a hostage situation with institutional exhaustion, is the most conventionally dramatic of the three — and the least surprising. It functions, Dern doing what Dern always does (which is: more than the scene asks for, in the most grounded register possible), but it feels like the film clearing its throat before the real work begins.\n\nMichelle Williams gets the middle act, and she does something technically demanding with almost no visible effort: she plays a woman who has substituted wanting things for understanding what she actually wants. The sequence involving a stack of salvaged sandstone — whether it gets purchased, traded, or simply taken — is as quietly devastating a portrait of marital power as recent American cinema has produced, and it barely lifts its voice to say so.\n\nThen Lily Gladstone walks into a barn.\n\nWhat Gladstone does in the third segment — the one that will follow anyone who watches this film out the door and into whatever comes next — is almost impossible to describe without diminishing it. She plays a ranch hand with nobody to talk to and nowhere particular to be, who discovers a night class she keeps returning to not because of anything being taught but because of the woman doing the teaching. The attachment is wordless, mostly. The longing is enormous. Gladstone holds all of it in her face, her silences, and her particular way of occupying a chair as if stillness is a form of hope. Kristen Stewart, playing the exhausted young instructor, matches her precisely — not by performing exhaustion but by inhabiting it, and the contrast between her obliviousness and Gladstone\'s quietly desperate attentiveness is the most heartbreaking dynamic the film offers.\n\nCertain Women is not a film that believes in catharsis. Its three stories conclude the way most of life concludes: not with resolution, simply with continuation. People drive back through the dark. Horses stand in fields. The sky over Montana does what Montana skies do, which is largely ignore everybody beneath it.\n\nThis film is for anyone who has ever felt present in a room where nobody noticed. Anyone who has wanted something they could not articulate clearly enough to ask for. It demands patience, rewards attention, and earns its slowness on almost every frame. The one segment that does not fully ignite does not damage what surrounds it. What Gladstone and Reichardt build together in those final forty minutes is the kind of cinema that stays with a person long after the more loudly impressive films have faded into nothing."
+    }
+  },
+  {
+    id: "twinless-2025",
+    title: "Twinless",
+    originalTitle: null,
+    romanization: null,
+    year: 2025,
+    tagline: "We\'re all just looking for someone who gets us.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/aQ5gsmT0bPM4Lxx8ulgjZhp2fMQ.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/9vaw9Az5tPLMjNLj426KgKsp0k8.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/5zsRWYtfT0hEtldA521Nb2TQ3D2.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=pxseQQkGvb8",
+    director: [
+      {
+        name: "James Sweeney",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gcfvtYBfxCvlBSowwiWlMRwE421.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "James Sweeney",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gcfvtYBfxCvlBSowwiWlMRwE421.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Dylan O\'Brien",
+        role: "Roman / Rocky",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xN3GdvIlqsR838gDoblhPH0numP.jpg"
+      },
+      {
+        actor: "James Sweeney",
+        role: "Dennis",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gcfvtYBfxCvlBSowwiWlMRwE421.jpg"
+      },
+      {
+        actor: "Aisling Franciosi",
+        role: "Marcie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pE5GpcsMbFd3ZFGeiaTIvfapV6m.jpg"
+      },
+      {
+        actor: "Lauren Graham",
+        role: "Lisa",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3leQVZnthAZwngH7HAD6T7qfsVu.jpg"
+      },
+      {
+        actor: "Chris Perfetti",
+        role: "George",
+        photoUrl: "https://image.tmdb.org/t/p/w185/qBTVPc07f3lxqCnM9ou4SOHt9js.jpg"
+      },
+      {
+        actor: "François Arnaud",
+        role: "Sammy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2aPDGUGRcrBYmrQLc8AklEqp7xI.jpg"
+      },
+      {
+        actor: "Arkira Chantaratananond",
+        role: "Judy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zfD2LkIJAk4q3a1IJIxqOYOrV6Y.jpg"
+      },
+      {
+        actor: "Tasha Smith",
+        role: "Charlotte",
+        photoUrl: "https://image.tmdb.org/t/p/w185/viJnHL3BjQ5oqisXklQWGlh29Hx.jpg"
+      },
+      {
+        actor: "Susan Park",
+        role: "Sage",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lwetyIzRTIOvxdHecVxyZIoRBAT.jpg"
+      },
+      {
+        actor: "Cree Cicchino",
+        role: "Bianca",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2qq7GobF9nS1mAARJj1Dyq0GPFL.jpg"
+      },
+      {
+        actor: "Crystal Anne Muñoz",
+        role: "Wanda",
+        photoUrl: "https://image.tmdb.org/t/p/w185/izMc6voy0OQZAwsAFNjJRI3JGt3.jpg"
+      },
+      {
+        actor: "Kody Harvard",
+        role: "Eric",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sCFUXKWhlKfkxQeBn2dElN5Ei5U.jpg"
+      },
+      {
+        actor: "Katie Findlay",
+        role: "Lori",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lDXpgm8iFyWHyYBO9SGrbiSEhJg.jpg"
+      },
+      {
+        actor: "Pauline Dorsey",
+        role: "Penny",
+        photoUrl: "https://image.tmdb.org/t/p/w185/h3fRZ3lbMbusOTZihAA7018Rkbi.jpg"
+      },
+      {
+        actor: "Jannette Bloom",
+        role: "Amber",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eleYYHxO8vEpdNh13G31VZM0Iyd.jpg"
+      },
+      {
+        actor: "Jack Clevenger",
+        role: "Chad",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5HReF3bPIeENBzbWyAih1WOvyCm.jpg"
+      },
+      {
+        actor: "Conner Deadrick",
+        role: "Duncan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8AXmV4YQa5nxfE7Vu8SKWHk8vCz.jpg"
+      },
+      {
+        actor: "Heidi Herschbach",
+        role: "Betty",
+        photoUrl: "https://image.tmdb.org/t/p/w185/aXwA387OxoHwWH4exenODkXukIg.jpg"
+      },
+      {
+        actor: "Teddy Van Ee",
+        role: "Ken",
+        photoUrl: "https://image.tmdb.org/t/p/w185/o7Sefn3koWeLkXx3Bx99U2sZRFc.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Drama", "Comedy", "Romance"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: ["prolonged grief and bereavement sequences", "brief non-explicit sexual content between men", "infrequent strong language", "brief nudity", "alcohol and recreational drug use"]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:40" }
+    ],
+    awards: [],
+    criticRating: "Great",
+    review: {
+      themes: ["grief", "secrecy", "guilt", "intimacy", "dependence", "performance"],
+      mood: ["tender", "melancholic", "wry"],
+      fullReview: "Two men walk into a grief support group carrying the particular weight that comes from losing not just a sibling but a mirror. Roman recently buried Rocky, and Dennis recently buried his own twin. What begins as a careful, almost suspicious circling between two people who recognize something in each other\'s devastation slowly becomes something neither of them planned for — a friendship, or perhaps more, built on the shared knowledge that grief over a twin is its own specific country, and most people will never get their passport stamped.\n\nTwinless announces itself as a dark comedy, and to its credit, it earns that designation without ever weaponizing it against the grief at its core. Writer-director James Sweeney, who also stars as Dennis, understands that the best comedy about pain comes from the recognition of absurdity within suffering — not from using suffering as the setup for a punchline. The support group scenes walk this line with a kind of lived-in awkwardness that feels observed rather than invented, populated by supporting characters who each carry their own specific texture of loss without devolving into sketch comedy types.\n\nDylan O\'Brien, playing Roman with flashback-glimpsed appearances as the late Rocky, does something subtle and worth noting: he plays a man performing stability for a room full of people who are all performing stability for each other. The performance has a careful, slightly sealed quality — a man who has chosen a certain posture toward his grief and is only beginning to suspect that the posture might not be structural. O\'Brien has long had the technical tools; what Twinless gives him is a character who actually needs all of them at once.\n\nSweeney as Dennis is his natural scene partner — warmer on the surface, quicker to laugh, but operating from his own hidden blueprints. The chemistry between them is the film\'s great virtue. Their scenes together have the quality of two people slowly letting their guard down without quite realizing they are doing it, and Sweeney the writer has trusted Sweeney the actor enough to leave significant space for silence and implication.\n\nThe film\'s more interesting argument is about what people want from shared grief — whether it is genuine understanding or simply the relief of not having to explain. Both men are hiding things, and both are hiding them from themselves as much as from each other. The secrets the film builds toward are not plot twists in the thriller sense; they are the kind of revelations that reframe everything already seen in ways that illuminate rather than shock.\n\nWhat holds Twinless back from something more fully realized is a structural hesitation in its second half. The film seems, at points, unsure of how much it wants to push into discomfort — there is a tidiness to certain resolutions that sits uneasily with the messiness the first half establishes so honestly. The score by Jung Jae-il, whose work on Parasite demonstrated a command of emotional counterpoint that felt inseparable from the film it served, is deployed here with considerably more restraint, which is either a purposeful tonal choice or a missed opportunity depending on how much one believes the film needed an additional emotional dimension in its quieter stretches.\n\nThe supporting cast earns its time, particularly in the group sessions, where Lauren Graham and Tasha Smith add a warmth that keeps the film from retreating too far into its own introspection. Aisling Franciosi brings a precise, understated intelligence to her scenes that makes viewers want more of her character than the script provides.\n\nFor audiences who approach grief-adjacent comedies with the wariness those films have earned — worried about being either condescended to or falsely comforted — Twinless offers something more honest than either category. It does not promise that loss becomes manageable through connection; it simply suggests that some forms of it become slightly less alone. Whether that is consolation or simply observation is a question the film, to its credit, leaves open."
+    }
+  },
+  {
+    id: "sinners-2025",
+    title: "Sinners",
+    originalTitle: null,
+    romanization: null,
+    year: 2025,
+    tagline: "Dance with the devil.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/kPUKvxsGgQBZMThi8VbMrTeznX0.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=bKGxHflevuk",
+    director: [
+      {
+        name: "Ryan Coogler",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dux4DCDaL6c639DTXGiV7nm1wcN.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Ryan Coogler",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dux4DCDaL6c639DTXGiV7nm1wcN.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Michael B. Jordan",
+        role: "Smoke / Stack",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+      },
+      {
+        actor: "Hailee Steinfeld",
+        role: "Mary",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rJjIVF9ovx3gPb6xPtTlNme5k2.jpg"
+      },
+      {
+        actor: "Miles Caton",
+        role: "Sammie Moore",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yff2DK1Sc2baRGHbSfcmwMwX8HW.jpg"
+      },
+      {
+        actor: "Jack O\'Connell",
+        role: "Remmick",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
+      },
+      {
+        actor: "Wunmi Mosaku",
+        role: "Annie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mWDsVCo9sBcekrsjUTsoCFLhtYt.jpg"
+      },
+      {
+        actor: "Jayme Lawson",
+        role: "Pearline",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1PQmquJ3LRnTnUnut0UZBLZuBuO.jpg"
+      },
+      {
+        actor: "Omar Benson Miller",
+        role: "Cornbread",
+        photoUrl: "https://image.tmdb.org/t/p/w185/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+      },
+      {
+        actor: "Delroy Lindo",
+        role: "Delta Slim",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+      },
+      {
+        actor: "Li Jun Li",
+        role: "Grace Chow",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zEP5VYmahwZtig8biaQx5iQjqeh.jpg"
+      },
+      {
+        actor: "Yao",
+        role: "Bo Chow",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hRMKy14F6zvDnwM3nRGOCVMTDmQ.jpg"
+      },
+      {
+        actor: "Lola Kirke",
+        role: "Joan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xXEBb9OoET7SgtkSmh1XtMs5YKC.jpg"
+      },
+      {
+        actor: "Peter Dreimanis",
+        role: "Bert",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lMqeuP0G9Gqvei6eJ65xabNkz5Y.jpg"
+      },
+      {
+        actor: "Buddy Guy",
+        role: "Old Sammie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9J2mWgbZ39QCRASLKtiTeQV23Wr.jpg"
+      },
+      {
+        actor: "Saul Williams",
+        role: "Jedidiah",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5VQZl7h6jVyx6hSttUZwtYBVrYy.jpg"
+      },
+      {
+        actor: "Andrene Ward-Hammond",
+        role: "Ruthie",
+        photoUrl: "https://image.tmdb.org/t/p/w185/w47gGojio6d18H52DZqamcNA0bL.jpg"
+      },
+      {
+        actor: "Tenaj L. Jackson",
+        role: "Beatrice",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2iWCAuesQnofu3idnQGziJzW9Jq.jpg"
+      },
+      {
+        actor: "Dave Maldonado",
+        role: "Hogwood",
+        photoUrl: "https://image.tmdb.org/t/p/w185/lv2a22R5xg5E6MAToTonwfWPQNA.jpg"
+      },
+      {
+        actor: "Aadyn Encalarde",
+        role: "Teenager",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3OecZueI5qEN3XQMmAr8xpQ850j.jpg"
+      },
+      {
+        actor: "Helena Hu",
+        role: "Lisa Chow",
+        photoUrl: "https://image.tmdb.org/t/p/w185/eR0XO2edQmxaCnhxwmMkEfpUmNA.jpg"
+      },
+      {
+        actor: "Sam Malone",
+        role: "Terry",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xr4f2uA0OJrb7DIS74XHD6yn3im.jpg"
+      },
+      {
+        actor: "Ja\'Quan Monroe-Henderson",
+        role: "Second Thief",
+        photoUrl: "https://image.tmdb.org/t/p/w185/sQqkVUIyfu0lpr6XTvNNPsYkLGW.jpg"
+      },
+      {
+        actor: "Percy Bell",
+        role: "Incarcerated Worker #1 / Smoke & Stack Body Double",
+        photoUrl: "https://image.tmdb.org/t/p/w185/izt1F4xiZGQD49esXgJDGA1qJ2K.jpg"
+      },
+      {
+        actor: "Emonie Ellison",
+        role: "Therise",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vbWuG6U9l8P2XYVgGCkx5MIGGIj.jpg"
+      },
+      {
+        actor: "Nathaniel Arcand",
+        role: "Chayton",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zGi472JSPXlY71ocGh8PQOn5Ag6.jpg"
+      },
+      {
+        actor: "Gralen Bryant Banks",
+        role: "Patterson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/mLxMcf6IoX6e0K1YpERdKY4t0Hc.jpg"
+      },
+      {
+        actor: "Nicoye Banks",
+        role: "Jacob",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8apVE7FQVVJ9orCsTJbeIf5vH5F.jpg"
+      },
+      {
+        actor: "Christian Robinson",
+        role: "Chris",
+        photoUrl: "https://image.tmdb.org/t/p/w185/betjEj8OCF66xkf2q6inuH7eGpp.jpg"
+      },
+      {
+        actor: "Justin William Davis",
+        role: "Jeff",
+        photoUrl: "https://image.tmdb.org/t/p/w185/no5yrkN4h426uMYEsS4b2LdHSfW.jpg"
+      },
+      {
+        actor: "Deneen Tyler",
+        role: "Partygoer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bNe71eFG8nfyH4ip1tvHd3cd5L3.jpg"
+      },
+      {
+        actor: "Michael A. Newcomer",
+        role: "Bartender",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4slhKOHRUKRTTtdlNB0SUcvlhCA.jpg"
+      },
+      {
+        actor: "Theodus Crane",
+        role: "Bouncer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/66SvnZSjXRFHCMEEC5X0jvyGBuO.jpg"
+      },
+      {
+        actor: "Alex Huynh",
+        role: "Dancer",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8RYBuPicCcIYGQusHVDF58veSUW.jpg"
+      }
+    ],
+    languages: ["English", "Mandarin", "Yoruba"],
+    genres: ["Horror", "Drama", "Period", "Thriller"],
+    viewerRating: {
+      rating: "R-18",
+      descriptors: [
+        "graphic supernatural violence with sustained blood and body horror",
+        "historical racial violence and Jim Crow-era systemic terror depicted",
+        "brief non-explicit sexual content and sensuality",
+        "strong language throughout",
+        "alcohol consumption in extended sequences"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:18" }
+    ],
+    awards: [
+      { body: "Academy Awards (98th)", category: "Best Actor in a Leading Role", result: "Won", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Original Screenplay", result: "Won", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Original Score", result: "Won", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Cinematography", result: "Won", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Supporting Actress", result: "Won", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Original Score", result: "Won", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Original Screenplay", result: "Won", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Picture", result: "Nominated", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Director", result: "Nominated", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Supporting Actress", result: "Nominated", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Film", result: "Nominated", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Director", result: "Nominated", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Actor", result: "Nominated", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Cinematography", result: "Nominated", year: 2026 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["heritage", "predation", "survival", "memory", "freedom", "complicity", "kinship"],
+      mood: ["harrowing", "electrifying", "elegiac"],
+      fullReview: "Mississippi, 1932. Two brothers with identical faces and divergent souls — one who knows how to survive a street fight, one who knows how to survive himself — return to the Delta to open a juke joint. What follows that night is something Ryan Coogler has been building toward for his entire career: a film that uses the monster movie as a vessel for American history, and a concert of Black music as a vessel for something older still.\n\nThe setup is deceptively clean. Smoke and Stack (both played by Michael B. Jordan) have come home with money and plans. They\'ve found a venue, assembled a community, and hired a young musician named Sammie (Miles Caton) whose talent with a guitar borders on the uncanny. That last detail matters more than it first appears. By nightfall, a different kind of guest arrives — one who doesn\'t knock — and the film reveals its true nature.\n\nCoogler shoots in IMAX 70mm, and Autumn Durald Arkapaw turns that choice into something that earns its scale. The Delta swelters and breathes. Juke joint interiors glow with a heat that feels alive. When the film demands enormity — and it does, repeatedly, in ways both physical and metaphysical — the frame has room for it. This is one of the few recent films to have been explicitly designed around the IMAX format rather than retrofitted to it, and the difference registers in nearly every scene.\n\nJordan\'s dual performance is the structural spine. Smoke and Stack are identical in the way that mirror images are identical — meaning they\'re reversed, not the same. Both roles are physically precise and psychologically distinct, and the challenge of differentiating two characters played by the same face falls entirely on Jordan\'s body language, rhythm, and the specific silences he allows in each. It\'s meticulous work done with no apparent effort, which is the hardest kind.\n\nBut this isn\'t a story that belongs only to its leads. Delroy Lindo\'s Delta Slim carries decades of something unspeakable in a single look. Wunmi Mosaku as Annie brings a complicated warmth that eventually becomes the film\'s emotional anchor — there\'s a scene late in the second act that turns on her performance entirely, and she meets it without telegraphing anything in advance. Jack O\'Connell plays the film\'s central supernatural threat as a man who genuinely believes he\'s offering something, which is more unsettling than any amount of malevolence.\n\nThe screenplay earns its complexity. Coogler is working with the blues not as atmosphere or soundtrack but as thematic architecture. The mythology he builds around the music — where it comes from, what it carries, what it costs — is specific enough to feel researched and strange enough to feel invented, and those two qualities are in productive tension throughout. The film is asking something about inheritance: what gets passed down through song, through blood, through the specific shape of suffering, and whether any of that can be controlled.\n\nLudwig Göransson\'s score is not incidental to this. He\'s worked in concert with the film\'s visual rhythm to create something that inhabits the space between score and source music, between composed and lived. A sequence in the middle of the film — one viewers will discuss afterward — is built around a piece of music and shot with a visual ambition that may not have precedent in mainstream American cinema. It earns the description.\n\nThe horror mechanics are efficient and brutal. The film is not trying to make anyone comfortable, and the violence, when it arrives, lands with genuine physical impact. But the more persistent dread in Sinners comes from the historical setting — Jim Crow is not a backdrop but a structuring condition, and Coogler never lets the audience forget that the supernatural threat exists inside a world that already had its own versions of predation. The film doesn\'t flatten these into metaphor. It holds them simultaneously.\n\nWhere the film occasionally strains is in the breadth of its own ambition. A work this loaded with historical, spiritual, and generic material cannot always distribute its weight evenly, and there are moments in the third act where several threads compete for the same space at the same time. This is not quite a flaw — it\'s the cost of attempting this much — but it does create a handful of minutes where the film\'s coherence thins slightly before reassembling.\n\nSinners is the kind of film that arrives once in several years: one where a filmmaker has been given resources commensurate with their vision and has used those resources to make something they couldn\'t have made any other way. It takes horror seriously as an American form. It takes the blues seriously as an American philosophy. And it takes Black experience seriously as the through-line connecting those two things.\n\nIt isn\'t easy viewing. It isn\'t designed to be. What it is, is genuine — made by people who had something specific to say and found a form that could hold it. Audiences looking for clean genre entertainment will find enough to satisfy them. Anyone willing to follow where the film actually wants to go will find considerably more."
+    }
+  },
+  {
+    id: "one-battle-after-another-2025",
+    title: "One Battle After Another",
+    originalTitle: null,
+    romanization: null,
+    year: 2025,
+    tagline: "Some search for battle, others are born into it...",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/nuAwSIpWScRvVGBBSqXKsYEUdtp.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/hiazLNa1UXuX35OTnMQRKOx3eTk.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=hg8AGTyYMBA",
+    director: [
+      {
+        name: "Paul Thomas Anderson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Paul Thomas Anderson",
+        photoUrl: "https://image.tmdb.org/t/p/w185/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg"
+      },
+      {
+        name: "Thomas Pynchon",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8BeAh9Efpl1xLaRuqLsPS3G5h5S.jpg"
+      }
+    ],
+    cast: [
+      { actor: "Leonardo DiCaprio", role: "Bob", photoUrl: "https://image.tmdb.org/t/p/w185/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg" },
+      { actor: "Sean Penn", role: "Col. Steven J. Lockjaw", photoUrl: "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg" },
+      { actor: "Chase Infiniti", role: "Willa", photoUrl: "https://image.tmdb.org/t/p/w185/6tO5t5anIb7D1Nwr6TQjAXMog5N.jpg" },
+      { actor: "Benicio del Toro", role: "Sensei Sergio St. Carlos", photoUrl: "https://image.tmdb.org/t/p/w185/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg" },
+      { actor: "Regina Hall", role: "Deandra", photoUrl: "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg" },
+      { actor: "Teyana Taylor", role: "Perfidia", photoUrl: "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg" },
+      { actor: "Wood Harris", role: "Laredo", photoUrl: "https://image.tmdb.org/t/p/w185/v3puIl2KncqUd6amDyD1Y0crzkF.jpg" },
+      { actor: "Tony Goldwyn", role: "Virgil Throckmorton", photoUrl: "https://image.tmdb.org/t/p/w185/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg" },
+      { actor: "D.W. Moffett", role: "Bill Desmond", photoUrl: "https://image.tmdb.org/t/p/w185/7lcIxTqarAgkdLiNlc7Ad57vcP1.jpg" },
+      { actor: "Paul Grimstad", role: "Sommerville", photoUrl: "https://image.tmdb.org/t/p/w185/maPuaFdSLnz3br46Ar2GptK4okK.jpg" },
+      { actor: "Dijon", role: "Talleyrand", photoUrl: "https://image.tmdb.org/t/p/w185/pcGrPow62Sjkxn6BBZoylcLjOhd.jpg" },
+      { actor: "Kevin Tighe", role: "Roy More", photoUrl: "https://image.tmdb.org/t/p/w185/t4LMNB2Rhu9SLbr64gOW5V4sW96.jpg" },
+      { actor: "John Hoogenakker", role: "Tim Smith", photoUrl: "https://image.tmdb.org/t/p/w185/wjA5d3Mcv0uqwQqKqEKbQtF7BuH.jpg" },
+      { actor: "Eric Schweig", role: "Avanti", photoUrl: "https://image.tmdb.org/t/p/w185/z4mA3Lz5iZVqZDZom4ItBxM8eQN.jpg" },
+      { actor: "April Grace", role: "Sister Rochelle", photoUrl: "https://image.tmdb.org/t/p/w185/nV8nnymN0ClT3xppwhlAtUnjSxa.jpg" },
+      { actor: "Jim Downey", role: "Sandy Irvine", photoUrl: "https://image.tmdb.org/t/p/w185/xdmT9O3ac1k2WxCPPM01w6dTKXL.jpg" },
+      { actor: "Alana Haim", role: "Mae West", photoUrl: "https://image.tmdb.org/t/p/w185/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg" },
+      { actor: "Shayna McHayle", role: "Junglepussy", photoUrl: "https://image.tmdb.org/t/p/w185/548343QgpjThfYDxXEmtC0RvcH9.jpg" },
+      { actor: "Brooklyn Demme", role: "Sober Rick", photoUrl: "https://image.tmdb.org/t/p/w185/uC4BsTVhN7iSKp3RF8108KxWWMO.jpg" },
+      { actor: "Starletta DuPois", role: "Grandma Minnie", photoUrl: "https://image.tmdb.org/t/p/w185/pRa261QaUrK03ERYG26QHYCRP0n.jpg" },
+      { actor: "Steven Knoll", role: "Military Man", photoUrl: "https://image.tmdb.org/t/p/w185/apYgeBsdykZkKwn2TMPO4zUUF0F.jpg" },
+      { actor: "Mickey Giacomazzi", role: "Deandra\'s Van Driver", photoUrl: "https://image.tmdb.org/t/p/w185/pKeZNewK7yJvOV4feKUXZcD8LMa.jpg" },
+      { actor: "Jena Malone", role: "Greeting Code (voice)", photoUrl: "https://image.tmdb.org/t/p/w185/kGwV9iLmfUxJ6a73ehr0QvAnc8C.jpg" },
+      { actor: "Dan Chariton", role: "Comrade Josh", photoUrl: "https://image.tmdb.org/t/p/w185/2RcCt0N9Hc9XqAu4cUjFL430Xk8.jpg" },
+      { actor: "Jon Beavers", role: "1776 James", photoUrl: "https://image.tmdb.org/t/p/w185/kUrejsnBmD5eUSm4ftapOiFUqML.jpg" },
+      { actor: "Anthony Xzavier Estrada", role: "Thief (uncredited)", photoUrl: "https://image.tmdb.org/t/p/w185/fNOzJAuVB94zJWbfxLLxB6kyzdy.jpg" }
+    ],
+    languages: ["English", "Spanish", "French"],
+    genres: ["Drama", "Comedy", "Thriller"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "persistent marijuana use shown without moral judgment",
+        "moderate violence including gun use and hand-to-hand combat",
+        "strong language throughout",
+        "brief non-explicit sexual content",
+        "depictions of government surveillance and political coercion",
+        "parental abandonment and its lasting psychological consequences"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "2:42" }
+    ],
+    awards: [
+      { body: "Academy Awards (98th)", category: "Best Picture", result: "Won", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Film Editing", result: "Won", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Casting", result: "Won", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Film", result: "Won", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Direction", result: "Won", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Adapted Screenplay", result: "Won", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Cinematography", result: "Won", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Editing", result: "Won", year: 2026 },
+      { body: "National Board of Review", category: "Best Film", result: "Won", year: 2025 },
+      { body: "Academy Awards (98th)", category: "Best Director", result: "Nominated", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Adapted Screenplay", result: "Nominated", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Cinematography", result: "Nominated", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Actor", result: "Nominated", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Supporting Actor", result: "Nominated", year: 2026 },
+      { body: "Academy Awards (98th)", category: "Best Original Score", result: "Nominated", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Actor", result: "Nominated", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Supporting Actor", result: "Nominated", year: 2026 },
+      { body: "BAFTA Film Awards (79th)", category: "Best Original Score", result: "Nominated", year: 2026 },
+      { body: "Golden Globe Awards (83rd)", category: "Best Motion Picture — Drama", result: "Nominated", year: 2026 },
+      { body: "Golden Globe Awards (83rd)", category: "Best Director", result: "Nominated", year: 2026 },
+      { body: "Golden Globe Awards (83rd)", category: "Best Actor in a Motion Picture — Drama", result: "Nominated", year: 2026 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["legacy", "paranoia", "consequence", "estrangement", "survival", "complicity"],
+      mood: ["electric", "wry", "tender"],
+      fullReview: "Bob Ferguson is a man defined by what he used to be. A one-time revolutionary reduced to scraping by off the grid, subsisting on marijuana and conspiracy, he is the human residue of a generation that believed it could remake the world and instead watched the world remake them. When his daughter Willa disappears and his long-absent nemesis, the chillingly ceremonious Colonel Lockjaw, emerges from the wreckage of their shared past, Bob is forced back into motion — a man who thought his battles were over discovering that they were only interrupted.\n\nPaul Thomas Anderson\'s adaptation of Thomas Pynchon\'s Vineland is the rare act of literary translation that earns its prestige by refusing to feel translated at all. Where Pynchon\'s paranoid Californian labyrinth defeated multiple would-be adapters for decades, Anderson finds the human skeleton buried under the postmodern scaffolding — a story about what fathers owe daughters, what generations owe each other, and what happens to people who believed in something when the thing stops believing back.\n\nLeonardo DiCaprio plays Bob with a kind of tender, ruined bravado that is unlike anything in his recent career. There is nothing glamorous about this performance — Bob is perpetually dazed, often wrong, occasionally brilliant, and always trying. DiCaprio never lets the comedy overwhelm the sadness or the sadness overwhelm the comedy, and that balance is the film\'s emotional center of gravity. The audience recognizes this man not because it admires him, but because it has known someone like him, or perhaps been someone like him, at some smaller scale.\n\nChase Infiniti, as Willa, is the genuine revelation. She carries the film\'s moral weight with a self-possession that makes Willa feel like a character who existed before the camera arrived and will continue after it leaves. Willa is not defined by her relationship to Bob — she has her own history, her own strategies, her own scars — and the scenes where these two people, bound by blood and estranged by circumstance, are forced to actually see each other are among the most quietly devastating Anderson has made.\n\nSean Penn\'s Colonel Lockjaw is a different kind of achievement: a figure of institutional malevolence who gets funnier and more frightening the more screen time he occupies. Penn brings something almost classical to the villainy — there is nothing casual about Lockjaw\'s evil, and nothing cartoonish either. Benicio del Toro\'s Sensei Sergio St. Carlos operates in a different register entirely, occupying a kind of mystic-satirical space that only this film would have the nerve to put him in.\n\nJonny Greenwood\'s score is not the percussive assault of There Will Be Blood or the string-heavy melancholy of Phantom Thread. Here it moves laterally — jazz structures rubbing against orchestral passages, melodies that seem to start one place and end somewhere no one anticipated. It is a score built for a film that distrusts clean resolutions. Michael Bauman\'s cinematography, shot in VistaVision and exhibited in 70mm IMAX, gives the California landscape — the forests and highways and sun-bleached parking lots — a grandeur that periodically overwhelms the human figures who inhabit it. That sense of scale is deliberate. These are small people in a vast country, trying to remember what they were fighting for.\n\nThe film runs at two hours and forty-two minutes, and for most of that runtime the length feels earned rather than indulged. Anderson is working with Pynchon\'s episodic logic — scenes accumulate and then suddenly mean something they did not appear to mean when they started — and this requires patience. The film does not always reward that patience with narrative clarity, and those who arrive expecting propulsive genre mechanics will spend some portion of the running time genuinely lost. But the confusion is structured, not accidental. Anderson knows exactly where this story begins and ends; the question is whether Bob himself does.\n\nWhat lingers is the film\'s central contradiction: it is simultaneously an elegy for a generation that failed and a celebration of what survived that failure. Willa survived. That is not nothing. The America outside the frame is the same America that produced the paranoid revolutionary and the institutional nemesis and the fraying communities between them, and the film neither resolves that tension nor pretends it can be resolved. It simply holds it, at length, with grace.\n\nThis is not the most straightforward entertainment Anderson has made, and it is less immediately accessible than Licorice Pizza or even Inherent Vice. Anyone who approaches it as a genre exercise — father rescues daughter from shadowy government operative — will be getting a fraction of what is actually on offer. What is actually on offer is a film about the American left\'s long defeat and what the people inside that defeat have made of their lives, told with enough wit and enough honesty and enough genuine love for its characters to be, in the end, something close to a reckoning."
+    }
+  },
+  {
+    id: "bugonia-2025",
+    title: "Bugonia",
+    originalTitle: null,
+    romanization: null,
+    year: 2025,
+    tagline: "Of all the abductions, this one is different.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/zt1aSeO7YVSmBj4Dh0eTeSGYthO.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=_p4BCpJ44Qg",
+    director: [
+      {
+        name: "Yorgos Lanthimos",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dvtv8eV1O8Fl385ctOu3sqO2PbD.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Will Tracy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8VOmfSZtlJkZQfBzKGOtFXeGV7r.jpg"
+      },
+      {
+        name: "Jang Joon-hwan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jhhVVUzIOCEe1bwJI4tsTZyI3KW.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Emma Stone",
+        role: "Michelle",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+      },
+      {
+        actor: "Jesse Plemons",
+        role: "Teddy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+      },
+      {
+        actor: "Aidan Delbis",
+        role: "Don",
+        photoUrl: "https://image.tmdb.org/t/p/w185/k9xKpm9cVryO3dgdsyxvC46FyBW.jpg"
+      },
+      {
+        actor: "Stavros Halkias",
+        role: "Casey",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9QB7YGMk6O7hRgGWvK0OimTVzl7.jpg"
+      },
+      {
+        actor: "Alicia Silverstone",
+        role: "Sandy",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+      },
+      {
+        actor: "J. Carmen Galindez Barrera",
+        role: "Ricky / Security Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/2ktCkWgexsBTbh0UFsbdKoHX4D1.jpg"
+      },
+      {
+        actor: "Marc T. Lewis",
+        role: "Tony",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rrwyDxRMfnPnRvFEX1uuvdRq9WQ.jpg"
+      },
+      {
+        actor: "Vanessa Eng",
+        role: "Corey",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3HYU97U1wKR9byRBvu5SVpvifeH.jpg"
+      },
+      {
+        actor: "Cedric Dumornay",
+        role: "Chris",
+        photoUrl: "https://image.tmdb.org/t/p/w185/t8YtnWbZV8To3PGLE6xHUB6o8Sm.jpg"
+      },
+      {
+        actor: "Jerskin Fendrix",
+        role: "Andromedan",
+        photoUrl: "https://image.tmdb.org/t/p/w185/pF2Di6ubMSJonFgNxFnUVS8yMA6.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Comedy", "Thriller", "Sci-fi", "Satire"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "kidnapping and prolonged physical captivity",
+        "moderate violence including restraint and physical assault",
+        "strong language throughout",
+        "coercive interrogation sequences",
+        "brief surreal disturbing imagery"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:59" }
+    ],
+    awards: [],
+    criticRating: "Great",
+    review: {
+      themes: ["paranoia", "obsession", "power", "delusion", "complicity", "alienation"],
+      mood: ["wry", "unsettling", "kinetic"],
+      fullReview: "Two conspiracy-addled young men, utterly convinced the world sits on the brink of alien takeover, kidnap the CEO of a powerful corporation — a woman named Michelle — and imprison her in a makeshift interrogation chamber. To them, she is not a businesswoman but an extraterrestrial agent, and they have questions that need answering before humanity runs out of time. What follows is Yorgos Lanthimos\'s most commercially approachable film since The Favourite, and also his most self-consciously absurd — an American remake of Jang Joon-hwan\'s wildly original 2003 Korean cult film Save the Green Planet! that filters South Korean existential derangement through the deadpan sensibility Lanthimos has been refining for over two decades.\n\nThe film lives and dies by the gap between what the kidnappers believe and what they see. Jesse Plemons, an actor who has quietly assembled one of the most interesting careers in contemporary Hollywood, brings to Teddy the particular quality he does best: a kind of dense, unblinking sincerity that reads as either profound stupidity or profound conviction, often simultaneously. He is not playing a dumb man. He is playing a man whose intelligence has been entirely absorbed by a closed system of thought, and the film earns a kind of sad respect for how complete that absorption is. It is a quietly remarkable performance.\n\nEmma Stone, working with Lanthimos for at least the fifth time, does something harder here than she did in Poor Things — she plays a character the audience is never quite allowed to fully know. Michelle is a CEO: powerful, contained, and suspicious. Whether those qualities are alien or simply human, the film treats as a genuinely open question for longer than expected. Stone manages the central tonal needle-threading — she cannot play the scenario purely as tragedy or purely as farce, and she does not. The performance is calibrated to keep viewers genuinely uncertain, which is a rarer skill than dramatic transformation.\n\nRobbie Ryan\'s VistaVision cinematography gives the film its most unexpected pleasure. The format, historically associated with widescreen spectacle from the golden age of Hollywood, brings a kind of grandiose absurdity to mundane interiors. There is something inherently funny about shooting a conspiracy theorist\'s cluttered apartment in the same aspect ratio as The Ten Commandments. Whether this registers as cleverness or mere ornamentation probably determines how generous any given viewer is willing to be about the film as a whole.\n\nJang Joon-hwan\'s original had something that resisted categorization in ways that made it genuinely strange and genuinely moving. It was possible to read Save the Green Planet! as tragedy, as black comedy, or as a science fiction film in which the conspiracy was entirely real, and that indeterminacy was not a failure of genre but the engine of its power. Will Tracy\'s screenplay, filtered through Lanthimos\'s sensibility, preserves the conceptual architecture while smoothing some of that indeterminacy. The result is a Lanthimos film that is immediately legible in ways his best work rarely is — the dark comedy registers cleanly, the commentary about corporate power lands without friction. This is not a failing, exactly. It is a choice. And it costs the film some of what made the source material irreplaceable.\n\nWhat remains is still substantial. Jerskin Fendrix\'s score — his second collaboration with Lanthimos, after Poor Things — pushes into stranger registers than the visuals, creating productive dissonance between what is seen and what is heard. Yorgos Mavropsaridis\'s editing has the crisp rhythmic precision that defines the Lanthimos house style: scenes end before they have outstayed their welcome, and the whole thing moves with the quiet confidence of a production where everyone knows exactly what kind of film they are making.\n\nThat kind of film turns out to be a smart, funny, meticulously assembled riff on paranoia, corporate power, and the human tendency to assign alien explanations to ordinary cruelty. Anyone who walks into a Lanthimos film expecting comfortable resolutions already knows they are in the wrong cinema. Anyone else will find something here worth the discomfort."
+    }
+  },
+  {
+    id: "black-bag-2025",
+    title: "Black Bag",
+    originalTitle: null,
+    romanization: null,
+    year: 2025,
+    tagline: "It takes a spy to hunt a spy.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/7ZiPHAiURneCjbhP244gVKE3H1I.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=Du0Xp8WX_7I",
+    director: [
+      {
+        name: "Steven Soderbergh",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y8JlSDcQzd7gAaKyxFpExupMwDz.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "David Koepp",
+        photoUrl: "https://image.tmdb.org/t/p/w185/is3t4k8OMX0KNCD3EilDWOucYZG.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Cate Blanchett",
+        role: "Kathryn St. Jean",
+        photoUrl: "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+      },
+      {
+        actor: "Michael Fassbender",
+        role: "George Woodhouse",
+        photoUrl: "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+      },
+      {
+        actor: "Tom Burke",
+        role: "Freddie Smalls",
+        photoUrl: "https://image.tmdb.org/t/p/w185/4IHlAZ9bJ82VAd6HUOWFgo81SDq.jpg"
+      },
+      {
+        actor: "Marisa Abela",
+        role: "Clarissa Dubose",
+        photoUrl: "https://image.tmdb.org/t/p/w185/3Elkvhu5duFlwaH4vtdizPyZDNQ.jpg"
+      },
+      {
+        actor: "Regé-Jean Page",
+        role: "Col. James Stokes",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rR5gFJ5kggfYrpFMxybwLtGPcOw.jpg"
+      },
+      {
+        actor: "Naomie Harris",
+        role: "Dr. Zoe Vaughn",
+        photoUrl: "https://image.tmdb.org/t/p/w185/41TVAcYqKKF7PGf3x7QfaLvkLSW.jpg"
+      },
+      {
+        actor: "Pierce Brosnan",
+        role: "Arthur Stieglitz",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dzXVwwJLPwiZeXOnf7YxorqVEEM.jpg"
+      },
+      {
+        actor: "Kae Alexander",
+        role: "Anna Ko",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5eAodRRhfZrCtLkNApxM1eOdQRd.jpg"
+      },
+      {
+        actor: "Ambika Mod",
+        role: "Angela Childs",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jN9HhFYPNMYIupFt6GzGnHAW88c.jpg"
+      },
+      {
+        actor: "Gustaf Skarsgård",
+        role: "Philip Meacham",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bfh0yP6Qr55jg9CGTGScXAw8Ftu.jpg"
+      },
+      {
+        actor: "Martin Bassindale",
+        role: "Security Guard",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gsMepIrek14cuV2vQPEo9GhuoRs.jpg"
+      },
+      {
+        actor: "Megan Kimber",
+        role: "Zoe's Receptionist",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hsDqKET3h9XvLfyaihWvyPZeDum.jpg"
+      },
+      {
+        actor: "Paul Bailey",
+        role: "Kathryn's Driver",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9i53jILQbR9ys5RzQEQ3pI7aFB2.jpg"
+      },
+      {
+        actor: "Bruce Mackinnon",
+        role: "The Major",
+        photoUrl: "https://image.tmdb.org/t/p/w185/7Fjg2Jm74hlVOqBQ7mLbGQTuRrn.jpg"
+      },
+      {
+        actor: "Orli Shuka",
+        role: "Andrei Kulikov",
+        photoUrl: "https://image.tmdb.org/t/p/w185/280foreaGFPc0vZXWyo8DsuqJOA.jpg"
+      },
+      {
+        actor: "Daniel Dow",
+        role: "Vadim Pavlichuk",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zoboWZZed6p6fb3aTTcPvvIzrOf.jpg"
+      },
+      {
+        actor: "Dane Juler",
+        role: "Analyst #1",
+        photoUrl: "https://image.tmdb.org/t/p/w185/jnTjwPeIyETM0N06jEm7EDeb5YE.jpg"
+      },
+      {
+        actor: "Reena Dusila",
+        role: "Analyst #2",
+        photoUrl: "https://image.tmdb.org/t/p/w185/yNko9qZWGdS4CtcMQONYwm5ThFx.jpg"
+      },
+      {
+        actor: "Alex Magliaro",
+        role: "Mr. Green",
+        photoUrl: "https://image.tmdb.org/t/p/w185/d481vqh50BdB6Mr6LSxDNviQXDx.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Thriller", "Drama", "Mystery"],
+    viewerRating: {
+      rating: "M-16",
+      descriptors: [
+        "moderate violence including gunfire and hand-to-hand combat",
+        "brief non-explicit sexual content",
+        "strong language throughout",
+        "coercive interrogation tactics and psychological pressure",
+        "alcohol consumption throughout"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:34" }
+    ],
+    awards: [],
+    criticRating: "Solid",
+    review: {
+      themes: ["loyalty", "betrayal", "deception", "trust", "surveillance", "complicity"],
+      mood: ["tense", "elegant", "cold"],
+      fullReview: "The world of Black Bag operates on a single axiom: everyone in the room is lying, including the person sitting closest to you. George Woodhouse is a veteran intelligence operative. So is his wife, Kathryn St. Jean. When Kathryn becomes the primary suspect in a classified intelligence leak, George is handed what his service requires of him — and what the assignment actually demands is that he investigate the woman he married as if she were a stranger, someone whose every word and gesture might be a performance designed to survive exactly this kind of scrutiny.\n\nSteven Soderbergh directing David Koepp is a pairing that signals a certain kind of film before the first frame arrives: clean, functional, professionally well-dressed, interested in structure above all else. Black Bag delivers on that expectation without exceeding it, which is not the same thing as disappointing. At 94 minutes it moves with the economy of a film that knows exactly how much time it needs and declines to take more.\n\nThe cast is where the film earns its keep. Cate Blanchett and Michael Fassbender occupy the center, and watching them share a scene is a reminder of what it looks like when two genuinely formidable actors decide to actually use each other. Blanchett plays Kathryn with a species of opacity that is never quite readable as guilt or innocence — her performance is a demonstration of controlled ambiguity that few actors could sustain over an entire film without it collapsing into mere vagueness. Fassbender takes the harder position: George is the audience\'s conduit into the story, the character who knows exactly what he should do professionally and cannot fully bring himself to do it, and the film trusts him to carry that incapacity without comment. He does.\n\nSurrounding them is a supporting ensemble that would headline most other films. Tom Burke, Regé-Jean Page, Naomie Harris, Pierce Brosnan — all playing colleagues and possible suspects, all given enough room to register without quite enough room to fully breathe. The dinner party sequence that anchors the film\'s second act is Koepp\'s screenplay at its most confident: five or six intelligence professionals eating and drinking in apparent civility while systematically evaluating each other for weakness. Soderbergh shoots it with the same level-eyed precision he brings to everything, and the editing is crisp enough that no beat overstays its welcome.\n\nWhere Black Bag falls short of its own potential is in the gap between the marriage and the mission. The film\'s dramatic engine depends on the audience believing that George\'s loyalty to Kathryn is something the professional apparatus cannot simply dissolve, but Soderbergh\'s default mode — cool, observational, more interested in mechanism than in feeling — keeps the marriage at arm\'s length for most of the runtime. David Holmes\'s score maintains an elegant forward motion that rarely lets the emotional stakes pool anywhere. The result is a film that is consistently intelligent and occasionally genuinely gripping, but one that treats its own emotional core as an abstraction rather than a wound.\n\nNone of this stops Black Bag from being a very good time at the cinema for those who want their thrillers to respect them. Adults who are tired of films that announce their every intention at top volume will find real relief in a story that trusts its cast and its audience, moves at a considered pace, and ends before it has worn out its welcome. That it does not quite become the thing it could have been — a film about how love and the spy\'s professional obligation to distrust everyone are genuinely, possibly fatally incompatible — is the only significant thing holding it back from something more lasting."
+    }
+  },
+  {
+    id: "the-wild-robot-2024",
+    title: "The Wild Robot",
+    originalTitle: null,
+    romanization: null,
+    year: 2024,
+    tagline: "Discover your true nature.",
+    titleLogoUrl: "https://image.tmdb.org/t/p/original/xvXJfGKjHHe1m4Usye198DCw7iJ.png",
+    posterUrl: "https://image.tmdb.org/t/p/original/8RvwVVjVzx47v2waWLGPV3XYhfh.jpg",
+    backdropUrl: "https://image.tmdb.org/t/p/original/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+    trailerUrl: "https://www.youtube.com/watch?v=67vbA5ZJdKQ",
+    director: [
+      {
+        name: "Chris Sanders",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg"
+      }
+    ],
+    screenplay: [
+      {
+        name: "Chris Sanders",
+        photoUrl: "https://image.tmdb.org/t/p/w185/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg"
+      }
+    ],
+    cast: [
+      {
+        actor: "Lupita Nyong'o",
+        role: "Roz / Rummage (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+      },
+      {
+        actor: "Pedro Pascal",
+        role: "Fink (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
+      },
+      {
+        actor: "Kit Connor",
+        role: "Brightbill (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ut64CyBwiRudb3DxOgUa2j9Wxep.jpg"
+      },
+      {
+        actor: "Bill Nighy",
+        role: "Longneck (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+      },
+      {
+        actor: "Stephanie Hsu",
+        role: "Vontra (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+      },
+      {
+        actor: "Matt Berry",
+        role: "Paddler (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/1UCAuXgzQfeANlLnZFVSuq0OFhR.jpg"
+      },
+      {
+        actor: "Ving Rhames",
+        role: "Thunderbolt (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+      },
+      {
+        actor: "Mark Hamill",
+        role: "Thorn (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+      },
+      {
+        actor: "Catherine O'Hara",
+        role: "Pinktail (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+      },
+      {
+        actor: "Boone Storm",
+        role: "Baby Brightbill (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/kn5JY9C0oHq09MFLB5vFpoqgop7.jpg"
+      },
+      {
+        actor: "Alexandra Novelle",
+        role: "Snowdown (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/bMO0vFS6HpDG7J1PTbAEJ8jRKub.jpg"
+      },
+      {
+        actor: "Raphael Alejandro",
+        role: "Peck (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/cBS5Sin0fATnHWS4ofYIYQG8suH.jpg"
+      },
+      {
+        actor: "Paul-Mikél Williams",
+        role: "Feather (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/5f6YOmEZkAzt95Hm2oihuvRCdRK.jpg"
+      },
+      {
+        actor: "Eddie Park",
+        role: "Honkington (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/r96gdQnmER5O4RfdBdMOT2sVT5I.jpg"
+      },
+      {
+        actor: "Dee Bradley Baker",
+        role: "Raccoons / Squirrels / Badgers (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+      },
+      {
+        actor: "Randy Thom",
+        role: "RECOs (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg"
+      },
+      {
+        actor: "Avrielle Corti",
+        role: "Automated Alarms (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/rgzPmGIVWyufBgMqApTxtHjYZmv.jpg"
+      },
+      {
+        actor: "Keston John",
+        role: "Weasel 1 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zEqkvuCDDgiErHg3XNyoG5TulUg.jpg"
+      },
+      {
+        actor: "Max Mittelman",
+        role: "Weasel 2 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/zQqiIgestpxssPrUXQXkY2Sq0y8.jpg"
+      },
+      {
+        actor: "Piotr Michael",
+        role: "Broadfoot / Weasel 3 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/A1ph4jVLA1sQmpYOSZ3X0DdQvQs.jpg"
+      },
+      {
+        actor: "Tiago Martinez",
+        role: "Baby Opossum 2 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/hqbi17NIqvNmBhI2KiazHtdpS8j.jpg"
+      },
+      {
+        actor: "King Moore",
+        role: "Baby Opossum 12 (voice)",
+        photoUrl: "https://image.tmdb.org/t/p/w185/dgLwztD5qIJ3VTLWJWzmcHzyIKJ.jpg"
+      }
+    ],
+    languages: ["English"],
+    genres: ["Animation", "Drama", "Adventure", "Family"],
+    viewerRating: {
+      rating: "PG",
+      descriptors: [
+        "predator-prey violence depicted without graphic gore",
+        "animal death portrayed with emotional weight",
+        "parental separation and orphanhood",
+        "sequences of storm-related environmental peril"
+      ]
+    },
+    runtime: [
+      { version: "Theatrical Cut", duration: "1:42" }
+    ],
+    awards: [
+      { body: "Golden Globe Awards (82nd)", category: "Best Animated Feature Film", result: "Won", year: 2025 },
+      { body: "Annie Awards (52nd)", category: "Outstanding Achievement for Animated Feature Film", result: "Won", year: 2025 },
+      { body: "Critics' Choice Movie Awards (15th)", category: "Best Animated Feature", result: "Won", year: 2025 },
+      { body: "Academy Awards (97th)", category: "Best Animated Feature Film", result: "Nominated", year: 2025 },
+      { body: "Academy Awards (97th)", category: "Best Original Score", result: "Nominated", year: 2025 },
+      { body: "BAFTA Film Awards (78th)", category: "Best Animated Film", result: "Nominated", year: 2025 }
+    ],
+    criticRating: "Exceptional",
+    review: {
+      themes: ["parenthood", "adaptation", "belonging", "survival", "loss", "purpose", "identity"],
+      mood: ["tender", "elegiac", "warm"],
+      fullReview: "The Wild Robot opens with an act of violence — a storm that scatters a cargo ship's contents across a rocky, untouched island — and then immediately reveals its heart. Roz, an ROZZUM robot, emerges from the wreckage and begins doing what she was built to do: complete tasks. There are no humans to serve, no instructions loaded, and the island's animal inhabitants regard her as a predator made of metal. Through a sequence of accidents that the film handles with quiet wit, she finds herself responsible for a goose egg. When that egg hatches, what grows around the relationship inside it becomes something rare in mainstream animation: a genuinely searching examination of parenthood, purpose, and what it actually costs to care for a life that is not your own.\n\nChris Sanders, who previously brought a particular gentleness to Lilo and Stitch and co-directed the original How to Train Your Dragon, works here with a visual palette that owes less to the clean geometry of contemporary CGI than to the painterly illustration traditions of nature artists and picture-book illustrators. The island feels genuinely alive — soft-edged and luminous in summer, graphite-grey and brutal in winter. DreamWorks Animation, a studio that has historically favored commercial polish over textural risk, commits fully to this aesthetic, and it pays off in a way that makes the film immediately distinguishable from nearly everything else releasing alongside it. The wilderness here has actual weight.\n\nLupita Nyong'o's voice performance as Roz is the film's engine, and it is genuinely difficult work. She has to make a being with no face, no legible emotion, and no human origin feel like someone the audience worries about across the full runtime. She begins in a register of flat curiosity — precise, observational, slightly uncanny — and moves by degrees toward something the screenplay wisely refuses to name too cleanly. By the time the film reaches its emotional core, Nyong'o has accomplished the kind of gradual transformation that usually requires a physical performance to land. It lands anyway.\n\nPedro Pascal as Fink the fox brings a scrappy warmth that functions as counterweight to Roz's evolving solemnity. Their odd-couple dynamic — pragmatic survival instinct meeting machine sincerity — gives the film its comedic pulse without undercutting the pathos accumulating beneath it. Kit Connor voices Brightbill, the gosling at the story's center, with a teenager's particular blend of neediness and rejection, and the film is smart enough to let that dynamic be genuinely difficult rather than tidying it into easy resolution. Bill Nighy as Longneck contributes the kind of quiet authority that only certain voices can provide: he says very little, and it matters enormously.\n\nWhat separates this film from most of its genre contemporaries is its refusal to simplify loss. Animal death is not sanitized here. Danger carries forward through the narrative rather than dissolving in reassurance. The island operates on survival's actual terms — eat or be eaten — and the film never lets Roz or the audience forget that what she is attempting runs entirely against the grain of nature. That it succeeds anyway, that the island's community slowly accommodates this impossible relationship, feels earned rather than assumed.\n\nKris Bowers' score is something to sit with afterward. It knows when silence serves better than orchestration, and when a few sustained strings can communicate what the screenplay wisely leaves unspoken. The film's most affecting sequences exist in the space between sound and image, and Bowers fills that space with genuine intelligence rather than reaching for the obvious swell.\n\nThe third act does pull against the film's most distinctive qualities. Where the first two-thirds earn their emotional weight through observation and restraint — watching Roz observe, adapt, fail, try again — the final movement introduces an action-driven urgency that feels borrowed from a slightly different film. The mechanics of the climax are effective enough but not exceptional, and there is a stretch where The Wild Robot seems to have set aside what made it remarkable in favor of delivering the expected shape. It recovers, but the recovery requires some patience from the viewer.\n\nWhat lingers after the credits is not a plot. It is the image of a machine learning to grieve. The film asks, without condescension and without false resolution, whether love requires understanding or whether action itself — the sustained, unglamorous work of showing up — might be the thing that ultimately counts. For a studio animated film aimed broadly at families, this is a sophisticated question handled with genuine care. Children will be moved by what happens on screen. Adults will find themselves sitting quietly with what it means.\n\nThe Wild Robot is not built for audiences who need their animated films warm and uncomplicated from the first frame. It earns its warmth through difficulty. Anyone willing to sit with its silences will find one of the finest studio animated films in years."
+    }
+  },
 ]; // ← paste movie objects here, one by one
